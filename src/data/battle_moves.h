@@ -2654,7 +2654,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
 
     [MOVE_CHARM] =
     {
-        .effect = EFFECT_ATTACK_DOWN_2,
+        .effect = EFFECT_SPECIAL_ATTACK_DOWN,
         .power = 0,
         .type = TYPE_NORMAL,
         .accuracy = 100,

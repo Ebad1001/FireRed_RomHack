@@ -2,6 +2,7 @@
 #define GUARD_CONSTANTS_ITEMS_H
 
 #define ITEM_NONE 0
+// Balls
 #define ITEM_MASTER_BALL 1
 #define ITEM_ULTRA_BALL 2
 #define ITEM_GREAT_BALL 3
@@ -14,6 +15,7 @@
 #define ITEM_TIMER_BALL 10
 #define ITEM_LUXURY_BALL 11
 #define ITEM_PREMIER_BALL 12
+// Healing items
 #define ITEM_POTION 13
 #define ITEM_ANTIDOTE 14
 #define ITEM_BURN_HEAL 15
@@ -47,6 +49,7 @@
 #define ITEM_WHITE_FLUTE 43
 #define ITEM_BERRY_JUICE 44
 #define ITEM_SACRED_ASH 45
+// Shards
 #define ITEM_SHOAL_SALT 46
 #define ITEM_SHOAL_SHELL 47
 #define ITEM_RED_SHARD 48
@@ -64,6 +67,7 @@
 #define ITEM_03C 60
 #define ITEM_03D 61
 #define ITEM_03E 62
+// Modifiers
 #define ITEM_HP_UP 63
 #define ITEM_PROTEIN 64
 #define ITEM_IRON 65
@@ -94,6 +98,7 @@
 #define ITEM_05A 90
 #define ITEM_05B 91
 #define ITEM_05C 92
+// Evolution Stones
 #define ITEM_SUN_STONE 93
 #define ITEM_MOON_STONE 94
 #define ITEM_FIRE_STONE 95
@@ -104,6 +109,7 @@
 #define ITEM_064 100
 #define ITEM_065 101
 #define ITEM_066 102
+// Valuable items
 #define ITEM_TINY_MUSHROOM 103
 #define ITEM_BIG_MUSHROOM 104
 #define ITEM_069 105
@@ -122,6 +128,7 @@
 #define ITEM_076 118
 #define ITEM_077 119
 #define ITEM_078 120
+// Mails
 #define ITEM_ORANGE_MAIL 121
 #define ITEM_HARBOR_MAIL 122
 #define ITEM_GLITTER_MAIL 123
@@ -177,16 +184,13 @@
 #define ITEM_LANSAT_BERRY 173
 #define ITEM_STARF_BERRY 174
 #define ITEM_ENIGMA_BERRY 175
-
-#define FIRST_BERRY_INDEX ITEM_CHERI_BERRY
-#define LAST_BERRY_INDEX  ITEM_ENIGMA_BERRY
-
 #define ITEM_UNUSED_BERRY_1 176
 #define ITEM_UNUSED_BERRY_2 177
 #define ITEM_UNUSED_BERRY_3 178
-
+#define FIRST_BERRY_INDEX ITEM_CHERI_BERRY
+#define LAST_BERRY_INDEX  ITEM_ENIGMA_BERRY
 #define MAX_BERRY_INDEX ITEM_UNUSED_BERRY_3
-
+// Held Items
 #define ITEM_BRIGHT_POWDER 179
 #define ITEM_WHITE_HERB 180
 #define ITEM_MACHO_BRACE 181
@@ -262,6 +266,7 @@
 #define ITEM_0FB 251
 #define ITEM_0FC 252
 #define ITEM_0FD 253
+// Ruby/Sapphire/Emerald Key Items
 #define ITEM_RED_SCARF 254
 #define ITEM_BLUE_SCARF 255
 #define ITEM_PINK_SCARF 256
@@ -297,6 +302,7 @@
 #define ITEM_ROOT_FOSSIL 286
 #define ITEM_CLAW_FOSSIL 287
 #define ITEM_DEVON_SCOPE 288
+// TMs
 #define ITEM_TM01 289
 #define ITEM_TM02 290
 #define ITEM_TM03 291
@@ -347,6 +353,7 @@
 #define ITEM_TM48 336
 #define ITEM_TM49 337
 #define ITEM_TM50 338
+// HMs
 #define ITEM_HM01 339
 #define ITEM_HM02 340
 #define ITEM_HM03 341
@@ -355,9 +362,9 @@
 #define ITEM_HM06 344
 #define ITEM_HM07 345
 #define ITEM_HM08 346
-#define ITEM_15B 347
-#define ITEM_15C 348
-
+#define ITEM_15B  347
+#define ITEM_15C  348
+// TMs and HMs
 #define ITEM_TM01_FOCUS_PUNCH   ITEM_TM01
 #define ITEM_TM02_DRAGON_CLAW   ITEM_TM02
 #define ITEM_TM03_WATER_PULSE   ITEM_TM03
@@ -416,8 +423,9 @@
 #define ITEM_HM06_ROCK_SMASH    ITEM_HM06
 #define ITEM_HM07_WATERFALL     ITEM_HM07
 #define ITEM_HM08_DIVE          ITEM_HM08
-
-// FireRed/LeafGreen
+#define NUM_TECHNICAL_MACHINES 50
+#define NUM_HIDDEN_MACHINES     8
+// FireRed/LeafGreen Key Items
 #define ITEM_OAKS_PARCEL 349
 #define ITEM_POKE_FLUTE 350
 #define ITEM_SECRET_KEY 351
@@ -446,19 +454,15 @@
 #define ITEM_SAPPHIRE 374
 
 #define ITEMS_COUNT 375
-
+// Check if the item is one that can be used on a Pokemon.
+#define IS_POKEMON_ITEM(item) (ITEM_POTION <= (item) && (item) <= MAX_BERRY_INDEX)
+// Convert a berry item ID to its 1-based index in the gItems array.
 #define ITEM_TO_BERRY(itemId)(((itemId - FIRST_BERRY_INDEX) + 1))
 #define MAIL_NONE 0xFF
-
-#define NUM_TECHNICAL_MACHINES 50
-#define NUM_HIDDEN_MACHINES     8
 
 // Secondary IDs for rods
 #define OLD_ROD   0
 #define GOOD_ROD  1
 #define SUPER_ROD 2
-
-// Check if the item is one that can be used on a Pokemon.
-#define IS_POKEMON_ITEM(item) ((item) >= ITEM_POTION && (item) <= MAX_BERRY_INDEX)
 
 #endif  // GUARD_CONSTANTS_ITEMS_H
