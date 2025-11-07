@@ -1,8 +1,8 @@
 CeladonCity_DepartmentStore_3F_MapScripts::
 	.byte 0
 
-CeladonCity_DepartmentStore_3F_EventScript_CounterTutor::
-	goto EventScript_CounterTutor
+CeladonCity_DepartmentStore_3F_EventScript_KnockOffTutor::
+	goto EventScript_KnockOffTutor
 	end
 
 CeladonCity_DepartmentStore_3F_EventScript_GBAKid1::

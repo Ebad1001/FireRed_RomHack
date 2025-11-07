@@ -18,38 +18,26 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
     .string "COPYCAT: Hmm? Quit mimicking?\l"
     .string "But that's my favorite hobby!$"
 
-Text_MimicTeach::
-    .string "Oh wow!\n"
-    .string "A POKé DOLL!\p"
-    .string "For me?\n"
-    .string "Thank you!\p"
-    .string "You know what?\n"
-    .string "I can teach the move MIMIC.$"
+Text_AvalancheTeach::
+    .string "Once I was on a rocky mountain,\n"
+    .string "and I encountered a Rock-slide.\p"
+    .string "Then I was on an icy mountain,\n"
+    .string "and I encountered an Avalanche.\p"
+    .string "Avalanche is same as rock slide\n"
+    .string "but with ICE!\p"
+    .string "You don't seem to be scared.\n"
+    .string "Want to try using AVALANCHE?$"
 
-Text_MimicDeclined::
-    .string "Don't you like MIMIC?$"
+Text_AvalancheDeclined::
+    .string "Oh, so you are scared after all.$"
 
-Text_MimicWhichMon::
-    .string "I really love MIMIC!\n"
-    .string "Who's going to learn it?$"
+Text_AvalancheWhichMon::
+    .string "Which POKéMON should I teach\n"
+    .string "AVALANCHE?$"
 
-Text_MimicTaughtMale::
-    .string "{PLAYER}: Hi!\n"
-    .string "Thanks for earlier!\p"
-    .string "{PLAYER}: Pardon?\p"
-    .string "{PLAYER}: Is it that fun to mimic my\n"
-    .string "every move?\p"
-    .string "COPYCAT: You bet!\n"
-    .string "It's a scream!$"
-
-Text_MimicTaughtFemale::
-    .string "{PLAYER}: Hi!\n"
-    .string "Thanks for what you did for us.\p"
-    .string "{PLAYER}: Pardon?\p"
-    .string "{PLAYER}: Is it really that fun to\n"
-    .string "copy what I say and do?\p"
-    .string "COPYCAT: You bet!\n"
-    .string "It's a scream!$"
+Text_AvalancheTaught::
+    .string "It might be scary to use.\n"
+    .string "But it's so worth it.$"
 
 SaffronCity_CopycatsHouse_2F_Text_TooMuchInBag::
     .string "にもつが　いっぱいね！$"

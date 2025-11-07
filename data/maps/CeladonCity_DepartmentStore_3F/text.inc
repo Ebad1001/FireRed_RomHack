@@ -47,24 +47,20 @@ CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
     .string "Red and Green!\n"
     .string "Both are POKéMON!$"
 
-Text_CounterTeach::
-    .string "Oh, hi!\n"
-    .string "I finally finished POKéMON.\p"
-    .string "Not done yet? How about I teach\n"
+Text_KnockOffTeach::
+    .string "Oh, hi! How about I teach\n"
     .string "you a good move?\p"
     .string "The move I have in mind is\n"
-    .string "COUNTER.\p"
-    .string "Not like the one I'm leaning on,\n"
-    .string "mind you!$"
+    .string "KNOCK-OFF.\p"
 
-Text_CounterDeclined::
+Text_KnockOffDeclined::
     .string "You're not interested? Come see\n"
     .string "me if you change your mind.$"
 
-Text_CounterWhichMon::
+Text_KnockOffWhichMon::
     .string "Which POKéMON should I teach\n"
-    .string "COUNTER to?$"
+    .string "KNOCK-OFF to?$"
 
-Text_CounterTaught::
-    .string "Are you using that COUNTER move\n"
+Text_KnockOffTaught::
+    .string "Are you using that move\n"
     .string "I taught your POKéMON?$"

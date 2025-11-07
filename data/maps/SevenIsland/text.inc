@@ -1,3 +1,25 @@
+Text_ChargeUpTeach::
+    .string "You can feel it, right?\n"
+    .string "That spark of energy in the air!\p"
+    .string "If I stay fired up like this,\n"
+    .string "I know I’ll keep getting better\l"
+    .string "and better!\p"
+    .string "Yeah, enthusiasm is the key to power!\p"
+    .string "How about it?\n"
+    .string "Want to learn a move that\n"
+    .string "channels that energy?$"
+
+Text_ChargeUpDeclined::
+    .string "Well, that's fine, too.$"
+
+Text_ChargeUpWhichMon::
+    .string "All right, pick which POKéMON\n"
+    .string "should learn CHARGE-UP.$"
+
+Text_ChargeUpTaught::
+    .string "If only we could keep getting\n"
+    .string "stronger and stronger, eh?$"
+
 Text_SwordsDanceTeach::
     .string "Not many people come out here.\p"
     .string "If I train here, I'm convinced that\n"

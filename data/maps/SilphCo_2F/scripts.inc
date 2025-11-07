@@ -7,8 +7,8 @@ SilphCo_2F_OnLoad::
 	call_if_unset FLAG_SILPH_2F_DOOR_2, EventScript_Close2FDoor2
 	end
 
-SilphCo_2F_EventScript_ThunderWaveTutor::
-	goto EventScript_ThunderWaveTutor
+SilphCo_2F_EventScript_ChargeUpTutor::
+	goto EventScript_ChargeUpTutor
 	end
 
 SilphCo_2F_EventScript_FloorSign::

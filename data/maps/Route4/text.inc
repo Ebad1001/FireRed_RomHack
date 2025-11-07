@@ -25,53 +25,77 @@ Route4_Text_RouteSign::
     .string "WEST: MT. MOON\n"
     .string "EAST: CERULEAN CITY$"
 
-Text_MegaPunchTeach::
-    .string "A punch of roaring ferocity!\p"
-    .string "Packed with destructive power!\p"
-    .string "When the chips are down,\n"
-    .string "MEGA PUNCH is the ultimate attack!\l"
-    .string "You agree, yes?\p"
-    .string "Now!\n"
+Text_FirePunchTeach::
+    .string "A blazing strike born of passion!\p"
+    .string "Fueled by heat, driven by will!\p"
+    .string "When courage burns brightest,\n"
+    .string "FIRE PUNCH ignites the path to victory!\l"
+    .string "You feel that flame within, yes?\p"
+    .string "Then come!\n"
     .string "Let me teach it to your POKéMON!$"
 
-Text_MegaPunchDeclined::
+Text_FirePunchDeclined::
     .string "You'll be back when you understand\n"
-    .string "the worth of MEGA PUNCH.$"
+    .string "the worth of FIRE PUNCH.$"
 
-Text_MegaPunchWhichMon::
-    .string "Fine!\n"
-    .string "Which POKéMON will learn it?$"
-
-Text_MegaPunchTaught::
-    .string "Now, we are comrades in the way of\n"
-    .string "punching!\p"
-    .string "You should go before you're seen\n"
-    .string "by the misguided fool who trains\l"
-    .string "only his silly kicking over there.$"
-
-Text_MegaKickTeach::
-    .string "A kick of brutal ferocity!\p"
-    .string "Packed with destructive power!\p"
-    .string "When you get right down to it,\n"
-    .string "MEGA KICK is the ultimate attack!\l"
-    .string "Don't you agree?\p"
-    .string "Okay!\n"
-    .string "I'll teach it to your POKéMON!$"
-
-Text_MegaKickDeclined::
-    .string "You'll come crawling back when you\n"
-    .string "realize the value of MEGA KICK.$"
-
-Text_MegaKickWhichMon::
+Text_FirePunchWhichMon::
     .string "All right!\n"
     .string "Which POKéMON wants to learn it?$"
 
-Text_MegaKickTaught::
-    .string "Now, we are soul mates in the way\n"
-    .string "of kicking!\p"
-    .string "You should run before you're seen\n"
-    .string "by the deluded nitwit who trains\l"
-    .string "only simple punching over there.$"
+Text_FirePunchTaught::
+    .string "Now, we are comrades.\n"
+    .string "Go Team VALOR !!!\p"
+    .string "You should go before you're seen\n"
+    .string "by the misguided fools who train\l"
+    .string "their thunder & ice moves.$"
+
+Text_ThunderPunchTeach::
+    .string "A strike charged with pure instinct!\p"
+    .string "Electric power guided by trust!\p"
+    .string "When your bond sparks true,\n"
+    .string "THUNDER PUNCH lands with lightning precision!\l"
+    .string "You feel that current between you, yes?\p"
+    .string "Then let’s harness it!\n"
+    .string "I’ll teach it to your POKéMON!$"
+
+Text_ThunderPunchDeclined::
+    .string "You'll be back when you understand\n"
+    .string "the worth of THUNDER PUNCH.$"
+
+Text_ThunderPunchWhichMon::
+    .string "All right!\n"
+    .string "Which POKéMON wants to learn it?$"
+
+Text_ThunderPunchTaught::
+    .string "Now, we are comrades.\n"
+    .string "Go Team INSTINCT !!!\p"
+    .string "You should go before you're seen\n"
+    .string "by the misguided fools who train\l"
+    .string "their fire & ice moves.$"
+
+Text_IcePunchTeach::
+    .string "A strike of serene, focused power.\p"
+    .string "Cold as clarity, sharp as intellect.\p"
+    .string "When emotion stills and mind leads,\n"
+    .string "ICE PUNCH freezes doubt itself!\l"
+    .string "You seek mastery over strength, yes?\p"
+    .string "Then allow me.\n"
+    .string "I shall teach it to your POKéMON!$"
+
+Text_IcePunchDeclined::
+    .string "You'll be back when you understand\n"
+    .string "the worth of ICE PUNCH.$"
+
+Text_IcePunchWhichMon::
+    .string "All right!\n"
+    .string "Which POKéMON wants to learn it?$"
+
+Text_IcePunchTaught::
+    .string "Now, we are comrades.\n"
+    .string "Go Team MYSTIC!!!\p"
+    .string "You should go before you're seen\n"
+    .string "by the misguided fools who train\l"
+    .string "their fire & thunder moves.$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
     .string "Oh, wow, that's the BOULDERBADGE!\n"

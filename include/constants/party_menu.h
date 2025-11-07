@@ -10,18 +10,18 @@
 #define AILMENT_PKRS  6
 #define AILMENT_FNT   7
 
-#define TUTOR_MOVE_MEGA_PUNCH      0
+#define TUTOR_MOVE_FIRE_PUNCH      0  // replaced mega punch 
 #define TUTOR_MOVE_SWORDS_DANCE    1
-#define TUTOR_MOVE_MEGA_KICK       2
+#define TUTOR_MOVE_THUNDERPUNCH    2  // replaced mega kick
 #define TUTOR_MOVE_BODY_SLAM       3
 #define TUTOR_MOVE_DOUBLE_EDGE     4
-#define TUTOR_MOVE_COUNTER         5
+#define TUTOR_MOVE_KNOCK_OFF       5  // replaced counter
 #define TUTOR_MOVE_SEISMIC_TOSS    6
-#define TUTOR_MOVE_MIMIC           7
-#define TUTOR_MOVE_METRONOME       8
+#define TUTOR_MOVE_AVALANCHE       7  // replaced mimic
+#define TUTOR_MOVE_ICE_PUNCH       8  // replaced metronome
 #define TUTOR_MOVE_SOFT_BOILED     9
 #define TUTOR_MOVE_DREAM_EATER     10
-#define TUTOR_MOVE_THUNDER_WAVE    11
+#define TUTOR_MOVE_CHARGE_UP       11 // replaced thunder wave
 #define TUTOR_MOVE_EXPLOSION       12
 #define TUTOR_MOVE_ROCK_SLIDE      13
 #define TUTOR_MOVE_SUBSTITUTE      14

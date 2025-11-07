@@ -24,29 +24,29 @@ EventScript_DoubleEdgeTaught::
 	release
 	end
 
-EventScript_ThunderWaveTutor::
+EventScript_ChargeUpTutor::
 	lock
 	faceplayer
-	goto_if_set FLAG_TUTOR_THUNDER_WAVE, EventScript_ThunderWaveTaught
-	msgbox Text_ThunderWaveTeach, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, NO, EventScript_ThunderWaveDeclined
+	goto_if_set FLAG_TUTOR_CHARGE_UP, EventScript_ChargeUpTaught
+	msgbox Text_ChargeUpTeach, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, EventScript_ChargeUpDeclined
 	call EventScript_CanOnlyBeLearnedOnce
-	goto_if_eq VAR_RESULT, NO, EventScript_ThunderWaveDeclined
-	msgbox Text_ThunderWaveWhichMon
-	setvar VAR_0x8005, MOVETUTOR_THUNDER_WAVE
+	goto_if_eq VAR_RESULT, NO, EventScript_ChargeUpDeclined
+	msgbox Text_ChargeUpWhichMon
+	setvar VAR_0x8005, MOVETUTOR_CHARGE_UP
 	call EventScript_ChooseMoveTutorMon
-	goto_if_eq VAR_RESULT, FALSE, EventScript_ThunderWaveDeclined
-	setflag FLAG_TUTOR_THUNDER_WAVE
-	goto EventScript_ThunderWaveTaught
+	goto_if_eq VAR_RESULT, FALSE, EventScript_ChargeUpDeclined
+	setflag FLAG_TUTOR_CHARGE_UP
+	goto EventScript_ChargeUpTaught
 	end
 
-EventScript_ThunderWaveDeclined::
-	msgbox Text_ThunderWaveDeclined
+EventScript_ChargeUpDeclined::
+	msgbox Text_ChargeUpDeclined
 	release
 	end
 
-EventScript_ThunderWaveTaught::
-	msgbox Text_ThunderWaveTaught
+EventScript_ChargeUpTaught::
+	msgbox Text_ChargeUpTaught
 	release
 	end
 
@@ -102,55 +102,81 @@ EventScript_ExplosionTaught::
 	release
 	end
 
-Route4_EventScript_MegaPunchTutor::
+Route4_EventScript_FirePunchTutor::
 	lock
 	faceplayer
-	goto_if_set FLAG_TUTOR_MEGA_PUNCH, EventScript_MegaPunchTaught
-	msgbox Text_MegaPunchTeach, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, NO, EventScript_MegaPunchDeclined
+	goto_if_set FLAG_TUTOR_FIRE_PUNCH, EventScript_FirePunchTaught
+	msgbox Text_FirePunchTeach, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, EventScript_FirePunchDeclined
 	call EventScript_CanOnlyBeLearnedOnce
-	goto_if_eq VAR_RESULT, NO, EventScript_MegaPunchDeclined
-	msgbox Text_MegaPunchWhichMon
-	setvar VAR_0x8005, MOVETUTOR_MEGA_PUNCH
+	goto_if_eq VAR_RESULT, NO, EventScript_FirePunchDeclined
+	msgbox Text_FirePunchWhichMon
+	setvar VAR_0x8005, MOVETUTOR_FIRE_PUNCH
 	call EventScript_ChooseMoveTutorMon
-	goto_if_eq VAR_RESULT, FALSE, EventScript_MegaPunchDeclined
-	setflag FLAG_TUTOR_MEGA_PUNCH
-	goto EventScript_MegaPunchTaught
+	goto_if_eq VAR_RESULT, FALSE, EventScript_FirePunchDeclined
+	setflag FLAG_TUTOR_FIRE_PUNCH
+	goto EventScript_FirePunchTaught
 	end
 
-EventScript_MegaPunchDeclined::
-	msgbox Text_MegaPunchDeclined
+EventScript_FirePunchDeclined::
+	msgbox Text_FirePunchDeclined
 	release
 	end
 
-EventScript_MegaPunchTaught::
-	msgbox Text_MegaPunchTaught
+EventScript_FirePunchTaught::
+	msgbox Text_FirePunchTaught
 	release
 	end
 
-Route4_EventScript_MegaKickTutor::
+Route4_EventScript_ThunderPunchTutor::
 	lock
 	faceplayer
-	goto_if_set FLAG_TUTOR_MEGA_KICK, EventScript_MegaKickTaught
-	msgbox Text_MegaKickTeach, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, NO, EventScript_MegaKickDeclined
+	goto_if_set FLAG_TUTOR_THUNDERPUNCH, EventScript_ThunderPunchTaught
+	msgbox Text_ThunderPunchTeach, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, EventScript_ThunderPunchDeclined
 	call EventScript_CanOnlyBeLearnedOnce
-	goto_if_eq VAR_RESULT, NO, EventScript_MegaKickDeclined
-	msgbox Text_MegaKickWhichMon
-	setvar VAR_0x8005, MOVETUTOR_MEGA_KICK
+	goto_if_eq VAR_RESULT, NO, EventScript_ThunderPunchDeclined
+	msgbox Text_ThunderPunchWhichMon
+	setvar VAR_0x8005, MOVETUTOR_THUNDER_PUNCH
 	call EventScript_ChooseMoveTutorMon
-	goto_if_eq VAR_RESULT, FALSE, EventScript_MegaKickDeclined
-	setflag FLAG_TUTOR_MEGA_KICK
-	goto EventScript_MegaKickTaught
+	goto_if_eq VAR_RESULT, FALSE, EventScript_ThunderPunchDeclined
+	setflag FLAG_TUTOR_THUNDERPUNCH
+	goto EventScript_ThunderPunchTaught
 	end
 
-EventScript_MegaKickDeclined::
-	msgbox Text_MegaKickDeclined
+EventScript_ThunderPunchDeclined::
+	msgbox Text_ThunderPunchDeclined
 	release
 	end
 
-EventScript_MegaKickTaught::
-	msgbox Text_MegaKickTaught
+EventScript_ThunderPunchTaught::
+	msgbox Text_ThunderPunchTaught
+	release
+	end
+
+EventScript_IcePunchTutor::
+	lock
+	faceplayer
+	goto_if_set FLAG_TUTOR_ICE_PUNCH, EventScript_IcePunchTaught
+	msgbox Text_IcePunchTeach, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, EventScript_IcePunchDeclined
+	call EventScript_CanOnlyBeLearnedOnce
+	goto_if_eq VAR_RESULT, NO, EventScript_IcePunchDeclined
+	msgbox Text_IcePunchWhichMon
+	setvar VAR_0x8005, MOVETUTOR_ICE_PUNCH
+	call EventScript_ChooseMoveTutorMon
+	goto_if_eq VAR_RESULT, FALSE, EventScript_IcePunchDeclined
+	setflag FLAG_TUTOR_ICE_PUNCH
+	goto EventScript_IcePunchTaught
+	end
+
+EventScript_IcePunchDeclined::
+	msgbox Text_IcePunchDeclined
+	release
+	end
+
+EventScript_IcePunchTaught::
+	msgbox Text_IcePunchTaught
 	release
 	end
 
@@ -284,94 +310,57 @@ EventScript_SeismicTossTaught::
 	release
 	end
 
-EventScript_CounterTutor::
+EventScript_KnockOffTutor::
 	lock
 	faceplayer
-	goto_if_set FLAG_TUTOR_COUNTER, EventScript_CounterTaught
-	msgbox Text_CounterTeach, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, NO, EventScript_CounterDeclined
+	goto_if_set FLAG_TUTOR_THUNDERPUNCH, EventScript_KnockOffTaught
+	msgbox Text_KnockOffTeach, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, EventScript_KnockOffDeclined
 	call EventScript_CanOnlyBeLearnedOnce
-	goto_if_eq VAR_RESULT, NO, EventScript_CounterDeclined
-	msgbox Text_CounterWhichMon
-	setvar VAR_0x8005, MOVETUTOR_COUNTER
+	goto_if_eq VAR_RESULT, NO, EventScript_KnockOffDeclined
+	msgbox Text_KnockOffWhichMon
+	setvar VAR_0x8005, MOVETUTOR_KNOCK_OFF
 	call EventScript_ChooseMoveTutorMon
-	goto_if_eq VAR_RESULT, FALSE, EventScript_CounterDeclined
-	setflag FLAG_TUTOR_COUNTER
-	goto EventScript_CounterTaught
+	goto_if_eq VAR_RESULT, FALSE, EventScript_KnockOffDeclined
+	setflag FLAG_TUTOR_THUNDERPUNCH
+	goto EventScript_KnockOffTaught
 	end
 
-EventScript_CounterDeclined::
-	msgbox Text_CounterDeclined
+EventScript_KnockOffDeclined::
+	msgbox Text_KnockOffDeclined
 	release
 	end
 
-EventScript_CounterTaught::
-	msgbox Text_CounterTaught
+EventScript_KnockOffTaught::
+	msgbox Text_KnockOffTaught
 	release
 	end
 
-EventScript_MetronomeTutor::
-	lock
-	faceplayer
-	goto_if_set FLAG_TUTOR_METRONOME, EventScript_MetronomeTaught
-	msgbox Text_MetronomeTeach, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, NO, EventScript_MetronomeDeclined
+EventScript_AvalancheTutor::
+	goto_if_set FLAG_TUTOR_AVALANCHE, EventScript_AvalancheTaught
+	msgbox Text_AvalancheTeach, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, EventScript_AvalancheDeclined
 	call EventScript_CanOnlyBeLearnedOnce
-	goto_if_eq VAR_RESULT, NO, EventScript_MetronomeDeclined
-	msgbox Text_MetronomeWhichMon
-	setvar VAR_0x8005, MOVETUTOR_METRONOME
-	call EventScript_ChooseMoveTutorMon
-	goto_if_eq VAR_RESULT, FALSE, EventScript_MetronomeDeclined
-	setflag FLAG_TUTOR_METRONOME
-	goto EventScript_MetronomeTaught
-	end
-
-EventScript_MetronomeDeclined::
-	msgbox Text_MetronomeDeclined
-	release
-	end
-
-EventScript_MetronomeTaught::
-	msgbox Text_MetronomeTaught
-	release
-	end
-
-EventScript_MimicTutor::
-	goto_if_set FLAG_TUTOR_MIMIC, EventScript_MimicTaught
-	msgbox Text_MimicTeach, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, NO, EventScript_MimicDeclined
-	call EventScript_CanOnlyBeLearnedOnce
-	goto_if_eq VAR_RESULT, NO, EventScript_MimicDeclined
-	msgbox Text_MimicWhichMon
-	setvar VAR_0x8005, MOVETUTOR_MIMIC
+	goto_if_eq VAR_RESULT, NO, EventScript_AvalancheDeclined
+	msgbox Text_AvalancheWhichMon
+	setvar VAR_0x8005, MOVETUTOR_AVALANCHE
 	call EventScript_ChooseMoveTutorMon
 	lock
 	faceplayer
-	goto_if_eq VAR_RESULT, 0, EventScript_MimicDeclined
-	removeitem ITEM_POKE_DOLL
-	setflag FLAG_TUTOR_MIMIC
-	goto EventScript_MimicTaught
+	goto_if_eq VAR_RESULT, 0, EventScript_AvalancheDeclined
+	setflag FLAG_TUTOR_AVALANCHE
+	goto EventScript_AvalancheTaught
 	end
 
-EventScript_MimicDeclined::
-	msgbox Text_MimicDeclined
+EventScript_AvalancheDeclined::
+	msgbox Text_AvalancheDeclined
 	release
 	end
 
-EventScript_MimicTaught::
-	checkplayergender
-	call_if_eq VAR_RESULT, MALE, EventScript_MimicTaughtMale
-	call_if_eq VAR_RESULT, FEMALE, EventScript_MimicTaughtFemale
+EventScript_AvalancheTaught::
+	msgbox Text_AvalancheTaught
 	release
 	end
-
-EventScript_MimicTaughtMale::
-	msgbox Text_MimicTaughtMale
-	return
-
-EventScript_MimicTaughtFemale::
-	msgbox Text_MimicTaughtFemale
-	return
 
 FourIsland_House1_EventScript_BodySlamTutor::
 	lock

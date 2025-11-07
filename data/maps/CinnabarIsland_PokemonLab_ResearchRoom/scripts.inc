@@ -1,10 +1,6 @@
 CinnabarIsland_PokemonLab_ResearchRoom_MapScripts::
 	.byte 0
 
-CinnabarIsland_PokemonLab_ResearchRoom_EventScript_MetronomeTutor::
-	goto EventScript_MetronomeTutor
-	end
-
 CinnabarIsland_PokemonLab_ResearchRoom_EventScript_Scientist::
 	msgbox CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons, MSGBOX_NPC
 	end
