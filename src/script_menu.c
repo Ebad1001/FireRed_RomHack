@@ -180,11 +180,12 @@ static const struct MenuAction sMultichoiceList_CeladonVendingMachine[] = {
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerTMPrizes[] = {
-    { gText_Tm13_4000Coins },
-    { gText_Tm23_3500Coins },
-    { gText_Tm24_4000Coins },
-    { gText_Tm30_4500Coins },
-    { gText_Tm35_4000Coins },
+    { gText_Tm13_4000Coins }, // ice_beam
+    { gText_Tm24_4000Coins }, // thunderbolt
+    { gText_Tm26_4000Coins }, // earthquake
+    { gText_Tm29_4000Coins }, // psychic
+    { gText_Tm30_4000Coins }, // shadow_ball
+    { gText_Tm35_4000Coins }, // flamethrower
     { gText_NoThanks_2 }
 };
 
