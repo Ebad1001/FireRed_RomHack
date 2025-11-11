@@ -4630,7 +4630,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An extremely powerful attack.\\nHowever, if the user is hit before\\nusing the move, they will flinch.",
+      "description_english": "A punch thrown at\\nblinding speed.\\nIt is certain to\\nstrike first.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4639,7 +4639,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "FocusPunch"
+      "moveId": "MachPunch"
     },
     {
       "english": "TM02",
@@ -4664,7 +4664,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe is hit with a pulsing blast\\nof water. It may also confuse the\\ntarget.",
+      "description_english": "A high volume of\\nwater is blasted at\\nthe foe under great\\npressure.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4673,7 +4673,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "WaterPulse"
+      "moveId": "HydroPump"
     },
     {
       "english": "TM04",
@@ -4766,7 +4766,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user shoots seeds at the foe\\nin rapid succession. Two to five\\nseeds are shot at once.",
+      "description_english": "A weak electric\\nshock that is sure\\nto cause paralysis\\nif it hits.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4775,7 +4775,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "BulletSeed"
+      "moveId": "ThunderWave"
     },
     {
       "english": "TM10",
@@ -4817,7 +4817,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A taunted foe may become enraged.\\nIt will then only be able to use\\nattack moves.",
+      "description_english": "A huge yawn lulls\\nthe foe into falling\\nasleep on the next\\nturn.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4826,7 +4826,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Taunt"
+      "moveId": "Yawn"
     },
     {
       "english": "TM13",
@@ -5157,7 +5157,7 @@
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user begins moving so quickly\\nthat it creates illusory copies to\\nraise its evasiveness.",
+      "description_english": "A large scissor is\\nused to slash the\\nfoe. It has a high\\ncritical-hit ratio.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5166,7 +5166,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "DoubleTeam"
+      "moveId": "FuryAttack"
     },
     {
       "english": "TM33",
@@ -5276,7 +5276,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Boulders are hurled at the foe.\\nIt also lowers the target's SPEED\\nstat if it hits.",
+      "description_english": "A bright beam of\\nlight. It may also\\nlower the foe's\\nSp.Atk stat.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5285,7 +5285,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "RockTomb"
+      "moveId": "Detect"
     },
     {
       "english": "TM40",
@@ -5310,7 +5310,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "If enraged by this move, the target\\nbecomes incapable of using the same\\nmove twice in a row.",
+      "description_english": "The user attacks\\nwith an odd power\\nthat may make the\\nfoe flinch.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5319,7 +5319,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Torment"
+      "moveId": "LusterPurge"
     },
     {
       "english": "TM42",
@@ -5344,7 +5344,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An attack move that may have an\\nadditional effect depending on the\\nbattle terrain.",
+      "description_english": "A strong icy bite.\\nIt may also lower\\nthe foe's\\nSp.Atk stat.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5353,7 +5353,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "SecretPower"
+      "moveId": "SmellingSalt"
     },
     {
       "english": "TM44",
@@ -5378,7 +5378,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe, if it is the opposite\\ngender as the user, becomes\\ninfatuated and may not attack.",
+      "description_english": "The user attacks\\nwith an odd power\\nthat may make the\\nfoe flinch.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5387,7 +5387,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Attract"
+      "moveId": "MistBall"
     },
     {
       "english": "TM46",
@@ -5395,7 +5395,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An attack that gives the user an\\nopportunity to steal the foe's hold\\nitem.",
+      "description_english": "The user attacks with\\na loud buzz that\\nprevents sleep for\\ntwo to five turns.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5404,7 +5404,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Thief"
+      "moveId": "Meditate"
     },
     {
       "english": "TM47",
@@ -5429,7 +5429,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A special power is transmitted to\\nthe foe, causing it to switch\\nabilities with the user.",
+      "description_english": "Alters the user's\\nability depending\\non the users IVs.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5438,7 +5438,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "SkillSwap"
+      "moveId": "Conversion"
     },
     {
       "english": "TM49",
@@ -5446,7 +5446,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A move that steals the effects of\\nany status-changing or healing move\\nthat the foe tries to use.",
+      "description_english": "A sinister, bluish\\nwhite flame is shot\\nat the foe to\\ninflict a burn.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5455,7 +5455,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Snatch"
+      "moveId": "Camouflage"
     },
     {
       "english": "TM50",
@@ -5472,7 +5472,7 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Overheat"
+      "moveId": "WillOWisp"
     },
     {
       "english": "HM01",
