@@ -32,11 +32,11 @@ PewterCity_Gym_Text_TakeThisWithYou::
     .string "Wait!\n"
     .string "Take this with you.$"
 
-PewterCity_Gym_Text_ReceivedTM39FromBrock::
-    .string "{PLAYER} received TM39\n"
+PewterCity_Gym_Text_ReceivedTM49FromBrock::
+    .string "{PLAYER} received TM49\n"
     .string "from BROCK.$"
 
-PewterCity_Gym_Text_ExplainTM39::
+PewterCity_Gym_Text_ExplainTM49::
     .string "A TM, Technical Machine, contains a\n"
     .string "technique for POKéMON.\p"
     .string "Using a TM teaches the move it\n"
@@ -45,9 +45,9 @@ PewterCity_Gym_Text_ExplainTM39::
     .string "So, when you use one, pick the\n"
     .string "POKéMON carefully.\p"
     .string "Anyways…\n"
-    .string "TM39 contains ROCK TOMB.\p"
-    .string "It hurls boulders at the foe and\n"
-    .string "lowers its SPEED.$"
+    .string "TM49 contains HIDDEN-TYPE.\n"
+    .string "It changes the type of user\p"
+    .string "into its hidden type.$"
 
 PewterCity_Gym_Text_BrockPostBattle::
     .string "There are all kinds of TRAINERS in\n"

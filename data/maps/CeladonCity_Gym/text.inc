@@ -27,23 +27,35 @@ CeladonCity_Gym_Text_ErikaPostBattle::
     .string "I would never collect POKéMON if\n"
     .string "they were unattractive.$"
 
-CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
+CeladonCity_Gym_Text_ExplainRainbowBadgeTakeTM11::
     .string "The RAINBOWBADGE will make\n"
     .string "POKéMON up to Lv. 50 obey.\p"
     .string "It also allows POKéMON to use\n"
     .string "STRENGTH in and out of battle.\p"
     .string "Please also take this with you.$"
 
-CeladonCity_Gym_Text_ReceivedTM19FromErika::
-    .string "{PLAYER} received TM19\n"
+CeladonCity_Gym_Text_ReceivedTM11FromErika::
+    .string "{PLAYER} received TM11\n"
     .string "from ERIKA.$"
 
-CeladonCity_Gym_Text_ExplainTM19::
-    .string "TM19 contains GIGA DRAIN.\p"
-    .string "Half the damage it inflicts is\n"
-    .string "drained to heal your POKéMON.\p"
-    .string "Wouldn't you agree that it's a\n"
-    .string "wonderful move?$"
+CeladonCity_Gym_Text_ExplainTM11::
+    .string "TM11 contains SUNNY DAY.\n"
+    .string "It allows you to set up\p"
+    .string "sunny weather on the field.\n"
+    .string "Wonderful move. Isn't it?$"
+
+CeladonCity_Gym_Text_ErikaAlsoTakeTM18::
+    .string "Please also take this with you.$"
+
+CeladonCity_Gym_Text_ReceivedTM18FromErika::
+    .string "{PLAYER} received TM18\n"
+    .string "from ERIKA.$"
+
+CeladonCity_Gym_Text_ExplainTM18::
+    .string "TM18 contains RAIN DANCE.\n"
+    .string "It allows you to set up\p"
+    .string "rainy weather on the field.\n"
+    .string "Wonderful move. Isn't it?$"
 
 CeladonCity_Gym_Text_ShouldMakeRoomForThis::
     .string "You should make room for this.$"

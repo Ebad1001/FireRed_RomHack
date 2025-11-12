@@ -23,13 +23,16 @@ VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
     .string "You're special, kid!\n"
     .string "Take this!$"
 
-VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-    .string "{PLAYER} received TM34\n"
+VermilionCity_Gym_Text_ReceivedTM42FromLtSurge::
+    .string "{PLAYER} received TM42\n"
     .string "from LT. SURGE.$"
 
-VermilionCity_Gym_Text_ExplainTM34::
-    .string "TM34 contains SHOCK WAVE!\p"
-    .string "Teach it to an ELECTRIC POKéMON!$"
+VermilionCity_Gym_Text_ExplainTM42::
+    .string "TM42 contains FACADE!\n"
+    .string "If the user is affected by some\p"
+    .string "status condition like -\n"
+    .string "PSN, PRZ or BRN\n"
+    .string "it does double damage.$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
     .string "Yo, kid, make room in your BAG!$"

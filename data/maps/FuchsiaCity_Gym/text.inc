@@ -32,15 +32,16 @@ FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
     .string "Ah!\n"
     .string "Take this, too!$"
 
-FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
-    .string "{PLAYER} received TM06\n"
+FuchsiaCity_Gym_Text_ReceivedTM17FromKoga::
+    .string "{PLAYER} received TM17\n"
     .string "from KOGA.$"
 
-FuchsiaCity_Gym_Text_KogaExplainTM06::
-    .string "Sealed within that TM06 lies\n"
-    .string "TOXIC!\p"
-    .string "It is a secret technique dating\n"
-    .string "back some four hundred years.$"
+FuchsiaCity_Gym_Text_KogaExplainTM17::
+    .string "Sealed within that TM17 lies\p"
+    .string "PROTECT!\n"
+    .string "It allows you to protect\p"
+    .string "your pokemon from any form\n"
+    .string "of attack for one turn.$"
 
 FuchsiaCity_Gym_Text_MakeSpaceForThis::
     .string "Make space for this, child!$"

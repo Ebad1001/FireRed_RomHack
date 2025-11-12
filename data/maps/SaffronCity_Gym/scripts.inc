@@ -4,8 +4,8 @@ SaffronCity_Gym_MapScripts::
 SaffronCity_Gym_EventScript_Sabrina::
 	famechecker FAMECHECKER_SABRINA, FCPICKSTATE_COLORED, UpdatePickStateFromSpecialVar8005
 	trainerbattle_single TRAINER_LEADER_SABRINA, SaffronCity_Gym_Text_SabrinaIntro, SaffronCity_Gym_Text_SabrinaDefeat, SaffronCity_Gym_EventScript_DefeatedSabrina, NO_MUSIC
-	goto_if_unset FLAG_GOT_TM04_FROM_SABRINA, SaffronCity_Gym_EventScript_GiveTM04
-	msgbox SaffronCity_Gym_Text_ExplainTM04
+	goto_if_unset FLAG_GOT_TM27_FROM_SABRINA, SaffronCity_Gym_EventScript_GiveTM27
+	msgbox SaffronCity_Gym_Text_ExplainTM27
 	release
 	end
 
@@ -16,20 +16,20 @@ SaffronCity_Gym_EventScript_DefeatedSabrina::
 	setflag FLAG_DEFEATED_SABRINA
 	setflag FLAG_BADGE06_GET
 	set_gym_trainers 6
-	goto SaffronCity_Gym_EventScript_GiveTM04
+	goto SaffronCity_Gym_EventScript_GiveTM27
 	end
 
-SaffronCity_Gym_EventScript_GiveTM04::
+SaffronCity_Gym_EventScript_GiveTM27::
 	msgbox SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis
-	checkitemspace ITEM_TM04
-	goto_if_eq VAR_RESULT, FALSE, SaffronCity_Gym_EventScript_NoRoomForTM04
-	giveitem_msg SaffronCity_Gym_Text_ReceivedTM04FromSabrina, ITEM_TM04
-	setflag FLAG_GOT_TM04_FROM_SABRINA
+	checkitemspace ITEM_TM27
+	goto_if_eq VAR_RESULT, FALSE, SaffronCity_Gym_EventScript_NoRoomForTM27
+	giveitem_msg SaffronCity_Gym_Text_ReceivedTM27FromSabrina, ITEM_TM27
+	setflag FLAG_GOT_TM27_FROM_SABRINA
 	msgbox SaffronCity_Gym_Text_SabrinaPostBattle
 	release
 	end
 
-SaffronCity_Gym_EventScript_NoRoomForTM04::
+SaffronCity_Gym_EventScript_NoRoomForTM27::
 	msgbox SaffronCity_Gym_Text_BagFullOfOtherItems
 	release
 	end
