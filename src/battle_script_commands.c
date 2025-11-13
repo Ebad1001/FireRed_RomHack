@@ -797,72 +797,61 @@ struct PickupItem
 
 static const struct PickupItem sPickupItems[] =
 {
-    // First Batch of common berries
-    {ITEM_ORAN_BERRY,      2},
+    // First Batch of 10
+    {ITEM_ORAN_BERRY,      1},
+    {ITEM_PERSIM_BERRY,    2},
+    {ITEM_PECHA_BERRY,     3},
     {ITEM_CHERI_BERRY,     4},
+    {ITEM_RAWST_BERRY,     5},
     {ITEM_CHESTO_BERRY,    6},
-    {ITEM_PECHA_BERRY,     8},
-    {ITEM_RAWST_BERRY,    10},
-    {ITEM_ASPEAR_BERRY,   12},
-    {ITEM_LEPPA_BERRY,    14},
-    {ITEM_PERSIM_BERRY,   16},
-    {ITEM_SITRUS_BERRY,   18},
-    {ITEM_TM10,           20},
-    // Second Batch of common berries
-    {ITEM_ORAN_BERRY,     22},
-    {ITEM_PERSIM_BERRY,   24},
-    {ITEM_LEPPA_BERRY,    26},
-    {ITEM_ASPEAR_BERRY,   28},
-    {ITEM_RAWST_BERRY,    30},
-    {ITEM_PECHA_BERRY,    32},
-    {ITEM_CHESTO_BERRY,   34},
-    {ITEM_CHERI_BERRY,    36},
-    {ITEM_SITRUS_BERRY,   38},
-    {ITEM_TM10,           40},
-    // Batch of battle items
-    {ITEM_POKE_BALL,      42},
-    {ITEM_GUARD_SPEC,     44},
-    {ITEM_DIRE_HIT,       46},
-    {ITEM_X_ATTACK,       48},
-    {ITEM_X_DEFEND,       50},
-    {ITEM_X_SPEED,        52},
-    {ITEM_X_ACCURACY,     54},
-    {ITEM_X_SPECIAL,      56},
-    {ITEM_GREAT_BALL,     58},
-    {ITEM_TM10,           60},
-    // Batch of upgrade items
-    {ITEM_RARE_CANDY,     62},
-    {ITEM_HP_UP,          64},
-    {ITEM_PROTEIN,        66},
-    {ITEM_IRON,           68},
-    {ITEM_CARBOS,         70},
-    {ITEM_CALCIUM,        72},
-    {ITEM_PP_UP,          74},
-    {ITEM_ZINC,           76},
-    {ITEM_PP_MAX,         78},
-    {ITEM_RARE_CANDY,     80},
-    // Batch of held items
-    {ITEM_BRIGHT_POWDER,  82},
-    {ITEM_WHITE_HERB,     84},
-    {ITEM_MENTAL_HERB,    86},
-    {ITEM_CHOICE_BAND,    88},
-    {ITEM_KINGS_ROCK,     90},
-    {ITEM_SMOKE_BALL,     92},
-    {ITEM_FOCUS_BAND,     94},
-    {ITEM_SCOPE_LENS,     96},
-    {ITEM_TM10,           98},
-
-    // Useless berries
-    // { ITEM_CORNN_BERRY,  100 },
-    // { ITEM_MAGOST_BERRY, 100 },
-    // { ITEM_RABUTA_BERRY, 100 },
-    // { ITEM_NOMEL_BERRY,  100 },
-    // { ITEM_SPELON_BERRY, 100 },
-    // { ITEM_PAMTRE_BERRY, 100 },
-    // { ITEM_WATMEL_BERRY, 100 },
-    // { ITEM_DURIN_BERRY,  100 },
-    // { ITEM_BELUE_BERRY,  100 },
-
+    {ITEM_ASPEAR_BERRY,    7},
+    {ITEM_LEPPA_BERRY,     8},
+    {ITEM_SITRUS_BERRY,    9},
+    {ITEM_TM10,           10},
+    // Second Batch of 10 
+    {ITEM_ORAN_BERRY,     11},
+    {ITEM_PERSIM_BERRY,   12},
+    {ITEM_PECHA_BERRY,    13},
+    {ITEM_CHERI_BERRY,    14},
+    {ITEM_RAWST_BERRY,    15},
+    {ITEM_CHESTO_BERRY,   16},
+    {ITEM_ASPEAR_BERRY,   17},
+    {ITEM_LEPPA_BERRY,    18},
+    {ITEM_SITRUS_BERRY,   19},
+    {ITEM_TM48,           20},
+    // Third Batch of 10
+    {ITEM_ORAN_BERRY,     21},
+    {ITEM_PERSIM_BERRY,   22},
+    {ITEM_PECHA_BERRY,    23},
+    {ITEM_CHERI_BERRY,    24},
+    {ITEM_RAWST_BERRY,    25},
+    {ITEM_CHESTO_BERRY,   26},
+    {ITEM_ASPEAR_BERRY,   27},
+    {ITEM_LEPPA_BERRY,    28},
+    {ITEM_SITRUS_BERRY,   29},
+    {ITEM_TM49,           30},
+    // Fourth Batch of 10
+    {ITEM_ORAN_BERRY,     31},
+    {ITEM_ORAN_BERRY,     32},
+    {ITEM_SITRUS_BERRY,   33},
+    {ITEM_LIECHI_BERRY,   34},
+    {ITEM_GANLON_BERRY,   35},
+    {ITEM_SALAC_BERRY,    36},
+    {ITEM_PETAYA_BERRY,   37},
+    {ITEM_APICOT_BERRY,   38},
+    {ITEM_LANSAT_BERRY,   39},
+    {ITEM_STARF_BERRY,    40},
+    // Fifth Batch of 10
+    {ITEM_TM10,           41},
+    {ITEM_TM48,           42},
+    {ITEM_TM49,           43},
+    {ITEM_LIECHI_BERRY,   44},
+    {ITEM_GANLON_BERRY,   45},
+    {ITEM_SALAC_BERRY,    46},
+    {ITEM_PETAYA_BERRY,   47},
+    {ITEM_APICOT_BERRY,   48},
+    {ITEM_LANSAT_BERRY,   49},
+    {ITEM_STARF_BERRY,    50},
 };
 
 static const u8 sSkillsToSkipCount = 14;
@@ -9432,9 +9421,10 @@ static void Cmd_pickup(void)
             ability = gSpeciesInfo[species].abilities[0];
         if (ability == ABILITY_PICKUP && species != SPECIES_NONE && species != SPECIES_EGG && heldItem == ITEM_NONE && !(Random() % 6))
         {
-            s32 random = Random() % 100;
+            u16 poolSize = 50;
+            s32 random = Random() % poolSize; // 0 <= random <= 49
 
-            for (j = 0; j < 15; ++j)
+            for (j = 0; j < poolSize; j++)
                 if (sPickupItems[j].chance > random)
                     break;
             SetMonData(&gPlayerParty[i], MON_DATA_HELD_ITEM, &sPickupItems[j]);
