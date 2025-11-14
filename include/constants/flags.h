@@ -369,11 +369,11 @@
 #define FLAG_HIDE_MT_MOON_1F_ESCAPE_ROPE                        0x15D
 #define FLAG_HIDE_MT_MOON_1F_MOON_STONE                         0x15E
 #define FLAG_HIDE_MT_MOON_B2F_STAR_PIECE                        0x15F
-#define FLAG_HIDE_MT_MOON_B2F_TM46                              0x160
+#define FLAG_HIDE_MT_MOON_B2F_TM46                              0x160 // unused
 #define FLAG_HIDE_ROUTE4_TM05                                   0x161
-#define FLAG_HIDE_ROUTE24_TM45                                  0x162
-#define FLAG_HIDE_ROUTE25_TM43                                  0x163
-#define FLAG_HIDE_SSANNE_1F_ROOM2_TM31                          0x164
+#define FLAG_HIDE_ROUTE24_TM45                                  0x162 // unused
+#define FLAG_HIDE_ROUTE25_TM43                                  0x163 // unused
+#define FLAG_HIDE_SSANNE_1F_ROOM2_TM31                          0x164 // unused
 #define FLAG_HIDE_SSANNE_2F_ROOM2_STARDUST                      0x165
 #define FLAG_HIDE_SSANNE_2F_ROOM4_X_ATTACK                      0x166
 #define FLAG_HIDE_SSANNE_B1F_ROOM2_TM44                         0x167
@@ -399,7 +399,7 @@
 #define FLAG_HIDE_POKEMON_TOWER_5F_NUGGET                       0x17B
 #define FLAG_HIDE_POKEMON_TOWER_6F_RARE_CANDY                   0x17C
 #define FLAG_HIDE_POKEMON_TOWER_6F_X_ACCURACY                   0x17D
-#define FLAG_HIDE_ROUTE12_TM48                                  0x17E
+#define FLAG_HIDE_ROUTE12_TM48                                  0x17E // unused
 #define FLAG_HIDE_ROUTE12_IRON                                  0x17F
 #define FLAG_HIDE_ROUTE15_TM18                                  0x180
 #define FLAG_HIDE_SAFARI_ZONE_CENTER_NUGGET                     0x181
@@ -518,7 +518,7 @@
 #define FLAG_HIDE_FOUR_ISLAND_ICEFALL_CAVE_B1F_FULL_RESTORE     0x1F2
 #define FLAG_HIDE_FOUR_ISLAND_ICEFALL_CAVE_B1F_NEVER_MELT_ICE   0x1F3
 #define FLAG_HIDE_FIVE_ISLAND_ROCKET_WAREHOUSE_BIG_PEARL        0x1F4
-#define FLAG_HIDE_FIVE_ISLAND_ROCKET_WAREHOUSE_TM36             0x1F5
+#define FLAG_HIDE_FIVE_ISLAND_ROCKET_WAREHOUSE_TM36             0x1F5 // unused
 #define FLAG_HIDE_FIVE_ISLAND_ROCKET_WAREHOUSE_PEARL            0x1F6
 #define FLAG_HIDE_FIVE_ISLAND_ROCKET_WAREHOUSE_UP_GRADE         0x1F7
 #define FLAG_HIDE_FIVE_ISLAND_LOST_CAVE_ROOM10_SILK_SCARF       0x1F8
@@ -588,7 +588,7 @@
 #define FLAG_HELPED_BILL_IN_SEA_COTTAGE                  0x233
 #define FLAG_GOT_SS_TICKET                               0x234
 #define FLAG_GOT_SS_TICKET_DUP                           0x235
-#define FLAG_GOT_TM42_AT_MEMORIAL_PILLAR                 0x236
+#define FLAG_GOT_TM44_AT_MEMORIAL_PILLAR                 0x236 // can be freed
 #define FLAG_GOT_HM01                                    0x237
 #define FLAG_GOT_HM02                                    0x238
 #define FLAG_GOT_HM03                                    0x239
@@ -751,7 +751,7 @@
 #define FLAG_TALKED_TO_LORELEI_AFTER_WAREHOUSE           0x2D4
 #define FLAG_DEFEATED_ROCKETS_IN_WAREHOUSE               0x2D5
 #define FLAG_UNLOCKED_ROCKET_WAREHOUSE                   0x2D6
-#define FLAG_NO_ROOM_FOR_TM42_AT_MEMORIAL_PILLAR         0x2D7
+#define FLAG_NO_ROOM_FOR_TM44_AT_MEMORIAL_PILLAR         0x2D7 // can be freed
 #define FLAG_LEARNED_YES_NAH_CHANSEY                     0x2D8
 #define FLAG_GOT_NEST_BALL_FROM_WATER_PATH_HOUSE_1       0x2D9
 #define FLAG_GOT_WYNAUT_EGG                              0x2DA

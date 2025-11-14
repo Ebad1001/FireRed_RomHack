@@ -46,24 +46,8 @@ MtMoon_B2F_EventScript_ItemStarPiece::
 	finditem ITEM_STAR_PIECE
 	end
 
-MtMoon_B2F_EventScript_ItemTM46::
-	finditem ITEM_TM46
-	end
-
 Route4_EventScript_ItemTM05::
 	finditem ITEM_TM05
-	end
-
-Route24_EventScript_ItemTM45::
-	finditem ITEM_TM45
-	end
-
-Route25_EventScript_ItemTM43::
-	finditem ITEM_TM43
-	end
-
-SSAnne_1F_Room2_EventScript_ItemTM31::
-	finditem ITEM_TM31
 	end
 
 SSAnne_2F_Room2_EventScript_ItemStardust::
@@ -164,10 +148,6 @@ PokemonTower_6F_EventScript_ItemRareCandy::
 
 PokemonTower_6F_EventScript_ItemXAccuracy::
 	finditem ITEM_X_ACCURACY
-	end
-
-Route12_EventScript_ItemTM48::
-	finditem ITEM_TM48
 	end
 
 Route12_EventScript_ItemIron::
@@ -628,10 +608,6 @@ FourIsland_IcefallCave_B1F_EventScript_ItemNeverMeltIce::
 
 FiveIsland_RocketWarehouse_EventScript_ItemBigPearl::
 	finditem ITEM_BIG_PEARL
-	end
-
-FiveIsland_RocketWarehouse_EventScript_ItemTM36::
-	finditem ITEM_TM36
 	end
 
 FiveIsland_RocketWarehouse_EventScript_ItemPearl::
