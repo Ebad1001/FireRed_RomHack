@@ -376,7 +376,7 @@
 #define FLAG_HIDE_SSANNE_1F_ROOM2_TM31                          0x164 // unused
 #define FLAG_HIDE_SSANNE_2F_ROOM2_STARDUST                      0x165
 #define FLAG_HIDE_SSANNE_2F_ROOM4_X_ATTACK                      0x166
-#define FLAG_HIDE_SSANNE_B1F_ROOM2_TM44                         0x167
+#define FLAG_HIDE_SSANNE_B1F_ROOM2_TM50                         0x167
 #define FLAG_HIDE_SSANNE_B1F_ROOM3_ETHER                        0x168
 #define FLAG_HIDE_SSANNE_B1F_ROOM5_SUPER_POTION                 0x169
 #define FLAG_HIDE_SSANNE_KITCHEN_GREAT_BALL                     0x16A
@@ -385,11 +385,11 @@
 #define FLAG_HIDE_ROCKET_HIDEOUT_B1F_HYPER_POTION               0x16D
 #define FLAG_HIDE_ROCKET_HIDEOUT_B2F_X_SPEED                    0x16E
 #define FLAG_HIDE_ROCKET_HIDEOUT_B2F_MOON_STONE                 0x16F
-#define FLAG_HIDE_ROCKET_HIDEOUT_B2F_TM12                       0x170
+#define FLAG_HIDE_ROCKET_HIDEOUT_B2F_TM23                       0x170
 #define FLAG_HIDE_ROCKET_HIDEOUT_B2F_SUPER_POTION               0x171
 #define FLAG_HIDE_ROCKET_HIDEOUT_B3F_RARE_CANDY                 0x172
 #define FLAG_HIDE_ROCKET_HIDEOUT_B3F_TM21                       0x173
-#define FLAG_HIDE_ROCKET_HIDEOUT_B4F_TM49                       0x174
+#define FLAG_HIDE_ROCKET_HIDEOUT_B4F_TM36                       0x174
 #define FLAG_HIDE_ROCKET_HIDEOUT_B4F_MAX_ETHER                  0x175
 #define FLAG_HIDE_ROCKET_HIDEOUT_B4F_CALCIUM                    0x176
 #define FLAG_HIDE_POKEMON_TOWER_3F_ESCAPE_ROPE                  0x177
@@ -401,11 +401,11 @@
 #define FLAG_HIDE_POKEMON_TOWER_6F_X_ACCURACY                   0x17D
 #define FLAG_HIDE_ROUTE12_TM48                                  0x17E // unused
 #define FLAG_HIDE_ROUTE12_IRON                                  0x17F
-#define FLAG_HIDE_ROUTE15_TM18                                  0x180
+#define FLAG_HIDE_ROUTE15_TM46                                  0x180
 #define FLAG_HIDE_SAFARI_ZONE_CENTER_NUGGET                     0x181
 #define FLAG_HIDE_SAFARI_ZONE_EAST_MAX_POTION                   0x182
 #define FLAG_HIDE_SAFARI_ZONE_EAST_FULL_RESTORE                 0x183
-#define FLAG_HIDE_SAFARI_ZONE_EAST_TM11                         0x184
+#define FLAG_HIDE_SAFARI_ZONE_EAST_TM19                         0x184
 #define FLAG_HIDE_SAFARI_ZONE_EAST_LEAF_STONE                   0x185
 #define FLAG_HIDE_SAFARI_ZONE_NORTH_PROTEIN                     0x186
 #define FLAG_HIDE_SAFARI_ZONE_NORTH_TM47                        0x187
@@ -423,12 +423,12 @@
 #define FLAG_HIDE_SILPH_CO_6F_HP_UP                             0x193
 #define FLAG_HIDE_SILPH_CO_6F_X_SPECIAL                         0x194
 #define FLAG_HIDE_SILPH_CO_7F_CALCIUM                           0x195
-#define FLAG_HIDE_SILPH_CO_7F_TM08                              0x196
+#define FLAG_HIDE_SILPH_CO_7F_TM12                              0x196
 #define FLAG_HIDE_SILPH_CO_10F_CARBOS                           0x197
 #define FLAG_HIDE_SILPH_CO_10F_ULTRA_BALL                       0x198
 #define FLAG_HIDE_SILPH_CO_10F_RARE_CANDY                       0x199
 #define FLAG_HIDE_POWER_PLANT_MAX_POTION                        0x19A
-#define FLAG_HIDE_POWER_PLANT_TM17                              0x19B
+#define FLAG_HIDE_POWER_PLANT_TM34                              0x19B
 #define FLAG_HIDE_POWER_PLANT_TM25                              0x19C
 #define FLAG_HIDE_POWER_PLANT_THUNDER_STONE                     0x19D
 #define FLAG_HIDE_POWER_PLANT_ELIXIR                            0x19E
@@ -437,7 +437,7 @@
 #define FLAG_HIDE_POKEMON_MANSION_2F_CALCIUM                    0x1A1
 #define FLAG_HIDE_POKEMON_MANSION_3F_MAX_POTION                 0x1A2
 #define FLAG_HIDE_POKEMON_MANSION_3F_IRON                       0x1A3
-#define FLAG_HIDE_POKEMON_MANSION_B1F_TM14                      0x1A4
+#define FLAG_HIDE_POKEMON_MANSION_B1F_TM38                      0x1A4
 #define FLAG_HIDE_POKEMON_MANSION_B1F_FULL_RESTORE              0x1A5
 #define FLAG_0x1A6                                              0x1A6
 #define FLAG_HIDE_POKEMON_MANSION_B1F_TM22                      0x1A7
@@ -445,11 +445,11 @@
 #define FLAG_HIDE_VICTORY_ROAD_1F_RARE_CANDY                    0x1A9
 #define FLAG_HIDE_VICTORY_ROAD_1F_TM02                          0x1AA
 #define FLAG_HIDE_VICTORY_ROAD_2F_GUARD_SPEC                    0x1AB
-#define FLAG_HIDE_VICTORY_ROAD_2F_TM07                          0x1AC
+#define FLAG_HIDE_VICTORY_ROAD_2F_TM03                          0x1AC
 #define FLAG_HIDE_VICTORY_ROAD_2F_FULL_HEAL                     0x1AD
 #define FLAG_HIDE_VICTORY_ROAD_2F_TM37                          0x1AE
-#define FLAG_HIDE_VICTORY_ROAD_3F_MAX_REVIVE                    0x1AF
-#define FLAG_HIDE_VICTORY_ROAD_3F_TM50                          0x1B0
+#define FLAG_HIDE_VICTORY_ROAD_3F_TM14                          0x1AF
+#define FLAG_HIDE_VICTORY_ROAD_3F_TM07                          0x1B0
 #define FLAG_HIDE_CERULEAN_CAVE_1F_MAX_ELIXIR                   0x1B1
 #define FLAG_HIDE_CERULEAN_CAVE_1F_NUGGET                       0x1B2
 #define FLAG_HIDE_CERULEAN_CAVE_1F_FULL_RESTORE                 0x1B3
@@ -527,7 +527,7 @@
 #define FLAG_HIDE_FIVE_ISLAND_LOST_CAVE_ROOM13_MAX_REVIVE       0x1FB
 #define FLAG_HIDE_FIVE_ISLAND_LOST_CAVE_ROOM14_RARE_CANDY       0x1FC
 #define FLAG_HIDE_SEVEN_ISLAND_SEVAULT_CANYON_HOUSE_LUCKY_PUNCH 0x1FD
-#define FLAG_HIDE_SILPH_CO_4F_TM41                              0x1FE
+#define FLAG_HIDE_SILPH_CO_4F_TM31                              0x1FE
 
 // Unused?
 #define FLAG_0x1FF               0x1FF
@@ -625,7 +625,7 @@
 #define FLAG_BEAT_RIVAL_IN_OAKS_LAB                      0x258
 #define FLAG_GOT_TM17_FROM_KOGA                          0x259
 #define FLAG_0x25A                                       0x25A
-#define FLAG_GOT_TM27                                    0x25B
+#define FLAG_GOT_TM44                                    0x25B
 #define FLAG_0x25C                                       0x25C
 #define FLAG_0x25D                                       0x25D
 #define FLAG_GOT_OLD_AMBER                               0x25E

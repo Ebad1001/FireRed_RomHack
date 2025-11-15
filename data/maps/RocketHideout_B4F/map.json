@@ -110,8 +110,8 @@
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "RocketHideout_B4F_EventScript_ItemTM49",
-      "flag": "FLAG_HIDE_ROCKET_HIDEOUT_B4F_TM49"
+      "script": "RocketHideout_B4F_EventScript_ItemTM36",
+      "flag": "FLAG_HIDE_ROCKET_HIDEOUT_B4F_TM36"
     },
     {
       "type": "object",

@@ -58,8 +58,8 @@ SSAnne_2F_Room4_EventScript_ItemXAttack::
 	finditem ITEM_X_ATTACK
 	end
 
-SSAnne_B1F_Room2_EventScript_ItemTM44::
-	finditem ITEM_TM44
+SSAnne_B1F_Room2_EventScript_ItemTM50::
+	finditem ITEM_TM50
 	end
 
 SSAnne_B1F_Room3_EventScript_ItemEther::
@@ -94,8 +94,8 @@ RocketHideout_B2F_EventScript_ItemMoonStone::
 	finditem ITEM_MOON_STONE
 	end
 
-RocketHideout_B2F_EventScript_ItemTM12::
-	finditem ITEM_TM12
+RocketHideout_B2F_EventScript_ItemTM23::
+	finditem ITEM_TM23
 	end
 
 RocketHideout_B2F_EventScript_ItemSuperPotion::
@@ -110,8 +110,8 @@ RocketHideout_B3F_EventScript_ItemTM21::
 	finditem ITEM_TM21
 	end
 
-RocketHideout_B4F_EventScript_ItemTM49::
-	finditem ITEM_TM49
+RocketHideout_B4F_EventScript_ItemTM36::
+	finditem ITEM_TM36
 	end
 
 RocketHideout_B4F_EventScript_ItemMaxEther::
@@ -154,8 +154,8 @@ Route12_EventScript_ItemIron::
 	finditem ITEM_IRON
 	end
 
-Route15_EventScript_ItemTM18::
-	finditem ITEM_TM18
+Route15_EventScript_ItemTM46::
+	finditem ITEM_TM46
 	end
 
 SafariZone_Center_EventScript_ItemNugget::
@@ -170,8 +170,8 @@ SafariZone_East_EventScript_ItemFullRestore::
 	finditem ITEM_FULL_RESTORE
 	end
 
-SafariZone_East_EventScript_ItemTM11::
-	finditem ITEM_TM11
+SafariZone_East_EventScript_ItemTM19::
+	finditem ITEM_TM19
 	end
 
 SafariZone_East_EventScript_ItemLeafStone::
@@ -242,8 +242,8 @@ SilphCo_7F_EventScript_ItemCalcium::
 	finditem ITEM_CALCIUM
 	end
 
-SilphCo_7F_EventScript_ItemTM08::
-	finditem ITEM_TM08
+SilphCo_7F_EventScript_ItemTM12::
+	finditem ITEM_TM12
 	end
 
 SilphCo_10F_EventScript_ItemCarbos::
@@ -262,8 +262,8 @@ PowerPlant_EventScript_ItemMaxPotion::
 	finditem ITEM_MAX_POTION
 	end
 
-PowerPlant_EventScript_ItemTM17::
-	finditem ITEM_TM17
+PowerPlant_EventScript_ItemTM34::
+	finditem ITEM_TM34
 	end
 
 PowerPlant_EventScript_ItemTM25::
@@ -298,8 +298,8 @@ PokemonMansion_3F_EventScript_ItemIron::
 	finditem ITEM_IRON
 	end
 
-PokemonMansion_B1F_EventScript_ItemTM14::
-	finditem ITEM_TM14
+PokemonMansion_B1F_EventScript_ItemTM38::
+	finditem ITEM_TM38
 	end
 
 PokemonMansion_B1F_EventScript_ItemFullRestore::
@@ -326,8 +326,8 @@ VictoryRoad_2F_EventScript_ItemGuardSpec::
 	finditem ITEM_GUARD_SPEC
 	end
 
-VictoryRoad_2F_EventScript_ItemTM07::
-	finditem ITEM_TM07
+VictoryRoad_2F_EventScript_ItemTM03::
+	finditem ITEM_TM03
 	end
 
 VictoryRoad_2F_EventScript_ItemFullHeal::
@@ -338,12 +338,12 @@ VictoryRoad_2F_EventScript_ItemTM37::
 	finditem ITEM_TM37
 	end
 
-VictoryRoad_3F_EventScript_ItemMaxRevive::
-	finditem ITEM_MAX_REVIVE
+VictoryRoad_3F_EventScript_ItemTM14::
+	finditem ITEM_TM14
 	end
 
-VictoryRoad_3F_EventScript_ItemTM50::
-	finditem ITEM_TM50
+VictoryRoad_3F_EventScript_ItemTM07::
+	finditem ITEM_TM07
 	end
 
 CeruleanCave_1F_EventScript_ItemMaxElixir::
@@ -642,6 +642,6 @@ SevenIsland_SevaultCanyon_House_EventScript_ItemLuckyPunch::
 	finditem ITEM_LUCKY_PUNCH
 	end
 
-SilphCo_4F_EventScript_ItemTM41::
-	finditem ITEM_TM41
+SilphCo_4F_EventScript_ItemTM31::
+	finditem ITEM_TM31
 	end
