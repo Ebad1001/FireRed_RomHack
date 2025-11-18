@@ -151,9 +151,9 @@ gCryTable::
 	cry Cry_Dragonite
 	cry Cry_Mewtwo
 	cry Cry_Mew
-	cry Cry_Chikorita
-	cry Cry_Bayleef
-	cry Cry_Meganium
+	cry Cry_Snivy
+	cry Cry_Servine
+	cry Cry_Serpentine
 	cry Cry_Cyndaquil
 	cry Cry_Quilava
 	cry Cry_Typhlosion
@@ -542,9 +542,9 @@ gCryTable_Reverse::
 	cry_reverse Cry_Dragonite
 	cry_reverse Cry_Mewtwo
 	cry_reverse Cry_Mew
-	cry_reverse Cry_Chikorita
-	cry_reverse Cry_Bayleef
-	cry_reverse Cry_Meganium
+	cry_reverse Cry_Snivy
+	cry_reverse Cry_Servine
+	cry_reverse Cry_Serpentine
 	cry_reverse Cry_Cyndaquil
 	cry_reverse Cry_Quilava
 	cry_reverse Cry_Typhlosion

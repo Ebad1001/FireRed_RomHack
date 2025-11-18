@@ -2111,7 +2111,7 @@ static const u16 sMewLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sChikoritaLevelUpLearnset[] = {
+static const u16 sSnivyLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_GROWL),
     LEVEL_UP_MOVE(8, MOVE_RAZOR_LEAF),
@@ -2125,7 +2125,7 @@ static const u16 sChikoritaLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sBayleefLevelUpLearnset[] = {
+static const u16 sServineLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_GROWL),
     LEVEL_UP_MOVE(1, MOVE_RAZOR_LEAF),
@@ -2141,7 +2141,7 @@ static const u16 sBayleefLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sMeganiumLevelUpLearnset[] = {
+static const u16 sSerpentineLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_GROWL),
     LEVEL_UP_MOVE(1, MOVE_RAZOR_LEAF),

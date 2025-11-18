@@ -760,17 +760,17 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 1,
     },
-    [SPECIES_CHIKORITA] =
+    [SPECIES_SNIVY] =
     {
         .size = MON_COORDS_SIZE(40, 48),
         .y_offset = 10,
     },
-    [SPECIES_BAYLEEF] =
+    [SPECIES_SERVINE] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 8,
     },
-    [SPECIES_MEGANIUM] =
+    [SPECIES_SERPENTINE] =
     {
         .size = MON_COORDS_SIZE(56, 64),
         .y_offset = 0,

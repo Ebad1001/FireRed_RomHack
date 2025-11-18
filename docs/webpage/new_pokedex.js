@@ -1,7 +1,7 @@
 const pokemon_names = [
-	"CHIKORITA",
-	"BAYLEEF",
-	"MEGANIUM",
+	"SNIVY",
+	"SERVINE",
+	"SERPENTINE",
 	"CYNDAQUIL",
 	"QUILAVA",
 	"TYPHLOSION",

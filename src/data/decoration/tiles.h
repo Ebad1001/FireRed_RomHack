@@ -482,7 +482,7 @@ const u16 DecorGfx_CYNDAQUIL_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 
-const u16 DecorGfx_CHIKORITA_DOLL[] = {
+const u16 DecorGfx_SNIVY_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 

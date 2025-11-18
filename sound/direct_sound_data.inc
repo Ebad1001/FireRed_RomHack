@@ -908,16 +908,16 @@ Cry_Mew::
 	.incbin "sound/direct_sound_samples/cries/mew.bin"
 
 	.align 2
-Cry_Chikorita::
-	.incbin "sound/direct_sound_samples/cries/chikorita.bin"
+Cry_Snivy::
+	.incbin "sound/direct_sound_samples/cries/snivy.bin"
 
 	.align 2
-Cry_Bayleef::
-	.incbin "sound/direct_sound_samples/cries/bayleef.bin"
+Cry_Servine::
+	.incbin "sound/direct_sound_samples/cries/servine.bin"
 
 	.align 2
-Cry_Meganium::
-	.incbin "sound/direct_sound_samples/cries/meganium.bin"
+Cry_Serpentine::
+	.incbin "sound/direct_sound_samples/cries/serpentine.bin"
 
 	.align 2
 Cry_Cyndaquil::

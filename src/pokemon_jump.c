@@ -797,7 +797,7 @@ static const struct PokemonJumpMons
     { .species = SPECIES_EEVEE,      .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_OMANYTE,    .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_KABUTO,     .jumpType = JUMP_TYPE_FAST },
-    { .species = SPECIES_CHIKORITA,  .jumpType = JUMP_TYPE_SLOW },
+    { .species = SPECIES_SNIVY,  .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_CYNDAQUIL,  .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_TOTODILE,   .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_SPINARAK,   .jumpType = JUMP_TYPE_FAST },

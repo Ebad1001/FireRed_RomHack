@@ -4310,7 +4310,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_MEGANIUM,
+					.species = SPECIES_SERPENTINE,
 					.heldItem = ITEM_MIRACLE_SEED,
 					.moves = {MOVE_SWEET_SCENT, MOVE_ATTRACT, MOVE_GIGA_DRAIN, MOVE_BODY_SLAM},
 					.hpEV = 84,
@@ -4328,7 +4328,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x25, // MALE SERIOUS
-					.nickname = _("MEGANIUM"),
+					.nickname = _("SERPENTINE"),
 					.friendship = 255
 				},
 			}

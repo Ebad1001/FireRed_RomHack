@@ -4410,7 +4410,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_CHIKORITA] = /* SNIVY */
+    [SPECIES_SNIVY] = /* SNIVY */
     {
         .baseHP = 45,
         .baseAttack = 49,
@@ -4439,7 +4439,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_BAYLEEF] = /* SERVINE */
+    [SPECIES_SERVINE] = /* SERVINE */
     {
         .baseHP = 60,
         .baseAttack = 62,
@@ -4468,7 +4468,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_MEGANIUM] = /* SPIRITREE */
+    [SPECIES_SERPENTINE] = /* SPIRITREE */
     {
         .baseHP = 80,
         .baseAttack = 82,

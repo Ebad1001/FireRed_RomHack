@@ -112,9 +112,9 @@ static const u16 sDexCategory_GrasslandPkmn_Page18[] = {
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page19[] = {
-    SPECIES_CHIKORITA,
-    SPECIES_BAYLEEF,
-    SPECIES_MEGANIUM,
+    SPECIES_SNIVY,
+    SPECIES_SERVINE,
+    SPECIES_SERPENTINE,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page20[] = {

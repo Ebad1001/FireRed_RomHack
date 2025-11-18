@@ -1976,39 +1976,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CHIKORITA] =
+    [NATIONAL_DEX_SNIVY] =
     {
         .categoryName = _("VINE"),
         .height = 6,
         .weight = 81,
-        .description = gChikoritaPokedexText,
-        .unusedDescription = gChikoritaPokedexTextUnused,
+        .description = gSnivyPokedexText,
+        .unusedDescription = gSnivyPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_BAYLEEF] =
+    [NATIONAL_DEX_SERVINE] =
     {
         .categoryName = _("VINE"),
         .height = 8,
         .weight = 160,
-        .description = gBayleefPokedexText,
-        .unusedDescription = gBayleefPokedexTextUnused,
+        .description = gServinePokedexText,
+        .unusedDescription = gServinePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_MEGANIUM] =
+    [NATIONAL_DEX_SERPENTINE] =
     {
         .categoryName = _("HAUNTED"),
         .height = 35,
         .weight = 530,
-        .description = gMeganiumPokedexText,
-        .unusedDescription = gMeganiumPokedexTextUnused,
+        .description = gSerpentinePokedexText,
+        .unusedDescription = gSerpentinePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

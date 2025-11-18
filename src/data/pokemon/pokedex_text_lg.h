@@ -1062,26 +1062,26 @@ const u8 gMewPokedexText[] = _(
 
 const u8 gMewPokedexTextUnused[] = _("");
 
-const u8 gChikoritaPokedexText[] = _(
+const u8 gSnivyPokedexText[] = _(
     "A sweet aroma gently wafts from the leaf\n"
     "on its head. It is docile and loves to\n"
     "soak up the sun's rays.");
 
-const u8 gChikoritaPokedexTextUnused[] = _("");
+const u8 gSnivyPokedexTextUnused[] = _("");
 
-const u8 gBayleefPokedexText[] = _(
+const u8 gServinePokedexText[] = _(
     "The scent of spices comes from around\n"
     "its neck. Somehow, sniffing it makes you\n"
     "want to fight.");
 
-const u8 gBayleefPokedexTextUnused[] = _("");
+const u8 gServinePokedexTextUnused[] = _("");
 
-const u8 gMeganiumPokedexText[] = _(
+const u8 gSerpentinePokedexText[] = _(
     "The aroma that rises from its petals\n"
     "contains a substance that calms aggressive\n"
     "feelings.");
 
-const u8 gMeganiumPokedexTextUnused[] = _("");
+const u8 gSerpentinePokedexTextUnused[] = _("");
 
 const u8 gCyndaquilPokedexText[] = _(
     "It is timid and always curls itself up in\n"
