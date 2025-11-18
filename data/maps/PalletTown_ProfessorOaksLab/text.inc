@@ -125,10 +125,10 @@ PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
     .string "Don't go away yet!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-    .string "Ah! CYNDAQUIL is your choice.\n"
+    .string "Ah! SCORBUNNY is your choice.\n"
     .string "You should raise it patiently.\p"
     .string "So, {PLAYER}, you're claiming the\n"
-    .string "FIRE POKéMON CYNDAQUIL?$"
+    .string "FIRE POKéMON SCORBUNNY?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
     .string "Hm! TOTODILE is your choice.\n"

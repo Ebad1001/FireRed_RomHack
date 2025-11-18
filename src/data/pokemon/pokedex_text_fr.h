@@ -1083,26 +1083,26 @@ const u8 gSerpentinePokedexText[] = _(
 
 const u8 gSerpentinePokedexTextUnused[] = _("");
 
-const u8 gCyndaquilPokedexText[] = _(
+const u8 gScorbunnyPokedexText[] = _(
     "HP     -  39    Ph.Atk -  52\n"
     "Ph.Def -  43    Sp.Atk -  60\n"
     "Sp.Def -  50    Speed  -  65");
 
-const u8 gCyndaquilPokedexTextUnused[] = _("");
+const u8 gScorbunnyPokedexTextUnused[] = _("");
 
-const u8 gQuilavaPokedexText[] = _(
+const u8 gRabootPokedexText[] = _(
     "HP     -  58    Ph.Atk -  64\n"
     "Ph.Def -  58    Sp.Atk -  80\n"
     "Sp.Def -  65    Speed  -  80");
 
-const u8 gQuilavaPokedexTextUnused[] = _("");
+const u8 gRabootPokedexTextUnused[] = _("");
 
-const u8 gTyphlosionPokedexText[] = _(
+const u8 gSunburnerPokedexText[] = _(
     "HP     -  78    Ph.Atk -  84\n"
     "Ph.Def -  78    Sp.Atk - 109\n"
     "Sp.Def -  85    Speed  - 100");
 
-const u8 gTyphlosionPokedexTextUnused[] = _("");
+const u8 gSunburnerPokedexTextUnused[] = _("");
 
 const u8 gTotodilePokedexText[] = _(
     "HP     -  50    Ph.Atk -  65\n"

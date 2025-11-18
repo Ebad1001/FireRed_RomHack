@@ -4497,7 +4497,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_CYNDAQUIL] =
+    [SPECIES_SCORBUNNY] =
     {
         .baseHP = 39,
         .baseAttack = 52,
@@ -4526,7 +4526,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_QUILAVA] =
+    [SPECIES_RABOOT] =
     {
         .baseHP = 58,
         .baseAttack = 64,
@@ -4555,7 +4555,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_TYPHLOSION] = /* SEPTEMBER */
+    [SPECIES_SUNBURNER] = /* SEPTEMBER */
     {
         .baseHP = 78,
         .baseAttack = 84,

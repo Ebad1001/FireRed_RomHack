@@ -324,7 +324,7 @@ static const u16 sEasyChatWordsByLetter_C[] = {
     EC_WORD_CUTE,
     EC_WORD_CUTE_CHARM,
     EC_WORD_CUTENESS,
-    EC_POKEMON(CYNDAQUIL),
+    EC_POKEMON(SCORBUNNY),
 };
 
 static const u16 sEasyChatWordsByLetter_D[] = {
@@ -1278,7 +1278,7 @@ static const u16 sEasyChatWordsByLetter_Q[] = {
     EC_POKEMON(QUAGSIRE),
     EC_WORD_QUESTION,
     EC_MOVE2(QUICK_ATTACK),
-    EC_POKEMON(QUILAVA),
+    EC_POKEMON(RABOOT),
     EC_WORD_QUITE,
     EC_POKEMON(QWILFISH),
 };
@@ -1749,7 +1749,7 @@ static const u16 sEasyChatWordsByLetter_T[] = {
     EC_WORD_TWIRLING,
     EC_MOVE2(TWISTER),
     EC_WORD_TYPE,
-    EC_POKEMON(TYPHLOSION),
+    EC_POKEMON(SUNBURNER),
     EC_POKEMON(TYRANITAR),
     EC_POKEMON(TYROGUE),
 };

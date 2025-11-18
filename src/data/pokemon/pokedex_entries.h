@@ -2015,39 +2015,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CYNDAQUIL] =
+    [NATIONAL_DEX_SCORBUNNY] =
     {
         .categoryName = _("FIRE-MOUSE"),
         .height = 4,
         .weight = 43,
-        .description = gCyndaquilPokedexText,
-        .unusedDescription = gCyndaquilPokedexTextUnused,
+        .description = gScorbunnyPokedexText,
+        .unusedDescription = gScorbunnyPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_QUILAVA] =
+    [NATIONAL_DEX_RABOOT] =
     {
         .categoryName = _("VOLCANO"),
         .height = 7,
         .weight = 250,
-        .description = gQuilavaPokedexText,
-        .unusedDescription = gQuilavaPokedexTextUnused,
+        .description = gRabootPokedexText,
+        .unusedDescription = gRabootPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_TYPHLOSION] =
+    [NATIONAL_DEX_SUNBURNER] =
     {
         .categoryName = _("VOLCANO"),
         .height = 18,
         .weight = 830,
-        .description = gTyphlosionPokedexText,
-        .unusedDescription = gTyphlosionPokedexTextUnused,
+        .description = gSunburnerPokedexText,
+        .unusedDescription = gSunburnerPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

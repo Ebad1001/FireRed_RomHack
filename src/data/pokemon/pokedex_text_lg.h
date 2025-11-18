@@ -1083,26 +1083,26 @@ const u8 gSerpentinePokedexText[] = _(
 
 const u8 gSerpentinePokedexTextUnused[] = _("");
 
-const u8 gCyndaquilPokedexText[] = _(
+const u8 gScorbunnyPokedexText[] = _(
     "It is timid and always curls itself up in\n"
     "a ball. If attacked, it flares up its back\n"
     "for protection.");
 
-const u8 gCyndaquilPokedexTextUnused[] = _("");
+const u8 gScorbunnyPokedexTextUnused[] = _("");
 
-const u8 gQuilavaPokedexText[] = _(
+const u8 gRabootPokedexText[] = _(
     "Be careful if it turns its back during\n"
     "battle. It means that it will attack with\n"
     "the fire on its back.");
 
-const u8 gQuilavaPokedexTextUnused[] = _("");
+const u8 gRabootPokedexTextUnused[] = _("");
 
-const u8 gTyphlosionPokedexText[] = _(
+const u8 gSunburnerPokedexText[] = _(
     "If its rage peaks, it becomes so hot that\n"
     "anything that touches it will instantly go\n"
     "up in flames.");
 
-const u8 gTyphlosionPokedexTextUnused[] = _("");
+const u8 gSunburnerPokedexTextUnused[] = _("");
 
 const u8 gTotodilePokedexText[] = _(
     "Its well-developed jaws are powerful and\n"

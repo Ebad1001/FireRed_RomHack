@@ -2157,7 +2157,7 @@ static const u16 sSerpentineLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sCyndaquilLevelUpLearnset[] = {
+static const u16 sScorbunnyLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_LEER),
     LEVEL_UP_MOVE(8, MOVE_EMBER),
@@ -2169,7 +2169,7 @@ static const u16 sCyndaquilLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sQuilavaLevelUpLearnset[] = {
+static const u16 sRabootLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_LEER),
     LEVEL_UP_MOVE(1, MOVE_SAND_ATTACK),
@@ -2182,7 +2182,7 @@ static const u16 sQuilavaLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sTyphlosionLevelUpLearnset[] = {
+static const u16 sSunburnerLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_LEER),
     LEVEL_UP_MOVE(1, MOVE_SAND_ATTACK),

@@ -3715,7 +3715,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM05_FLASH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_CYNDAQUIL]   = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_SCORBUNNY]   = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
                                         | TMHM(TM17_PROTECT)
@@ -3733,7 +3733,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM50_WILL_O_WISP)
                                         | TMHM(HM01_CUT)),
 
-    [SPECIES_QUILAVA]     = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_RABOOT]     = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM05_ROAR)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
@@ -3756,7 +3756,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_TYPHLOSION]  = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_SUNBURNER]  = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM05_ROAR)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)

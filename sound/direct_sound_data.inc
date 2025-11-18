@@ -920,16 +920,16 @@ Cry_Serpentine::
 	.incbin "sound/direct_sound_samples/cries/serpentine.bin"
 
 	.align 2
-Cry_Cyndaquil::
-	.incbin "sound/direct_sound_samples/cries/cyndaquil.bin"
+Cry_Scorbunny::
+	.incbin "sound/direct_sound_samples/cries/scorbunny.bin"
 
 	.align 2
-Cry_Quilava::
-	.incbin "sound/direct_sound_samples/cries/quilava.bin"
+Cry_Raboot::
+	.incbin "sound/direct_sound_samples/cries/raboot.bin"
 
 	.align 2
-Cry_Typhlosion::
-	.incbin "sound/direct_sound_samples/cries/typhlosion.bin"
+Cry_Sunburner::
+	.incbin "sound/direct_sound_samples/cries/sunburner.bin"
 
 	.align 2
 Cry_Totodile::

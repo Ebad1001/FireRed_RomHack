@@ -720,14 +720,14 @@ const struct Decoration gDecorations[] = {
         DecorDesc_TOGEPI_DOLL,
         DecorGfx_TOGEPI_DOLL
     }, {
-        DECOR_CYNDAQUIL_DOLL,
-        _("CYNDAQUIL DOLL"),
+        DECOR_SCORBUNNY_DOLL,
+        _("SCORBUNNY DOLL"),
         DECORPERM_SPRITE,
         DECORSHAPE_1x1,
         DECORCAT_DOLL,
         3000,
-        DecorDesc_CYNDAQUIL_DOLL,
-        DecorGfx_CYNDAQUIL_DOLL
+        DecorDesc_SCORBUNNY_DOLL,
+        DecorGfx_SCORBUNNY_DOLL
     }, {
         DECOR_SNIVY_DOLL,
         _("SNIVY DOLL"),

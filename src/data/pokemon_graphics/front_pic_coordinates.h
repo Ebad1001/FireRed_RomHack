@@ -775,17 +775,17 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 0,
     },
-    [SPECIES_CYNDAQUIL] =
+    [SPECIES_SCORBUNNY] =
     {
         .size = MON_COORDS_SIZE(40, 40),
         .y_offset = 14,
     },
-    [SPECIES_QUILAVA] =
+    [SPECIES_RABOOT] =
     {
         .size = MON_COORDS_SIZE(56, 48),
         .y_offset = 8,
     },
-    [SPECIES_TYPHLOSION] =
+    [SPECIES_SUNBURNER] =
     {
         .size = MON_COORDS_SIZE(56, 64),
         .y_offset = 0,

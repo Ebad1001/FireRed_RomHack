@@ -118,9 +118,9 @@ static const u16 sDexCategory_GrasslandPkmn_Page19[] = {
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page20[] = {
-    SPECIES_CYNDAQUIL,
-    SPECIES_QUILAVA,
-    SPECIES_TYPHLOSION,
+    SPECIES_SCORBUNNY,
+    SPECIES_RABOOT,
+    SPECIES_SUNBURNER,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page21[] = {

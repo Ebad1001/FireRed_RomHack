@@ -1117,17 +1117,17 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_CYNDAQUIL] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_SCORBUNNY] = TUTOR(MOVE_BODY_SLAM)
                         | TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_QUILAVA] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_RABOOT] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_TYPHLOSION] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_SUNBURNER] = TUTOR(MOVE_FIRE_PUNCH)
                          | TUTOR(MOVE_THUNDERPUNCH)
                          | TUTOR(MOVE_BODY_SLAM)
                          | TUTOR(MOVE_DOUBLE_EDGE)
