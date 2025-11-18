@@ -1118,12 +1118,12 @@ const u8 gCroconawPokedexText[] = _(
 
 const u8 gCroconawPokedexTextUnused[] = _("");
 
-const u8 gFeraligatrPokedexText[] = _(
+const u8 gRexoboxerPokedexText[] = _(
     "When it bites with its massive and\n"
     "powerful jaws, it shakes its head and\n"
     "savagely tears up its victim.");
 
-const u8 gFeraligatrPokedexTextUnused[] = _("");
+const u8 gRexoboxerPokedexTextUnused[] = _("");
 
 const u8 gSentretPokedexText[] = _(
     "A very cautious POKéMON, it raises itself\n"

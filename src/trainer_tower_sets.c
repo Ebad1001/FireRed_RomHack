@@ -4806,7 +4806,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_1 = {
 			.speechAfter = {EC_WORD_OKAY, EC_WORD_I, EC_WORD_CONCEDE, EC_WORD_ELLIPSIS, EC_WORD_I, EC_WORD_LOST},
 			.mons = {
 				{
-					.species = SPECIES_FERALIGATR,
+					.species = SPECIES_REXOBOXER,
 					.heldItem = ITEM_FOCUS_BAND,
 					.moves = {MOVE_SURF, MOVE_EARTHQUAKE, MOVE_CRUNCH, MOVE_DRAGON_CLAW},
 					.hpEV = 0,
@@ -4824,7 +4824,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_1 = {
 					.spDefenseIV = 15,
 					.abilityNum = 0,
 					.personality = 0x32, // MALE HARDY
-					.nickname = _("FERALIGATR"),
+					.nickname = _("REXOBOXER"),
 					.friendship = 255
 				},
 				{

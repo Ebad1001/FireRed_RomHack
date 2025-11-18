@@ -7,7 +7,7 @@ const pokemon_names = [
 	"SUNBURNER",
 	"TOTODILE",
 	"CROCONAW",
-	"FERALIGATR",
+	"REXOBOXER",
 	"RATTATA",
 	"RATICATE",
 	"SENTRET",

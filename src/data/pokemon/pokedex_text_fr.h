@@ -1118,12 +1118,12 @@ const u8 gCroconawPokedexText[] = _(
 
 const u8 gCroconawPokedexTextUnused[] = _("");
 
-const u8 gFeraligatrPokedexText[] = _(
+const u8 gRexoboxerPokedexText[] = _(
     "HP     -  85    Ph.Atk - 105\n"
     "Ph.Def - 100    Sp.Atk -  79\n"
     "Sp.Def -  83    Speed  -  78");
 
-const u8 gFeraligatrPokedexTextUnused[] = _("");
+const u8 gRexoboxerPokedexTextUnused[] = _("");
 
 const u8 gSentretPokedexText[] = _(
     "HP     -  35    Ph.Atk -  46\n"

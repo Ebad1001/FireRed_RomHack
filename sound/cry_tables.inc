@@ -159,7 +159,7 @@ gCryTable::
 	cry Cry_Sunburner
 	cry Cry_Totodile
 	cry Cry_Croconaw
-	cry Cry_Feraligatr
+	cry Cry_Rexoboxer
 	cry Cry_Sentret
 	cry Cry_Furret
 	cry Cry_Hoothoot
@@ -550,7 +550,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Sunburner
 	cry_reverse Cry_Totodile
 	cry_reverse Cry_Croconaw
-	cry_reverse Cry_Feraligatr
+	cry_reverse Cry_Rexoboxer
 	cry_reverse Cry_Sentret
 	cry_reverse Cry_Furret
 	cry_reverse Cry_Hoothoot

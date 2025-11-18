@@ -940,8 +940,8 @@ Cry_Croconaw::
 	.incbin "sound/direct_sound_samples/cries/croconaw.bin"
 
 	.align 2
-Cry_Feraligatr::
-	.incbin "sound/direct_sound_samples/cries/feraligatr.bin"
+Cry_Rexoboxer::
+	.incbin "sound/direct_sound_samples/cries/rexoboxer.bin"
 
 	.align 2
 Cry_Sentret::

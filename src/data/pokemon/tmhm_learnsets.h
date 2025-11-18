@@ -3834,7 +3834,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM07_WATERFALL)
                                         | TMHM(HM08_DIVE)),
 
-    [SPECIES_FERALIGATR]  = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_REXOBOXER]  = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM02_DRAGON_CLAW)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM05_ROAR)

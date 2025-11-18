@@ -2080,13 +2080,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_FERALIGATR] =
+    [NATIONAL_DEX_REXOBOXER] =
     {
         .categoryName = _("BOXER"),
         .height = 23,
         .weight = 900,
-        .description = gFeraligatrPokedexText,
-        .unusedDescription = gFeraligatrPokedexTextUnused,
+        .description = gRexoboxerPokedexText,
+        .unusedDescription = gRexoboxerPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

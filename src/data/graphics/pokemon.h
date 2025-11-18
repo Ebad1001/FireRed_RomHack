@@ -1111,12 +1111,12 @@ const u32 gMonShinyPalette_Croconaw[] = INCBIN_U32("graphics/pokemon/croconaw/sh
 const u8 gMonIcon_Croconaw[] = INCBIN_U8("graphics/pokemon/croconaw/icon.4bpp");
 const u8 gMonFootprint_Croconaw[] = INCBIN_U8("graphics/pokemon/croconaw/footprint.1bpp");
 
-const u32 gMonFrontPic_Feraligatr[] = INCBIN_U32("graphics/pokemon/feraligatr/front.4bpp.lz");
-const u32 gMonPalette_Feraligatr[] = INCBIN_U32("graphics/pokemon/feraligatr/normal.gbapal.lz");
-const u32 gMonBackPic_Feraligatr[] = INCBIN_U32("graphics/pokemon/feraligatr/back.4bpp.lz");
-const u32 gMonShinyPalette_Feraligatr[] = INCBIN_U32("graphics/pokemon/feraligatr/shiny.gbapal.lz");
-const u8 gMonIcon_Feraligatr[] = INCBIN_U8("graphics/pokemon/feraligatr/icon.4bpp");
-const u8 gMonFootprint_Feraligatr[] = INCBIN_U8("graphics/pokemon/feraligatr/footprint.1bpp");
+const u32 gMonFrontPic_Rexoboxer[] = INCBIN_U32("graphics/pokemon/rexoboxer/front.4bpp.lz");
+const u32 gMonPalette_Rexoboxer[] = INCBIN_U32("graphics/pokemon/rexoboxer/normal.gbapal.lz");
+const u32 gMonBackPic_Rexoboxer[] = INCBIN_U32("graphics/pokemon/rexoboxer/back.4bpp.lz");
+const u32 gMonShinyPalette_Rexoboxer[] = INCBIN_U32("graphics/pokemon/rexoboxer/shiny.gbapal.lz");
+const u8 gMonIcon_Rexoboxer[] = INCBIN_U8("graphics/pokemon/rexoboxer/icon.4bpp");
+const u8 gMonFootprint_Rexoboxer[] = INCBIN_U8("graphics/pokemon/rexoboxer/footprint.1bpp");
 
 const u32 gMonFrontPic_Sentret[] = INCBIN_U32("graphics/pokemon/sentret/front.4bpp.lz");
 const u32 gMonPalette_Sentret[] = INCBIN_U32("graphics/pokemon/sentret/normal.gbapal.lz");

@@ -4642,7 +4642,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = TRUE,
     },
-    [SPECIES_FERALIGATR] = /* REXOBOXER */
+    [SPECIES_REXOBOXER] = /* REXOBOXER */
     {
         .baseHP = 85,
         .baseAttack = 105,
