@@ -3536,7 +3536,7 @@
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_VENOMOTH"
+                "species": "SPECIES_METAMOTH"
               },
               {
                 "min_level": 23,
@@ -3690,7 +3690,7 @@
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_VENOMOTH"
+                "species": "SPECIES_METAMOTH"
               },
               {
                 "min_level": 23,
@@ -3844,7 +3844,7 @@
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_VENOMOTH"
+                "species": "SPECIES_METAMOTH"
               },
               {
                 "min_level": 23,
@@ -3998,7 +3998,7 @@
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_VENOMOTH"
+                "species": "SPECIES_METAMOTH"
               },
               {
                 "min_level": 23,
@@ -9145,7 +9145,7 @@
               {
                 "min_level": 37,
                 "max_level": 37,
-                "species": "SPECIES_VENOMOTH"
+                "species": "SPECIES_METAMOTH"
               },
               {
                 "min_level": 37,
@@ -9155,7 +9155,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_VENOMOTH"
+                "species": "SPECIES_METAMOTH"
               },
               {
                 "min_level": 40,
@@ -9299,7 +9299,7 @@
               {
                 "min_level": 37,
                 "max_level": 37,
-                "species": "SPECIES_VENOMOTH"
+                "species": "SPECIES_METAMOTH"
               },
               {
                 "min_level": 37,
@@ -9309,7 +9309,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_VENOMOTH"
+                "species": "SPECIES_METAMOTH"
               },
               {
                 "min_level": 40,

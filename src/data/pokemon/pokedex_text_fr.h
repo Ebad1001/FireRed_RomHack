@@ -341,12 +341,12 @@ const u8 gVenonatPokedexText[] = _(
 
 const u8 gVenonatPokedexTextUnused[] = _("");
 
-const u8 gVenomothPokedexText[] = _(
+const u8 gMetamothPokedexText[] = _(
     "HP     -  70    Ph.Atk -  65\n"
     "Ph.Def -  60    Sp.Atk -  90\n"
     "Sp.Def -  75    Speed  -  90");
 
-const u8 gVenomothPokedexTextUnused[] = _("");
+const u8 gMetamothPokedexTextUnused[] = _("");
 
 const u8 gDiglettPokedexText[] = _(
     "HP     -  10    Ph.Atk -  55\n"

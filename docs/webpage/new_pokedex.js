@@ -34,7 +34,7 @@ const pokemon_names = [
 	"PELIPPER",
 	"CATERPIE",
 	"METAPOD",
-	"VENOMOTH",
+	"METAMOTH",
 	"WEEDLE",
 	"KAKUNA",
 	"BEEDRILL",

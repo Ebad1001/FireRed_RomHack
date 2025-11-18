@@ -625,7 +625,7 @@ static const u16 sVenonatLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sVenomothLevelUpLearnset[] = {
+static const u16 sMetamothLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SILVER_WIND),
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_DISABLE),

@@ -245,7 +245,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(40, 56),
         .y_offset = 11,
     },
-    [SPECIES_VENOMOTH] =
+    [SPECIES_METAMOTH] =
     {
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 8,

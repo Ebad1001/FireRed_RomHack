@@ -5312,7 +5312,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerShannon[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_VENOMOTH,
+        .species = SPECIES_METAMOTH,
         .moves = {MOVE_PSYBEAM, MOVE_GUST, MOVE_SUPERSONIC, MOVE_LEECH_LIFE},
     },
 };
@@ -5749,7 +5749,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_LeaderSabrina[] = {
     {
         .iv = 0,
         .lvl = 38,
-        .species = SPECIES_VENOMOTH,
+        .species = SPECIES_METAMOTH,
         .moves = {MOVE_PSYBEAM, MOVE_GUST, MOVE_LEECH_LIFE, MOVE_SUPERSONIC},
     },
     {
@@ -8663,7 +8663,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BugCatcherVance[] = {
     {
         .iv = 0,
         .lvl = 48,
-        .species = SPECIES_VENOMOTH,
+        .species = SPECIES_METAMOTH,
     },
 };
 

@@ -347,7 +347,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_VENOMOTH] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_METAMOTH] = TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
 

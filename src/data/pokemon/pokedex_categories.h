@@ -153,7 +153,7 @@ static const u16 sDexCategory_GrasslandPkmn_Page22[] = {
 static const u16 sDexCategory_ForestPkmn_Page1[] = {
     SPECIES_CATERPIE,
     SPECIES_METAPOD,
-    SPECIES_VENOMOTH,
+    SPECIES_METAMOTH,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page2[] = {

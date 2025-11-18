@@ -1784,7 +1784,7 @@ static const u16 sEasyChatWordsByLetter_U[] = {
 static const u16 sEasyChatWordsByLetter_V[] = {
     EC_WORD_VACATION,
     EC_POKEMON(VAPOREON),
-    EC_POKEMON(VENOMOTH),
+    EC_POKEMON(METAMOTH),
     EC_POKEMON(VENONAT),
     EC_POKEMON(VENUSAUR),
     EC_WORD_VERSION,

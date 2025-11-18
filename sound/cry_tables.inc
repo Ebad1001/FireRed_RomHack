@@ -48,7 +48,7 @@ gCryTable::
 	cry Cry_Paras
 	cry Cry_Parasect
 	cry Cry_Venonat
-	cry Cry_Venomoth
+	cry Cry_Metamoth
 	cry Cry_Diglett
 	cry Cry_Dugtrio
 	cry Cry_Meowth
@@ -439,7 +439,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Paras
 	cry_reverse Cry_Parasect
 	cry_reverse Cry_Venonat
-	cry_reverse Cry_Venomoth
+	cry_reverse Cry_Metamoth
 	cry_reverse Cry_Diglett
 	cry_reverse Cry_Dugtrio
 	cry_reverse Cry_Meowth

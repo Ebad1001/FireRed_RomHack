@@ -1423,7 +1423,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
     },
-    [SPECIES_VENOMOTH] =
+    [SPECIES_METAMOTH] =
     {
         .baseHP = 70,
         .baseAttack = 65,

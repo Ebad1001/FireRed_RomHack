@@ -334,12 +334,12 @@ const u32 gMonShinyPalette_Venonat[] = INCBIN_U32("graphics/pokemon/venonat/shin
 const u8 gMonIcon_Venonat[] = INCBIN_U8("graphics/pokemon/venonat/icon.4bpp");
 const u8 gMonFootprint_Venonat[] = INCBIN_U8("graphics/pokemon/venonat/footprint.1bpp");
 
-const u32 gMonFrontPic_Venomoth[] = INCBIN_U32("graphics/pokemon/venomoth/front.4bpp.lz");
-const u32 gMonPalette_Venomoth[] = INCBIN_U32("graphics/pokemon/venomoth/normal.gbapal.lz");
-const u32 gMonBackPic_Venomoth[] = INCBIN_U32("graphics/pokemon/venomoth/back.4bpp.lz");
-const u32 gMonShinyPalette_Venomoth[] = INCBIN_U32("graphics/pokemon/venomoth/shiny.gbapal.lz");
-const u8 gMonIcon_Venomoth[] = INCBIN_U8("graphics/pokemon/venomoth/icon.4bpp");
-const u8 gMonFootprint_Venomoth[] = INCBIN_U8("graphics/pokemon/venomoth/footprint.1bpp");
+const u32 gMonFrontPic_Metamoth[] = INCBIN_U32("graphics/pokemon/metamoth/front.4bpp.lz");
+const u32 gMonPalette_Metamoth[] = INCBIN_U32("graphics/pokemon/metamoth/normal.gbapal.lz");
+const u32 gMonBackPic_Metamoth[] = INCBIN_U32("graphics/pokemon/metamoth/back.4bpp.lz");
+const u32 gMonShinyPalette_Metamoth[] = INCBIN_U32("graphics/pokemon/metamoth/shiny.gbapal.lz");
+const u8 gMonIcon_Metamoth[] = INCBIN_U8("graphics/pokemon/metamoth/icon.4bpp");
+const u8 gMonFootprint_Metamoth[] = INCBIN_U8("graphics/pokemon/metamoth/footprint.1bpp");
 
 const u32 gMonFrontPic_Diglett[] = INCBIN_U32("graphics/pokemon/diglett/front.4bpp.lz");
 const u32 gMonPalette_Diglett[] = INCBIN_U32("graphics/pokemon/diglett/normal.gbapal.lz");

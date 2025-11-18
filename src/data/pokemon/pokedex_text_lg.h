@@ -341,12 +341,12 @@ const u8 gVenonatPokedexText[] = _(
 
 const u8 gVenonatPokedexTextUnused[] = _("");
 
-const u8 gVenomothPokedexText[] = _(
+const u8 gMetamothPokedexText[] = _(
     "The dustlike scales covering its wings\n"
     "are color-coded to indicate the kinds of\n"
     "poison it has.");
 
-const u8 gVenomothPokedexTextUnused[] = _("");
+const u8 gMetamothPokedexTextUnused[] = _("");
 
 const u8 gDiglettPokedexText[] = _(
     "Lives about one yard underground where it\n"

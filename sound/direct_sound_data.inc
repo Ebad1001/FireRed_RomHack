@@ -496,8 +496,8 @@ Cry_Venonat::
 	.incbin "sound/direct_sound_samples/cries/venonat.bin"
 
 	.align 2
-Cry_Venomoth::
-	.incbin "sound/direct_sound_samples/cries/venomoth.bin"
+Cry_Metamoth::
+	.incbin "sound/direct_sound_samples/cries/metamoth.bin"
 
 	.align 2
 Cry_Diglett::

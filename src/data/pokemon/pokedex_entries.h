@@ -637,13 +637,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_VENOMOTH] =
+    [NATIONAL_DEX_METAMOTH] =
     {
         .categoryName = _("MOTH"),
         .height = 15,
         .weight = 125,
-        .description = gVenomothPokedexText,
-        .unusedDescription = gVenomothPokedexTextUnused,
+        .description = gMetamothPokedexText,
+        .unusedDescription = gMetamothPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
