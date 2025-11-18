@@ -1293,12 +1293,12 @@ const u8 gAzumarillPokedexText[] = _(
 
 const u8 gAzumarillPokedexTextUnused[] = _("");
 
-const u8 gSudowoodoPokedexText[] = _(
+const u8 gGalladePokedexText[] = _(
     "Although it always pretends to be a tree,\n"
     "its composition appears to be closer to a\n"
     "rock than a plant.");
 
-const u8 gSudowoodoPokedexTextUnused[] = _("");
+const u8 gGalladePokedexTextUnused[] = _("");
 
 const u8 gPolitoedPokedexText[] = _(
     "If POLIWAG and POLIWHIRL hear its\n"

@@ -184,7 +184,7 @@ gCryTable::
 	cry Cry_Bellossom
 	cry Cry_Marill
 	cry Cry_Azumarill
-	cry Cry_Sudowoodo
+	cry Cry_Gallade
 	cry Cry_Politoed
 	cry Cry_Hoppip
 	cry Cry_Skiploom
@@ -575,7 +575,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Bellossom
 	cry_reverse Cry_Marill
 	cry_reverse Cry_Azumarill
-	cry_reverse Cry_Sudowoodo
+	cry_reverse Cry_Gallade
 	cry_reverse Cry_Politoed
 	cry_reverse Cry_Hoppip
 	cry_reverse Cry_Skiploom

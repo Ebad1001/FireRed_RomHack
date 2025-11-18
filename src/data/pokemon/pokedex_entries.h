@@ -2405,13 +2405,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SUDOWOODO] =
+    [NATIONAL_DEX_GALLADE] =
     {
         .categoryName = _("BRAVE"),
         .height = 16,
         .weight = 520,
-        .description = gSudowoodoPokedexText,
-        .unusedDescription = gSudowoodoPokedexTextUnused,
+        .description = gGalladePokedexText,
+        .unusedDescription = gGalladePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

@@ -733,7 +733,7 @@ static const u16 sDexCategory_UrbanPkmn_Page6[] = {
     SPECIES_RALTS,
     SPECIES_KIRLIA,
     SPECIES_GARDEVOIR,
-    SPECIES_SUDOWOODO,
+    SPECIES_GALLADE,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page7[] = {

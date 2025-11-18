@@ -1293,12 +1293,12 @@ const u8 gAzumarillPokedexText[] = _(
 
 const u8 gAzumarillPokedexTextUnused[] = _("");
 
-const u8 gSudowoodoPokedexText[] = _(
+const u8 gGalladePokedexText[] = _(
     "HP     -  70    Ph.Atk - 100\n"
     "Ph.Def - 115    Sp.Atk -  30\n"
     "Sp.Def -  65    Speed  -  30");
 
-const u8 gSudowoodoPokedexTextUnused[] = _("");
+const u8 gGalladePokedexTextUnused[] = _("");
 
 const u8 gPolitoedPokedexText[] = _(
     "HP     -  90    Ph.Atk -  75\n"

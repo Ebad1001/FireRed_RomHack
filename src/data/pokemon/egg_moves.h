@@ -615,7 +615,7 @@ const u16 gEggMoves[] = {
               MOVE_CONFUSE_RAY,
               MOVE_SUBSTITUTE),
 
-    egg_moves(SUDOWOODO,
+    egg_moves(GALLADE,
               MOVE_EXPLOSION),
 
     egg_moves(HOPPIP,

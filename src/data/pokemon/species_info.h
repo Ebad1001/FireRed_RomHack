@@ -5367,7 +5367,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_SUDOWOODO] = /* GALLADE */
+    [SPECIES_GALLADE] = /* GALLADE */
     {
         .baseHP = 70,
         .baseAttack = 100,

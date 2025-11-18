@@ -81,7 +81,7 @@ const pokemon_names = [
 	"RALTS",
 	"KIRLIA",
 	"GARDEVOIR",
-	"SUDOWOODO",
+	"GALLADE",
 	"CHINCHOU",
 	"LANTURN",
 	"SURSKIT",

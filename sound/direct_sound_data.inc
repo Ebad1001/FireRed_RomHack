@@ -1040,8 +1040,8 @@ Cry_Azumarill::
 	.incbin "sound/direct_sound_samples/cries/azumarill.bin"
 
 	.align 2
-Cry_Sudowoodo::
-	.incbin "sound/direct_sound_samples/cries/sudowoodo.bin"
+Cry_Gallade::
+	.incbin "sound/direct_sound_samples/cries/gallade.bin"
 
 	.align 2
 Cry_Politoed::
