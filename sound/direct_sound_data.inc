@@ -944,12 +944,12 @@ Cry_Rexoboxer::
 	.incbin "sound/direct_sound_samples/cries/rexoboxer.bin"
 
 	.align 2
-Cry_Sentret::
-	.incbin "sound/direct_sound_samples/cries/sentret.bin"
+Cry_Bidoof::
+	.incbin "sound/direct_sound_samples/cries/bidoof.bin"
 
 	.align 2
-Cry_Furret::
-	.incbin "sound/direct_sound_samples/cries/furret.bin"
+Cry_Bibarel::
+	.incbin "sound/direct_sound_samples/cries/bibarel.bin"
 
 	.align 2
 Cry_Hoothoot::

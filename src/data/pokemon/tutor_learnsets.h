@@ -1170,12 +1170,12 @@ static const u16 sTutorLearnsets[] =
                          | TUTOR(MOVE_ROCK_SLIDE)
                          | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SENTRET] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_BIDOOF] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_FURRET] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_BIBAREL] = TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_SUBSTITUTE),

@@ -1125,19 +1125,19 @@ const u8 gRexoboxerPokedexText[] = _(
 
 const u8 gRexoboxerPokedexTextUnused[] = _("");
 
-const u8 gSentretPokedexText[] = _(
+const u8 gBidoofPokedexText[] = _(
     "HP     -  35    Ph.Atk -  46\n"
     "Ph.Def -  34    Sp.Atk -  35\n"
     "Sp.Def -  45    Speed  -  20");
 
-const u8 gSentretPokedexTextUnused[] = _("");
+const u8 gBidoofPokedexTextUnused[] = _("");
 
-const u8 gFurretPokedexText[] = _(
+const u8 gBibarelPokedexText[] = _(
     "HP     -  85    Ph.Atk -  76\n"
     "Ph.Def -  64    Sp.Atk -  45\n"
     "Sp.Def -  55    Speed  -  90");
 
-const u8 gFurretPokedexTextUnused[] = _("");
+const u8 gBibarelPokedexTextUnused[] = _("");
 
 const u8 gHoothootPokedexText[] = _(
     "HP     -  60    Ph.Atk -  30\n"

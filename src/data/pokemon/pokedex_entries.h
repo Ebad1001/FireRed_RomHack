@@ -2093,26 +2093,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SENTRET] =
+    [NATIONAL_DEX_BIDOOF] =
     {
         .categoryName = _("BEAVER"),
         .height = 5,
         .weight = 200,
-        .description = gSentretPokedexText,
-        .unusedDescription = gSentretPokedexTextUnused,
+        .description = gBidoofPokedexText,
+        .unusedDescription = gBidoofPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_FURRET] =
+    [NATIONAL_DEX_BIBAREL] =
     {
         .categoryName = _("BEAVER"),
         .height = 10,
         .weight = 315,
-        .description = gFurretPokedexText,
-        .unusedDescription = gFurretPokedexTextUnused,
+        .description = gBibarelPokedexText,
+        .unusedDescription = gBibarelPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

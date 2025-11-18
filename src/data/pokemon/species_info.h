@@ -4671,7 +4671,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_SENTRET] = /* BIDOOF */
+    [SPECIES_BIDOOF] = /* BIDOOF */
     {
         .baseHP = 35,
         .baseAttack = 46,
@@ -4700,7 +4700,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_FURRET] = /* BIBAREL */
+    [SPECIES_BIBAREL] = /* BIBAREL */
     {
         .baseHP = 85,
         .baseAttack = 76,

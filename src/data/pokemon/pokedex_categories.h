@@ -294,8 +294,8 @@ static const u16 sDexCategory_ForestPkmn_Page24[] = {
 // };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page1[] = {
-    SPECIES_SENTRET,
-    SPECIES_FURRET,
+    SPECIES_BIDOOF,
+    SPECIES_BIBAREL,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page2[] = {

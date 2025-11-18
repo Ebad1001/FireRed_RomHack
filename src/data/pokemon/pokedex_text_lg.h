@@ -1125,19 +1125,19 @@ const u8 gRexoboxerPokedexText[] = _(
 
 const u8 gRexoboxerPokedexTextUnused[] = _("");
 
-const u8 gSentretPokedexText[] = _(
+const u8 gBidoofPokedexText[] = _(
     "A very cautious POKéMON, it raises itself\n"
     "up using its tail to get a better view of\n"
     "its surroundings.");
 
-const u8 gSentretPokedexTextUnused[] = _("");
+const u8 gBidoofPokedexTextUnused[] = _("");
 
-const u8 gFurretPokedexText[] = _(
+const u8 gBibarelPokedexText[] = _(
     "It makes a nest to suit its long and skinny\n"
     "body. The nest is impossible for other\n"
     "POKéMON to enter.");
 
-const u8 gFurretPokedexTextUnused[] = _("");
+const u8 gBibarelPokedexTextUnused[] = _("");
 
 const u8 gHoothootPokedexText[] = _(
     "It always stands on one foot. It changes\n"

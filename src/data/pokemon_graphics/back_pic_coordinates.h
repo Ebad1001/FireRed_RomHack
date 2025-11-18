@@ -805,12 +805,12 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 1,
     },
-    [SPECIES_SENTRET] =
+    [SPECIES_BIDOOF] =
     {
         .size = MON_COORDS_SIZE(48, 56),
         .y_offset = 5,
     },
-    [SPECIES_FURRET] =
+    [SPECIES_BIBAREL] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 8,

@@ -514,7 +514,7 @@ const u16 gEggMoves[] = {
               MOVE_SLAM,
               MOVE_DRAGON_CLAW),
 
-    egg_moves(SENTRET,
+    egg_moves(BIDOOF,
               MOVE_DOUBLE_EDGE,
               MOVE_PURSUIT,
               MOVE_SLASH,
