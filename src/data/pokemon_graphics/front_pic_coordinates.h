@@ -1455,22 +1455,22 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(32, 40),
         .y_offset = 14,
     },
-    [SPECIES_SILCOON] =
+    [SPECIES_PANSAGE] =
     {
         .size = MON_COORDS_SIZE(56, 40),
         .y_offset = 17,
     },
-    [SPECIES_BEAUTIFLY] =
+    [SPECIES_PANSEAR] =
     {
         .size = MON_COORDS_SIZE(64, 48),
         .y_offset = 9,
     },
-    [SPECIES_CASCOON] =
+    [SPECIES_PANPOUR] =
     {
         .size = MON_COORDS_SIZE(56, 32),
         .y_offset = 16,
     },
-    [SPECIES_DUSTOX] =
+    [SPECIES_PANVOLT] =
     {
         .size = MON_COORDS_SIZE(64, 48),
         .y_offset = 15,

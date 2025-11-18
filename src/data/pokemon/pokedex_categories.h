@@ -163,10 +163,10 @@ static const u16 sDexCategory_ForestPkmn_Page2[] = {
 };
 
 static const u16 sDexCategory_ForestPkmn_Page3[] = {
-    SPECIES_SILCOON,
-    SPECIES_BEAUTIFLY,
-    SPECIES_CASCOON,
-    SPECIES_DUSTOX,
+    SPECIES_PANSAGE,
+    SPECIES_PANSEAR,
+    SPECIES_PANPOUR,
+    SPECIES_PANVOLT,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page4[] = {

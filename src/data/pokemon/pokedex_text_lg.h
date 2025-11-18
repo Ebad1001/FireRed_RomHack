@@ -1860,33 +1860,33 @@ const u8 gSpiraloonePokedexText[] = _(
 
 const u8 gSpiraloonePokedexTextUnused[] = _("");
 
-const u8 gSilcoonPokedexText[] = _(
+const u8 gPansagePokedexText[] = _(
     "It conserves its energy by moving as\n"
     "little as possible. It awaits evolution\n"
     "while drinking only a little rainwater.");
 
-const u8 gSilcoonPokedexTextUnused[] = _("");
+const u8 gPansagePokedexTextUnused[] = _("");
 
-const u8 gBeautiflyPokedexText[] = _(
+const u8 gPansearPokedexText[] = _(
     "Despite its appearance, it has an\n"
     "aggressive nature. It attacks by jabbing\n"
     "with its long, thin mouth.");
 
-const u8 gBeautiflyPokedexTextUnused[] = _("");
+const u8 gPansearPokedexTextUnused[] = _("");
 
-const u8 gCascoonPokedexText[] = _(
+const u8 gPanpourPokedexText[] = _(
     "Its body, which is made of soft silk,\n"
     "hardens over time. When cracks appear,\n"
     "evolution is near.");
 
-const u8 gCascoonPokedexTextUnused[] = _("");
+const u8 gPanpourPokedexTextUnused[] = _("");
 
-const u8 gDustoxPokedexText[] = _(
+const u8 gPanvoltPokedexText[] = _(
     "It scatters horribly toxic dust when it\n"
     "senses danger. They tend to gather in the\n"
     "glow of streetlamps at night.");
 
-const u8 gDustoxPokedexTextUnused[] = _("");
+const u8 gPanvoltPokedexTextUnused[] = _("");
 
 const u8 gLotadPokedexText[] = _(
     "It searches about for clean water. If it\n"

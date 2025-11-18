@@ -7741,7 +7741,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_SILCOON] = /* PANSAGE */
+    [SPECIES_PANSAGE] = /* PANSAGE */
     {
         .baseHP = 50,
         .baseAttack = 35,
@@ -7770,7 +7770,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_WHITE,
         .noFlip = FALSE,
     },
-    [SPECIES_BEAUTIFLY] = /* PANSEAR */
+    [SPECIES_PANSEAR] = /* PANSEAR */
     {
         .baseHP = 60,
         .baseAttack = 70,
@@ -7799,7 +7799,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_CASCOON] = /* PANPOUR */
+    [SPECIES_PANPOUR] = /* PANPOUR */
     {
         .baseHP = 50,
         .baseAttack = 35,
@@ -7828,7 +7828,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
     },
-    [SPECIES_DUSTOX] = /* PANVOLT */
+    [SPECIES_PANVOLT] = /* PANVOLT */
     {
         .baseHP = 60,
         .baseAttack = 50,

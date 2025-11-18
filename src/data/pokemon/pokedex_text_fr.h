@@ -1860,33 +1860,33 @@ const u8 gSpiraloonePokedexText[] = _(
 
 const u8 gSpiraloonePokedexTextUnused[] = _("");
 
-const u8 gSilcoonPokedexText[] = _(
+const u8 gPansagePokedexText[] = _(
     "HP     -  50    Ph.Atk -  35\n"
     "Ph.Def -  55    Sp.Atk -  25\n"
     "Sp.Def -  25    Speed  -  15");
 
-const u8 gSilcoonPokedexTextUnused[] = _("");
+const u8 gPansagePokedexTextUnused[] = _("");
 
-const u8 gBeautiflyPokedexText[] = _(
+const u8 gPansearPokedexText[] = _(
     "HP     -  60    Ph.Atk -  70\n"
     "Ph.Def -  50    Sp.Atk -  90\n"
     "Sp.Def -  50    Speed  -  65");
 
-const u8 gBeautiflyPokedexTextUnused[] = _("");
+const u8 gPansearPokedexTextUnused[] = _("");
 
-const u8 gCascoonPokedexText[] = _(
+const u8 gPanpourPokedexText[] = _(
     "HP     -  50    Ph.Atk -  35\n"
     "Ph.Def -  55    Sp.Atk -  25\n"
     "Sp.Def -  25    Speed  -  15");
 
-const u8 gCascoonPokedexTextUnused[] = _("");
+const u8 gPanpourPokedexTextUnused[] = _("");
 
-const u8 gDustoxPokedexText[] = _(
+const u8 gPanvoltPokedexText[] = _(
     "HP     -  60    Ph.Atk -  50\n"
     "Ph.Def -  70    Sp.Atk -  50\n"
     "Sp.Def -  90    Speed  -  65");
 
-const u8 gDustoxPokedexTextUnused[] = _("");
+const u8 gPanvoltPokedexTextUnused[] = _("");
 
 const u8 gLotadPokedexText[] = _(
     "HP     -  40    Ph.Atk -  30\n"

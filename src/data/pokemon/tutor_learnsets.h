@@ -1943,15 +1943,15 @@ static const u16 sTutorLearnsets[] =
 
     [SPECIES_SPIRALOONE] = 0,
 
-    [SPECIES_SILCOON] = 0,
+    [SPECIES_PANSAGE] = 0,
 
-    [SPECIES_BEAUTIFLY] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_PANSEAR] = TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_CASCOON] = 0,
+    [SPECIES_PANPOUR] = 0,
 
-    [SPECIES_DUSTOX] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_PANVOLT] = TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_SUBSTITUTE),
 

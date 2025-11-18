@@ -291,10 +291,10 @@ gCryTable::
 	cry Cry_Shiftry
 	cry Cry_Carvanha
 	cry Cry_Spiraloone
-	cry Cry_Silcoon
-	cry Cry_Beautifly
-	cry Cry_Cascoon
-	cry Cry_Dustox
+	cry Cry_Pansage
+	cry Cry_Pansear
+	cry Cry_Panpour
+	cry Cry_Panvolt
 	cry Cry_Ralts
 	cry Cry_Kirlia
 	cry Cry_Gardevoir
@@ -682,10 +682,10 @@ gCryTable_Reverse::
 	cry_reverse Cry_Shiftry
 	cry_reverse Cry_Carvanha
 	cry_reverse Cry_Spiraloone
-	cry_reverse Cry_Silcoon
-	cry_reverse Cry_Beautifly
-	cry_reverse Cry_Cascoon
-	cry_reverse Cry_Dustox
+	cry_reverse Cry_Pansage
+	cry_reverse Cry_Pansear
+	cry_reverse Cry_Panpour
+	cry_reverse Cry_Panvolt
 	cry_reverse Cry_Ralts
 	cry_reverse Cry_Kirlia
 	cry_reverse Cry_Gardevoir

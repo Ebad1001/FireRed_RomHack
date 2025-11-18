@@ -392,10 +392,10 @@ static const u16 sSpeciesToHoennPokedexNum[NUM_SPECIES - 1] =
     SPECIES_TO_HOENN(ZIGZAGOON),
     SPECIES_TO_HOENN(LINOONE),
     SPECIES_TO_HOENN(SPIRALOONE),
-    SPECIES_TO_HOENN(SILCOON),
-    SPECIES_TO_HOENN(BEAUTIFLY),
-    SPECIES_TO_HOENN(CASCOON),
-    SPECIES_TO_HOENN(DUSTOX),
+    SPECIES_TO_HOENN(PANSAGE),
+    SPECIES_TO_HOENN(PANSEAR),
+    SPECIES_TO_HOENN(PANPOUR),
+    SPECIES_TO_HOENN(PANVOLT),
     SPECIES_TO_HOENN(LOTAD),
     SPECIES_TO_HOENN(LOMBRE),
     SPECIES_TO_HOENN(LUDICOLO),
@@ -808,10 +808,10 @@ static const u16 sSpeciesToNationalPokedexNum[NUM_SPECIES - 1] =
     SPECIES_TO_NATIONAL(ZIGZAGOON),
     SPECIES_TO_NATIONAL(LINOONE),
     SPECIES_TO_NATIONAL(SPIRALOONE),
-    SPECIES_TO_NATIONAL(SILCOON),
-    SPECIES_TO_NATIONAL(BEAUTIFLY),
-    SPECIES_TO_NATIONAL(CASCOON),
-    SPECIES_TO_NATIONAL(DUSTOX),
+    SPECIES_TO_NATIONAL(PANSAGE),
+    SPECIES_TO_NATIONAL(PANSEAR),
+    SPECIES_TO_NATIONAL(PANPOUR),
+    SPECIES_TO_NATIONAL(PANVOLT),
     SPECIES_TO_NATIONAL(LOTAD),
     SPECIES_TO_NATIONAL(LOMBRE),
     SPECIES_TO_NATIONAL(LUDICOLO),
@@ -948,10 +948,10 @@ static const u16 sHoennToNationalOrder[NUM_SPECIES - 1] =
     HOENN_TO_NATIONAL(ZIGZAGOON),
     HOENN_TO_NATIONAL(LINOONE),
     HOENN_TO_NATIONAL(SPIRALOONE),
-    HOENN_TO_NATIONAL(SILCOON),
-    HOENN_TO_NATIONAL(BEAUTIFLY),
-    HOENN_TO_NATIONAL(CASCOON),
-    HOENN_TO_NATIONAL(DUSTOX),
+    HOENN_TO_NATIONAL(PANSAGE),
+    HOENN_TO_NATIONAL(PANSEAR),
+    HOENN_TO_NATIONAL(PANPOUR),
+    HOENN_TO_NATIONAL(PANVOLT),
     HOENN_TO_NATIONAL(LOTAD),
     HOENN_TO_NATIONAL(LOMBRE),
     HOENN_TO_NATIONAL(LUDICOLO),
@@ -5159,11 +5159,11 @@ u16 GetEvolutionTargetSpecies(struct Pokemon *mon, u8 type, u16 evolutionItem)
             //         if (GetMonData(mon, MON_DATA_ATK, NULL) < GetMonData(mon, MON_DATA_DEF, NULL))
             //             targetSpecies = gEvolutionTable[species][i].targetSpecies;
             //     break;
-            // case EVO_LEVEL_SILCOON:
+            // case EVO_LEVEL_PANSAGE:
             //     if (gEvolutionTable[species][i].param <= level && (upperPersonality % 10) <= 4)
             //         targetSpecies = gEvolutionTable[species][i].targetSpecies;
             //     break;
-            // case EVO_LEVEL_CASCOON:
+            // case EVO_LEVEL_PANPOUR:
             //     if (gEvolutionTable[species][i].param <= level && (upperPersonality % 10) > 4)
             //         targetSpecies = gEvolutionTable[species][i].targetSpecies;
             //     break;

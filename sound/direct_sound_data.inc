@@ -1468,20 +1468,20 @@ Cry_Spiraloone::
 	.incbin "sound/direct_sound_samples/cries/spiraloone.bin"
 
 	.align 2
-Cry_Silcoon::
-	.incbin "sound/direct_sound_samples/cries/silcoon.bin"
+Cry_Pansage::
+	.incbin "sound/direct_sound_samples/cries/pansage.bin"
 
 	.align 2
-Cry_Beautifly::
-	.incbin "sound/direct_sound_samples/cries/beautifly.bin"
+Cry_Pansear::
+	.incbin "sound/direct_sound_samples/cries/pansear.bin"
 
 	.align 2
-Cry_Cascoon::
-	.incbin "sound/direct_sound_samples/cries/cascoon.bin"
+Cry_Panpour::
+	.incbin "sound/direct_sound_samples/cries/panpour.bin"
 
 	.align 2
-Cry_Dustox::
-	.incbin "sound/direct_sound_samples/cries/dustox.bin"
+Cry_Panvolt::
+	.incbin "sound/direct_sound_samples/cries/panvolt.bin"
 
 	.align 2
 Cry_Ralts::

@@ -3458,52 +3458,52 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SILCOON] =
+    [NATIONAL_DEX_PANSAGE] =
     {
         .categoryName = _("MONKEY"),
         .height = 5,
         .weight = 100,
-        .description = gSilcoonPokedexText,
-        .unusedDescription = gSilcoonPokedexTextUnused,
+        .description = gPansagePokedexText,
+        .unusedDescription = gPansagePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_BEAUTIFLY] =
+    [NATIONAL_DEX_PANSEAR] =
     {
         .categoryName = _("MONKEY"),
         .height = 5,
         .weight = 100,
-        .description = gBeautiflyPokedexText,
-        .unusedDescription = gBeautiflyPokedexTextUnused,
+        .description = gPansearPokedexText,
+        .unusedDescription = gPansearPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CASCOON] =
+    [NATIONAL_DEX_PANPOUR] =
     {
         .categoryName = _("MONKEY"),
         .height = 5,
         .weight = 100,
-        .description = gCascoonPokedexText,
-        .unusedDescription = gCascoonPokedexTextUnused,
+        .description = gPanpourPokedexText,
+        .unusedDescription = gPanpourPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_DUSTOX] =
+    [NATIONAL_DEX_PANVOLT] =
     {
         .categoryName = _("MONKEY"),
         .height = 5,
         .weight = 100,
-        .description = gDustoxPokedexText,
-        .unusedDescription = gDustoxPokedexTextUnused,
+        .description = gPanvoltPokedexText,
+        .unusedDescription = gPanvoltPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
