@@ -2145,26 +2145,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_LEDYBA] =
+    [NATIONAL_DEX_KRICKETOT] =
     {
         .categoryName = _("CRICKET"),
         .height = 3,
         .weight = 22,
-        .description = gLedybaPokedexText,
-        .unusedDescription = gLedybaPokedexTextUnused,
+        .description = gKricketotPokedexText,
+        .unusedDescription = gKricketotPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_LEDIAN] =
+    [NATIONAL_DEX_KRICKETUNE] =
     {
         .categoryName = _("CRICKET"),
         .height = 10,
         .weight = 255,
-        .description = gLedianPokedexText,
-        .unusedDescription = gLedianPokedexTextUnused,
+        .description = gKricketunePokedexText,
+        .unusedDescription = gKricketunePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

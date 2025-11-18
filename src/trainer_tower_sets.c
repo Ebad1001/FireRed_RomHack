@@ -3728,7 +3728,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_8 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_LEDIAN,
+					.species = SPECIES_KRICKETUNE,
 					.heldItem = ITEM_LIECHI_BERRY,
 					.moves = {MOVE_SILVER_WIND, MOVE_SWIFT, MOVE_AERIAL_ACE, MOVE_TOXIC},
 					.hpEV = 0,
@@ -3746,7 +3746,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_8 = {
 					.spDefenseIV = 31,
 					.abilityNum = 0,
 					.personality = 0x01, // FEMALE LONELY
-					.nickname = _("LEDIAN"),
+					.nickname = _("KRICKETUNE"),
 					.friendship = 255
 				},
 			}

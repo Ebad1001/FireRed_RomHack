@@ -4787,7 +4787,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_LEDYBA] = /* KRICKETOT */
+    [SPECIES_KRICKETOT] = /* KRICKETOT */
     {
         .baseHP = 40,
         .baseAttack = 20,
@@ -4816,7 +4816,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_LEDIAN] = /* KRICKETUNE */
+    [SPECIES_KRICKETUNE] = /* KRICKETUNE */
     {
         .baseHP = 55,
         .baseAttack = 35,

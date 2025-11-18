@@ -1190,13 +1190,13 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_DREAM_EATER)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_LEDYBA] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_KRICKETOT] = TUTOR(MOVE_FIRE_PUNCH)
                      | TUTOR(MOVE_SWORDS_DANCE)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_LEDIAN] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_KRICKETUNE] = TUTOR(MOVE_FIRE_PUNCH)
                      | TUTOR(MOVE_SWORDS_DANCE)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)

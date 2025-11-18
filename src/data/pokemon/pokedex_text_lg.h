@@ -1153,19 +1153,19 @@ const u8 gNoctowlPokedexText[] = _(
 
 const u8 gNoctowlPokedexTextUnused[] = _("");
 
-const u8 gLedybaPokedexText[] = _(
+const u8 gKricketotPokedexText[] = _(
     "It is very timid. It will be afraid to\n"
     "move if it is alone. But it will be active\n"
     "if it is in a group.");
 
-const u8 gLedybaPokedexTextUnused[] = _("");
+const u8 gKricketotPokedexTextUnused[] = _("");
 
-const u8 gLedianPokedexText[] = _(
+const u8 gKricketunePokedexText[] = _(
     "When the stars flicker in the night sky, it\n"
     "flutters about, scattering a glowing\n"
     "powder.");
 
-const u8 gLedianPokedexTextUnused[] = _("");
+const u8 gKricketunePokedexTextUnused[] = _("");
 
 const u8 gSpinarakPokedexText[] = _(
     "It lies still in the same pose for days\n"

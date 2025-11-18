@@ -960,12 +960,12 @@ Cry_Noctowl::
 	.incbin "sound/direct_sound_samples/cries/noctowl.bin"
 
 	.align 2
-Cry_Ledyba::
-	.incbin "sound/direct_sound_samples/cries/ledyba.bin"
+Cry_Kricketot::
+	.incbin "sound/direct_sound_samples/cries/kricketot.bin"
 
 	.align 2
-Cry_Ledian::
-	.incbin "sound/direct_sound_samples/cries/ledian.bin"
+Cry_Kricketune::
+	.incbin "sound/direct_sound_samples/cries/kricketune.bin"
 
 	.align 2
 Cry_Spinarak::

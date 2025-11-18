@@ -164,8 +164,8 @@ gCryTable::
 	cry Cry_Bibarel
 	cry Cry_Hoothoot
 	cry Cry_Noctowl
-	cry Cry_Ledyba
-	cry Cry_Ledian
+	cry Cry_Kricketot
+	cry Cry_Kricketune
 	cry Cry_Spinarak
 	cry Cry_Ariados
 	cry Cry_Crobat
@@ -555,8 +555,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Bibarel
 	cry_reverse Cry_Hoothoot
 	cry_reverse Cry_Noctowl
-	cry_reverse Cry_Ledyba
-	cry_reverse Cry_Ledian
+	cry_reverse Cry_Kricketot
+	cry_reverse Cry_Kricketune
 	cry_reverse Cry_Spinarak
 	cry_reverse Cry_Ariados
 	cry_reverse Cry_Crobat

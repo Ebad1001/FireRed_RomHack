@@ -2292,7 +2292,7 @@ static const u16 sNoctowlLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sLedybaLevelUpLearnset[] = {
+static const u16 sKricketotLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(8, MOVE_TEETER_DANCE),
     LEVEL_UP_MOVE(15, MOVE_FURY_SWIPES),
@@ -2306,7 +2306,7 @@ static const u16 sLedybaLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sLedianLevelUpLearnset[] = {
+static const u16 sKricketuneLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_TEETER_DANCE),
     LEVEL_UP_MOVE(8, MOVE_TEETER_DANCE),

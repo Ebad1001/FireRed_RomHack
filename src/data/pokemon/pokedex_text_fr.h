@@ -1153,19 +1153,19 @@ const u8 gNoctowlPokedexText[] = _(
 
 const u8 gNoctowlPokedexTextUnused[] = _("");
 
-const u8 gLedybaPokedexText[] = _(
+const u8 gKricketotPokedexText[] = _(
     "HP     -  40    Ph.Atk -  20\n"
     "Ph.Def -  30    Sp.Atk -  40\n"
     "Sp.Def -  80    Speed  -  55");
 
-const u8 gLedybaPokedexTextUnused[] = _("");
+const u8 gKricketotPokedexTextUnused[] = _("");
 
-const u8 gLedianPokedexText[] = _(
+const u8 gKricketunePokedexText[] = _(
     "HP     -  55    Ph.Atk -  35\n"
     "Ph.Def -  50    Sp.Atk -  55\n"
     "Sp.Def - 110    Speed  -  85");
 
-const u8 gLedianPokedexTextUnused[] = _("");
+const u8 gKricketunePokedexTextUnused[] = _("");
 
 const u8 gSpinarakPokedexText[] = _(
     "HP     -  40    Ph.Atk -  60\n"

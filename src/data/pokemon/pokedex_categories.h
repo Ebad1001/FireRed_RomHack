@@ -217,8 +217,8 @@ static const u16 sDexCategory_ForestPkmn_Page11[] = {
 };
 
 static const u16 sDexCategory_ForestPkmn_Page12[] = {
-    SPECIES_LEDYBA,
-    SPECIES_LEDIAN,
+    SPECIES_KRICKETOT,
+    SPECIES_KRICKETUNE,
     SPECIES_SPINARAK,
     SPECIES_ARIADOS,
 };

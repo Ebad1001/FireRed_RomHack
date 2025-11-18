@@ -825,12 +825,12 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(40, 64),
         .y_offset = 3,
     },
-    [SPECIES_LEDYBA] =
+    [SPECIES_KRICKETOT] =
     {
         .size = MON_COORDS_SIZE(40, 48),
         .y_offset = 12,
     },
-    [SPECIES_LEDIAN] =
+    [SPECIES_KRICKETUNE] =
     {
         .size = MON_COORDS_SIZE(48, 56),
         .y_offset = 4,

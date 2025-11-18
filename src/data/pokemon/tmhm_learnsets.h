@@ -3967,7 +3967,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM02_FLY)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_LEDYBA]      = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_KRICKETOT]      = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
@@ -3990,7 +3990,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM46_BUG_BUZZ)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_LEDIAN]      = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_KRICKETUNE]      = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
