@@ -1941,7 +1941,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_CHARGE_UP)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_WURMPLE] = 0,
+    [SPECIES_SPIRALOONE] = 0,
 
     [SPECIES_SILCOON] = 0,
 

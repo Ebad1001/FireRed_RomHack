@@ -1853,12 +1853,12 @@ const u8 gLinoonePokedexText[] = _(
 
 const u8 gLinoonePokedexTextUnused[] = _("");
 
-const u8 gWurmplePokedexText[] = _(
+const u8 gSpiraloonePokedexText[] = _(
     "HP     -  45    Ph.Atk -  45\n"
     "Ph.Def -  35    Sp.Atk -  20\n"
     "Sp.Def -  30    Speed  -  20");
 
-const u8 gWurmplePokedexTextUnused[] = _("");
+const u8 gSpiraloonePokedexTextUnused[] = _("");
 
 const u8 gSilcoonPokedexText[] = _(
     "HP     -  50    Ph.Atk -  35\n"

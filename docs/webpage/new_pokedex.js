@@ -14,7 +14,7 @@ const pokemon_names = [
 	"BIBAREL",
 	"ZIGZAGOON",
 	"LINOONE",
-	"WURMPLE",
+	"SPIRALOONE",
 	"POOCHYENA",
 	"MIGHTYENA",
 	"PIDGEY",

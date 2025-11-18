@@ -8,7 +8,7 @@ static const u16 sDexCategory_GrasslandPkmn_Page1[] = {
 static const u16 sDexCategory_GrasslandPkmn_Page2[] = {
     SPECIES_ZIGZAGOON,
     SPECIES_LINOONE,
-    SPECIES_WURMPLE,
+    SPECIES_SPIRALOONE,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page3[] = {

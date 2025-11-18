@@ -3445,13 +3445,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_WURMPLE] =
+    [NATIONAL_DEX_SPIRALOONE] =
     {
         .categoryName = _("RACCOON"),
         .height = 16,
         .weight = 460,
-        .description = gWurmplePokedexText,
-        .unusedDescription = gWurmplePokedexTextUnused,
+        .description = gSpiraloonePokedexText,
+        .unusedDescription = gSpiraloonePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

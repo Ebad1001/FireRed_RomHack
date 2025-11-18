@@ -7712,7 +7712,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_WHITE,
         .noFlip = FALSE,
     },
-    [SPECIES_WURMPLE] = /* OBSTAGOON */
+    [SPECIES_SPIRALOONE] = /* OBSTAGOON */
     {
         .baseHP = 45,
         .baseAttack = 45,

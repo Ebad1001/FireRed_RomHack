@@ -1450,7 +1450,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(56, 64),
         .y_offset = 3,
     },
-    [SPECIES_WURMPLE] =
+    [SPECIES_SPIRALOONE] =
     {
         .size = MON_COORDS_SIZE(32, 40),
         .y_offset = 14,

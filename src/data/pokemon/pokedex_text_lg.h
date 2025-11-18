@@ -1853,12 +1853,12 @@ const u8 gLinoonePokedexText[] = _(
 
 const u8 gLinoonePokedexTextUnused[] = _("");
 
-const u8 gWurmplePokedexText[] = _(
+const u8 gSpiraloonePokedexText[] = _(
     "It lives amidst tall grass and in forests.\n"
     "When attacked, it resists by pointing its\n"
     "venomous spikes at the foe.");
 
-const u8 gWurmplePokedexTextUnused[] = _("");
+const u8 gSpiraloonePokedexTextUnused[] = _("");
 
 const u8 gSilcoonPokedexText[] = _(
     "It conserves its energy by moving as\n"
