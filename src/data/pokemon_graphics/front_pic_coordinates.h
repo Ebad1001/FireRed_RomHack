@@ -60,7 +60,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(40, 32),
         .y_offset = 20,
     },
-    [SPECIES_BUTTERFREE] =
+    [SPECIES_BETTERFLY] =
     {
         .size = MON_COORDS_SIZE(56, 48),
         .y_offset = 9,

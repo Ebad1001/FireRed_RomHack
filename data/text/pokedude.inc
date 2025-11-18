@@ -68,8 +68,8 @@ Pokedude_Text_ShiftingUsesTurn::
 	.string "up one turn.\p"
 	.string "Now, it's the opponent's turn.$"
 
-Pokedude_Text_ButterfreeDoubleResistsGrass::
-	.string "BUTTERFREE is a BUG/FLYING-type\n"
+Pokedude_Text_BetterflyDoubleResistsGrass::
+	.string "BETTERFLY is a BUG/FLYING-type\n"
 	.string "POKéMON.\p"
 	.string "Against this POKéMON, a GRASS-\n"
 	.string "type attack…\p"
@@ -77,11 +77,11 @@ Pokedude_Text_ButterfreeDoubleResistsGrass::
 	.string "damage on a BUG-type POKéMON…\p"
 	.string "…And, it also causes only half the\n"
 	.string "damage on a FLYING-type POKéMON.\p"
-	.string "Therefore, BUTTERFREE, being a\n"
+	.string "Therefore, BETTERFLY, being a\n"
 	.string "BUG/FLYING POKéMON, only takes\l"
 	.string "one quarter of the usual damage.$"
 
-Pokedude_Text_ButterfreeGoodAgainstOddish::
+Pokedude_Text_BetterflyGoodAgainstOddish::
 	.string "ODDISH is a GRASS/POISON-type\n"
 	.string "POKéMON.\p"
 	.string "A FLYING- or PSYCHIC-type attack\n"

@@ -105,7 +105,7 @@ static const u16 sTutorLearnsets[] =
 
     [SPECIES_METAPOD] = 0,
 
-    [SPECIES_BUTTERFREE] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_BETTERFLY] = TUTOR(MOVE_DOUBLE_EDGE)
                          | TUTOR(MOVE_AVALANCHE)
                          | TUTOR(MOVE_DREAM_EATER)
                          | TUTOR(MOVE_SUBSTITUTE),

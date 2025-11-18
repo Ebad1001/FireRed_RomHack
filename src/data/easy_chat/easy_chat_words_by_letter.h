@@ -204,7 +204,7 @@ static const u16 sEasyChatWordsByLetter_B[] = {
     EC_MOVE2(BULLET_SEED),
     EC_WORD_BUSY,
     EC_WORD_BUT,
-    EC_POKEMON(BUTTERFREE),
+    EC_POKEMON(BETTERFLY),
     EC_WORD_BYE_BYE,
 };
 

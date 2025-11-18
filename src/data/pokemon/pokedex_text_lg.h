@@ -82,12 +82,12 @@ const u8 gMetapodPokedexText[] = _(
 
 const u8 gMetapodPokedexTextUnused[] = _("");
 
-const u8 gButterfreePokedexText[] = _(
+const u8 gBetterflyPokedexText[] = _(
     "In battle, it flaps its wings at great\n"
     "speed to release highly toxic dust into\n"
     "the air.");
 
-const u8 gButterfreePokedexTextUnused[] = _("");
+const u8 gBetterflyPokedexTextUnused[] = _("");
 
 const u8 gWeedlePokedexText[] = _(
     "Often found in forests, eating leaves.\n"

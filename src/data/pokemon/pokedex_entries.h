@@ -156,13 +156,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_BUTTERFREE] =
+    [NATIONAL_DEX_BETTERFLY] =
     {
         .categoryName = _("BUTTERFLY"),
         .height = 11,
         .weight = 320,
-        .description = gButterfreePokedexText,
-        .unusedDescription = gButterfreePokedexTextUnused,
+        .description = gBetterflyPokedexText,
+        .unusedDescription = gBetterflyPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

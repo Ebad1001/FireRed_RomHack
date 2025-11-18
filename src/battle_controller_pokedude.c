@@ -2308,8 +2308,8 @@ static const u8 *const sPokedudeTexts_TypeMatchup[] =
     Pokedude_Text_GrassEffectiveAgainstWater,
     Pokedude_Text_LetsTryShiftingMons,
     Pokedude_Text_ShiftingUsesTurn,
-    Pokedude_Text_ButterfreeDoubleResistsGrass,
-    Pokedude_Text_ButterfreeGoodAgainstOddish,
+    Pokedude_Text_BetterflyDoubleResistsGrass,
+    Pokedude_Text_BetterflyGoodAgainstOddish,
     Pokedude_Text_YeahWeWon,
 };
 
@@ -2378,7 +2378,7 @@ static const struct PokedudeBattlePartyInfo sParties_Matchups[] =
     {
         .side = B_SIDE_PLAYER,
         .level = 15,
-        .species = SPECIES_BUTTERFREE,
+        .species = SPECIES_BETTERFLY,
         .moves = { MOVE_CONFUSION, MOVE_POISON_POWDER, MOVE_STUN_SPORE, MOVE_SLEEP_POWDER },
         .nature = NATURE_RASH,
         .gender = MALE,
@@ -2399,7 +2399,7 @@ static const struct PokedudeBattlePartyInfo sParties_Catching[] =
     {
         .side = B_SIDE_PLAYER,
         .level = 15,
-        .species = SPECIES_BUTTERFREE,
+        .species = SPECIES_BETTERFLY,
         .moves = { MOVE_CONFUSION, MOVE_POISON_POWDER, MOVE_SLEEP_POWDER, MOVE_STUN_SPORE },
         .nature = NATURE_RASH,
         .gender = MALE,

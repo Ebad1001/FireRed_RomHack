@@ -82,12 +82,12 @@ const u8 gMetapodPokedexText[] = _(
 
 const u8 gMetapodPokedexTextUnused[] = _("");
 
-const u8 gButterfreePokedexText[] = _(
+const u8 gBetterflyPokedexText[] = _(
     "HP     -  60    Ph.Atk -  45\n"
     "Ph.Def -  50    Sp.Atk -  80\n"
     "Sp.Def -  80    Speed  -  70");
 
-const u8 gButterfreePokedexTextUnused[] = _("");
+const u8 gBetterflyPokedexTextUnused[] = _("");
 
 const u8 gWeedlePokedexText[] = _(
     "HP     -  40    Ph.Atk -  35\n"

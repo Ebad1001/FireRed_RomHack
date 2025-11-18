@@ -75,12 +75,12 @@ const u32 gMonShinyPalette_Metapod[] = INCBIN_U32("graphics/pokemon/metapod/shin
 const u8 gMonIcon_Metapod[] = INCBIN_U8( "graphics/pokemon/metapod/icon.4bpp");
 const u8 gMonFootprint_Metapod[] = INCBIN_U8("graphics/pokemon/metapod/footprint.1bpp");
 
-const u32 gMonFrontPic_Butterfree[] = INCBIN_U32("graphics/pokemon/butterfree/front.4bpp.lz");
-const u32 gMonPalette_Butterfree[] = INCBIN_U32("graphics/pokemon/butterfree/normal.gbapal.lz");
-const u32 gMonBackPic_Butterfree[] = INCBIN_U32("graphics/pokemon/butterfree/back.4bpp.lz");
-const u32 gMonShinyPalette_Butterfree[] = INCBIN_U32("graphics/pokemon/butterfree/shiny.gbapal.lz");
-const u8 gMonIcon_Butterfree[] = INCBIN_U8("graphics/pokemon/butterfree/icon.4bpp");
-const u8 gMonFootprint_Butterfree[] = INCBIN_U8("graphics/pokemon/butterfree/footprint.1bpp");
+const u32 gMonFrontPic_Betterfly[] = INCBIN_U32("graphics/pokemon/betterfly/front.4bpp.lz");
+const u32 gMonPalette_Betterfly[] = INCBIN_U32("graphics/pokemon/betterfly/normal.gbapal.lz");
+const u32 gMonBackPic_Betterfly[] = INCBIN_U32("graphics/pokemon/betterfly/back.4bpp.lz");
+const u32 gMonShinyPalette_Betterfly[] = INCBIN_U32("graphics/pokemon/betterfly/shiny.gbapal.lz");
+const u8 gMonIcon_Betterfly[] = INCBIN_U8("graphics/pokemon/betterfly/icon.4bpp");
+const u8 gMonFootprint_Betterfly[] = INCBIN_U8("graphics/pokemon/betterfly/footprint.1bpp");
 
 const u32 gMonFrontPic_Weedle[] = INCBIN_U32("graphics/pokemon/weedle/front.4bpp.lz");
 const u32 gMonPalette_Weedle[] = INCBIN_U32("graphics/pokemon/weedle/normal.gbapal.lz");

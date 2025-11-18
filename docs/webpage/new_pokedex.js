@@ -43,7 +43,7 @@ const pokemon_names = [
 	"SPINARAK",
 	"ARIADOS",
 	"VENONAT",
-	"BUTTERFREE",
+	"BETTERFLY",
 	"SILCOON",
 	"BEAUTIFLY",
 	"CASCOON",

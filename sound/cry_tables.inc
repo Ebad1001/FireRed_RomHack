@@ -11,7 +11,7 @@ gCryTable::
 	cry Cry_Blastoise
 	cry Cry_Caterpie
 	cry Cry_Metapod
-	cry Cry_Butterfree
+	cry Cry_Betterfly
 	cry Cry_Weedle
 	cry Cry_Kakuna
 	cry Cry_Beedrill
@@ -402,7 +402,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Blastoise
 	cry_reverse Cry_Caterpie
 	cry_reverse Cry_Metapod
-	cry_reverse Cry_Butterfree
+	cry_reverse Cry_Betterfly
 	cry_reverse Cry_Weedle
 	cry_reverse Cry_Kakuna
 	cry_reverse Cry_Beedrill

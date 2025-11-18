@@ -350,7 +350,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_BUTTERFREE] = /* BETTERFLY */
+    [SPECIES_BETTERFLY] = /* BETTERFLY */
     {
         .baseHP = 60,
         .baseAttack = 45,

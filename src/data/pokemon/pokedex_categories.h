@@ -213,7 +213,7 @@ static const u16 sDexCategory_ForestPkmn_Page10[] = {
 
 static const u16 sDexCategory_ForestPkmn_Page11[] = {
     SPECIES_VENONAT,
-    SPECIES_BUTTERFREE,
+    SPECIES_BETTERFLY,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page12[] = {
