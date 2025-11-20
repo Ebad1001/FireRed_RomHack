@@ -4249,7 +4249,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM05_FLASH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_NATU]        = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
+    [SPECIES_PIDOVE]        = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
@@ -4274,7 +4274,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM48_HIDDEN_SKILL)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_XATU]        = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
+    [SPECIES_UNFEZANT]        = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)

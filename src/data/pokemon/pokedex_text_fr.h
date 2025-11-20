@@ -1237,19 +1237,19 @@ const u8 gTogeticPokedexText[] = _(
 
 const u8 gTogeticPokedexTextUnused[] = _("");
 
-const u8 gNatuPokedexText[] = _(
+const u8 gPidovePokedexText[] = _(
     "HP     -  40    Ph.Atk -  50\n"
     "Ph.Def -  45    Sp.Atk -  70\n"
     "Sp.Def -  45    Speed  -  70");
 
-const u8 gNatuPokedexTextUnused[] = _("");
+const u8 gPidovePokedexTextUnused[] = _("");
 
-const u8 gXatuPokedexText[] = _(
+const u8 gUnfezantPokedexText[] = _(
     "HP     -  65    Ph.Atk -  75\n"
     "Ph.Def -  70    Sp.Atk -  95\n"
     "Sp.Def -  70    Speed  -  95");
 
-const u8 gXatuPokedexTextUnused[] = _("");
+const u8 gUnfezantPokedexTextUnused[] = _("");
 
 const u8 gMareepPokedexText[] = _(
     "HP     -  55    Ph.Atk -  40\n"

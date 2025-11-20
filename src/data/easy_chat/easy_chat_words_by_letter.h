@@ -1078,8 +1078,8 @@ static const u16 sEasyChatWordsByLetter_N[] = {
     EC_WORD_NAME,
     EC_WORD_NAP,
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(NATU),
-    EC_POKEMON(NATU),
+    EC_POKEMON2(PIDOVE),
+    EC_POKEMON(PIDOVE),
     EC_WORD_NATURAL,
     EC_WORD_NATURAL_CURE,
     EC_WORD_NATURALLY,
@@ -1927,8 +1927,8 @@ static const u16 sEasyChatWordsByLetter_W[] = {
 
 static const u16 sEasyChatWordsByLetter_X[] = {
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(XATU),
-    EC_POKEMON(XATU),
+    EC_POKEMON2(UNFEZANT),
+    EC_POKEMON(UNFEZANT),
 };
 
 static const u16 sEasyChatWordsByLetter_Y[] = {

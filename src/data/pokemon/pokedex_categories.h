@@ -183,8 +183,8 @@ static const u16 sDexCategory_ForestPkmn_Page5[] = {
 static const u16 sDexCategory_ForestPkmn_Page6[] = {
     SPECIES_HOOTHOOT,
     SPECIES_NOCTOWL,
-    SPECIES_NATU,
-    SPECIES_XATU,
+    SPECIES_PIDOVE,
+    SPECIES_UNFEZANT,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page7[] = {

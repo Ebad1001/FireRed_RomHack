@@ -176,8 +176,8 @@ gCryTable::
 	cry Cry_Igglybuff
 	cry Cry_Togepi
 	cry Cry_Togetic
-	cry Cry_Natu
-	cry Cry_Xatu
+	cry Cry_Pidove
+	cry Cry_Unfezant
 	cry Cry_Mareep
 	cry Cry_Flaaffy
 	cry Cry_Ampharos
@@ -567,8 +567,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Igglybuff
 	cry_reverse Cry_Togepi
 	cry_reverse Cry_Togetic
-	cry_reverse Cry_Natu
-	cry_reverse Cry_Xatu
+	cry_reverse Cry_Pidove
+	cry_reverse Cry_Unfezant
 	cry_reverse Cry_Mareep
 	cry_reverse Cry_Flaaffy
 	cry_reverse Cry_Ampharos

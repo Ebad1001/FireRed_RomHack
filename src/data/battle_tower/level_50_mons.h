@@ -599,7 +599,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_QUIET,
 	},
 	{
-		.species = SPECIES_XATU,
+		.species = SPECIES_UNFEZANT,
 		.heldItem = BATTLE_TOWER_ITEM_TWISTED_SPOON,
 		.teamFlags = 0x03,
 		.moves = {
@@ -1899,7 +1899,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_BASHFUL,
 	},
 	{
-		.species = SPECIES_XATU,
+		.species = SPECIES_UNFEZANT,
 		.heldItem = BATTLE_TOWER_ITEM_WHITE_HERB,
 		.teamFlags = 0x43,
 		.moves = {

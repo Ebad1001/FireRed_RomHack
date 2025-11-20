@@ -898,7 +898,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_ADAMANT,
 	},
 	{
-		.species = SPECIES_XATU,
+		.species = SPECIES_UNFEZANT,
 		.heldItem = BATTLE_TOWER_ITEM_LUM_BERRY,
 		.teamFlags = 0x09,
 		.moves = {

@@ -1175,7 +1175,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_2 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_XATU,
+					.species = SPECIES_UNFEZANT,
 					.heldItem = ITEM_SALAC_BERRY,
 					.moves = {MOVE_SUNNY_DAY, MOVE_DRILL_PECK, MOVE_CONFUSE_RAY, MOVE_PSYCHIC},
 					.hpEV = 110,
@@ -1193,7 +1193,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_2 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x14, // FEMALE CALM
-					.nickname = _("XATU"),
+					.nickname = _("UNFEZANT"),
 					.friendship = 255
 				},
 				{
@@ -3574,7 +3574,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_4 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_XATU,
+					.species = SPECIES_UNFEZANT,
 					.heldItem = ITEM_LUM_BERRY,
 					.moves = {MOVE_PSYCHIC, MOVE_CONFUSE_RAY, MOVE_AERIAL_ACE, MOVE_LIGHT_SCREEN},
 					.hpEV = 0,
@@ -3592,7 +3592,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_4 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x0B, // FEMALE HASTY
-					.nickname = _("XATU"),
+					.nickname = _("UNFEZANT"),
 					.friendship = 255
 				},
 			}

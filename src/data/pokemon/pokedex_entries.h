@@ -2301,26 +2301,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_NATU] =
+    [NATIONAL_DEX_PIDOVE] =
     {
         .categoryName = _("SMART-BIRD"),
         .height = 3,
         .weight = 21,
-        .description = gNatuPokedexText,
-        .unusedDescription = gNatuPokedexTextUnused,
+        .description = gPidovePokedexText,
+        .unusedDescription = gPidovePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_XATU] =
+    [NATIONAL_DEX_UNFEZANT] =
     {
         .categoryName = _("SMART-BIRD"),
         .height = 12,
         .weight = 290,
-        .description = gXatuPokedexText,
-        .unusedDescription = gXatuPokedexTextUnused,
+        .description = gUnfezantPokedexText,
+        .unusedDescription = gUnfezantPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

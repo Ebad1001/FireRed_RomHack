@@ -7163,7 +7163,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_PsychicJaclyn[] = {
     {
         .iv = 100,
         .lvl = 48,
-        .species = SPECIES_NATU,
+        .species = SPECIES_PIDOVE,
         .moves = {MOVE_NIGHT_SHADE, MOVE_CONFUSE_RAY, MOVE_FUTURE_SIGHT, MOVE_WISH},
     },
     {
@@ -8212,7 +8212,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_PsychicRodette[] = {
     {
         .iv = 100,
         .lvl = 48,
-        .species = SPECIES_NATU,
+        .species = SPECIES_PIDOVE,
         .moves = {MOVE_NIGHT_SHADE, MOVE_CONFUSE_RAY, MOVE_WISH, MOVE_FUTURE_SIGHT},
     },
     {
@@ -8583,17 +8583,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PsychicLaura[] = {
     {
         .iv = 100,
         .lvl = 48,
-        .species = SPECIES_NATU,
+        .species = SPECIES_PIDOVE,
     },
     {
         .iv = 100,
         .lvl = 48,
-        .species = SPECIES_NATU,
+        .species = SPECIES_PIDOVE,
     },
     {
         .iv = 100,
         .lvl = 49,
-        .species = SPECIES_XATU,
+        .species = SPECIES_UNFEZANT,
     },
 };
 
@@ -10177,7 +10177,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_PsychicJaclyn2[] = {
     {
         .iv = 220,
         .lvl = 52,
-        .species = SPECIES_NATU,
+        .species = SPECIES_PIDOVE,
         .moves = {MOVE_PSYCHIC, MOVE_CONFUSE_RAY, MOVE_FUTURE_SIGHT, MOVE_WISH},
     },
     {
@@ -10254,7 +10254,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_PsychicRodette2[] = {
     {
         .iv = 220,
         .lvl = 53,
-        .species = SPECIES_NATU,
+        .species = SPECIES_PIDOVE,
         .moves = {MOVE_PSYCHIC, MOVE_CONFUSE_RAY, MOVE_WISH, MOVE_FUTURE_SIGHT},
     },
     {

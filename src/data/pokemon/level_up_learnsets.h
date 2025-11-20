@@ -2460,7 +2460,7 @@ static const u16 sTogeticLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sNatuLevelUpLearnset[] = {
+static const u16 sPidoveLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_PECK),
     LEVEL_UP_MOVE(1, MOVE_LEER),
     LEVEL_UP_MOVE(10, MOVE_NIGHT_SHADE),
@@ -2472,7 +2472,7 @@ static const u16 sNatuLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sXatuLevelUpLearnset[] = {
+static const u16 sUnfezantLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_PECK),
     LEVEL_UP_MOVE(1, MOVE_LEER),
     LEVEL_UP_MOVE(10, MOVE_NIGHT_SHADE),

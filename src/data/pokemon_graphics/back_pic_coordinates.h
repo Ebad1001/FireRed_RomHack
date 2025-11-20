@@ -885,12 +885,12 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 8,
     },
-    [SPECIES_NATU] =
+    [SPECIES_PIDOVE] =
     {
         .size = MON_COORDS_SIZE(40, 32),
         .y_offset = 17,
     },
-    [SPECIES_XATU] =
+    [SPECIES_UNFEZANT] =
     {
         .size = MON_COORDS_SIZE(56, 48),
         .y_offset = 8,

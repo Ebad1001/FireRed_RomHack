@@ -5135,7 +5135,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_WHITE,
         .noFlip = FALSE,
     },
-    [SPECIES_NATU] = /* PIDOVE */
+    [SPECIES_PIDOVE] = /* PIDOVE */
     {
         .baseHP = 40,
         .baseAttack = 50,
@@ -5164,7 +5164,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_XATU] = /* UNFEZANT */
+    [SPECIES_UNFEZANT] = /* UNFEZANT */
     {
         .baseHP = 65,
         .baseAttack = 75,

@@ -1230,19 +1230,19 @@ const u32 gMonShinyPalette_Togetic[] = INCBIN_U32("graphics/pokemon/togetic/shin
 const u8 gMonIcon_Togetic[] = INCBIN_U8("graphics/pokemon/togetic/icon.4bpp");
 const u8 gMonFootprint_Togetic[] = INCBIN_U8("graphics/pokemon/togetic/footprint.1bpp");
 
-const u32 gMonFrontPic_Natu[] = INCBIN_U32("graphics/pokemon/natu/front.4bpp.lz");
-const u32 gMonPalette_Natu[] = INCBIN_U32("graphics/pokemon/natu/normal.gbapal.lz");
-const u32 gMonBackPic_Natu[] = INCBIN_U32("graphics/pokemon/natu/back.4bpp.lz");
-const u32 gMonShinyPalette_Natu[] = INCBIN_U32("graphics/pokemon/natu/shiny.gbapal.lz");
-const u8 gMonIcon_Natu[] = INCBIN_U8("graphics/pokemon/natu/icon.4bpp");
-const u8 gMonFootprint_Natu[] = INCBIN_U8("graphics/pokemon/natu/footprint.1bpp");
+const u32 gMonFrontPic_Pidove[] = INCBIN_U32("graphics/pokemon/pidove/front.4bpp.lz");
+const u32 gMonPalette_Pidove[] = INCBIN_U32("graphics/pokemon/pidove/normal.gbapal.lz");
+const u32 gMonBackPic_Pidove[] = INCBIN_U32("graphics/pokemon/pidove/back.4bpp.lz");
+const u32 gMonShinyPalette_Pidove[] = INCBIN_U32("graphics/pokemon/pidove/shiny.gbapal.lz");
+const u8 gMonIcon_Pidove[] = INCBIN_U8("graphics/pokemon/pidove/icon.4bpp");
+const u8 gMonFootprint_Pidove[] = INCBIN_U8("graphics/pokemon/pidove/footprint.1bpp");
 
-const u32 gMonFrontPic_Xatu[] = INCBIN_U32("graphics/pokemon/xatu/front.4bpp.lz");
-const u32 gMonPalette_Xatu[] = INCBIN_U32("graphics/pokemon/xatu/normal.gbapal.lz");
-const u32 gMonBackPic_Xatu[] = INCBIN_U32("graphics/pokemon/xatu/back.4bpp.lz");
-const u32 gMonShinyPalette_Xatu[] = INCBIN_U32("graphics/pokemon/xatu/shiny.gbapal.lz");
-const u8 gMonIcon_Xatu[] = INCBIN_U8("graphics/pokemon/xatu/icon.4bpp");
-const u8 gMonFootprint_Xatu[] = INCBIN_U8("graphics/pokemon/xatu/footprint.1bpp");
+const u32 gMonFrontPic_Unfezant[] = INCBIN_U32("graphics/pokemon/unfezant/front.4bpp.lz");
+const u32 gMonPalette_Unfezant[] = INCBIN_U32("graphics/pokemon/unfezant/normal.gbapal.lz");
+const u32 gMonBackPic_Unfezant[] = INCBIN_U32("graphics/pokemon/unfezant/back.4bpp.lz");
+const u32 gMonShinyPalette_Unfezant[] = INCBIN_U32("graphics/pokemon/unfezant/shiny.gbapal.lz");
+const u8 gMonIcon_Unfezant[] = INCBIN_U8("graphics/pokemon/unfezant/icon.4bpp");
+const u8 gMonFootprint_Unfezant[] = INCBIN_U8("graphics/pokemon/unfezant/footprint.1bpp");
 
 const u32 gMonFrontPic_Mareep[] = INCBIN_U32("graphics/pokemon/mareep/front.4bpp.lz");
 const u32 gMonPalette_Mareep[] = INCBIN_U32("graphics/pokemon/mareep/normal.gbapal.lz");

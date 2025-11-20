@@ -1286,13 +1286,13 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_CHARGE_UP)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_NATU] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_PIDOVE] = TUTOR(MOVE_DOUBLE_EDGE)
                    | TUTOR(MOVE_AVALANCHE)
                    | TUTOR(MOVE_DREAM_EATER)
                    | TUTOR(MOVE_CHARGE_UP)
                    | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_XATU] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_UNFEZANT] = TUTOR(MOVE_DOUBLE_EDGE)
                    | TUTOR(MOVE_AVALANCHE)
                    | TUTOR(MOVE_DREAM_EATER)
                    | TUTOR(MOVE_CHARGE_UP)

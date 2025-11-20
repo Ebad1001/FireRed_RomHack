@@ -1237,19 +1237,19 @@ const u8 gTogeticPokedexText[] = _(
 
 const u8 gTogeticPokedexTextUnused[] = _("");
 
-const u8 gNatuPokedexText[] = _(
+const u8 gPidovePokedexText[] = _(
     "Because its wings aren't yet fully grown,\n"
     "it has to hop to get around. It is always\n"
     "staring at something.");
 
-const u8 gNatuPokedexTextUnused[] = _("");
+const u8 gPidovePokedexTextUnused[] = _("");
 
-const u8 gXatuPokedexText[] = _(
+const u8 gUnfezantPokedexText[] = _(
     "They say that it stays still and quiet\n"
     "because it is seeing both the past and\n"
     "future at the same time.");
 
-const u8 gXatuPokedexTextUnused[] = _("");
+const u8 gUnfezantPokedexTextUnused[] = _("");
 
 const u8 gMareepPokedexText[] = _(
     "If static electricity builds in its body,\n"

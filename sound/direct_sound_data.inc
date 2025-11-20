@@ -1008,12 +1008,12 @@ Cry_Togetic::
 	.incbin "sound/direct_sound_samples/cries/togetic.bin"
 
 	.align 2
-Cry_Natu::
-	.incbin "sound/direct_sound_samples/cries/natu.bin"
+Cry_Pidove::
+	.incbin "sound/direct_sound_samples/cries/pidove.bin"
 
 	.align 2
-Cry_Xatu::
-	.incbin "sound/direct_sound_samples/cries/xatu.bin"
+Cry_Unfezant::
+	.incbin "sound/direct_sound_samples/cries/unfezant.bin"
 
 	.align 2
 Cry_Mareep::
