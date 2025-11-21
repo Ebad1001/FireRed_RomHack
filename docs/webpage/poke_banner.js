@@ -1,6 +1,6 @@
 const POKEMON_COUNT = 384;
 let showFront = true;
-let showNames = false;
+let showNames = true;
 
 function render_sprites() {
 

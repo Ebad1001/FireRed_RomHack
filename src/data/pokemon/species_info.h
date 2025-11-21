@@ -5425,7 +5425,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = TRUE,
     },
-    [SPECIES_HOPPIP] = /* SHINX */
+    [SPECIES_SHINX] = /* SHINX */
     {
         .baseHP = 35,
         .baseAttack = 35,
@@ -5454,7 +5454,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_SKIPLOOM] = /* LUXIO */
+    [SPECIES_LUXIO] = /* LUXIO */
     {
         .baseHP = 55,
         .baseAttack = 45,
@@ -5483,7 +5483,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_JUMPLUFF] = /* LUXRAY */
+    [SPECIES_LUXRAY] = /* LUXRAY */
     {
         .baseHP = 75,
         .baseAttack = 55,

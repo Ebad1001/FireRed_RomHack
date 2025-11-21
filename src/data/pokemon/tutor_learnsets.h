@@ -1366,17 +1366,17 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_ICE_PUNCH)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_HOPPIP] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_SHINX] = TUTOR(MOVE_SWORDS_DANCE)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SKIPLOOM] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_LUXIO] = TUTOR(MOVE_SWORDS_DANCE)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_JUMPLUFF] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_LUXRAY] = TUTOR(MOVE_SWORDS_DANCE)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),

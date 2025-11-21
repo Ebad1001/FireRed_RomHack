@@ -31,9 +31,9 @@ static const u16 sDexCategory_GrasslandPkmn_Page5[] = {
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page6[] = {
-    SPECIES_HOPPIP,
-    SPECIES_SKIPLOOM,
-    SPECIES_JUMPLUFF,
+    SPECIES_SHINX,
+    SPECIES_LUXIO,
+    SPECIES_LUXRAY,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page7[] = {

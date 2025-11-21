@@ -2583,7 +2583,7 @@ static const u16 sPolisparkLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sHoppipLevelUpLearnset[] = {
+static const u16 sShinxLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SPLASH),
     LEVEL_UP_MOVE(5, MOVE_MORNING_SUN),
     LEVEL_UP_MOVE(5, MOVE_TAIL_WHIP),
@@ -2597,7 +2597,7 @@ static const u16 sHoppipLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSkiploomLevelUpLearnset[] = {
+static const u16 sLuxioLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SPLASH),
     LEVEL_UP_MOVE(1, MOVE_MORNING_SUN),
     LEVEL_UP_MOVE(1, MOVE_TAIL_WHIP),
@@ -2614,7 +2614,7 @@ static const u16 sSkiploomLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sJumpluffLevelUpLearnset[] = {
+static const u16 sLuxrayLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SPLASH),
     LEVEL_UP_MOVE(1, MOVE_MORNING_SUN),
     LEVEL_UP_MOVE(1, MOVE_TAIL_WHIP),

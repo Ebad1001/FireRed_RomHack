@@ -7296,13 +7296,13 @@ static const struct TrainerMonItemDefaultMoves sParty_LadyJacki[] = {
     {
         .iv = 0,
         .lvl = 48,
-        .species = SPECIES_HOPPIP,
+        .species = SPECIES_SHINX,
         .heldItem = ITEM_STARDUST,
     },
     {
         .iv = 0,
         .lvl = 50,
-        .species = SPECIES_SKIPLOOM,
+        .species = SPECIES_LUXIO,
         .heldItem = ITEM_STARDUST,
     },
 };
@@ -8702,22 +8702,22 @@ static const struct TrainerMonNoItemDefaultMoves sParty_LassDalia[] = {
     {
         .iv = 0,
         .lvl = 46,
-        .species = SPECIES_HOPPIP,
+        .species = SPECIES_SHINX,
     },
     {
         .iv = 0,
         .lvl = 47,
-        .species = SPECIES_HOPPIP,
+        .species = SPECIES_SHINX,
     },
     {
         .iv = 0,
         .lvl = 47,
-        .species = SPECIES_SKIPLOOM,
+        .species = SPECIES_LUXIO,
     },
     {
         .iv = 0,
         .lvl = 48,
-        .species = SPECIES_SKIPLOOM,
+        .species = SPECIES_LUXIO,
     },
 };
 

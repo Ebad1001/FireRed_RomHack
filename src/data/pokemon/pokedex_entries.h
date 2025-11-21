@@ -2431,39 +2431,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_HOPPIP] =
+    [NATIONAL_DEX_SHINX] =
     {
         .categoryName = _("FLASH"),
         .height = 5,
         .weight = 95,
-        .description = gHoppipPokedexText,
-        .unusedDescription = gHoppipPokedexTextUnused,
+        .description = gShinxPokedexText,
+        .unusedDescription = gShinxPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SKIPLOOM] =
+    [NATIONAL_DEX_LUXIO] =
     {
         .categoryName = _("FLASH"),
         .height = 9,
         .weight = 305,
-        .description = gSkiploomPokedexText,
-        .unusedDescription = gSkiploomPokedexTextUnused,
+        .description = gLuxioPokedexText,
+        .unusedDescription = gLuxioPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_JUMPLUFF] =
+    [NATIONAL_DEX_LUXRAY] =
     {
         .categoryName = _("FLASH"),
         .height = 14,
         .weight = 420,
-        .description = gJumpluffPokedexText,
-        .unusedDescription = gJumpluffPokedexTextUnused,
+        .description = gLuxrayPokedexText,
+        .unusedDescription = gLuxrayPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

@@ -725,7 +725,7 @@ static const u16 sEasyChatWordsByLetter_H[] = {
     EC_WORD_HOO_HAH,
     EC_POKEMON(HOOTHOOT),
     EC_WORD_HOPELESS,
-    EC_POKEMON(HOPPIP),
+    EC_POKEMON(SHINX),
     EC_MOVE2(HORN_ATTACK),
     EC_MOVE2(HORN_DRILL),
     -1, 2, // Doubled pokemon species name
@@ -816,7 +816,7 @@ static const u16 sEasyChatWordsByLetter_J[] = {
     EC_WORD_JOY,
     EC_WORD_JUDGE,
     EC_MOVE2(JUMP_KICK),
-    EC_POKEMON(JUMPLUFF),
+    EC_POKEMON(LUXRAY),
     EC_WORD_JUST,
     EC_POKEMON(JYNX),
 };
@@ -1471,7 +1471,7 @@ static const u16 sEasyChatWordsByLetter_S[] = {
     EC_WORD_SKILL,
     EC_MOVE(SKILL_SWAP),
     EC_WORD_SKILLED,
-    EC_POKEMON(SKIPLOOM),
+    EC_POKEMON(LUXIO),
     EC_POKEMON2(SKITTY),
     EC_MOVE2(SKULL_BASH),
     EC_MOVE(SKY_ATTACK),

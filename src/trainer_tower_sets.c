@@ -3508,7 +3508,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_4 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_JUMPLUFF,
+					.species = SPECIES_LUXRAY,
 					.heldItem = ITEM_LUM_BERRY,
 					.moves = {MOVE_TAIL_WHIP, MOVE_SUNNY_DAY, MOVE_SOLAR_BEAM, MOVE_AERIAL_ACE},
 					.hpEV = 0,
@@ -3526,7 +3526,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_4 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x0B, // FEMALE HASTY
-					.nickname = _("JUMPLUFF"),
+					.nickname = _("LUXRAY"),
 					.friendship = 255
 				},
 				{

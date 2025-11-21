@@ -186,9 +186,9 @@ gCryTable::
 	cry Cry_Azumarill
 	cry Cry_Gallade
 	cry Cry_Polispark
-	cry Cry_Hoppip
-	cry Cry_Skiploom
-	cry Cry_Jumpluff
+	cry Cry_Shinx
+	cry Cry_Luxio
+	cry Cry_Luxray
 	cry Cry_Aipom
 	cry Cry_Sunkern
 	cry Cry_Sunflora
@@ -577,9 +577,9 @@ gCryTable_Reverse::
 	cry_reverse Cry_Azumarill
 	cry_reverse Cry_Gallade
 	cry_reverse Cry_Polispark
-	cry_reverse Cry_Hoppip
-	cry_reverse Cry_Skiploom
-	cry_reverse Cry_Jumpluff
+	cry_reverse Cry_Shinx
+	cry_reverse Cry_Luxio
+	cry_reverse Cry_Luxray
 	cry_reverse Cry_Aipom
 	cry_reverse Cry_Sunkern
 	cry_reverse Cry_Sunflora

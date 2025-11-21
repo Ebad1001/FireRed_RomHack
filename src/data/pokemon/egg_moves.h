@@ -618,7 +618,7 @@ const u16 gEggMoves[] = {
     egg_moves(GALLADE,
               MOVE_EXPLOSION),
 
-    egg_moves(HOPPIP,
+    egg_moves(SHINX,
               MOVE_CONFUSION,
               MOVE_ENCORE,
               MOVE_DOUBLE_EDGE,

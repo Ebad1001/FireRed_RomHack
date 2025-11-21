@@ -1048,16 +1048,16 @@ Cry_Polispark::
 	.incbin "sound/direct_sound_samples/cries/polispark.bin"
 
 	.align 2
-Cry_Hoppip::
-	.incbin "sound/direct_sound_samples/cries/hoppip.bin"
+Cry_Shinx::
+	.incbin "sound/direct_sound_samples/cries/shinx.bin"
 
 	.align 2
-Cry_Skiploom::
-	.incbin "sound/direct_sound_samples/cries/skiploom.bin"
+Cry_Luxio::
+	.incbin "sound/direct_sound_samples/cries/luxio.bin"
 
 	.align 2
-Cry_Jumpluff::
-	.incbin "sound/direct_sound_samples/cries/jumpluff.bin"
+Cry_Luxray::
+	.incbin "sound/direct_sound_samples/cries/luxray.bin"
 
 	.align 2
 Cry_Aipom::

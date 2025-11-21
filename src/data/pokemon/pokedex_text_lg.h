@@ -1307,26 +1307,26 @@ const u8 gPolisparkPokedexText[] = _(
 
 const u8 gPolisparkPokedexTextUnused[] = _("");
 
-const u8 gHoppipPokedexText[] = _(
+const u8 gShinxPokedexText[] = _(
     "To keep from being blown away by the\n"
     "wind, they gather in clusters. They do\n"
     "enjoy gentle breezes, though.");
 
-const u8 gHoppipPokedexTextUnused[] = _("");
+const u8 gShinxPokedexTextUnused[] = _("");
 
-const u8 gSkiploomPokedexText[] = _(
+const u8 gLuxioPokedexText[] = _(
     "The bloom on top of its head opens and\n"
     "closes as the temperature fluctuates up\n"
     "and down.");
 
-const u8 gSkiploomPokedexTextUnused[] = _("");
+const u8 gLuxioPokedexTextUnused[] = _("");
 
-const u8 gJumpluffPokedexText[] = _(
+const u8 gLuxrayPokedexText[] = _(
     "Once it catches the wind, it deftly\n"
     "controls its cotton-puff spores to float,\n"
     "even around the world.");
 
-const u8 gJumpluffPokedexTextUnused[] = _("");
+const u8 gLuxrayPokedexTextUnused[] = _("");
 
 const u8 gAipomPokedexText[] = _(
     "Its tail is so powerful that it can use it\n"
