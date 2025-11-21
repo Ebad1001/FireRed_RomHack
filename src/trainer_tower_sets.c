@@ -4200,7 +4200,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 			.speechAfter = {EC_WORD_I, EC_MOVE2(REFRESH), EC_WORD_THINGS, EC_WORD_WITH, EC_WORD_REFRESHING, EC_MOVE(AROMATHERAPY)},
 			.mons = {
 				{
-					.species = SPECIES_BELLOSSOM,
+					.species = SPECIES_SUNBLOOM,
 					.heldItem = ITEM_PERSIM_BERRY,
 					.moves = {MOVE_SWEET_SCENT, MOVE_ATTRACT, MOVE_PETAL_DANCE, MOVE_FLAIL},
 					.hpEV = 84,
@@ -4218,7 +4218,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x0C, // FEMALE SERIOUS
-					.nickname = _("BELLOSSOM"),
+					.nickname = _("SUNBLOOM"),
 					.friendship = 255
 				},
 				{
@@ -4540,7 +4540,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_6 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_POLITOED,
+					.species = SPECIES_POLISPARK,
 					.heldItem = ITEM_CHESTO_BERRY,
 					.moves = {MOVE_SURF, MOVE_EARTHQUAKE, MOVE_HYPNOSIS, MOVE_SWAGGER},
 					.hpEV = 100,
@@ -4558,7 +4558,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_6 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x96, // MALE HARDY
-					.nickname = _("POLITOED"),
+					.nickname = _("POLISPARK"),
 					.friendship = 255
 				},
 				{
@@ -5258,7 +5258,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 			.speechAfter = {EC_WORD_WON_T, EC_WORD_YOU, EC_WORD_GET, EC_WORD_LOST, EC_WORD_PLEASE, EC_WORD_QUES},
 			.mons = {
 				{
-					.species = SPECIES_POLITOED,
+					.species = SPECIES_POLISPARK,
 					.heldItem = ITEM_KINGS_ROCK,
 					.moves = {MOVE_SURF, MOVE_HYPNOSIS, MOVE_PERISH_SONG, MOVE_SWAGGER},
 					.hpEV = 0,
@@ -5276,7 +5276,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x8C, // MALE MODEST
-					.nickname = _("POLITOED"),
+					.nickname = _("POLISPARK"),
 					.friendship = 255
 				},
 				{

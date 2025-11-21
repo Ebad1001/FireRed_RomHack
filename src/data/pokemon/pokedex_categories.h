@@ -40,7 +40,7 @@ static const u16 sDexCategory_GrasslandPkmn_Page7[] = {
     SPECIES_ODDISH,
     SPECIES_GLOOM,
     SPECIES_VILEPLUME,
-    SPECIES_BELLOSSOM,
+    SPECIES_SUNBLOOM,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page8[] = {
@@ -334,7 +334,7 @@ static const u16 sDexCategory_WatersEdgePkmn_Page7[] = {
     SPECIES_POLIWAG,
     SPECIES_POLIWHIRL,
     SPECIES_POLIWRATH,
-    SPECIES_POLITOED,
+    SPECIES_POLISPARK,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page8[] = {

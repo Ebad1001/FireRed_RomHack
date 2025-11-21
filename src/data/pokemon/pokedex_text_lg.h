@@ -1272,12 +1272,12 @@ const u8 gAmpharosPokedexText[] = _(
 
 const u8 gAmpharosPokedexTextUnused[] = _("");
 
-const u8 gBellossomPokedexText[] = _(
-    "BELLOSSOM gather at times and appear to\n"
+const u8 gSunbloomPokedexText[] = _(
+    "SUNBLOOM gather at times and appear to\n"
     "dance. They say that the dance is a\n"
     "ritual to summon the sun.");
 
-const u8 gBellossomPokedexTextUnused[] = _("");
+const u8 gSunbloomPokedexTextUnused[] = _("");
 
 const u8 gMarillPokedexText[] = _(
     "The tip of its tail, which contains oil\n"
@@ -1300,12 +1300,12 @@ const u8 gGalladePokedexText[] = _(
 
 const u8 gGalladePokedexTextUnused[] = _("");
 
-const u8 gPolitoedPokedexText[] = _(
+const u8 gPolisparkPokedexText[] = _(
     "If POLIWAG and POLIWHIRL hear its\n"
     "echoing cry, they respond by gathering\n"
     "from far and wide.");
 
-const u8 gPolitoedPokedexTextUnused[] = _("");
+const u8 gPolisparkPokedexTextUnused[] = _("");
 
 const u8 gHoppipPokedexText[] = _(
     "To keep from being blown away by the\n"

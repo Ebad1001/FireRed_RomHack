@@ -677,7 +677,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_BRAVE,
 	},
 	{
-		.species = SPECIES_BELLOSSOM,
+		.species = SPECIES_SUNBLOOM,
 		.heldItem = BATTLE_TOWER_ITEM_MIRACLE_SEED,
 		.teamFlags = 0x0A,
 		.moves = {

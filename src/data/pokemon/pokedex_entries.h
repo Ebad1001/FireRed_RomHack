@@ -2366,13 +2366,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_BELLOSSOM] =
+    [NATIONAL_DEX_SUNBLOOM] =
     {
         .categoryName = _("SUNFLOWER"),
         .height = 4,
         .weight = 58,
-        .description = gBellossomPokedexText,
-        .unusedDescription = gBellossomPokedexTextUnused,
+        .description = gSunbloomPokedexText,
+        .unusedDescription = gSunbloomPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2418,13 +2418,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_POLITOED] =
+    [NATIONAL_DEX_POLISPARK] =
     {
         .categoryName = _("TOAD"),
         .height = 11,
         .weight = 339,
-        .description = gPolitoedPokedexText,
-        .unusedDescription = gPolitoedPokedexTextUnused,
+        .description = gPolisparkPokedexText,
+        .unusedDescription = gPolisparkPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

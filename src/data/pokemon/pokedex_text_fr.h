@@ -1272,12 +1272,12 @@ const u8 gAmpharosPokedexText[] = _(
 
 const u8 gAmpharosPokedexTextUnused[] = _("");
 
-const u8 gBellossomPokedexText[] = _(
+const u8 gSunbloomPokedexText[] = _(
     "HP     -  75    Ph.Atk -  80\n"
     "Ph.Def -  85    Sp.Atk -  90\n"
     "Sp.Def - 100    Speed  -  50");
 
-const u8 gBellossomPokedexTextUnused[] = _("");
+const u8 gSunbloomPokedexTextUnused[] = _("");
 
 const u8 gMarillPokedexText[] = _(
     "HP     -  70    Ph.Atk -  20\n"
@@ -1300,12 +1300,12 @@ const u8 gGalladePokedexText[] = _(
 
 const u8 gGalladePokedexTextUnused[] = _("");
 
-const u8 gPolitoedPokedexText[] = _(
+const u8 gPolisparkPokedexText[] = _(
     "HP     -  90    Ph.Atk -  75\n"
     "Ph.Def -  75    Sp.Atk -  90\n"
     "Sp.Def - 100    Speed  -  70");
 
-const u8 gPolitoedPokedexTextUnused[] = _("");
+const u8 gPolisparkPokedexTextUnused[] = _("");
 
 const u8 gHoppipPokedexText[] = _(
     "HP     -  35    Ph.Atk -  35\n"

@@ -482,7 +482,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_RELAXED,
 	},
 	{
-		.species = SPECIES_BELLOSSOM,
+		.species = SPECIES_SUNBLOOM,
 		.heldItem = BATTLE_TOWER_ITEM_MIRACLE_SEED,
 		.teamFlags = 0x0A,
 		.moves = {

@@ -181,11 +181,11 @@ gCryTable::
 	cry Cry_Mareep
 	cry Cry_Flaaffy
 	cry Cry_Ampharos
-	cry Cry_Bellossom
+	cry Cry_Sunbloom
 	cry Cry_Marill
 	cry Cry_Azumarill
 	cry Cry_Gallade
-	cry Cry_Politoed
+	cry Cry_Polispark
 	cry Cry_Hoppip
 	cry Cry_Skiploom
 	cry Cry_Jumpluff
@@ -572,11 +572,11 @@ gCryTable_Reverse::
 	cry_reverse Cry_Mareep
 	cry_reverse Cry_Flaaffy
 	cry_reverse Cry_Ampharos
-	cry_reverse Cry_Bellossom
+	cry_reverse Cry_Sunbloom
 	cry_reverse Cry_Marill
 	cry_reverse Cry_Azumarill
 	cry_reverse Cry_Gallade
-	cry_reverse Cry_Politoed
+	cry_reverse Cry_Polispark
 	cry_reverse Cry_Hoppip
 	cry_reverse Cry_Skiploom
 	cry_reverse Cry_Jumpluff

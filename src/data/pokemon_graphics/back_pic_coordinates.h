@@ -910,7 +910,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 1,
     },
-    [SPECIES_BELLOSSOM] =
+    [SPECIES_SUNBLOOM] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 11,
@@ -930,7 +930,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 8,
     },
-    [SPECIES_POLITOED] =
+    [SPECIES_POLISPARK] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 9,

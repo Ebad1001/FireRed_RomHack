@@ -5280,7 +5280,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_BELLOSSOM] = /* SUNBLOOM */
+    [SPECIES_SUNBLOOM] = /* SUNBLOOM */
     {
         .baseHP = 75,
         .baseAttack = 80,
@@ -5396,7 +5396,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_POLITOED] = /* POLIFLARE */
+    [SPECIES_POLISPARK] = /* POLIFLARE */
     {
         .baseHP = 90,
         .baseAttack = 75,

@@ -2521,7 +2521,7 @@ static const u16 sAmpharosLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sBellossomLevelUpLearnset[] = {
+static const u16 sSunbloomLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_ABSORB),
     LEVEL_UP_MOVE(1, MOVE_SWEET_SCENT),
     LEVEL_UP_MOVE(1, MOVE_STUN_SPORE),
@@ -2573,7 +2573,7 @@ static const u16 sGalladeLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sPolitoedLevelUpLearnset[] = {
+static const u16 sPolisparkLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_WATER_GUN),
     LEVEL_UP_MOVE(1, MOVE_HYPNOSIS),
     LEVEL_UP_MOVE(1, MOVE_FURY_SWIPES),

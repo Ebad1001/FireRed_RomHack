@@ -1028,8 +1028,8 @@ Cry_Ampharos::
 	.incbin "sound/direct_sound_samples/cries/ampharos.bin"
 
 	.align 2
-Cry_Bellossom::
-	.incbin "sound/direct_sound_samples/cries/bellossom.bin"
+Cry_Sunbloom::
+	.incbin "sound/direct_sound_samples/cries/sunbloom.bin"
 
 	.align 2
 Cry_Marill::
@@ -1044,8 +1044,8 @@ Cry_Gallade::
 	.incbin "sound/direct_sound_samples/cries/gallade.bin"
 
 	.align 2
-Cry_Politoed::
-	.incbin "sound/direct_sound_samples/cries/politoed.bin"
+Cry_Polispark::
+	.incbin "sound/direct_sound_samples/cries/polispark.bin"
 
 	.align 2
 Cry_Hoppip::

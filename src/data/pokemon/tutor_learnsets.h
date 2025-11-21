@@ -1324,7 +1324,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_CHARGE_UP)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_BELLOSSOM] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_SUNBLOOM] = TUTOR(MOVE_SWORDS_DANCE)
                         | TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_SUBSTITUTE),
@@ -1356,7 +1356,7 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_ROCK_SLIDE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_POLITOED] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_POLISPARK] = TUTOR(MOVE_FIRE_PUNCH)
                        | TUTOR(MOVE_THUNDERPUNCH)
                        | TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
