@@ -1555,12 +1555,12 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 6,
     },
-    [SPECIES_SURSKIT] =
+    [SPECIES_WIMPOD] =
     {
         .size = MON_COORDS_SIZE(64, 48),
         .y_offset = 11,
     },
-    [SPECIES_MASQUERAIN] =
+    [SPECIES_GOLISOPOD] =
     {
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 0,

@@ -3679,26 +3679,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SURSKIT] =
+    [NATIONAL_DEX_WIMPOD] =
     {
         .categoryName = _("SCARED-BUG"),
         .height = 5,
         .weight = 120,
-        .description = gSurskitPokedexText,
-        .unusedDescription = gSurskitPokedexTextUnused,
+        .description = gWimpodPokedexText,
+        .unusedDescription = gWimpodPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_MASQUERAIN] =
+    [NATIONAL_DEX_GOLISOPOD] =
     {
         .categoryName = _("SCARY-BUG"),
         .height = 20,
         .weight = 1080,
-        .description = gMasquerainPokedexText,
-        .unusedDescription = gMasquerainPokedexTextUnused,
+        .description = gGolisopodPokedexText,
+        .unusedDescription = gGolisopodPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

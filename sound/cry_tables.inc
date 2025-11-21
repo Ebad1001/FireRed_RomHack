@@ -310,8 +310,8 @@ gCryTable::
 	cry Cry_Glalie
 	cry Cry_Plusle
 	cry Cry_Minun
-	cry Cry_Surskit
-	cry Cry_Masquerain
+	cry Cry_Wimpod
+	cry Cry_Golisopod
 	cry Cry_Skitty
 	cry Cry_Delcatty
 	cry Cry_Gulpin
@@ -701,8 +701,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Glalie
 	cry_reverse Cry_Plusle
 	cry_reverse Cry_Minun
-	cry_reverse Cry_Surskit
-	cry_reverse Cry_Masquerain
+	cry_reverse Cry_Wimpod
+	cry_reverse Cry_Golisopod
 	cry_reverse Cry_Skitty
 	cry_reverse Cry_Delcatty
 	cry_reverse Cry_Gulpin

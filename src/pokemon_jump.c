@@ -838,7 +838,7 @@ static const struct PokemonJumpMons
     { .species = SPECIES_SEEDOT,     .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_RALTS,      .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_KIRLIA,     .jumpType = JUMP_TYPE_NORMAL },
-    { .species = SPECIES_SURSKIT,    .jumpType = JUMP_TYPE_SLOW },
+    { .species = SPECIES_WIMPOD,    .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_SHROOMISH,  .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_NINCADA,    .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_WHISMUR,    .jumpType = JUMP_TYPE_NORMAL },

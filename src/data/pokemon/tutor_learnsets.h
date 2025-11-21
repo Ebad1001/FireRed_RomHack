@@ -2061,11 +2061,11 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SURSKIT] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_WIMPOD] = TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_MASQUERAIN] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_GOLISOPOD] = TUTOR(MOVE_DOUBLE_EDGE)
                          | TUTOR(MOVE_AVALANCHE)
                          | TUTOR(MOVE_SUBSTITUTE),
 

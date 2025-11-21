@@ -8234,7 +8234,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_WHITE,
         .noFlip = FALSE,
     },
-    [SPECIES_SURSKIT] = /* WIMPOD */
+    [SPECIES_WIMPOD] = /* WIMPOD */
     {
         .baseHP = 40,
         .baseAttack = 30,
@@ -8263,7 +8263,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_MASQUERAIN] = /* GOLISOPOD */
+    [SPECIES_GOLISOPOD] = /* GOLISOPOD */
     {
         .baseHP = 70,
         .baseAttack = 60,

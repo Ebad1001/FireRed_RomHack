@@ -1544,12 +1544,12 @@ Cry_Minun::
 	.incbin "sound/direct_sound_samples/cries/minun.bin"
 
 	.align 2
-Cry_Surskit::
-	.incbin "sound/direct_sound_samples/cries/surskit.bin"
+Cry_Wimpod::
+	.incbin "sound/direct_sound_samples/cries/wimpod.bin"
 
 	.align 2
-Cry_Masquerain::
-	.incbin "sound/direct_sound_samples/cries/masquerain.bin"
+Cry_Golisopod::
+	.incbin "sound/direct_sound_samples/cries/golisopod.bin"
 
 	.align 2
 Cry_Skitty::

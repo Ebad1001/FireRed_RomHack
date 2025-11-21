@@ -1979,19 +1979,19 @@ const u8 gGardevoirPokedexText[] = _(
 
 const u8 gGardevoirPokedexTextUnused[] = _("");
 
-const u8 gSurskitPokedexText[] = _(
+const u8 gWimpodPokedexText[] = _(
     "HP     -  40    Ph.Atk -  30\n"
     "Ph.Def -  32    Sp.Atk -  50\n"
     "Sp.Def -  52    Speed  -  65");
 
-const u8 gSurskitPokedexTextUnused[] = _("");
+const u8 gWimpodPokedexTextUnused[] = _("");
 
-const u8 gMasquerainPokedexText[] = _(
+const u8 gGolisopodPokedexText[] = _(
     "HP     -  70    Ph.Atk -  60\n"
     "Ph.Def -  62    Sp.Atk -  80\n"
     "Sp.Def -  82    Speed  -  60");
 
-const u8 gMasquerainPokedexTextUnused[] = _("");
+const u8 gGolisopodPokedexTextUnused[] = _("");
 
 const u8 gShroomishPokedexText[] = _(
     "HP     -  60    Ph.Atk -  40\n"

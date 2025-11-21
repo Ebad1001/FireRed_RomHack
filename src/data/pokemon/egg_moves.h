@@ -966,7 +966,7 @@ const u16 gEggMoves[] = {
               MOVE_TWISTER,
               MOVE_SLAM),
 
-    egg_moves(SURSKIT,
+    egg_moves(WIMPOD,
               MOVE_ODOR_SLEUTH,
               MOVE_MUD_SHOT,
               MOVE_PSYBEAM,

@@ -1979,19 +1979,19 @@ const u8 gGardevoirPokedexText[] = _(
 
 const u8 gGardevoirPokedexTextUnused[] = _("");
 
-const u8 gSurskitPokedexText[] = _(
+const u8 gWimpodPokedexText[] = _(
     "They usually live on ponds, but after an\n"
     "evening shower, they may appear on\n"
     "puddles in towns.");
 
-const u8 gSurskitPokedexTextUnused[] = _("");
+const u8 gWimpodPokedexTextUnused[] = _("");
 
-const u8 gMasquerainPokedexText[] = _(
+const u8 gGolisopodPokedexText[] = _(
     "The antennae have distinctive patterns\n"
     "that look like eyes. When it rains, they\n"
     "grow heavy, making flight impossible.");
 
-const u8 gMasquerainPokedexTextUnused[] = _("");
+const u8 gGolisopodPokedexTextUnused[] = _("");
 
 const u8 gShroomishPokedexText[] = _(
     "It prefers damp places. By day it remains\n"

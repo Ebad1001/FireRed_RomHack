@@ -79,7 +79,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_RELAXED,
 	},
 	{
-		.species = SPECIES_MASQUERAIN,
+		.species = SPECIES_GOLISOPOD,
 		.heldItem = BATTLE_TOWER_ITEM_WHITE_HERB,
 		.teamFlags = 0x41,
 		.moves = {
@@ -1444,7 +1444,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_LAX,
 	},
 	{
-		.species = SPECIES_MASQUERAIN,
+		.species = SPECIES_GOLISOPOD,
 		.heldItem = BATTLE_TOWER_ITEM_PERSIM_BERRY,
 		.teamFlags = 0x0A,
 		.moves = {

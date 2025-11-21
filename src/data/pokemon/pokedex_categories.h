@@ -319,8 +319,8 @@ static const u16 sDexCategory_WatersEdgePkmn_Page4[] = {
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page5[] = {
-    SPECIES_SURSKIT,
-    SPECIES_MASQUERAIN,
+    SPECIES_WIMPOD,
+    SPECIES_GOLISOPOD,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page6[] = {
