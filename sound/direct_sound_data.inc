@@ -772,12 +772,12 @@ Cry_Seadra::
 	.incbin "sound/direct_sound_samples/cries/seadra.bin"
 
 	.align 2
-Cry_Goldeen::
-	.incbin "sound/direct_sound_samples/cries/goldeen.bin"
+Cry_Frillish::
+	.incbin "sound/direct_sound_samples/cries/frillish.bin"
 
 	.align 2
-Cry_Seaking::
-	.incbin "sound/direct_sound_samples/cries/seaking.bin"
+Cry_Jellicent::
+	.incbin "sound/direct_sound_samples/cries/jellicent.bin"
 
 	.align 2
 Cry_Staryu::

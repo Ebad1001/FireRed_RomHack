@@ -604,8 +604,8 @@ static const u16 sEasyChatWordsByLetter_G[] = {
     EC_POKEMON(GOLBAT),
     EC_WORD_GOLD,
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(GOLDEEN),
-    EC_POKEMON(GOLDEEN),
+    EC_POKEMON2(FRILLISH),
+    EC_POKEMON(FRILLISH),
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(GOLDUCK),
     EC_POKEMON(GOLDUCK),
@@ -1399,8 +1399,8 @@ static const u16 sEasyChatWordsByLetter_S[] = {
     EC_POKEMON2(SEADRA),
     EC_POKEMON(SEADRA),
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(SEAKING),
-    EC_POKEMON(SEAKING),
+    EC_POKEMON2(JELLICENT),
+    EC_POKEMON(JELLICENT),
     EC_POKEMON2(SEALEO),
     EC_WORD_SEARCH,
     EC_WORD_SECRET,

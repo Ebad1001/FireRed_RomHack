@@ -117,8 +117,8 @@ gCryTable::
 	cry Cry_Kangaskhan
 	cry Cry_Horsea
 	cry Cry_Seadra
-	cry Cry_Goldeen
-	cry Cry_Seaking
+	cry Cry_Frillish
+	cry Cry_Jellicent
 	cry Cry_Staryu
 	cry Cry_Starmie
 	cry Cry_MrMime
@@ -508,8 +508,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Kangaskhan
 	cry_reverse Cry_Horsea
 	cry_reverse Cry_Seadra
-	cry_reverse Cry_Goldeen
-	cry_reverse Cry_Seaking
+	cry_reverse Cry_Frillish
+	cry_reverse Cry_Jellicent
 	cry_reverse Cry_Staryu
 	cry_reverse Cry_Starmie
 	cry_reverse Cry_MrMime

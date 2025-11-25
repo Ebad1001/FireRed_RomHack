@@ -2990,7 +2990,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -3005,12 +3005,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -3144,7 +3144,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -3159,12 +3159,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -3298,7 +3298,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -3313,12 +3313,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -3452,7 +3452,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -3467,12 +3467,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -3606,7 +3606,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -3621,12 +3621,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -3760,7 +3760,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -3775,12 +3775,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -3914,7 +3914,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -3929,12 +3929,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -4068,7 +4068,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -4083,12 +4083,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -4262,7 +4262,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -4446,7 +4446,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -4828,7 +4828,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -5012,7 +5012,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -9210,7 +9210,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -9225,12 +9225,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -9364,7 +9364,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -9379,12 +9379,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -9528,7 +9528,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -9682,7 +9682,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -13166,7 +13166,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -13320,7 +13320,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -15556,7 +15556,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -15710,7 +15710,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -17416,7 +17416,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -17570,7 +17570,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -21032,7 +21032,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -21186,7 +21186,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -21340,7 +21340,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -21494,7 +21494,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -21956,7 +21956,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -22110,7 +22110,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -22377,7 +22377,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -22466,7 +22466,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -23079,7 +23079,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -23094,12 +23094,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -23168,7 +23168,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 5,
@@ -23183,12 +23183,12 @@
               {
                 "min_level": 15,
                 "max_level": 25,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_SEAKING"
+                "species": "SPECIES_JELLICENT"
               },
               {
                 "min_level": 15,
@@ -23623,7 +23623,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,
@@ -23712,7 +23712,7 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GOLDEEN"
+                "species": "SPECIES_FRILLISH"
               },
               {
                 "min_level": 15,

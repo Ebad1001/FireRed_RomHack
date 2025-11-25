@@ -1635,7 +1635,7 @@ static const u16 sSeadraLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sGoldeenLevelUpLearnset[] = {
+static const u16 sFrillishLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_PECK),
     LEVEL_UP_MOVE(1, MOVE_TAIL_WHIP),
     LEVEL_UP_MOVE(10, MOVE_CONFUSE_RAY),
@@ -1649,7 +1649,7 @@ static const u16 sGoldeenLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSeakingLevelUpLearnset[] = {
+static const u16 sJellicentLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_PECK),
     LEVEL_UP_MOVE(1, MOVE_TAIL_WHIP),
     LEVEL_UP_MOVE(1, MOVE_CONFUSE_RAY),

@@ -385,8 +385,8 @@ static const u16 sDexCategory_WatersEdgePkmn_Page14[] = {
 // };
 
 static const u16 sDexCategory_SeaPkmn_Page1[] = {
-    SPECIES_GOLDEEN,
-    SPECIES_SEAKING,
+    SPECIES_FRILLISH,
+    SPECIES_JELLICENT,
     SPECIES_TENTACOOL,
     SPECIES_TENTACRUEL,
 };

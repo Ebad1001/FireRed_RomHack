@@ -53,7 +53,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_ADAMANT,
 	},
 	{
-		.species = SPECIES_SEAKING,
+		.species = SPECIES_JELLICENT,
 		.heldItem = BATTLE_TOWER_ITEM_MYSTIC_WATER,
 		.teamFlags = 0x07,
 		.moves = {
@@ -781,7 +781,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_HARDY,
 	},
 	{
-		.species = SPECIES_SEAKING,
+		.species = SPECIES_JELLICENT,
 		.heldItem = BATTLE_TOWER_ITEM_MYSTIC_WATER,
 		.teamFlags = 0x07,
 		.moves = {
@@ -2406,7 +2406,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_NAUGHTY,
 	},
 	{
-		.species = SPECIES_SEAKING,
+		.species = SPECIES_JELLICENT,
 		.heldItem = BATTLE_TOWER_ITEM_LEPPA_BERRY,
 		.teamFlags = 0xB2,
 		.moves = {

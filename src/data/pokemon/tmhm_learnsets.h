@@ -2771,7 +2771,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM07_WATERFALL)
                                         | TMHM(HM08_DIVE)),
 
-    [SPECIES_GOLDEEN]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_FRILLISH]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM07_HAIL)
                                         | TMHM(TM10_HIDDEN_POWER)
@@ -2790,7 +2790,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM07_WATERFALL)
                                         | TMHM(HM08_DIVE)),
 
-    [SPECIES_SEAKING]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_JELLICENT]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM07_HAIL)
                                         | TMHM(TM10_HIDDEN_POWER)

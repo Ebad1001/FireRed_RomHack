@@ -5852,7 +5852,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 			.speechAfter = {EC_WORD_YOU_RE, EC_WORD_A, EC_WORD_NICE, EC_WORD_TRAINER, EC_WORD_THANK_YOU, EC_WORD_EXCL},
 			.mons = {
 				{
-					.species = SPECIES_GOLDEEN,
+					.species = SPECIES_FRILLISH,
 					.heldItem = ITEM_SITRUS_BERRY,
 					.moves = {MOVE_WATER_PULSE, MOVE_MEGAHORN, MOVE_SUPERSONIC, MOVE_ICE_BEAM},
 					.hpEV = 110,
@@ -5870,11 +5870,11 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 1,
 					.personality = 0x96, // MALE HARDY
-					.nickname = _("GOLDEEN"),
+					.nickname = _("FRILLISH"),
 					.friendship = 0
 				},
 				{
-					.species = SPECIES_SEAKING,
+					.species = SPECIES_JELLICENT,
 					.heldItem = ITEM_SCOPE_LENS,
 					.moves = {MOVE_SURF, MOVE_MEGAHORN, MOVE_HORN_DRILL, MOVE_PROTECT},
 					.hpEV = 100,
@@ -5892,7 +5892,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 1,
 					.personality = 0x00, // FEMALE HARDY
-					.nickname = _("SEAKING"),
+					.nickname = _("JELLICENT"),
 					.friendship = 0
 				},
 				{
@@ -5940,7 +5940,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.friendship = 0
 				},
 				{
-					.species = SPECIES_GOLDEEN,
+					.species = SPECIES_FRILLISH,
 					.heldItem = ITEM_APICOT_BERRY,
 					.moves = {MOVE_WATER_PULSE, MOVE_DOUBLE_EDGE, MOVE_TOXIC, MOVE_PSYBEAM},
 					.hpEV = 110,
@@ -5958,11 +5958,11 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 1,
 					.personality = 0x00, // FEMALE HARDY
-					.nickname = _("GOLDEEN"),
+					.nickname = _("FRILLISH"),
 					.friendship = 0
 				},
 				{
-					.species = SPECIES_SEAKING,
+					.species = SPECIES_JELLICENT,
 					.heldItem = ITEM_PETAYA_BERRY,
 					.moves = {MOVE_SURF, MOVE_HYPER_BEAM, MOVE_ICE_BEAM, MOVE_PSYBEAM},
 					.hpEV = 110,
@@ -5980,7 +5980,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 1,
 					.personality = 0x96, // MALE HARDY
-					.nickname = _("SEAKING"),
+					.nickname = _("JELLICENT"),
 					.friendship = 0
 				},
 			}
@@ -6522,7 +6522,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_4 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_SEAKING,
+					.species = SPECIES_JELLICENT,
 					.heldItem = ITEM_CHERI_BERRY,
 					.moves = {MOVE_HORN_DRILL, MOVE_MEGAHORN, MOVE_SUPERSONIC, MOVE_AGILITY},
 					.hpEV = 255,
@@ -6540,7 +6540,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_4 = {
 					.spDefenseIV = 10,
 					.abilityNum = 1,
 					.personality = 0x17, // FEMALE CAREFUL
-					.nickname = _("SEAKING"),
+					.nickname = _("JELLICENT"),
 					.friendship = 255
 				},
 				{

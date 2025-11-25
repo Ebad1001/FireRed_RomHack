@@ -824,19 +824,19 @@ const u8 gSeadraPokedexText[] = _(
 
 const u8 gSeadraPokedexTextUnused[] = _("");
 
-const u8 gGoldeenPokedexText[] = _(
+const u8 gFrillishPokedexText[] = _(
     "HP     -  45    Ph.Atk -  67\n"
     "Ph.Def -  60    Sp.Atk -  35\n"
     "Sp.Def -  50    Speed  -  63");
 
-const u8 gGoldeenPokedexTextUnused[] = _("");
+const u8 gFrillishPokedexTextUnused[] = _("");
 
-const u8 gSeakingPokedexText[] = _(
+const u8 gJellicentPokedexText[] = _(
     "HP     -  80    Ph.Atk -  92\n"
     "Ph.Def -  65    Sp.Atk -  65\n"
     "Sp.Def -  80    Speed  -  68");
 
-const u8 gSeakingPokedexTextUnused[] = _("");
+const u8 gJellicentPokedexTextUnused[] = _("");
 
 const u8 gStaryuPokedexText[] = _(
     "HP     -  30    Ph.Atk -  45\n"

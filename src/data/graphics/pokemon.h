@@ -817,19 +817,19 @@ const u32 gMonShinyPalette_Seadra[] = INCBIN_U32("graphics/pokemon/seadra/shiny.
 const u8 gMonIcon_Seadra[] = INCBIN_U8("graphics/pokemon/seadra/icon.4bpp");
 const u8 gMonFootprint_Seadra[] = INCBIN_U8("graphics/pokemon/seadra/footprint.1bpp");
 
-const u32 gMonFrontPic_Goldeen[] = INCBIN_U32("graphics/pokemon/goldeen/front.4bpp.lz");
-const u32 gMonPalette_Goldeen[] = INCBIN_U32("graphics/pokemon/goldeen/normal.gbapal.lz");
-const u32 gMonBackPic_Goldeen[] = INCBIN_U32("graphics/pokemon/goldeen/back.4bpp.lz");
-const u32 gMonShinyPalette_Goldeen[] = INCBIN_U32("graphics/pokemon/goldeen/shiny.gbapal.lz");
-const u8 gMonIcon_Goldeen[] = INCBIN_U8("graphics/pokemon/goldeen/icon.4bpp");
-const u8 gMonFootprint_Goldeen[] = INCBIN_U8("graphics/pokemon/goldeen/footprint.1bpp");
+const u32 gMonFrontPic_Frillish[] = INCBIN_U32("graphics/pokemon/frillish/front.4bpp.lz");
+const u32 gMonPalette_Frillish[] = INCBIN_U32("graphics/pokemon/frillish/normal.gbapal.lz");
+const u32 gMonBackPic_Frillish[] = INCBIN_U32("graphics/pokemon/frillish/back.4bpp.lz");
+const u32 gMonShinyPalette_Frillish[] = INCBIN_U32("graphics/pokemon/frillish/shiny.gbapal.lz");
+const u8 gMonIcon_Frillish[] = INCBIN_U8("graphics/pokemon/frillish/icon.4bpp");
+const u8 gMonFootprint_Frillish[] = INCBIN_U8("graphics/pokemon/frillish/footprint.1bpp");
 
-const u32 gMonFrontPic_Seaking[] = INCBIN_U32("graphics/pokemon/seaking/front.4bpp.lz");
-const u32 gMonPalette_Seaking[] = INCBIN_U32("graphics/pokemon/seaking/normal.gbapal.lz");
-const u32 gMonBackPic_Seaking[] = INCBIN_U32("graphics/pokemon/seaking/back.4bpp.lz");
-const u32 gMonShinyPalette_Seaking[] = INCBIN_U32("graphics/pokemon/seaking/shiny.gbapal.lz");
-const u8 gMonIcon_Seaking[] = INCBIN_U8("graphics/pokemon/seaking/icon.4bpp");
-const u8 gMonFootprint_Seaking[] = INCBIN_U8("graphics/pokemon/seaking/footprint.1bpp");
+const u32 gMonFrontPic_Jellicent[] = INCBIN_U32("graphics/pokemon/jellicent/front.4bpp.lz");
+const u32 gMonPalette_Jellicent[] = INCBIN_U32("graphics/pokemon/jellicent/normal.gbapal.lz");
+const u32 gMonBackPic_Jellicent[] = INCBIN_U32("graphics/pokemon/jellicent/back.4bpp.lz");
+const u32 gMonShinyPalette_Jellicent[] = INCBIN_U32("graphics/pokemon/jellicent/shiny.gbapal.lz");
+const u8 gMonIcon_Jellicent[] = INCBIN_U8("graphics/pokemon/jellicent/icon.4bpp");
+const u8 gMonFootprint_Jellicent[] = INCBIN_U8("graphics/pokemon/jellicent/footprint.1bpp");
 
 const u32 gMonFrontPic_Staryu[] = INCBIN_U32("graphics/pokemon/staryu/front.4bpp.lz");
 const u32 gMonPalette_Staryu[] = INCBIN_U32("graphics/pokemon/staryu/normal.gbapal.lz");

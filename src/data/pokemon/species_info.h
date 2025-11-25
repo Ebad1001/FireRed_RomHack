@@ -3424,7 +3424,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_GOLDEEN] = /* FRILLISH */
+    [SPECIES_FRILLISH] = /* FRILLISH */
     {
         .baseHP = 45,
         .baseAttack = 67,
@@ -3453,7 +3453,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_SEAKING] = /* JELLICENT */
+    [SPECIES_JELLICENT] = /* JELLICENT */
     {
         .baseHP = 80,
         .baseAttack = 92,

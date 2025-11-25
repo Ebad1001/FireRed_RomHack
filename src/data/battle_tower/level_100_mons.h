@@ -1535,7 +1535,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_TIMID,
 	},
 	{
-		.species = SPECIES_SEAKING,
+		.species = SPECIES_JELLICENT,
 		.heldItem = BATTLE_TOWER_ITEM_MYSTIC_WATER,
 		.teamFlags = 0x88,
 		.moves = {
@@ -2406,7 +2406,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_SASSY,
 	},
 	{
-		.species = SPECIES_SEAKING,
+		.species = SPECIES_JELLICENT,
 		.heldItem = BATTLE_TOWER_ITEM_LEPPA_BERRY,
 		.teamFlags = 0x20,
 		.moves = {

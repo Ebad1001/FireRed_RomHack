@@ -824,19 +824,19 @@ const u8 gSeadraPokedexText[] = _(
 
 const u8 gSeadraPokedexTextUnused[] = _("");
 
-const u8 gGoldeenPokedexText[] = _(
+const u8 gFrillishPokedexText[] = _(
     "Its tail fin billows like an elegant\n"
     "ballroom dress, giving it the nickname of\n"
     "“The Water Queen.”");
 
-const u8 gGoldeenPokedexTextUnused[] = _("");
+const u8 gFrillishPokedexTextUnused[] = _("");
 
-const u8 gSeakingPokedexText[] = _(
+const u8 gJellicentPokedexText[] = _(
     "In the autumn spawning season, they can\n"
     "be seen swimming powerfully up rivers and\n"
     "creeks.");
 
-const u8 gSeakingPokedexTextUnused[] = _("");
+const u8 gJellicentPokedexTextUnused[] = _("");
 
 const u8 gStaryuPokedexText[] = _(
     "An enigmatic POKéMON that can effortlessly\n"

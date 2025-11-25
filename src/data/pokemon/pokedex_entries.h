@@ -1534,26 +1534,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_GOLDEEN] =
+    [NATIONAL_DEX_FRILLISH] =
     {
         .categoryName = _("JELLYFISH"),
         .height = 12,
         .weight = 330,
-        .description = gGoldeenPokedexText,
-        .unusedDescription = gGoldeenPokedexTextUnused,
+        .description = gFrillishPokedexText,
+        .unusedDescription = gFrillishPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SEAKING] =
+    [NATIONAL_DEX_JELLICENT] =
     {
         .categoryName = _("JELLYFISH"),
         .height = 22,
         .weight = 135,
-        .description = gSeakingPokedexText,
-        .unusedDescription = gSeakingPokedexTextUnused,
+        .description = gJellicentPokedexText,
+        .unusedDescription = gJellicentPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
