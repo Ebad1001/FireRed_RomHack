@@ -6440,7 +6440,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_CORSOLA] = /* DRACOON */
+    [SPECIES_DRACOON] = /* DRACOON */
     {
         .baseHP = 55,
         .baseAttack = 55,
@@ -6469,7 +6469,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_REMORAID] = /* ANCHORAGE */
+    [SPECIES_ANCHORAGE] = /* ANCHORAGE */
     {
         .baseHP = 35,
         .baseAttack = 65,
@@ -6498,7 +6498,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_OCTILLERY] = /* QUARTILERY */
+    [SPECIES_QUARTILERY] = /* QUARTILERY */
     {
         .baseHP = 75,
         .baseAttack = 105,
@@ -9162,7 +9162,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
     },
-    [SPECIES_ROSELIA] = /* CORVIDOC */
+    [SPECIES_CORVIDOC] = /* CORVIDOC */
     {
         .baseHP = 50,
         .baseAttack = 60,

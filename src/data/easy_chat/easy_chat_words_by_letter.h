@@ -294,8 +294,8 @@ static const u16 sEasyChatWordsByLetter_C[] = {
     EC_POKEMON2(CORPHISH),
     EC_WORD_CORRECT,
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(CORSOLA),
-    EC_POKEMON(CORSOLA),
+    EC_POKEMON2(DRACOON),
+    EC_POKEMON(DRACOON),
     EC_MOVE(COSMIC_POWER),
     EC_MOVE2(COTTON_SPORE),
     EC_WORD_COULD,
@@ -1132,7 +1132,7 @@ static const u16 sEasyChatWordsByLetter_N[] = {
 static const u16 sEasyChatWordsByLetter_O[] = {
     EC_WORD_OBLIVIOUS,
     EC_MOVE(OCTAZOOKA),
-    EC_POKEMON(OCTILLERY),
+    EC_POKEMON(QUARTILERY),
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(ODDISH),
     EC_POKEMON(ODDISH),
@@ -1321,7 +1321,7 @@ static const u16 sEasyChatWordsByLetter_R[] = {
     EC_WORD_REJECT,
     EC_WORD_RELEASE,
     EC_POKEMON2(CHILLPANZEE),
-    EC_POKEMON(REMORAID),
+    EC_POKEMON(ANCHORAGE),
     EC_WORD_RENTAL,
     EC_MOVE2(REST),
     EC_WORD_RESUSCITATE,
@@ -1353,7 +1353,7 @@ static const u16 sEasyChatWordsByLetter_R[] = {
     EC_MOVE(ROLLOUT),
     EC_WORD_ROMANTIC,
     EC_WORD_ROOM,
-    EC_POKEMON2(ROSELIA),
+    EC_POKEMON2(CORVIDOC),
     EC_WORD_ROUGH_SKIN,
     EC_WORD_RPG,
     EC_WORD_RUBY,

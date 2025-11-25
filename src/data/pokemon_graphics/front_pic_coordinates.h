@@ -1110,17 +1110,17 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 8,
     },
-    [SPECIES_CORSOLA] =
+    [SPECIES_DRACOON] =
     {
         .size = MON_COORDS_SIZE(48, 40),
         .y_offset = 12,
     },
-    [SPECIES_REMORAID] =
+    [SPECIES_ANCHORAGE] =
     {
         .size = MON_COORDS_SIZE(40, 40),
         .y_offset = 14,
     },
-    [SPECIES_OCTILLERY] =
+    [SPECIES_QUARTILERY] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 10,
@@ -1815,7 +1815,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(56, 56),
         .y_offset = 5,
     },
-    [SPECIES_ROSELIA] =
+    [SPECIES_CORVIDOC] =
     {
         .size = MON_COORDS_SIZE(56, 48),
         .y_offset = 8,

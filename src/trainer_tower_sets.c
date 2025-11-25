@@ -5049,7 +5049,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_5 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_CORSOLA,
+					.species = SPECIES_DRACOON,
 					.heldItem = ITEM_QUICK_CLAW,
 					.moves = {MOVE_DIG, MOVE_MIRROR_COAT, MOVE_RECOVER, MOVE_CONFUSE_RAY},
 					.hpEV = 155,
@@ -5067,7 +5067,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_5 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x17, // FEMALE CAREFUL
-					.nickname = _("CORSOLA"),
+					.nickname = _("DRACOON"),
 					.friendship = 255
 				},
 				{
@@ -5995,7 +5995,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 			.speechAfter = {EC_WORD_HOHOHO, EC_WORD_THANK_YOU, EC_WORD_FOR, EC_WORD_AN, EC_WORD_AMUSING, EC_WORD_BATTLE},
 			.mons = {
 				{
-					.species = SPECIES_OCTILLERY,
+					.species = SPECIES_QUARTILERY,
 					.heldItem = ITEM_SITRUS_BERRY,
 					.moves = {MOVE_OCTAZOOKA, MOVE_ICE_BEAM, MOVE_PSYCHIC, MOVE_FLAMETHROWER},
 					.hpEV = 55,
@@ -6013,7 +6013,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x0F, // FEMALE MODEST
-					.nickname = _("OCTILLERY"),
+					.nickname = _("QUARTILERY"),
 					.friendship = 255
 				},
 				{
@@ -6039,7 +6039,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_REMORAID,
+					.species = SPECIES_ANCHORAGE,
 					.heldItem = ITEM_PECHA_BERRY,
 					.moves = {MOVE_SURF, MOVE_PSYCHIC, MOVE_ICE_BEAM, MOVE_THUNDER_WAVE},
 					.hpEV = 0,
@@ -6057,11 +6057,11 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x96, // MALE HARDY
-					.nickname = _("REMORAID"),
+					.nickname = _("ANCHORAGE"),
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_REMORAID,
+					.species = SPECIES_ANCHORAGE,
 					.heldItem = ITEM_WHITE_HERB,
 					.moves = {MOVE_WATER_PULSE, MOVE_BLIZZARD, MOVE_FIRE_BLAST, MOVE_PROTECT},
 					.hpEV = 0,
@@ -6079,11 +6079,11 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x00, // FEMALE HARDY
-					.nickname = _("REMORAID"),
+					.nickname = _("ANCHORAGE"),
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_OCTILLERY,
+					.species = SPECIES_QUARTILERY,
 					.heldItem = ITEM_FOCUS_BAND,
 					.moves = {MOVE_OCTAZOOKA, MOVE_SLUDGE_BOMB, MOVE_THUNDER_WAVE, MOVE_HYPER_BEAM},
 					.hpEV = 155,
@@ -6101,7 +6101,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x93, // MALE SASSY
-					.nickname = _("OCTILLERY"),
+					.nickname = _("QUARTILERY"),
 					.friendship = 255
 				},
 				{

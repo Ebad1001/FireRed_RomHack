@@ -1188,16 +1188,16 @@ Cry_Piloswine::
 	.incbin "sound/direct_sound_samples/cries/piloswine.bin"
 
 	.align 2
-Cry_Corsola::
-	.incbin "sound/direct_sound_samples/cries/corsola.bin"
+Cry_Dracoon::
+	.incbin "sound/direct_sound_samples/cries/dracoon.bin"
 
 	.align 2
-Cry_Remoraid::
-	.incbin "sound/direct_sound_samples/cries/remoraid.bin"
+Cry_Anchorage::
+	.incbin "sound/direct_sound_samples/cries/anchorage.bin"
 
 	.align 2
-Cry_Octillery::
-	.incbin "sound/direct_sound_samples/cries/octillery.bin"
+Cry_Quartilery::
+	.incbin "sound/direct_sound_samples/cries/quartilery.bin"
 
 	.align 2
 Cry_Deliberd::
@@ -1312,8 +1312,8 @@ Cry_Kecleon::
 	.incbin "sound/direct_sound_samples/cries/kecleon.bin"
 
 	.align 2
-Cry_Roselia::
-	.incbin "sound/direct_sound_samples/cries/roselia.bin"
+Cry_Corvidoc::
+	.incbin "sound/direct_sound_samples/cries/corvidoc.bin"
 
 	.align 2
 Cry_Torkoal::

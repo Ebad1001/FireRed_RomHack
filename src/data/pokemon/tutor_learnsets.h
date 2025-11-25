@@ -1612,19 +1612,19 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_ROCK_SLIDE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_CORSOLA] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_DRACOON] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_EXPLOSION)
                       | TUTOR(MOVE_ROCK_SLIDE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_REMORAID] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_ANCHORAGE] = TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_CHARGE_UP)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_OCTILLERY] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_QUARTILERY] = TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_SEISMIC_TOSS)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_CHARGE_UP)
@@ -2427,7 +2427,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_ROCK_SLIDE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_ROSELIA] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_CORVIDOC] = TUTOR(MOVE_SWORDS_DANCE)
                       | TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)

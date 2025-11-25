@@ -5305,7 +5305,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_CORSOLA]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_DRACOON]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM07_HAIL)
@@ -5335,7 +5335,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_REMORAID]    = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_ANCHORAGE]    = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
@@ -5359,7 +5359,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM07_WATERFALL)
                                         | TMHM(HM08_DIVE)),
 
-    [SPECIES_OCTILLERY]   = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_QUARTILERY]   = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM09_THUNDER_WAVE)
                                         | TMHM(TM10_HIDDEN_POWER)
@@ -8078,7 +8078,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM05_FLASH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_ROSELIA]     = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_CORVIDOC]     = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM09_THUNDER_WAVE)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)

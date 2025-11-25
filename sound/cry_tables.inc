@@ -221,9 +221,9 @@ gCryTable::
 	cry Cry_Magcargo
 	cry Cry_Swinub
 	cry Cry_Piloswine
-	cry Cry_Corsola
-	cry Cry_Remoraid
-	cry Cry_Octillery
+	cry Cry_Dracoon
+	cry Cry_Anchorage
+	cry Cry_Quartilery
 	cry Cry_Deliberd
 	cry Cry_Mantine
 	cry Cry_Skarmory
@@ -252,7 +252,7 @@ gCryTable::
 	cry Cry_HoOh
 	cry Cry_Celebi
 	cry Cry_Kecleon
-	cry Cry_Roselia
+	cry Cry_Corvidoc
 	cry Cry_Torkoal
 	cry Cry_Electrike
 	cry Cry_Manectric
@@ -612,9 +612,9 @@ gCryTable_Reverse::
 	cry_reverse Cry_Magcargo
 	cry_reverse Cry_Swinub
 	cry_reverse Cry_Piloswine
-	cry_reverse Cry_Corsola
-	cry_reverse Cry_Remoraid
-	cry_reverse Cry_Octillery
+	cry_reverse Cry_Dracoon
+	cry_reverse Cry_Anchorage
+	cry_reverse Cry_Quartilery
 	cry_reverse Cry_Deliberd
 	cry_reverse Cry_Mantine
 	cry_reverse Cry_Skarmory
@@ -643,7 +643,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_HoOh
 	cry_reverse Cry_Celebi
 	cry_reverse Cry_Kecleon
-	cry_reverse Cry_Roselia
+	cry_reverse Cry_Corvidoc
 	cry_reverse Cry_Torkoal
 	cry_reverse Cry_Electrike
 	cry_reverse Cry_Manectric

@@ -4,7 +4,7 @@
 enum
 {
     CRY_KECLEON = 251,
-    CRY_ROSELIA = 252,
+    CRY_CORVIDOC = 252,
     CRY_TORKOAL = 253,
     CRY_ELECTRIKE = 254,
     CRY_MANECTRIC = 255,

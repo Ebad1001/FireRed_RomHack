@@ -3062,7 +3062,7 @@ static const u16 sPiloswineLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sCorsolaLevelUpLearnset[] = {
+static const u16 sDracoonLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(6, MOVE_HARDEN),
     LEVEL_UP_MOVE(12, MOVE_BUBBLE),
@@ -3076,7 +3076,7 @@ static const u16 sCorsolaLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sRemoraidLevelUpLearnset[] = {
+static const u16 sAnchorageLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_WATER_GUN),
     LEVEL_UP_MOVE(11, MOVE_LOCK_ON),
     LEVEL_UP_MOVE(22, MOVE_PSYBEAM),
@@ -3088,7 +3088,7 @@ static const u16 sRemoraidLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sOctilleryLevelUpLearnset[] = {
+static const u16 sQuartileryLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_WATER_GUN),
     LEVEL_UP_MOVE(11, MOVE_BIND),
     LEVEL_UP_MOVE(22, MOVE_PSYBEAM),
@@ -4880,7 +4880,7 @@ static const u16 sDusclopsLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sRoseliaLevelUpLearnset[] = {
+static const u16 sCorvidocLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_ABSORB),
     LEVEL_UP_MOVE(5, MOVE_GROWTH),
     LEVEL_UP_MOVE(9, MOVE_POISON_STING),

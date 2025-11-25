@@ -352,7 +352,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_HASTY,
 	},
 	{
-		.species = SPECIES_ROSELIA,
+		.species = SPECIES_CORVIDOC,
 		.heldItem = BATTLE_TOWER_ITEM_MIRACLE_SEED,
 		.teamFlags = 0x0A,
 		.moves = {
@@ -1002,7 +1002,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_TIMID,
 	},
 	{
-		.species = SPECIES_CORSOLA,
+		.species = SPECIES_DRACOON,
 		.heldItem = BATTLE_TOWER_ITEM_SCOPE_LENS,
 		.teamFlags = 0x0A,
 		.moves = {

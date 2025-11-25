@@ -762,7 +762,7 @@ const u16 gEggMoves[] = {
               MOVE_ICICLE_SPEAR,
               MOVE_DOUBLE_EDGE),
 
-    egg_moves(CORSOLA,
+    egg_moves(DRACOON,
               MOVE_ROCK_SLIDE,
               MOVE_SCREECH,
               MOVE_MIST,
@@ -772,7 +772,7 @@ const u16 gEggMoves[] = {
               MOVE_CONFUSE_RAY,
               MOVE_ICICLE_SPEAR),
 
-    egg_moves(REMORAID,
+    egg_moves(ANCHORAGE,
               MOVE_AURORA_BEAM,
               MOVE_OCTAZOOKA,
               MOVE_CONFUSE_RAY,
@@ -1140,7 +1140,7 @@ const u16 gEggMoves[] = {
               MOVE_MEMENTO,
               MOVE_FAINT_ATTACK),
 
-    egg_moves(ROSELIA,
+    egg_moves(CORVIDOC,
               MOVE_SPIKES,
               MOVE_MORNING_SUN,
               MOVE_PIN_MISSILE,

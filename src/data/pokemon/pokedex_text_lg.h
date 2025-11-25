@@ -1552,26 +1552,26 @@ const u8 gPiloswinePokedexText[] = _(
 
 const u8 gPiloswinePokedexTextUnused[] = _("");
 
-const u8 gCorsolaPokedexText[] = _(
+const u8 gDracoonPokedexText[] = _(
     "It continuously sheds and grows. The tip\n"
     "of its head is prized as a treasure for\n"
     "its beauty.");
 
-const u8 gCorsolaPokedexTextUnused[] = _("");
+const u8 gDracoonPokedexTextUnused[] = _("");
 
-const u8 gRemoraidPokedexText[] = _(
+const u8 gAnchoragePokedexText[] = _(
     "It has superb accuracy. The water it\n"
     "shoots out can strike even moving prey\n"
     "from more than 100 yards.");
 
-const u8 gRemoraidPokedexTextUnused[] = _("");
+const u8 gAnchoragePokedexTextUnused[] = _("");
 
-const u8 gOctilleryPokedexText[] = _(
+const u8 gQuartileryPokedexText[] = _(
     "It traps enemies with its suction-cupped\n"
     "tentacles, then smashes them with its\n"
     "rock-hard head.");
 
-const u8 gOctilleryPokedexTextUnused[] = _("");
+const u8 gQuartileryPokedexTextUnused[] = _("");
 
 const u8 gDeliberdPokedexText[] = _(
     "It carries food all day long. There are\n"
@@ -1582,7 +1582,7 @@ const u8 gDeliberdPokedexTextUnused[] = _("");
 
 const u8 gMantinePokedexText[] = _(
     "As it majestically swims, it doesn't care\n"
-    "if REMORAID attach to it to scavenge\n"
+    "if ANCHORAGE attach to it to scavenge\n"
     "for its leftovers.");
 
 const u8 gMantinePokedexTextUnused[] = _("");
@@ -2203,12 +2203,12 @@ const u8 gWildmuttPokedexText[] = _(
 
 const u8 gWildmuttPokedexTextUnused[] = _("");
 
-const u8 gRoseliaPokedexText[] = _(
+const u8 gCorvidocPokedexText[] = _(
     "Its flowers give off a relaxing fragrance.\n"
     "The stronger its aroma, the healthier\n"
-    "the ROSELIA is.");
+    "the CORVIDOC is.");
 
-const u8 gRoseliaPokedexTextUnused[] = _("");
+const u8 gCorvidocPokedexTextUnused[] = _("");
 
 const u8 gCetoddlePokedexText[] = _(
     "There is nothing its stomach can't digest.\n"

@@ -417,7 +417,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_BOLD,
 	},
 	{
-		.species = SPECIES_CORSOLA,
+		.species = SPECIES_DRACOON,
 		.heldItem = BATTLE_TOWER_ITEM_SITRUS_BERRY,
 		.teamFlags = 0x0A,
 		.moves = {
@@ -625,7 +625,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_HARDY,
 	},
 	{
-		.species = SPECIES_ROSELIA,
+		.species = SPECIES_CORVIDOC,
 		.heldItem = BATTLE_TOWER_ITEM_CHESTO_BERRY,
 		.teamFlags = 0x0A,
 		.moves = {
@@ -846,7 +846,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_SERIOUS,
 	},
 	{
-		.species = SPECIES_CORSOLA,
+		.species = SPECIES_DRACOON,
 		.heldItem = BATTLE_TOWER_ITEM_PERSIM_BERRY,
 		.teamFlags = 0x03,
 		.moves = {
@@ -1509,7 +1509,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_NAIVE,
 	},
 	{
-		.species = SPECIES_ROSELIA,
+		.species = SPECIES_CORVIDOC,
 		.heldItem = BATTLE_TOWER_ITEM_MIRACLE_SEED,
 		.teamFlags = 0x08,
 		.moves = {
@@ -2185,7 +2185,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_JOLLY,
 	},
 	{
-		.species = SPECIES_ROSELIA,
+		.species = SPECIES_CORVIDOC,
 		.heldItem = BATTLE_TOWER_ITEM_LEFTOVERS,
 		.teamFlags = 0x82,
 		.moves = {

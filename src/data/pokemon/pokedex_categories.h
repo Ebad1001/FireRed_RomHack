@@ -407,8 +407,8 @@ static const u16 sDexCategory_SeaPkmn_Page3[] = {
 static const u16 sDexCategory_SeaPkmn_Page4[] = {
     SPECIES_CHINCHOU,
     SPECIES_LANTURN,
-    SPECIES_REMORAID,
-    SPECIES_OCTILLERY,
+    SPECIES_ANCHORAGE,
+    SPECIES_QUARTILERY,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page5[] = {
@@ -600,7 +600,7 @@ static const u16 sDexCategory_MountainPkmn_Page11[] = {
 static const u16 sDexCategory_MountainPkmn_Page12[] = {
     SPECIES_ABSOL,
     SPECIES_SPARKITE,
-    SPECIES_CORSOLA,
+    SPECIES_DRACOON,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page13[] = {
@@ -707,7 +707,7 @@ static const u16 sDexCategory_UrbanPkmn_Page1[] = {
 static const u16 sDexCategory_UrbanPkmn_Page2[] = {
     SPECIES_SHUPPET,
     SPECIES_BANETTE,
-    SPECIES_ROSELIA,
+    SPECIES_CORVIDOC,
     SPECIES_MR_MIME,
 };
 

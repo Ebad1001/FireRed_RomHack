@@ -2886,39 +2886,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CORSOLA] =
+    [NATIONAL_DEX_DRACOON] =
     {
         .categoryName = _("COCOON"),
         .height = 32,
         .weight = 920,
-        .description = gCorsolaPokedexText,
-        .unusedDescription = gCorsolaPokedexTextUnused,
+        .description = gDracoonPokedexText,
+        .unusedDescription = gDracoonPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_REMORAID] =
+    [NATIONAL_DEX_ANCHORAGE] =
     {
         .categoryName = _("ANCHOR"),
         .height = 39,
         .weight = 2100,
-        .description = gRemoraidPokedexText,
-        .unusedDescription = gRemoraidPokedexTextUnused,
+        .description = gAnchoragePokedexText,
+        .unusedDescription = gAnchoragePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_OCTILLERY] =
+    [NATIONAL_DEX_QUARTILERY] =
     {
         .categoryName = _("CANNON"),
         .height = 19,
         .weight = 1050,
-        .description = gOctilleryPokedexText,
-        .unusedDescription = gOctilleryPokedexTextUnused,
+        .description = gQuartileryPokedexText,
+        .unusedDescription = gQuartileryPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -4095,13 +4095,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_ROSELIA] =
+    [NATIONAL_DEX_CORVIDOC] =
     {
         .categoryName = _("DOCTOR"),
         .height = 19,
         .weight = 273,
-        .description = gRoseliaPokedexText,
-        .unusedDescription = gRoseliaPokedexTextUnused,
+        .description = gCorvidocPokedexText,
+        .unusedDescription = gCorvidocPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
