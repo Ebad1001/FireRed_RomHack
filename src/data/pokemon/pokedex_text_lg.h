@@ -1349,12 +1349,12 @@ const u8 gSunfloraPokedexText[] = _(
 
 const u8 gSunfloraPokedexTextUnused[] = _("");
 
-const u8 gYanmaPokedexText[] = _(
+const u8 gGonixPokedexText[] = _(
     "If it flaps its wings really fast, it can\n"
     "generate shock waves that will shatter\n"
     "windows in the area.");
 
-const u8 gYanmaPokedexTextUnused[] = _("");
+const u8 gGonixPokedexTextUnused[] = _("");
 
 const u8 gWooperPokedexText[] = _(
     "This POKéMON lives in cold water. It will\n"
@@ -1440,12 +1440,12 @@ const u8 gForretressPokedexText[] = _(
 
 const u8 gForretressPokedexTextUnused[] = _("");
 
-const u8 gDunsparcePokedexText[] = _(
+const u8 gKleavorPokedexText[] = _(
     "When spotted, this POKéMON escapes\n"
     "backward by furiously boring into the\n"
     "ground with its tail.");
 
-const u8 gDunsparcePokedexTextUnused[] = _("");
+const u8 gKleavorPokedexTextUnused[] = _("");
 
 const u8 gLeviscorPokedexText[] = _(
     "It flies straight at its target's face,\n"

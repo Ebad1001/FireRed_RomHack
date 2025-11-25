@@ -192,7 +192,7 @@ gCryTable::
 	cry Cry_Aipom
 	cry Cry_Sunkern
 	cry Cry_Sunflora
-	cry Cry_Yanma
+	cry Cry_Gonix
 	cry Cry_Wooper
 	cry Cry_Quagsire
 	cry Cry_Espeon
@@ -205,7 +205,7 @@ gCryTable::
 	cry Cry_Boomer
 	cry Cry_Pineco
 	cry Cry_Forretress
-	cry Cry_Dunsparce
+	cry Cry_Kleavor
 	cry Cry_Leviscor
 	cry Cry_Steelix
 	cry Cry_Electox
@@ -583,7 +583,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Aipom
 	cry_reverse Cry_Sunkern
 	cry_reverse Cry_Sunflora
-	cry_reverse Cry_Yanma
+	cry_reverse Cry_Gonix
 	cry_reverse Cry_Wooper
 	cry_reverse Cry_Quagsire
 	cry_reverse Cry_Espeon
@@ -596,7 +596,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Boomer
 	cry_reverse Cry_Pineco
 	cry_reverse Cry_Forretress
-	cry_reverse Cry_Dunsparce
+	cry_reverse Cry_Kleavor
 	cry_reverse Cry_Leviscor
 	cry_reverse Cry_Steelix
 	cry_reverse Cry_Electox

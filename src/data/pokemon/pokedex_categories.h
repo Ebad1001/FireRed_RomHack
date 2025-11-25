@@ -477,13 +477,13 @@ static const u16 sDexCategory_CavePkmn_Page1[] = {
 };
 
 static const u16 sDexCategory_CavePkmn_Page2[] = {
-    SPECIES_DUNSPARCE,
+    SPECIES_KLEAVOR,
     SPECIES_DIGLETT,
     SPECIES_DUGTRIO,
 };
 
 static const u16 sDexCategory_CavePkmn_Page3[] = {
-    SPECIES_YANMA,
+    SPECIES_GONIX,
     SPECIES_ONIX,
     SPECIES_STEELIX,
 };

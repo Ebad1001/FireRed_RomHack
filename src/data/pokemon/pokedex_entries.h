@@ -2509,13 +2509,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_YANMA] =
+    [NATIONAL_DEX_GONIX] =
     {
         .categoryName = _("DRAGON"),
         .height = 25,
         .weight = 310,
-        .description = gYanmaPokedexText,
-        .unusedDescription = gYanmaPokedexTextUnused,
+        .description = gGonixPokedexText,
+        .unusedDescription = gGonixPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2678,13 +2678,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_DUNSPARCE] =
+    [NATIONAL_DEX_KLEAVOR] =
     {
         .categoryName = _("MOLD"),
         .height = 6,
         .weight = 205,
-        .description = gDunsparcePokedexText,
-        .unusedDescription = gDunsparcePokedexTextUnused,
+        .description = gKleavorPokedexText,
+        .unusedDescription = gKleavorPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

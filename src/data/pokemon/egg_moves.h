@@ -642,7 +642,7 @@ const u16 gEggMoves[] = {
               MOVE_NATURE_POWER,
               MOVE_CURSE),
 
-    egg_moves(YANMA,
+    egg_moves(GONIX,
               MOVE_WHIRLWIND,
               MOVE_REVERSAL,
               MOVE_LEECH_LIFE,
@@ -688,7 +688,7 @@ const u16 gEggMoves[] = {
               MOVE_COUNTER,
               MOVE_SAND_TOMB),
 
-    egg_moves(DUNSPARCE,
+    egg_moves(KLEAVOR,
               MOVE_BIDE,
               MOVE_ANCIENT_POWER,
               MOVE_ROCK_SLIDE,

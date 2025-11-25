@@ -2670,7 +2670,7 @@ static const u16 sSunfloraLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sYanmaLevelUpLearnset[] = {
+static const u16 sGonixLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_ODOR_SLEUTH),
     LEVEL_UP_MOVE(6, MOVE_QUICK_ATTACK),
@@ -2836,7 +2836,7 @@ static const u16 sForretressLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sDunsparceLevelUpLearnset[] = {
+static const u16 sKleavorLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_RAGE),
     LEVEL_UP_MOVE(4, MOVE_DEFENSE_CURL),
     LEVEL_UP_MOVE(11, MOVE_YAWN),

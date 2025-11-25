@@ -202,7 +202,7 @@ serial,oldName,newName,type,basePower,accuracy,secondaryEffect,effectChance,PP,p
 200,SANDSTORM,SANDSTORM,ROCK,0,0,SANDSTORM,0,10,0,USER,A 5-turn sandstorm that damages all types except ROCK; GROUND; and STEEL.,0,0,0,0,0,0
 201,GIGA_DRAIN,GIGA DRAIN,GRASS,80,100,ABSORB,0,10,0,SELECTED,A harsh attack that absorbs half the damage it inflicted to restore HP.,0,1,0,0,1,0
 202,ENDURE,ENDURE,NORMAL,0,0,ENDURE,0,5,3,USER,The user endures any hit with 1 HP left. It may fail if used in succession.,0,0,0,0,0,0
-203,CHARM,CHARM,NORMAL,0,100,ATTACK_DOWN_2,0,20,0,SELECTED,The foe is charmed by the user's cute appeals; sharply cutting its Ph.Atk.,0,1,1,0,1,0
+203,CHARM,CHARM,NORMAL,0,100,SPECIAL_ATTACK_DOWN,0,20,0,SELECTED,The foe is charmed by the user's cute appeals; sharply cutting its Sp.Atk.,0,1,1,0,1,0
 204,ROLLOUT,ROLLOUT,ROCK,30,90,ROLLOUT,0,20,0,SELECTED,A 5-turn rolling attack that becomes stronger each time it hits.,1,1,0,0,1,1
 205,FALSE_SWIPE,FALSE SWIPE,NORMAL,40,100,FALSE_SWIPE,0,40,0,SELECTED,A restrained attack that always leaves the foe with at least 1 HP.,1,1,0,0,1,1
 206,SWAGGER,SWAGGER,DARK,0,100,SWAGGER,100,15,0,SELECTED,It confuses the target but also raises its Ph.Atk sharply.,0,1,1,0,1,0

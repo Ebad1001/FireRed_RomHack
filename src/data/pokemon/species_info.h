@@ -5599,7 +5599,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_YANMA] =  /* GONIX */
+    [SPECIES_GONIX] =  /* GONIX */
     {
         .baseHP = 65,
         .baseAttack = 65,
@@ -5976,7 +5976,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
     },
-    [SPECIES_DUNSPARCE] = /* SHUCKLE */
+    [SPECIES_KLEAVOR] = /* SHUCKLE */
     {
         .baseHP = 100,
         .baseAttack = 70,

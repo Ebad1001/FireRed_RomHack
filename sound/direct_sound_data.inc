@@ -1072,8 +1072,8 @@ Cry_Sunflora::
 	.incbin "sound/direct_sound_samples/cries/sunflora.bin"
 
 	.align 2
-Cry_Yanma::
-	.incbin "sound/direct_sound_samples/cries/yanma.bin"
+Cry_Gonix::
+	.incbin "sound/direct_sound_samples/cries/gonix.bin"
 
 	.align 2
 Cry_Wooper::
@@ -1124,8 +1124,8 @@ Cry_Forretress::
 	.incbin "sound/direct_sound_samples/cries/forretress.bin"
 
 	.align 2
-Cry_Dunsparce::
-	.incbin "sound/direct_sound_samples/cries/dunsparce.bin"
+Cry_Kleavor::
+	.incbin "sound/direct_sound_samples/cries/kleavor.bin"
 
 	.align 2
 Cry_Leviscor::

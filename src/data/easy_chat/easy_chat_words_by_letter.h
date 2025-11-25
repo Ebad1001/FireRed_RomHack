@@ -414,7 +414,7 @@ static const u16 sEasyChatWordsByLetter_D[] = {
     EC_POKEMON(DROWZEE),
     EC_WORD_DUDE,
     EC_POKEMON(DUGTRIO),
-    EC_POKEMON(DUNSPARCE),
+    EC_POKEMON(KLEAVOR),
     EC_POKEMON2(DUSCLOPS),
     EC_POKEMON2(DUSKULL),
     EC_POKEMON2(PANVOLT),
@@ -1933,7 +1933,7 @@ static const u16 sEasyChatWordsByLetter_X[] = {
 
 static const u16 sEasyChatWordsByLetter_Y[] = {
     EC_WORD_YAHOO,
-    EC_POKEMON(YANMA),
+    EC_POKEMON(GONIX),
     EC_MOVE(YAWN),
     EC_WORD_YAY,
     EC_WORD_YEAH,

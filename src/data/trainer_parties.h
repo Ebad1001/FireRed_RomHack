@@ -8635,7 +8635,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BugCatcherJonah[] = {
     {
         .iv = 0,
         .lvl = 45,
-        .species = SPECIES_YANMA,
+        .species = SPECIES_GONIX,
     },
     {
         .iv = 0,
@@ -8645,7 +8645,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BugCatcherJonah[] = {
     {
         .iv = 0,
         .lvl = 46,
-        .species = SPECIES_YANMA,
+        .species = SPECIES_GONIX,
     },
     {
         .iv = 0,
