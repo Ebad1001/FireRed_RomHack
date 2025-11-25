@@ -345,12 +345,12 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 3,
     },
-    [SPECIES_BELLSPROUT] =
+    [SPECIES_PEASHOOTER] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 15,
     },
-    [SPECIES_WEEPINBELL] =
+    [SPECIES_MUDEATER] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 11,

@@ -519,12 +519,12 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_ROCK_SLIDE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_BELLSPROUT] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_PEASHOOTER] = TUTOR(MOVE_SWORDS_DANCE)
                          | TUTOR(MOVE_DOUBLE_EDGE)
                          | TUTOR(MOVE_AVALANCHE)
                          | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_WEEPINBELL] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_MUDEATER] = TUTOR(MOVE_SWORDS_DANCE)
                          | TUTOR(MOVE_DOUBLE_EDGE)
                          | TUTOR(MOVE_AVALANCHE)
                          | TUTOR(MOVE_SUBSTITUTE),

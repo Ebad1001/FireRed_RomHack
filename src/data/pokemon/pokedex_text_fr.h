@@ -481,19 +481,19 @@ const u8 gMachampPokedexText[] = _(
 
 const u8 gMachampPokedexTextUnused[] = _("");
 
-const u8 gBellsproutPokedexText[] = _(
+const u8 gPeashooterPokedexText[] = _(
     "HP     -  50    Ph.Atk -  75\n"
     "Ph.Def -  35    Sp.Atk -  70\n"
     "Sp.Def -  30    Speed  -  40");
 
-const u8 gBellsproutPokedexTextUnused[] = _("");
+const u8 gPeashooterPokedexTextUnused[] = _("");
 
-const u8 gWeepinbellPokedexText[] = _(
+const u8 gMudeaterPokedexText[] = _(
     "HP     -  65    Ph.Atk -  90\n"
     "Ph.Def -  50    Sp.Atk -  85\n"
     "Sp.Def -  45    Speed  -  55");
 
-const u8 gWeepinbellPokedexTextUnused[] = _("");
+const u8 gMudeaterPokedexTextUnused[] = _("");
 
 const u8 gVictreebelPokedexText[] = _(
     "HP     -  80    Ph.Atk - 105\n"

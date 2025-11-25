@@ -576,12 +576,12 @@ Cry_Machamp::
 	.incbin "sound/direct_sound_samples/cries/machamp.bin"
 
 	.align 2
-Cry_Bellsprout::
-	.incbin "sound/direct_sound_samples/cries/bellsprout.bin"
+Cry_Peashooter::
+	.incbin "sound/direct_sound_samples/cries/peashooter.bin"
 
 	.align 2
-Cry_Weepinbell::
-	.incbin "sound/direct_sound_samples/cries/weepinbell.bin"
+Cry_Mudeater::
+	.incbin "sound/direct_sound_samples/cries/mudeater.bin"
 
 	.align 2
 Cry_Victreebel::

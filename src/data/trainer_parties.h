@@ -553,7 +553,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_LassMiriam[] = {
     {
         .iv = 0,
         .lvl = 11,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
 };
 
@@ -592,7 +592,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_LassAli[] = {
     {
         .iv = 0,
         .lvl = 12,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
 };
 
@@ -729,12 +729,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_LassKay[] = {
     {
         .iv = 0,
         .lvl = 23,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
         .lvl = 23,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
     },
 };
 
@@ -1011,7 +1011,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PicnickerAlicia[] = {
     {
         .iv = 0,
         .lvl = 18,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
@@ -1021,7 +1021,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PicnickerAlicia[] = {
     {
         .iv = 0,
         .lvl = 18,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
 };
 
@@ -2661,7 +2661,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GamerJasper[] = {
     {
         .iv = 0,
         .lvl = 18,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
@@ -2738,7 +2738,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BeautyBridget[] = {
     {
         .iv = 0,
         .lvl = 21,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
@@ -2748,7 +2748,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BeautyBridget[] = {
     {
         .iv = 0,
         .lvl = 21,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
 };
 
@@ -2756,12 +2756,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BeautyTamia[] = {
     {
         .iv = 0,
         .lvl = 24,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
         .lvl = 24,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
 };
 
@@ -2873,17 +2873,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BeautyLauren[] = {
     {
         .iv = 0,
         .lvl = 33,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
     },
     {
         .iv = 0,
         .lvl = 33,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
         .lvl = 33,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
     },
 };
 
@@ -5189,7 +5189,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerMary[] = {
     {
         .iv = 100,
         .lvl = 22,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
         .moves = {MOVE_WRAP, MOVE_STUN_SPORE, MOVE_POISON_POWDER, MOVE_GROWTH},
     },
     {
@@ -5201,7 +5201,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerMary[] = {
     {
         .iv = 100,
         .lvl = 22,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
         .moves = {MOVE_VINE_WHIP, MOVE_STUN_SPORE, MOVE_POISON_POWDER, MOVE_GROWTH},
     },
     {
@@ -5222,13 +5222,13 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerCaroline[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
         .moves = {MOVE_RAZOR_LEAF, MOVE_ACID, MOVE_STUN_SPORE, MOVE_POISON_POWDER},
     },
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
         .moves = {MOVE_RAZOR_LEAF, MOVE_ACID, MOVE_SLEEP_POWDER, MOVE_POISON_POWDER},
     },
     {
@@ -6733,7 +6733,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PicnickerAriana[] = {
     {
         .iv = 0,
         .lvl = 19,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
 };
 
@@ -6741,7 +6741,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PicnickerLeah[] = {
     {
         .iv = 0,
         .lvl = 22,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
@@ -6767,7 +6767,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PicnickerYazmin[] = {
     {
         .iv = 0,
         .lvl = 29,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
@@ -7235,7 +7235,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_PkmnRangerNicolas[] = {
     {
         .iv = 100,
         .lvl = 51,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
         .moves = {MOVE_RAZOR_LEAF, MOVE_ACID, MOVE_SWEET_SCENT, MOVE_WRAP},
     },
     {
@@ -7265,12 +7265,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_AromaLadyNikki[] = {
     {
         .iv = 0,
         .lvl = 37,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 0,
         .lvl = 37,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
     },
 };
 
@@ -8389,7 +8389,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PkmnRangerBeth[] = {
     {
         .iv = 100,
         .lvl = 38,
-        .species = SPECIES_BELLSPROUT,
+        .species = SPECIES_PEASHOOTER,
     },
     {
         .iv = 100,
@@ -8671,12 +8671,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_YoungsterNash[] = {
     {
         .iv = 0,
         .lvl = 47,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
     },
     {
         .iv = 0,
         .lvl = 47,
-        .species = SPECIES_WEEPINBELL,
+        .species = SPECIES_MUDEATER,
     },
     {
         .iv = 0,

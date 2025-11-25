@@ -9264,7 +9264,7 @@
               {
                 "min_level": 35,
                 "max_level": 35,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 32,
@@ -9274,7 +9274,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 34,
@@ -13210,17 +13210,17 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 36,
                 "max_level": 36,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 36,
@@ -13235,7 +13235,7 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 31,
@@ -13518,7 +13518,7 @@
               {
                 "min_level": 31,
                 "max_level": 31,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 29,
@@ -13528,7 +13528,7 @@
               {
                 "min_level": 36,
                 "max_level": 36,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 34,
@@ -15297,7 +15297,7 @@
               {
                 "min_level": 44,
                 "max_level": 44,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 48,
@@ -15317,7 +15317,7 @@
               {
                 "min_level": 48,
                 "max_level": 48,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 41,
@@ -17242,7 +17242,7 @@
               {
                 "min_level": 13,
                 "max_level": 13,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 12,
@@ -17252,7 +17252,7 @@
               {
                 "min_level": 15,
                 "max_level": 15,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 15,
@@ -17262,7 +17262,7 @@
               {
                 "min_level": 16,
                 "max_level": 16,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 16,
@@ -17465,7 +17465,7 @@
               {
                 "min_level": 13,
                 "max_level": 13,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 12,
@@ -17475,7 +17475,7 @@
               {
                 "min_level": 15,
                 "max_level": 15,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 15,
@@ -17485,7 +17485,7 @@
               {
                 "min_level": 16,
                 "max_level": 16,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 16,
@@ -17688,7 +17688,7 @@
               {
                 "min_level": 19,
                 "max_level": 19,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 18,
@@ -17703,7 +17703,7 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 18,
@@ -18793,7 +18793,7 @@
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 24,
@@ -18803,7 +18803,7 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 23,
@@ -18823,7 +18823,7 @@
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 27,
@@ -18838,7 +18838,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 23,
@@ -18848,7 +18848,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               }
             ]
           },
@@ -19101,7 +19101,7 @@
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 24,
@@ -19111,7 +19111,7 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 27,
@@ -19131,7 +19131,7 @@
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 25,
@@ -19146,7 +19146,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 29,
@@ -19156,7 +19156,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               }
             ]
           },
@@ -19324,7 +19324,7 @@
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 24,
@@ -19334,7 +19334,7 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 23,
@@ -19354,12 +19354,12 @@
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 23,
@@ -19462,7 +19462,7 @@
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 24,
@@ -19472,7 +19472,7 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 27,
@@ -19492,7 +19492,7 @@
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 25,
@@ -19507,7 +19507,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               },
               {
                 "min_level": 29,
@@ -19517,7 +19517,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_WEEPINBELL"
+                "species": "SPECIES_MUDEATER"
               }
             ]
           }
@@ -21702,12 +21702,12 @@
               {
                 "min_level": 12,
                 "max_level": 12,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 13,
                 "max_level": 13,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 10,
@@ -21722,7 +21722,7 @@
               {
                 "min_level": 14,
                 "max_level": 14,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 8,
@@ -22010,12 +22010,12 @@
               {
                 "min_level": 14,
                 "max_level": 14,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 13,
                 "max_level": 13,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 11,
@@ -22030,7 +22030,7 @@
               {
                 "min_level": 12,
                 "max_level": 12,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_PEASHOOTER"
               },
               {
                 "min_level": 9,

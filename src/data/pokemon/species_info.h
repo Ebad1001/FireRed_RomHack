@@ -2003,7 +2003,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_BELLSPROUT] = /* PEASHOOTER */
+    [SPECIES_PEASHOOTER] = /* PEASHOOTER */
     {
         .baseHP = 50,
         .baseAttack = 75,
@@ -2032,7 +2032,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_WEEPINBELL] = /* MUDEATER */
+    [SPECIES_MUDEATER] = /* MUDEATER */
     {
         .baseHP = 65,
         .baseAttack = 90,

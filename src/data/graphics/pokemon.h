@@ -474,19 +474,19 @@ const u32 gMonShinyPalette_Machamp[] = INCBIN_U32("graphics/pokemon/machamp/shin
 const u8 gMonIcon_Machamp[] = INCBIN_U8("graphics/pokemon/machamp/icon.4bpp");
 const u8 gMonFootprint_Machamp[] = INCBIN_U8("graphics/pokemon/machamp/footprint.1bpp");
 
-const u32 gMonFrontPic_Bellsprout[] = INCBIN_U32("graphics/pokemon/bellsprout/front.4bpp.lz");
-const u32 gMonPalette_Bellsprout[] = INCBIN_U32("graphics/pokemon/bellsprout/normal.gbapal.lz");
-const u32 gMonBackPic_Bellsprout[] = INCBIN_U32("graphics/pokemon/bellsprout/back.4bpp.lz");
-const u32 gMonShinyPalette_Bellsprout[] = INCBIN_U32("graphics/pokemon/bellsprout/shiny.gbapal.lz");
-const u8 gMonIcon_Bellsprout[] = INCBIN_U8("graphics/pokemon/bellsprout/icon.4bpp");
-const u8 gMonFootprint_Bellsprout[] = INCBIN_U8("graphics/pokemon/bellsprout/footprint.1bpp");
+const u32 gMonFrontPic_Peashooter[] = INCBIN_U32("graphics/pokemon/peashooter/front.4bpp.lz");
+const u32 gMonPalette_Peashooter[] = INCBIN_U32("graphics/pokemon/peashooter/normal.gbapal.lz");
+const u32 gMonBackPic_Peashooter[] = INCBIN_U32("graphics/pokemon/peashooter/back.4bpp.lz");
+const u32 gMonShinyPalette_Peashooter[] = INCBIN_U32("graphics/pokemon/peashooter/shiny.gbapal.lz");
+const u8 gMonIcon_Peashooter[] = INCBIN_U8("graphics/pokemon/peashooter/icon.4bpp");
+const u8 gMonFootprint_Peashooter[] = INCBIN_U8("graphics/pokemon/peashooter/footprint.1bpp");
 
-const u32 gMonFrontPic_Weepinbell[] = INCBIN_U32("graphics/pokemon/weepinbell/front.4bpp.lz");
-const u32 gMonPalette_Weepinbell[] = INCBIN_U32("graphics/pokemon/weepinbell/normal.gbapal.lz");
-const u32 gMonBackPic_Weepinbell[] = INCBIN_U32("graphics/pokemon/weepinbell/back.4bpp.lz");
-const u32 gMonShinyPalette_Weepinbell[] = INCBIN_U32("graphics/pokemon/weepinbell/shiny.gbapal.lz");
-const u8 gMonIcon_Weepinbell[] = INCBIN_U8("graphics/pokemon/weepinbell/icon.4bpp");
-const u8 gMonFootprint_Weepinbell[] = INCBIN_U8("graphics/pokemon/weepinbell/footprint.1bpp");
+const u32 gMonFrontPic_Mudeater[] = INCBIN_U32("graphics/pokemon/mudeater/front.4bpp.lz");
+const u32 gMonPalette_Mudeater[] = INCBIN_U32("graphics/pokemon/mudeater/normal.gbapal.lz");
+const u32 gMonBackPic_Mudeater[] = INCBIN_U32("graphics/pokemon/mudeater/back.4bpp.lz");
+const u32 gMonShinyPalette_Mudeater[] = INCBIN_U32("graphics/pokemon/mudeater/shiny.gbapal.lz");
+const u8 gMonIcon_Mudeater[] = INCBIN_U8("graphics/pokemon/mudeater/icon.4bpp");
+const u8 gMonFootprint_Mudeater[] = INCBIN_U8("graphics/pokemon/mudeater/footprint.1bpp");
 
 const u32 gMonFrontPic_Victreebel[] = INCBIN_U32("graphics/pokemon/victreebel/front.4bpp.lz");
 const u32 gMonPalette_Victreebel[] = INCBIN_U32("graphics/pokemon/victreebel/normal.gbapal.lz");

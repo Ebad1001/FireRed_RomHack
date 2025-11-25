@@ -481,19 +481,19 @@ const u8 gMachampPokedexText[] = _(
 
 const u8 gMachampPokedexTextUnused[] = _("");
 
-const u8 gBellsproutPokedexText[] = _(
+const u8 gPeashooterPokedexText[] = _(
     "A carnivorous POKéMON that traps and eats\n"
     "bugs. It appears to use its root feet to\n"
     "replenish moisture.");
 
-const u8 gBellsproutPokedexTextUnused[] = _("");
+const u8 gPeashooterPokedexTextUnused[] = _("");
 
-const u8 gWeepinbellPokedexText[] = _(
+const u8 gMudeaterPokedexText[] = _(
     "It spits out POISONPOWDER to immobilize\n"
     "the enemy and then finishes it with a\n"
     "spray of ACID.");
 
-const u8 gWeepinbellPokedexTextUnused[] = _("");
+const u8 gMudeaterPokedexTextUnused[] = _("");
 
 const u8 gVictreebelPokedexText[] = _(
     "Said to live in huge colonies deep in\n"

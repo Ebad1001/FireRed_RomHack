@@ -68,8 +68,8 @@ gCryTable::
 	cry Cry_Machop
 	cry Cry_Machoke
 	cry Cry_Machamp
-	cry Cry_Bellsprout
-	cry Cry_Weepinbell
+	cry Cry_Peashooter
+	cry Cry_Mudeater
 	cry Cry_Victreebel
 	cry Cry_Tentacool
 	cry Cry_Tentacruel
@@ -459,8 +459,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Machop
 	cry_reverse Cry_Machoke
 	cry_reverse Cry_Machamp
-	cry_reverse Cry_Bellsprout
-	cry_reverse Cry_Weepinbell
+	cry_reverse Cry_Peashooter
+	cry_reverse Cry_Mudeater
 	cry_reverse Cry_Victreebel
 	cry_reverse Cry_Tentacool
 	cry_reverse Cry_Tentacruel

@@ -159,7 +159,7 @@ static const u16 sEasyChatWordsByLetter_B[] = {
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(SUNBLOOM),
     EC_POKEMON(SUNBLOOM),
-    EC_POKEMON(BELLSPROUT),
+    EC_POKEMON(PEASHOOTER),
     EC_MOVE2(BELLY_DRUM),
     EC_WORD_BELONGS_TO,
     EC_WORD_BELOW,
@@ -1851,7 +1851,7 @@ static const u16 sEasyChatWordsByLetter_W[] = {
     EC_WORD_WEDNESDAY,
     EC_POKEMON(WEEDLE),
     EC_WORD_WEEK,
-    EC_POKEMON(WEEPINBELL),
+    EC_POKEMON(MUDEATER),
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(WEEZING),
     EC_POKEMON(WEEZING),

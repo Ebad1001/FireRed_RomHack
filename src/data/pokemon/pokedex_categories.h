@@ -194,8 +194,8 @@ static const u16 sDexCategory_ForestPkmn_Page7[] = {
 };
 
 static const u16 sDexCategory_ForestPkmn_Page8[] = {
-    SPECIES_BELLSPROUT,
-    SPECIES_WEEPINBELL,
+    SPECIES_PEASHOOTER,
+    SPECIES_MUDEATER,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page9[] = {

@@ -897,26 +897,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_BELLSPROUT] =
+    [NATIONAL_DEX_PEASHOOTER] =
     {
         .categoryName = _("SHOOTER"),
         .height = 7,
         .weight = 40,
-        .description = gBellsproutPokedexText,
-        .unusedDescription = gBellsproutPokedexTextUnused,
+        .description = gPeashooterPokedexText,
+        .unusedDescription = gPeashooterPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_WEEPINBELL] =
+    [NATIONAL_DEX_MUDEATER] =
     {
         .categoryName = _("GROUNDED"),
         .height = 10,
         .weight = 84,
-        .description = gWeepinbellPokedexText,
-        .unusedDescription = gWeepinbellPokedexTextUnused,
+        .description = gMudeaterPokedexText,
+        .unusedDescription = gMudeaterPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
