@@ -197,9 +197,9 @@ gCryTable::
 	cry Cry_Quagsire
 	cry Cry_Espeon
 	cry Cry_Umbreon
-	cry Cry_Murkrow
-	cry Cry_Slowking
-	cry Cry_Misdreavus
+	cry Cry_Sandile
+	cry Cry_Krokorok
+	cry Cry_Krookodile
 	cry Cry_Unown
 	cry Cry_Wobbuffet
 	cry Cry_Girafarig
@@ -588,9 +588,9 @@ gCryTable_Reverse::
 	cry_reverse Cry_Quagsire
 	cry_reverse Cry_Espeon
 	cry_reverse Cry_Umbreon
-	cry_reverse Cry_Murkrow
-	cry_reverse Cry_Slowking
-	cry_reverse Cry_Misdreavus
+	cry_reverse Cry_Sandile
+	cry_reverse Cry_Krokorok
+	cry_reverse Cry_Krookodile
 	cry_reverse Cry_Unown
 	cry_reverse Cry_Wobbuffet
 	cry_reverse Cry_Girafarig

@@ -1434,13 +1434,13 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_DREAM_EATER)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_MURKROW] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_SANDILE] = TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_DREAM_EATER)
                       | TUTOR(MOVE_CHARGE_UP)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SLOWKING] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_KROKOROK] = TUTOR(MOVE_FIRE_PUNCH)
                        | TUTOR(MOVE_THUNDERPUNCH)
                        | TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1451,7 +1451,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_CHARGE_UP)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_MISDREAVUS] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_KROOKODILE] = TUTOR(MOVE_DOUBLE_EDGE)
                          | TUTOR(MOVE_AVALANCHE)
                          | TUTOR(MOVE_DREAM_EATER)
                          | TUTOR(MOVE_CHARGE_UP)

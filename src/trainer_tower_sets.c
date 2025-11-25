@@ -537,7 +537,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_5 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_MISDREAVUS,
+					.species = SPECIES_KROOKODILE,
 					.heldItem = ITEM_LEFTOVERS,
 					.moves = {MOVE_GRUDGE, MOVE_PSYCHIC, MOVE_SHADOW_BALL, MOVE_THUNDERBOLT},
 					.hpEV = 200,
@@ -555,7 +555,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_5 = {
 					.spDefenseIV = 31,
 					.abilityNum = 0,
 					.personality = 0x0A, // FEMALE TIMID
-					.nickname = _("MISDREAVUS"),
+					.nickname = _("KROOKODILE"),
 					.friendship = 255
 				},
 				{
@@ -2262,7 +2262,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_5 = {
 			.speechAfter = {EC_WORD_THE, EC_WORD_WAY, EC_WORD_POKEMON, EC_WORD_MATCH_UP, EC_WORD_IS, EC_WORD_IMPORTANT},
 			.mons = {
 				{
-					.species = SPECIES_MURKROW,
+					.species = SPECIES_SANDILE,
 					.heldItem = ITEM_BLACK_GLASSES,
 					.moves = {MOVE_FAINT_ATTACK, MOVE_AERIAL_ACE, MOVE_SHADOW_BALL, MOVE_CONFUSE_RAY},
 					.hpEV = 84,
@@ -2280,7 +2280,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_5 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x89, // MALE SERIOUS
-					.nickname = _("MURKROW"),
+					.nickname = _("SANDILE"),
 					.friendship = 255
 				},
 				{
@@ -4057,7 +4057,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 			.speechAfter = {EC_WORD_YOU_RE, EC_WORD_TOO_STRONG, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF},
 			.mons = {
 				{
-					.species = SPECIES_MURKROW,
+					.species = SPECIES_SANDILE,
 					.heldItem = ITEM_BLACK_GLASSES,
 					.moves = {MOVE_AERIAL_ACE, MOVE_SHADOW_BALL, MOVE_FAINT_ATTACK, MOVE_CONFUSE_RAY},
 					.hpEV = 84,
@@ -4075,7 +4075,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x89, // MALE SERIOUS
-					.nickname = _("MURKROW"),
+					.nickname = _("SANDILE"),
 					.friendship = 255
 				},
 				{
@@ -5445,7 +5445,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_SLOWKING,
+					.species = SPECIES_KROKOROK,
 					.heldItem = ITEM_LEFTOVERS,
 					.moves = {MOVE_SURF, MOVE_PSYCHIC, MOVE_ICE_BEAM, MOVE_SHADOW_BALL},
 					.hpEV = 0,
@@ -5463,7 +5463,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x11, // FEMALE QUIET
-					.nickname = _("SLOWKING"),
+					.nickname = _("KROKOROK"),
 					.friendship = 255
 				},
 				{
@@ -8438,7 +8438,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_MISDREAVUS,
+					.species = SPECIES_KROOKODILE,
 					.heldItem = ITEM_SALAC_BERRY,
 					.moves = {MOVE_PSYCHIC, MOVE_GRUDGE, MOVE_CONFUSE_RAY, MOVE_DESTINY_BOND},
 					.hpEV = 0,
@@ -8456,7 +8456,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x0A, // FEMALE TIMID
-					.nickname = _("MISDREAVUS"),
+					.nickname = _("KROOKODILE"),
 					.friendship = 255
 				},
 				{

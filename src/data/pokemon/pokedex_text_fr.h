@@ -1384,26 +1384,26 @@ const u8 gUmbreonPokedexText[] = _(
 
 const u8 gUmbreonPokedexTextUnused[] = _("");
 
-const u8 gMurkrowPokedexText[] = _(
+const u8 gSandilePokedexText[] = _(
     "HP     -  60    Ph.Atk -  85\n"
     "Ph.Def -  42    Sp.Atk -  85\n"
     "Sp.Def -  42    Speed  -  91");
 
-const u8 gMurkrowPokedexTextUnused[] = _("");
+const u8 gSandilePokedexTextUnused[] = _("");
 
-const u8 gSlowkingPokedexText[] = _(
+const u8 gKrokorokPokedexText[] = _(
     "HP     -  95    Ph.Atk -  75\n"
     "Ph.Def -  80    Sp.Atk - 100\n"
     "Sp.Def - 110    Speed  -  30");
 
-const u8 gSlowkingPokedexTextUnused[] = _("");
+const u8 gKrokorokPokedexTextUnused[] = _("");
 
-const u8 gMisdreavusPokedexText[] = _(
+const u8 gKrookodilePokedexText[] = _(
     "HP     -  60    Ph.Atk -  60\n"
     "Ph.Def -  60    Sp.Atk -  85\n"
     "Sp.Def -  85    Speed  -  85");
 
-const u8 gMisdreavusPokedexTextUnused[] = _("");
+const u8 gKrookodilePokedexTextUnused[] = _("");
 
 const u8 gUnownPokedexText[] = _(
     "HP     -  48    Ph.Atk -  72\n"

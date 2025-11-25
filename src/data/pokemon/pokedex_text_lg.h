@@ -1384,26 +1384,26 @@ const u8 gUmbreonPokedexText[] = _(
 
 const u8 gUmbreonPokedexTextUnused[] = _("");
 
-const u8 gMurkrowPokedexText[] = _(
+const u8 gSandilePokedexText[] = _(
     "Feared and loathed by many, it is\n"
     "believed to bring misfortune to all those\n"
     "who see it at night.");
 
-const u8 gMurkrowPokedexTextUnused[] = _("");
+const u8 gSandilePokedexTextUnused[] = _("");
 
-const u8 gSlowkingPokedexText[] = _(
+const u8 gKrokorokPokedexText[] = _(
     "It has incredible intellect and intuition.\n"
     "Whatever the situation, it remains calm\n"
     "and collected.");
 
-const u8 gSlowkingPokedexTextUnused[] = _("");
+const u8 gKrokorokPokedexTextUnused[] = _("");
 
-const u8 gMisdreavusPokedexText[] = _(
+const u8 gKrookodilePokedexText[] = _(
     "It likes playing mischievous tricks such as\n"
     "screaming and wailing to startle people at\n"
     "night. ");
 
-const u8 gMisdreavusPokedexTextUnused[] = _("");
+const u8 gKrookodilePokedexTextUnused[] = _("");
 
 const u8 gUnownPokedexText[] = _(
     "Their shapes look like hieroglyphs on\n"

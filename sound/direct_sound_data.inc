@@ -1092,16 +1092,16 @@ Cry_Umbreon::
 	.incbin "sound/direct_sound_samples/cries/umbreon.bin"
 
 	.align 2
-Cry_Murkrow::
-	.incbin "sound/direct_sound_samples/cries/murkrow.bin"
+Cry_Sandile::
+	.incbin "sound/direct_sound_samples/cries/sandile.bin"
 
 	.align 2
-Cry_Slowking::
-	.incbin "sound/direct_sound_samples/cries/slowking.bin"
+Cry_Krokorok::
+	.incbin "sound/direct_sound_samples/cries/krokorok.bin"
 
 	.align 2
-Cry_Misdreavus::
-	.incbin "sound/direct_sound_samples/cries/misdreavus.bin"
+Cry_Krookodile::
+	.incbin "sound/direct_sound_samples/cries/krookodile.bin"
 
 	.align 2
 Cry_Unown::

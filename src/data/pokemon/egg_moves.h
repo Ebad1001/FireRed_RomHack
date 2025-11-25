@@ -656,7 +656,7 @@ const u16 gEggMoves[] = {
               MOVE_CURSE,
               MOVE_SLAM),
 
-    egg_moves(MURKROW,
+    egg_moves(SANDILE,
               MOVE_WHIRLWIND,
               MOVE_DRILL_PECK,
               MOVE_MIRROR_MOVE,
@@ -666,7 +666,7 @@ const u16 gEggMoves[] = {
               MOVE_CHARM,
               MOVE_PERISH_SONG),
 
-    egg_moves(MISDREAVUS,
+    egg_moves(KROOKODILE,
               MOVE_SCREECH,
               MOVE_DESTINY_BOND,
               MOVE_PSYCH_UP),

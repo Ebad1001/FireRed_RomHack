@@ -990,17 +990,17 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(48, 56),
         .y_offset = 8,
     },
-    [SPECIES_MURKROW] =
+    [SPECIES_SANDILE] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 11,
     },
-    [SPECIES_SLOWKING] =
+    [SPECIES_KROKOROK] =
     {
         .size = MON_COORDS_SIZE(40, 64),
         .y_offset = 1,
     },
-    [SPECIES_MISDREAVUS] =
+    [SPECIES_KROOKODILE] =
     {
         .size = MON_COORDS_SIZE(40, 40),
         .y_offset = 12,

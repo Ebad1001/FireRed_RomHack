@@ -5744,7 +5744,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLACK,
         .noFlip = FALSE,
     },
-    [SPECIES_MURKROW] = /* SANDILE */
+    [SPECIES_SANDILE] = /* SANDILE */
     {
         .baseHP = 60,
         .baseAttack = 85,
@@ -5773,7 +5773,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLACK,
         .noFlip = FALSE,
     },
-    [SPECIES_SLOWKING] = /* KROKOROK */
+    [SPECIES_KROKOROK] = /* KROKOROK */
     {
         .baseHP = 95,
         .baseAttack = 75,
@@ -5802,7 +5802,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_MISDREAVUS] = /* KROOKODILE */
+    [SPECIES_KROOKODILE] = /* KROOKODILE */
     {
         .baseHP = 60,
         .baseAttack = 60,

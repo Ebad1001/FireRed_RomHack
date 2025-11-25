@@ -679,9 +679,9 @@ static const u16 sDexCategory_RoughTerrainPkmn_Page7[] = {
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page8[] = {
-    SPECIES_MURKROW,
-    SPECIES_SLOWKING,
-    SPECIES_MISDREAVUS,
+    SPECIES_SANDILE,
+    SPECIES_KROKOROK,
+    SPECIES_KROOKODILE,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page9[] = {

@@ -2574,39 +2574,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_MURKROW] =
+    [NATIONAL_DEX_SANDILE] =
     {
         .categoryName = _("DESERT"),
         .height = 7,
         .weight = 152,
-        .description = gMurkrowPokedexText,
-        .unusedDescription = gMurkrowPokedexTextUnused,
+        .description = gSandilePokedexText,
+        .unusedDescription = gSandilePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SLOWKING] =
+    [NATIONAL_DEX_KROKOROK] =
     {
         .categoryName = _("DESERT"),
         .height = 10,
         .weight = 334,
-        .description = gSlowkingPokedexText,
-        .unusedDescription = gSlowkingPokedexTextUnused,
+        .description = gKrokorokPokedexText,
+        .unusedDescription = gKrokorokPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_MISDREAVUS] =
+    [NATIONAL_DEX_KROOKODILE] =
     {
         .categoryName = _("CROCODILE"),
         .height = 15,
         .weight = 963,
-        .description = gMisdreavusPokedexText,
-        .unusedDescription = gMisdreavusPokedexTextUnused,
+        .description = gKrookodilePokedexText,
+        .unusedDescription = gKrookodilePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
