@@ -712,19 +712,19 @@ const u8 gElectrodePokedexText[] = _(
 
 const u8 gElectrodePokedexTextUnused[] = _("");
 
-const u8 gExeggcutePokedexText[] = _(
+const u8 gAccuraseedPokedexText[] = _(
     "HP     -  60    Ph.Atk -  40\n"
     "Ph.Def -  80    Sp.Atk -  60\n"
     "Sp.Def -  45    Speed  -  40");
 
-const u8 gExeggcutePokedexTextUnused[] = _("");
+const u8 gAccuraseedPokedexTextUnused[] = _("");
 
-const u8 gExeggutorPokedexText[] = _(
+const u8 gTreecisionPokedexText[] = _(
     "HP     -  95    Ph.Atk -  95\n"
     "Ph.Def -  85    Sp.Atk - 125\n"
     "Sp.Def -  65    Speed  -  55");
 
-const u8 gExeggutorPokedexTextUnused[] = _("");
+const u8 gTreecisionPokedexTextUnused[] = _("");
 
 const u8 gCubonePokedexText[] = _(
     "HP     -  50    Ph.Atk -  50\n"

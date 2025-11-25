@@ -712,19 +712,19 @@ const u8 gElectrodePokedexText[] = _(
 
 const u8 gElectrodePokedexTextUnused[] = _("");
 
-const u8 gExeggcutePokedexText[] = _(
+const u8 gAccuraseedPokedexText[] = _(
     "It is often mistaken for eggs. When\n"
     "disturbed, they quickly gather and attack\n"
     "in swarms.");
 
-const u8 gExeggcutePokedexTextUnused[] = _("");
+const u8 gAccuraseedPokedexTextUnused[] = _("");
 
-const u8 gExeggutorPokedexText[] = _(
+const u8 gTreecisionPokedexText[] = _(
     "It is said that on rare occasions, one\n"
     "of its heads will drop off and continue on\n"
-    "as an EXEGGCUTE.");
+    "as an ACCURASEED.");
 
-const u8 gExeggutorPokedexTextUnused[] = _("");
+const u8 gTreecisionPokedexTextUnused[] = _("");
 
 const u8 gCubonePokedexText[] = _(
     "Because it never removes its skull helmet,\n"

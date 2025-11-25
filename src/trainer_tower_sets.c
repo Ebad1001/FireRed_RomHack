@@ -6818,7 +6818,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_3 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_EXEGGCUTE,
+					.species = SPECIES_ACCURASEED,
 					.heldItem = ITEM_QUICK_CLAW,
 					.moves = {MOVE_EXPLOSION, MOVE_STUN_SPORE, MOVE_HYPNOSIS, MOVE_GIGA_DRAIN},
 					.hpEV = 0,
@@ -6836,7 +6836,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_3 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x07, // FEMALE RELAXED
-					.nickname = _("EXEGGCUTE"),
+					.nickname = _("ACCURASEED"),
 					.friendship = 255
 				},
 				{

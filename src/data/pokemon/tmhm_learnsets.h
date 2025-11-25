@@ -2340,7 +2340,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM46_BUG_BUZZ)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_EXEGGCUTE]   = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_ACCURASEED]   = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM09_THUNDER_WAVE)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
@@ -2363,7 +2363,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_EXEGGUTOR]   = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_TREECISION]   = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM09_THUNDER_WAVE)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)

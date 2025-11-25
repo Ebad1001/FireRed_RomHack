@@ -1326,26 +1326,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_EXEGGCUTE] =
+    [NATIONAL_DEX_ACCURASEED] =
     {
         .categoryName = _("SEED"),
         .height = 4,
         .weight = 25,
-        .description = gExeggcutePokedexText,
-        .unusedDescription = gExeggcutePokedexTextUnused,
+        .description = gAccuraseedPokedexText,
+        .unusedDescription = gAccuraseedPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_EXEGGUTOR] =
+    [NATIONAL_DEX_TREECISION] =
     {
         .categoryName = _("TREE"),
         .height = 20,
         .weight = 1200,
-        .description = gExeggutorPokedexText,
-        .unusedDescription = gExeggutorPokedexTextUnused,
+        .description = gTreecisionPokedexText,
+        .unusedDescription = gTreecisionPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

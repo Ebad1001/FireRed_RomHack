@@ -101,8 +101,8 @@ gCryTable::
 	cry Cry_Kingler
 	cry Cry_Voltorb
 	cry Cry_Electrode
-	cry Cry_Exeggcute
-	cry Cry_Exeggutor
+	cry Cry_Accuraseed
+	cry Cry_Treecision
 	cry Cry_Cubone
 	cry Cry_Marowak
 	cry Cry_Hitmonlee
@@ -492,8 +492,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Kingler
 	cry_reverse Cry_Voltorb
 	cry_reverse Cry_Electrode
-	cry_reverse Cry_Exeggcute
-	cry_reverse Cry_Exeggutor
+	cry_reverse Cry_Accuraseed
+	cry_reverse Cry_Treecision
 	cry_reverse Cry_Cubone
 	cry_reverse Cry_Marowak
 	cry_reverse Cry_Hitmonlee

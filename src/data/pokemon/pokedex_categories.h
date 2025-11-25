@@ -258,8 +258,8 @@ static const u16 sDexCategory_ForestPkmn_Page18[] = {
 };
 
 static const u16 sDexCategory_ForestPkmn_Page19[] = {
-    SPECIES_EXEGGCUTE,
-    SPECIES_EXEGGUTOR,
+    SPECIES_ACCURASEED,
+    SPECIES_TREECISION,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page20[] = {

@@ -510,12 +510,12 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(48, 40),
         .y_offset = 13,
     },
-    [SPECIES_EXEGGCUTE] =
+    [SPECIES_ACCURASEED] =
     {
         .size = MON_COORDS_SIZE(48, 40),
         .y_offset = 13,
     },
-    [SPECIES_EXEGGUTOR] =
+    [SPECIES_TREECISION] =
     {
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 7,

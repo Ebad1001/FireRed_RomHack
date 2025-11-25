@@ -2960,7 +2960,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_EXEGGCUTE] = /* ACCURASEED */
+    [SPECIES_ACCURASEED] = /* ACCURASEED */
     {
         .baseHP = 60,
         .baseAttack = 40,
@@ -2989,7 +2989,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_EXEGGUTOR] = /* TREECISION */
+    [SPECIES_TREECISION] = /* TREECISION */
     {
         .baseHP = 95,
         .baseAttack = 95,

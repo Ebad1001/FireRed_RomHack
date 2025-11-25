@@ -738,13 +738,13 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_EXPLOSION)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_EXEGGCUTE] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_ACCURASEED] = TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_DREAM_EATER)
                         | TUTOR(MOVE_EXPLOSION)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_EXEGGUTOR] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_TREECISION] = TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_DREAM_EATER)
                         | TUTOR(MOVE_EXPLOSION)

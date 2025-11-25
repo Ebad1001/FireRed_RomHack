@@ -705,19 +705,19 @@ const u32 gMonShinyPalette_Electrode[] = INCBIN_U32("graphics/pokemon/electrode/
 const u8 gMonIcon_Electrode[] = INCBIN_U8("graphics/pokemon/electrode/icon.4bpp");
 const u8 gMonFootprint_Electrode[] = INCBIN_U8("graphics/pokemon/electrode/footprint.1bpp");
 
-const u32 gMonFrontPic_Exeggcute[] = INCBIN_U32("graphics/pokemon/exeggcute/front.4bpp.lz");
-const u32 gMonPalette_Exeggcute[] = INCBIN_U32("graphics/pokemon/exeggcute/normal.gbapal.lz");
-const u32 gMonBackPic_Exeggcute[] = INCBIN_U32("graphics/pokemon/exeggcute/back.4bpp.lz");
-const u32 gMonShinyPalette_Exeggcute[] = INCBIN_U32("graphics/pokemon/exeggcute/shiny.gbapal.lz");
-const u8 gMonIcon_Exeggcute[] = INCBIN_U8("graphics/pokemon/exeggcute/icon.4bpp");
-const u8 gMonFootprint_Exeggcute[] = INCBIN_U8("graphics/pokemon/exeggcute/footprint.1bpp");
+const u32 gMonFrontPic_Accuraseed[] = INCBIN_U32("graphics/pokemon/accuraseed/front.4bpp.lz");
+const u32 gMonPalette_Accuraseed[] = INCBIN_U32("graphics/pokemon/accuraseed/normal.gbapal.lz");
+const u32 gMonBackPic_Accuraseed[] = INCBIN_U32("graphics/pokemon/accuraseed/back.4bpp.lz");
+const u32 gMonShinyPalette_Accuraseed[] = INCBIN_U32("graphics/pokemon/accuraseed/shiny.gbapal.lz");
+const u8 gMonIcon_Accuraseed[] = INCBIN_U8("graphics/pokemon/accuraseed/icon.4bpp");
+const u8 gMonFootprint_Accuraseed[] = INCBIN_U8("graphics/pokemon/accuraseed/footprint.1bpp");
 
-const u32 gMonFrontPic_Exeggutor[] = INCBIN_U32("graphics/pokemon/exeggutor/front.4bpp.lz");
-const u32 gMonPalette_Exeggutor[] = INCBIN_U32("graphics/pokemon/exeggutor/normal.gbapal.lz");
-const u32 gMonBackPic_Exeggutor[] = INCBIN_U32("graphics/pokemon/exeggutor/back.4bpp.lz");
-const u32 gMonShinyPalette_Exeggutor[] = INCBIN_U32("graphics/pokemon/exeggutor/shiny.gbapal.lz");
-const u8 gMonIcon_Exeggutor[] = INCBIN_U8("graphics/pokemon/exeggutor/icon.4bpp");
-const u8 gMonFootprint_Exeggutor[] = INCBIN_U8("graphics/pokemon/exeggutor/footprint.1bpp");
+const u32 gMonFrontPic_Treecision[] = INCBIN_U32("graphics/pokemon/treecision/front.4bpp.lz");
+const u32 gMonPalette_Treecision[] = INCBIN_U32("graphics/pokemon/treecision/normal.gbapal.lz");
+const u32 gMonBackPic_Treecision[] = INCBIN_U32("graphics/pokemon/treecision/back.4bpp.lz");
+const u32 gMonShinyPalette_Treecision[] = INCBIN_U32("graphics/pokemon/treecision/shiny.gbapal.lz");
+const u8 gMonIcon_Treecision[] = INCBIN_U8("graphics/pokemon/treecision/icon.4bpp");
+const u8 gMonFootprint_Treecision[] = INCBIN_U8("graphics/pokemon/treecision/footprint.1bpp");
 
 const u32 gMonFrontPic_Cubone[] = INCBIN_U32("graphics/pokemon/cubone/front.4bpp.lz");
 const u32 gMonPalette_Cubone[] = INCBIN_U32("graphics/pokemon/cubone/normal.gbapal.lz");

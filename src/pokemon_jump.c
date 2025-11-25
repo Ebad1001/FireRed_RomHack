@@ -791,7 +791,7 @@ static const struct PokemonJumpMons
     { .species = SPECIES_PEASHOOTER, .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_SHELLDER,   .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_KRABBY,     .jumpType = JUMP_TYPE_FAST },
-    { .species = SPECIES_EXEGGCUTE,  .jumpType = JUMP_TYPE_SLOW },
+    { .species = SPECIES_ACCURASEED,  .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_CUBONE,     .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_DITTO,      .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_EEVEE,      .jumpType = JUMP_TYPE_NORMAL },

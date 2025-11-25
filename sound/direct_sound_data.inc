@@ -708,12 +708,12 @@ Cry_Electrode::
 	.incbin "sound/direct_sound_samples/cries/electrode.bin"
 
 	.align 2
-Cry_Exeggcute::
-	.incbin "sound/direct_sound_samples/cries/exeggcute.bin"
+Cry_Accuraseed::
+	.incbin "sound/direct_sound_samples/cries/accuraseed.bin"
 
 	.align 2
-Cry_Exeggutor::
-	.incbin "sound/direct_sound_samples/cries/exeggutor.bin"
+Cry_Treecision::
+	.incbin "sound/direct_sound_samples/cries/treecision.bin"
 
 	.align 2
 Cry_Cubone::

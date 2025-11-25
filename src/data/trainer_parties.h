@@ -2769,7 +2769,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BeautyLori[] = {
     {
         .iv = 0,
         .lvl = 24,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
     },
 };
 
@@ -4892,7 +4892,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerGeorge[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .moves = {MOVE_EGG_BOMB, MOVE_CONFUSION, MOVE_STUN_SPORE, MOVE_SLEEP_POWDER},
     },
     {
@@ -5898,7 +5898,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_RivalPokemonTowerSquirtl
     {
         .iv = 100,
         .lvl = 22,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
     },
     {
         .iv = 100,
@@ -5949,7 +5949,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_RivalPokemonTowerCharman
     {
         .iv = 100,
         .lvl = 23,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
     },
     {
         .iv = 100,
@@ -5982,7 +5982,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_RivalSilphSquirtle[] = {
     {
         .iv = 100,
         .lvl = 35,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
     },
     {
         .iv = 100,
@@ -6033,7 +6033,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_RivalSilphCharmander[] =
     {
         .iv = 100,
         .lvl = 38,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
     },
     {
         .iv = 100,
@@ -6074,7 +6074,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_RivalRoute22LateSquirtle[
     {
         .iv = 150,
         .lvl = 45,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
         .moves = {MOVE_SOLAR_BEAM, MOVE_SLEEP_POWDER, MOVE_POISON_POWDER, MOVE_STUN_SPORE},
     },
     {
@@ -6146,7 +6146,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_RivalRoute22LateCharmande
     {
         .iv = 150,
         .lvl = 45,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
         .moves = {MOVE_SOLAR_BEAM, MOVE_SLEEP_POWDER, MOVE_POISON_POWDER, MOVE_STUN_SPORE},
     },
     {
@@ -6201,7 +6201,7 @@ static const struct TrainerMonItemCustomMoves sParty_ChampionFirstSquirtle[] = {
     {
         .iv = 255,
         .lvl = 61,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_GIGA_DRAIN, MOVE_EGG_BOMB, MOVE_SLEEP_POWDER, MOVE_LIGHT_SCREEN},
     },
@@ -6284,7 +6284,7 @@ static const struct TrainerMonItemCustomMoves sParty_ChampionFirstCharmander[] =
     {
         .iv = 255,
         .lvl = 59,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_GIGA_DRAIN, MOVE_EGG_BOMB, MOVE_SLEEP_POWDER, MOVE_LIGHT_SCREEN},
     },
@@ -8353,13 +8353,13 @@ static const struct TrainerMonNoItemCustomMoves sParty_PkmnRangerLogan[] = {
     {
         .iv = 100,
         .lvl = 37,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
         .moves = {MOVE_SLEEP_POWDER, MOVE_POISON_POWDER, MOVE_STUN_SPORE, MOVE_CONFUSION},
     },
     {
         .iv = 100,
         .lvl = 40,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .moves = {MOVE_EGG_BOMB, MOVE_STOMP, MOVE_CONFUSION, MOVE_HYPNOSIS},
     },
 };
@@ -8374,13 +8374,13 @@ static const struct TrainerMonNoItemCustomMoves sParty_PkmnRangerJackson[] = {
     {
         .iv = 100,
         .lvl = 49,
-        .species = SPECIES_EXEGGCUTE,
+        .species = SPECIES_ACCURASEED,
         .moves = {MOVE_CONFUSION, MOVE_POISON_POWDER, MOVE_BARRAGE, MOVE_REFLECT},
     },
     {
         .iv = 100,
         .lvl = 49,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .moves = {MOVE_CONFUSION, MOVE_EGG_BOMB, MOVE_SLEEP_POWDER, MOVE_STOMP},
     },
 };
@@ -10373,13 +10373,13 @@ static const struct TrainerMonNoItemCustomMoves sParty_PkmnRangerJackson2[] = {
     {
         .iv = 220,
         .lvl = 54,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .moves = {MOVE_CONFUSION, MOVE_EGG_BOMB, MOVE_STUN_SPORE, MOVE_REFLECT},
     },
     {
         .iv = 220,
         .lvl = 55,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .moves = {MOVE_CONFUSION, MOVE_EGG_BOMB, MOVE_SLEEP_POWDER, MOVE_STOMP},
     },
 };
@@ -10751,7 +10751,7 @@ static const struct TrainerMonItemCustomMoves sParty_ChampionRematchSquirtle[] =
     {
         .iv = 255,
         .lvl = 73,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_GIGA_DRAIN, MOVE_PSYCHIC, MOVE_SLEEP_POWDER, MOVE_LIGHT_SCREEN},
     },
@@ -10834,7 +10834,7 @@ static const struct TrainerMonItemCustomMoves sParty_ChampionRematchCharmander[]
     {
         .iv = 255,
         .lvl = 73,
-        .species = SPECIES_EXEGGUTOR,
+        .species = SPECIES_TREECISION,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_GIGA_DRAIN, MOVE_PSYCHIC, MOVE_SLEEP_POWDER, MOVE_LIGHT_SCREEN},
     },

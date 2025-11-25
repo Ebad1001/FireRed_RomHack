@@ -1397,7 +1397,7 @@ static const u16 sElectrodeLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sExeggcuteLevelUpLearnset[] = {
+static const u16 sAccuraseedLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_FURY_SWIPES),
     LEVEL_UP_MOVE(1, MOVE_UPROAR),
     LEVEL_UP_MOVE(1, MOVE_HYPNOSIS),
@@ -1411,7 +1411,7 @@ static const u16 sExeggcuteLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sExeggutorLevelUpLearnset[] = {
+static const u16 sTreecisionLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_FURY_SWIPES),
     LEVEL_UP_MOVE(1, MOVE_HYPNOSIS),
     LEVEL_UP_MOVE(1, MOVE_CONFUSION),
