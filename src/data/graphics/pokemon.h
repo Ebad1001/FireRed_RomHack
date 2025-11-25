@@ -1202,19 +1202,19 @@ const u32 gMonShinyPalette_Pichu[] = INCBIN_U32("graphics/pokemon/pichu/shiny.gb
 const u8 gMonIcon_Pichu[] = INCBIN_U8("graphics/pokemon/pichu/icon.4bpp");
 const u8 gMonFootprint_Pichu[] = INCBIN_U8("graphics/pokemon/pichu/footprint.1bpp");
 
-const u32 gMonFrontPic_Cleffa[] = INCBIN_U32("graphics/pokemon/cleffa/front.4bpp.lz");
-const u32 gMonPalette_Cleffa[] = INCBIN_U32("graphics/pokemon/cleffa/normal.gbapal.lz");
-const u32 gMonBackPic_Cleffa[] = INCBIN_U32("graphics/pokemon/cleffa/back.4bpp.lz");
-const u32 gMonShinyPalette_Cleffa[] = INCBIN_U32("graphics/pokemon/cleffa/shiny.gbapal.lz");
-const u8 gMonIcon_Cleffa[] = INCBIN_U8("graphics/pokemon/cleffa/icon.4bpp");
-const u8 gMonFootprint_Cleffa[] = INCBIN_U8("graphics/pokemon/cleffa/footprint.1bpp");
+const u32 gMonFrontPic_Zorua[] = INCBIN_U32("graphics/pokemon/zorua/front.4bpp.lz");
+const u32 gMonPalette_Zorua[] = INCBIN_U32("graphics/pokemon/zorua/normal.gbapal.lz");
+const u32 gMonBackPic_Zorua[] = INCBIN_U32("graphics/pokemon/zorua/back.4bpp.lz");
+const u32 gMonShinyPalette_Zorua[] = INCBIN_U32("graphics/pokemon/zorua/shiny.gbapal.lz");
+const u8 gMonIcon_Zorua[] = INCBIN_U8("graphics/pokemon/zorua/icon.4bpp");
+const u8 gMonFootprint_Zorua[] = INCBIN_U8("graphics/pokemon/zorua/footprint.1bpp");
 
-const u32 gMonFrontPic_Igglybuff[] = INCBIN_U32("graphics/pokemon/igglybuff/front.4bpp.lz");
-const u32 gMonPalette_Igglybuff[] = INCBIN_U32("graphics/pokemon/igglybuff/normal.gbapal.lz");
-const u32 gMonBackPic_Igglybuff[] = INCBIN_U32("graphics/pokemon/igglybuff/back.4bpp.lz");
-const u32 gMonShinyPalette_Igglybuff[] = INCBIN_U32("graphics/pokemon/igglybuff/shiny.gbapal.lz");
-const u8 gMonIcon_Igglybuff[] = INCBIN_U8("graphics/pokemon/igglybuff/icon.4bpp");
-const u8 gMonFootprint_Igglybuff[] = INCBIN_U8("graphics/pokemon/igglybuff/footprint.1bpp");
+const u32 gMonFrontPic_Zoroark[] = INCBIN_U32("graphics/pokemon/zoroark/front.4bpp.lz");
+const u32 gMonPalette_Zoroark[] = INCBIN_U32("graphics/pokemon/zoroark/normal.gbapal.lz");
+const u32 gMonBackPic_Zoroark[] = INCBIN_U32("graphics/pokemon/zoroark/back.4bpp.lz");
+const u32 gMonShinyPalette_Zoroark[] = INCBIN_U32("graphics/pokemon/zoroark/shiny.gbapal.lz");
+const u8 gMonIcon_Zoroark[] = INCBIN_U8("graphics/pokemon/zoroark/icon.4bpp");
+const u8 gMonFootprint_Zoroark[] = INCBIN_U8("graphics/pokemon/zoroark/footprint.1bpp");
 
 const u32 gMonFrontPic_Togepi[] = INCBIN_U32("graphics/pokemon/togepi/front.4bpp.lz");
 const u32 gMonPalette_Togepi[] = INCBIN_U32("graphics/pokemon/togepi/normal.gbapal.lz");
@@ -1321,26 +1321,26 @@ const u32 gMonShinyPalette_Luxray[] = INCBIN_U32("graphics/pokemon/luxray/shiny.
 const u8 gMonIcon_Luxray[] = INCBIN_U8("graphics/pokemon/luxray/icon.4bpp");
 const u8 gMonFootprint_Luxray[] = INCBIN_U8("graphics/pokemon/luxray/footprint.1bpp");
 
-const u32 gMonFrontPic_Aipom[] = INCBIN_U32("graphics/pokemon/aipom/front.4bpp.lz");
-const u32 gMonPalette_Aipom[] = INCBIN_U32("graphics/pokemon/aipom/normal.gbapal.lz");
-const u32 gMonBackPic_Aipom[] = INCBIN_U32("graphics/pokemon/aipom/back.4bpp.lz");
-const u32 gMonShinyPalette_Aipom[] = INCBIN_U32("graphics/pokemon/aipom/shiny.gbapal.lz");
-const u8 gMonIcon_Aipom[] = INCBIN_U8("graphics/pokemon/aipom/icon.4bpp");
-const u8 gMonFootprint_Aipom[] = INCBIN_U8("graphics/pokemon/aipom/footprint.1bpp");
+const u32 gMonFrontPic_Pandara[] = INCBIN_U32("graphics/pokemon/pandara/front.4bpp.lz");
+const u32 gMonPalette_Pandara[] = INCBIN_U32("graphics/pokemon/pandara/normal.gbapal.lz");
+const u32 gMonBackPic_Pandara[] = INCBIN_U32("graphics/pokemon/pandara/back.4bpp.lz");
+const u32 gMonShinyPalette_Pandara[] = INCBIN_U32("graphics/pokemon/pandara/shiny.gbapal.lz");
+const u8 gMonIcon_Pandara[] = INCBIN_U8("graphics/pokemon/pandara/icon.4bpp");
+const u8 gMonFootprint_Pandara[] = INCBIN_U8("graphics/pokemon/pandara/footprint.1bpp");
 
-const u32 gMonFrontPic_Sunkern[] = INCBIN_U32("graphics/pokemon/sunkern/front.4bpp.lz");
-const u32 gMonPalette_Sunkern[] = INCBIN_U32("graphics/pokemon/sunkern/normal.gbapal.lz");
-const u32 gMonBackPic_Sunkern[] = INCBIN_U32("graphics/pokemon/sunkern/back.4bpp.lz");
-const u32 gMonShinyPalette_Sunkern[] = INCBIN_U32("graphics/pokemon/sunkern/shiny.gbapal.lz");
-const u8 gMonIcon_Sunkern[] = INCBIN_U8("graphics/pokemon/sunkern/icon.4bpp");
-const u8 gMonFootprint_Sunkern[] = INCBIN_U8("graphics/pokemon/sunkern/footprint.1bpp");
+const u32 gMonFrontPic_Riolu[] = INCBIN_U32("graphics/pokemon/riolu/front.4bpp.lz");
+const u32 gMonPalette_Riolu[] = INCBIN_U32("graphics/pokemon/riolu/normal.gbapal.lz");
+const u32 gMonBackPic_Riolu[] = INCBIN_U32("graphics/pokemon/riolu/back.4bpp.lz");
+const u32 gMonShinyPalette_Riolu[] = INCBIN_U32("graphics/pokemon/riolu/shiny.gbapal.lz");
+const u8 gMonIcon_Riolu[] = INCBIN_U8("graphics/pokemon/riolu/icon.4bpp");
+const u8 gMonFootprint_Riolu[] = INCBIN_U8("graphics/pokemon/riolu/footprint.1bpp");
 
-const u32 gMonFrontPic_Sunflora[] = INCBIN_U32("graphics/pokemon/sunflora/front.4bpp.lz");
-const u32 gMonPalette_Sunflora[] = INCBIN_U32("graphics/pokemon/sunflora/normal.gbapal.lz");
-const u32 gMonBackPic_Sunflora[] = INCBIN_U32("graphics/pokemon/sunflora/back.4bpp.lz");
-const u32 gMonShinyPalette_Sunflora[] = INCBIN_U32("graphics/pokemon/sunflora/shiny.gbapal.lz");
-const u8 gMonIcon_Sunflora[] = INCBIN_U8("graphics/pokemon/sunflora/icon.4bpp");
-const u8 gMonFootprint_Sunflora[] = INCBIN_U8("graphics/pokemon/sunflora/footprint.1bpp");
+const u32 gMonFrontPic_Lucario[] = INCBIN_U32("graphics/pokemon/lucario/front.4bpp.lz");
+const u32 gMonPalette_Lucario[] = INCBIN_U32("graphics/pokemon/lucario/normal.gbapal.lz");
+const u32 gMonBackPic_Lucario[] = INCBIN_U32("graphics/pokemon/lucario/back.4bpp.lz");
+const u32 gMonShinyPalette_Lucario[] = INCBIN_U32("graphics/pokemon/lucario/shiny.gbapal.lz");
+const u8 gMonIcon_Lucario[] = INCBIN_U8("graphics/pokemon/lucario/icon.4bpp");
+const u8 gMonFootprint_Lucario[] = INCBIN_U8("graphics/pokemon/lucario/footprint.1bpp");
 
 const u32 gMonFrontPic_Gonix[] = INCBIN_U32("graphics/pokemon/gonix/front.4bpp.lz");
 const u32 gMonPalette_Gonix[] = INCBIN_U32("graphics/pokemon/gonix/normal.gbapal.lz");

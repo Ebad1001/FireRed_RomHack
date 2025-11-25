@@ -1209,19 +1209,19 @@ const u8 gPichuPokedexText[] = _(
 
 const u8 gPichuPokedexTextUnused[] = _("");
 
-const u8 gCleffaPokedexText[] = _(
+const u8 gZoruaPokedexText[] = _(
     "HP     -  50    Ph.Atk -  25\n"
     "Ph.Def -  28    Sp.Atk -  45\n"
     "Sp.Def -  55    Speed  -  15");
 
-const u8 gCleffaPokedexTextUnused[] = _("");
+const u8 gZoruaPokedexTextUnused[] = _("");
 
-const u8 gIgglybuffPokedexText[] = _(
+const u8 gZoroarkPokedexText[] = _(
     "HP     -  90    Ph.Atk -  30\n"
     "Ph.Def -  15    Sp.Atk -  40\n"
     "Sp.Def -  20    Speed  -  15");
 
-const u8 gIgglybuffPokedexTextUnused[] = _("");
+const u8 gZoroarkPokedexTextUnused[] = _("");
 
 const u8 gTogepiPokedexText[] = _(
     "HP     -  35    Ph.Atk -  20\n"
@@ -1328,26 +1328,26 @@ const u8 gLuxrayPokedexText[] = _(
 
 const u8 gLuxrayPokedexTextUnused[] = _("");
 
-const u8 gAipomPokedexText[] = _(
+const u8 gPandaraPokedexText[] = _(
     "HP     -  55    Ph.Atk -  70\n"
     "Ph.Def -  55    Sp.Atk -  40\n"
     "Sp.Def -  55    Speed  -  85");
 
-const u8 gAipomPokedexTextUnused[] = _("");
+const u8 gPandaraPokedexTextUnused[] = _("");
 
-const u8 gSunkernPokedexText[] = _(
+const u8 gRioluPokedexText[] = _(
     "HP     -  30    Ph.Atk -  30\n"
     "Ph.Def -  30    Sp.Atk -  30\n"
     "Sp.Def -  30    Speed  -  30");
 
-const u8 gSunkernPokedexTextUnused[] = _("");
+const u8 gRioluPokedexTextUnused[] = _("");
 
-const u8 gSunfloraPokedexText[] = _(
+const u8 gLucarioPokedexText[] = _(
     "HP     -  75    Ph.Atk -  75\n"
     "Ph.Def -  55    Sp.Atk - 105\n"
     "Sp.Def -  85    Speed  -  30");
 
-const u8 gSunfloraPokedexTextUnused[] = _("");
+const u8 gLucarioPokedexTextUnused[] = _("");
 
 const u8 gGonixPokedexText[] = _(
     "HP     -  65    Ph.Atk -  65\n"

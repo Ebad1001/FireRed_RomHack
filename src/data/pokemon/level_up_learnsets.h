@@ -2406,7 +2406,7 @@ static const u16 sPichuLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sCleffaLevelUpLearnset[] = {
+static const u16 sZoruaLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_CHARM),
     LEVEL_UP_MOVE(4, MOVE_ENCORE),
@@ -2416,7 +2416,7 @@ static const u16 sCleffaLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sIgglybuffLevelUpLearnset[] = {
+static const u16 sZoroarkLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SING),
     LEVEL_UP_MOVE(1, MOVE_CHARM),
     LEVEL_UP_MOVE(4, MOVE_DEFENSE_CURL),
@@ -2631,7 +2631,7 @@ static const u16 sLuxrayLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sAipomLevelUpLearnset[] = {
+static const u16 sPandaraLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SCRATCH),
     LEVEL_UP_MOVE(1, MOVE_TAIL_WHIP),
     LEVEL_UP_MOVE(6, MOVE_SAND_ATTACK),
@@ -2645,7 +2645,7 @@ static const u16 sAipomLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSunkernLevelUpLearnset[] = {
+static const u16 sRioluLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_ABSORB),
     LEVEL_UP_MOVE(6, MOVE_GROWTH),
     LEVEL_UP_MOVE(13, MOVE_MEGA_DRAIN),
@@ -2657,7 +2657,7 @@ static const u16 sSunkernLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSunfloraLevelUpLearnset[] = {
+static const u16 sLucarioLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_ABSORB),
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(6, MOVE_GROWTH),

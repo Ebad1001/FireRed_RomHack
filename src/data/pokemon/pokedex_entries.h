@@ -2249,26 +2249,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CLEFFA] =
+    [NATIONAL_DEX_ZORUA] =
     {
         .categoryName = _("ILLUSION"),
         .height = 7,
         .weight = 125,
-        .description = gCleffaPokedexText,
-        .unusedDescription = gCleffaPokedexTextUnused,
+        .description = gZoruaPokedexText,
+        .unusedDescription = gZoruaPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_IGGLYBUFF] =
+    [NATIONAL_DEX_ZOROARK] =
     {
         .categoryName = _("ILLUSION"),
         .height = 16,
         .weight = 811,
-        .description = gIgglybuffPokedexText,
-        .unusedDescription = gIgglybuffPokedexTextUnused,
+        .description = gZoroarkPokedexText,
+        .unusedDescription = gZoroarkPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2470,39 +2470,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_AIPOM] =
+    [NATIONAL_DEX_PANDARA] =
     {
         .categoryName = _("WARRIOR"),
         .height = 21,
         .weight = 1360,
-        .description = gAipomPokedexText,
-        .unusedDescription = gAipomPokedexTextUnused,
+        .description = gPandaraPokedexText,
+        .unusedDescription = gPandaraPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SUNKERN] =
+    [NATIONAL_DEX_RIOLU] =
     {
         .categoryName = _("AURA"),
         .height = 7,
         .weight = 202,
-        .description = gSunkernPokedexText,
-        .unusedDescription = gSunkernPokedexTextUnused,
+        .description = gRioluPokedexText,
+        .unusedDescription = gRioluPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SUNFLORA] =
+    [NATIONAL_DEX_LUCARIO] =
     {
         .categoryName = _("AURA"),
         .height = 12,
         .weight = 540,
-        .description = gSunfloraPokedexText,
-        .unusedDescription = gSunfloraPokedexTextUnused,
+        .description = gLucarioPokedexText,
+        .unusedDescription = gLucarioPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

@@ -1236,7 +1236,7 @@ static const u16 sTutorLearnsets[] =
                     | TUTOR(MOVE_CHARGE_UP)
                     | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_CLEFFA] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_ZORUA] = TUTOR(MOVE_FIRE_PUNCH)
                      | TUTOR(MOVE_THUNDERPUNCH)
                      | TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1249,7 +1249,7 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_CHARGE_UP)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_IGGLYBUFF] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_ZOROARK] = TUTOR(MOVE_FIRE_PUNCH)
                         | TUTOR(MOVE_THUNDERPUNCH)
                         | TUTOR(MOVE_BODY_SLAM)
                         | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1381,7 +1381,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_AIPOM] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_PANDARA] = TUTOR(MOVE_FIRE_PUNCH)
                     | TUTOR(MOVE_THUNDERPUNCH)
                     | TUTOR(MOVE_BODY_SLAM)
                     | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1393,12 +1393,12 @@ static const u16 sTutorLearnsets[] =
                     | TUTOR(MOVE_CHARGE_UP)
                     | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SUNKERN] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_RIOLU] = TUTOR(MOVE_SWORDS_DANCE)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SUNFLORA] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_LUCARIO] = TUTOR(MOVE_SWORDS_DANCE)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),

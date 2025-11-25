@@ -560,7 +560,7 @@ const u16 gEggMoves[] = {
               MOVE_WISH,
               MOVE_CHARGE),
 
-    egg_moves(CLEFFA,
+    egg_moves(ZORUA,
               MOVE_PRESENT,
               MOVE_METRONOME,
               MOVE_AMNESIA,
@@ -570,7 +570,7 @@ const u16 gEggMoves[] = {
               MOVE_WISH,
               MOVE_SUBSTITUTE),
 
-    egg_moves(IGGLYBUFF,
+    egg_moves(ZOROARK,
               MOVE_PERISH_SONG,
               MOVE_PRESENT,
               MOVE_FAINT_ATTACK,
@@ -626,7 +626,7 @@ const u16 gEggMoves[] = {
               MOVE_AMNESIA,
               MOVE_PSYCH_UP),
 
-    egg_moves(AIPOM,
+    egg_moves(PANDARA,
               MOVE_COUNTER,
               MOVE_SCREECH,
               MOVE_PURSUIT,
@@ -635,7 +635,7 @@ const u16 gEggMoves[] = {
               MOVE_HYPER_VOICE,
               MOVE_FURY_SWIPES),
 
-    egg_moves(SUNKERN,
+    egg_moves(RIOLU,
               MOVE_SLEEP_POWDER,
               MOVE_ENCORE,
               MOVE_LEECH_SEED,

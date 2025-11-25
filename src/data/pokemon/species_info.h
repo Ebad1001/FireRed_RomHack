@@ -5019,7 +5019,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_CLEFFA] = /* ZORUA */
+    [SPECIES_ZORUA] = /* ZORUA */
     {
         .baseHP = 50,
         .baseAttack = 25,
@@ -5048,7 +5048,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_IGGLYBUFF] = /* ZOROARK */
+    [SPECIES_ZOROARK] = /* ZOROARK */
     {
         .baseHP = 90,
         .baseAttack = 30,
@@ -5512,7 +5512,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_AIPOM] = /* PANDARA */
+    [SPECIES_PANDARA] = /* PANDARA */
     {
         .baseHP = 55,
         .baseAttack = 70,
@@ -5541,7 +5541,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
     },
-    [SPECIES_SUNKERN] = /* RIOLU */
+    [SPECIES_RIOLU] = /* RIOLU */
     {
         .baseHP = 30,
         .baseAttack = 30,
@@ -5570,7 +5570,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_SUNFLORA] = /* LUCARIO */
+    [SPECIES_LUCARIO] = /* LUCARIO */
     {
         .baseHP = 75,
         .baseAttack = 75,

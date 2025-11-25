@@ -546,10 +546,10 @@ static const u16 sDexCategory_MountainPkmn_Page3[] = {
 };
 
 static const u16 sDexCategory_MountainPkmn_Page4[] = {
-    SPECIES_SUNKERN,
-    SPECIES_SUNFLORA,
-    SPECIES_CLEFFA,
-    SPECIES_IGGLYBUFF,
+    SPECIES_RIOLU,
+    SPECIES_LUCARIO,
+    SPECIES_ZORUA,
+    SPECIES_ZOROARK,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page5[] = {
@@ -610,7 +610,7 @@ static const u16 sDexCategory_MountainPkmn_Page13[] = {
 };
 
 static const u16 sDexCategory_MountainPkmn_Page14[] = {
-    SPECIES_AIPOM,
+    SPECIES_PANDARA,
     SPECIES_AERODACTYL,
     SPECIES_SNORLAX,
 };

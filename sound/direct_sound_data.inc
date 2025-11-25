@@ -992,12 +992,12 @@ Cry_Pichu::
 	.incbin "sound/direct_sound_samples/cries/pichu.bin"
 
 	.align 2
-Cry_Cleffa::
-	.incbin "sound/direct_sound_samples/cries/cleffa.bin"
+Cry_Zorua::
+	.incbin "sound/direct_sound_samples/cries/zorua.bin"
 
 	.align 2
-Cry_Igglybuff::
-	.incbin "sound/direct_sound_samples/cries/igglybuff.bin"
+Cry_Zoroark::
+	.incbin "sound/direct_sound_samples/cries/zoroark.bin"
 
 	.align 2
 Cry_Togepi::
@@ -1060,16 +1060,16 @@ Cry_Luxray::
 	.incbin "sound/direct_sound_samples/cries/luxray.bin"
 
 	.align 2
-Cry_Aipom::
-	.incbin "sound/direct_sound_samples/cries/aipom.bin"
+Cry_Pandara::
+	.incbin "sound/direct_sound_samples/cries/pandara.bin"
 
 	.align 2
-Cry_Sunkern::
-	.incbin "sound/direct_sound_samples/cries/sunkern.bin"
+Cry_Riolu::
+	.incbin "sound/direct_sound_samples/cries/riolu.bin"
 
 	.align 2
-Cry_Sunflora::
-	.incbin "sound/direct_sound_samples/cries/sunflora.bin"
+Cry_Lucario::
+	.incbin "sound/direct_sound_samples/cries/lucario.bin"
 
 	.align 2
 Cry_Gonix::

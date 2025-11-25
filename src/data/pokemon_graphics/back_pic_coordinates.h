@@ -865,12 +865,12 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 11,
     },
-    [SPECIES_CLEFFA] =
+    [SPECIES_ZORUA] =
     {
         .size = MON_COORDS_SIZE(48, 40),
         .y_offset = 15,
     },
-    [SPECIES_IGGLYBUFF] =
+    [SPECIES_ZOROARK] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 11,
@@ -950,17 +950,17 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 4,
     },
-    [SPECIES_AIPOM] =
+    [SPECIES_PANDARA] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 9,
     },
-    [SPECIES_SUNKERN] =
+    [SPECIES_RIOLU] =
     {
         .size = MON_COORDS_SIZE(40, 48),
         .y_offset = 10,
     },
-    [SPECIES_SUNFLORA] =
+    [SPECIES_LUCARIO] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 8,

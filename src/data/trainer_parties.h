@@ -8101,12 +8101,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_AromaLadyRose[] = {
     {
         .iv = 0,
         .lvl = 49,
-        .species = SPECIES_SUNKERN,
+        .species = SPECIES_RIOLU,
     },
     {
         .iv = 0,
         .lvl = 49,
-        .species = SPECIES_SUNFLORA,
+        .species = SPECIES_LUCARIO,
     },
 };
 

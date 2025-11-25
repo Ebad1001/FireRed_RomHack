@@ -4142,7 +4142,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM45_DRAGON_PULSE)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_CLEFFA]      = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_ZORUA]      = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
@@ -4168,7 +4168,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM45_DRAGON_PULSE)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_IGGLYBUFF]   = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_ZOROARK]   = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
@@ -4538,7 +4538,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM45_DRAGON_PULSE)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_AIPOM]       = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_PANDARA]       = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
@@ -4568,7 +4568,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_SUNKERN]     = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_RIOLU]     = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM09_THUNDER_WAVE)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
@@ -4588,7 +4588,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM01_CUT)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_SUNFLORA]    = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_LUCARIO]    = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM09_THUNDER_WAVE)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)

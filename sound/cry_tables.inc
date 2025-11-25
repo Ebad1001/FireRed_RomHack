@@ -172,8 +172,8 @@ gCryTable::
 	cry Cry_Chinchou
 	cry Cry_Lanturn
 	cry Cry_Pichu
-	cry Cry_Cleffa
-	cry Cry_Igglybuff
+	cry Cry_Zorua
+	cry Cry_Zoroark
 	cry Cry_Togepi
 	cry Cry_Togetic
 	cry Cry_Pidove
@@ -189,9 +189,9 @@ gCryTable::
 	cry Cry_Shinx
 	cry Cry_Luxio
 	cry Cry_Luxray
-	cry Cry_Aipom
-	cry Cry_Sunkern
-	cry Cry_Sunflora
+	cry Cry_Pandara
+	cry Cry_Riolu
+	cry Cry_Lucario
 	cry Cry_Gonix
 	cry Cry_Wooper
 	cry Cry_Quagsire
@@ -563,8 +563,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Chinchou
 	cry_reverse Cry_Lanturn
 	cry_reverse Cry_Pichu
-	cry_reverse Cry_Cleffa
-	cry_reverse Cry_Igglybuff
+	cry_reverse Cry_Zorua
+	cry_reverse Cry_Zoroark
 	cry_reverse Cry_Togepi
 	cry_reverse Cry_Togetic
 	cry_reverse Cry_Pidove
@@ -580,9 +580,9 @@ gCryTable_Reverse::
 	cry_reverse Cry_Shinx
 	cry_reverse Cry_Luxio
 	cry_reverse Cry_Luxray
-	cry_reverse Cry_Aipom
-	cry_reverse Cry_Sunkern
-	cry_reverse Cry_Sunflora
+	cry_reverse Cry_Pandara
+	cry_reverse Cry_Riolu
+	cry_reverse Cry_Lucario
 	cry_reverse Cry_Gonix
 	cry_reverse Cry_Wooper
 	cry_reverse Cry_Quagsire

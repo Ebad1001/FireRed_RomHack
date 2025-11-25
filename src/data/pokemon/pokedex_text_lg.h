@@ -1209,19 +1209,19 @@ const u8 gPichuPokedexText[] = _(
 
 const u8 gPichuPokedexTextUnused[] = _("");
 
-const u8 gCleffaPokedexText[] = _(
+const u8 gZoruaPokedexText[] = _(
     "Because of its unusual, starlike\n"
     "silhouette, people believe that it came\n"
     "here on a meteor.");
 
-const u8 gCleffaPokedexTextUnused[] = _("");
+const u8 gZoruaPokedexTextUnused[] = _("");
 
-const u8 gIgglybuffPokedexText[] = _(
+const u8 gZoroarkPokedexText[] = _(
     "It has a very soft body. If it starts to\n"
     "roll, it will bounce all over and be\n"
     "impossible to stop.");
 
-const u8 gIgglybuffPokedexTextUnused[] = _("");
+const u8 gZoroarkPokedexTextUnused[] = _("");
 
 const u8 gTogepiPokedexText[] = _(
     "The shell seems to be filled with joy.\n"
@@ -1328,26 +1328,26 @@ const u8 gLuxrayPokedexText[] = _(
 
 const u8 gLuxrayPokedexTextUnused[] = _("");
 
-const u8 gAipomPokedexText[] = _(
+const u8 gPandaraPokedexText[] = _(
     "Its tail is so powerful that it can use it\n"
     "to grab a tree branch and hold itself up\n"
     "in the air.");
 
-const u8 gAipomPokedexTextUnused[] = _("");
+const u8 gPandaraPokedexTextUnused[] = _("");
 
-const u8 gSunkernPokedexText[] = _(
+const u8 gRioluPokedexText[] = _(
     "It may drop out of the sky suddenly.\n"
     "If attacked by a SPEAROW, it will\n"
     "violently shake its leaves.");
 
-const u8 gSunkernPokedexTextUnused[] = _("");
+const u8 gRioluPokedexTextUnused[] = _("");
 
-const u8 gSunfloraPokedexText[] = _(
+const u8 gLucarioPokedexText[] = _(
     "It converts sunlight into energy. In the\n"
     "darkness after sunset, it closes its petals\n"
     "and becomes still.");
 
-const u8 gSunfloraPokedexTextUnused[] = _("");
+const u8 gLucarioPokedexTextUnused[] = _("");
 
 const u8 gGonixPokedexText[] = _(
     "If it flaps its wings really fast, it can\n"
