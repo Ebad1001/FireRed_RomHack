@@ -4784,39 +4784,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_GOREBYSS] =
+    [NATIONAL_DEX_SNOWBRAWL] =
     {
         .categoryName = _("SNOWBALL"),
         .height = 7,
         .weight = 400,
-        .description = gGorebyssPokedexText,
-        .unusedDescription = gGorebyssPokedexTextUnused,
+        .description = gSnowbrawlPokedexText,
+        .unusedDescription = gSnowbrawlPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_RELICANTH] =
+    [NATIONAL_DEX_CHILLPANZEE] =
     {
         .categoryName = _("SNOWBALL"),
         .height = 17,
         .weight = 1200,
-        .description = gRelicanthPokedexText,
-        .unusedDescription = gRelicanthPokedexTextUnused,
+        .description = gChillpanzeePokedexText,
+        .unusedDescription = gChillpanzeePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_LUVDISC] =
+    [NATIONAL_DEX_RAMPAPE] =
     {
         .categoryName = _("GREAT-APE"),
         .height = 2.3,
         .weight = 2400,
-        .description = gLuvdiscPokedexText,
-        .unusedDescription = gLuvdiscPokedexTextUnused,
+        .description = gRampapePokedexText,
+        .unusedDescription = gRampapePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

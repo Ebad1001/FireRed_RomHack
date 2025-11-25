@@ -1625,7 +1625,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(56, 48),
         .y_offset = 9,
     },
-    [SPECIES_LUVDISC] =
+    [SPECIES_RAMPAPE] =
     {
         .size = MON_COORDS_SIZE(32, 48),
         .y_offset = 24,
@@ -1875,7 +1875,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(56, 64),
         .y_offset = 3,
     },
-    [SPECIES_GOREBYSS] =
+    [SPECIES_SNOWBRAWL] =
     {
         .size = MON_COORDS_SIZE(64, 48),
         .y_offset = 11,
@@ -1905,7 +1905,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 5,
     },
-    [SPECIES_RELICANTH] =
+    [SPECIES_CHILLPANZEE] =
     {
         .size = MON_COORDS_SIZE(56, 56),
         .y_offset = 11,

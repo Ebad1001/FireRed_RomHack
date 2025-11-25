@@ -10699,7 +10699,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_GOREBYSS] = /* SNOBRAWL */
+    [SPECIES_SNOWBRAWL] = /* SNOBRAWL */
     {
         .baseHP = 55,
         .baseAttack = 84,
@@ -10728,7 +10728,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_RELICANTH] = /* CHIMPUNK */
+    [SPECIES_CHILLPANZEE] = /* CHIMPUNK */
     {
         .baseHP = 100,
         .baseAttack = 90,
@@ -10757,7 +10757,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_LUVDISC] = /* RAMPAPE */
+    [SPECIES_RAMPAPE] = /* RAMPAPE */
     {
         .baseHP = 43,
         .baseAttack = 30,

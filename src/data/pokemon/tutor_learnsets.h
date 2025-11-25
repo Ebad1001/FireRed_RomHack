@@ -2154,7 +2154,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_ROCK_SLIDE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_LUVDISC] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_RAMPAPE] = TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
@@ -2524,7 +2524,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_GOREBYSS] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_SNOWBRAWL] = TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
@@ -2571,7 +2571,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_ROCK_SLIDE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_RELICANTH] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_CHILLPANZEE] = TUTOR(MOVE_BODY_SLAM)
                         | TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_ROCK_SLIDE)

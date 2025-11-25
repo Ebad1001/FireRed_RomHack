@@ -1676,8 +1676,8 @@ Cry_Melmetal::
 	.incbin "sound/direct_sound_samples/cries/melmetal.bin"
 
 	.align 2
-Cry_Gorebyss::
-	.incbin "sound/direct_sound_samples/cries/gorebyss.bin"
+Cry_Snowbrawl::
+	.incbin "sound/direct_sound_samples/cries/snowbrawl.bin"
 
 	.align 2
 Cry_Lileep::
@@ -1772,12 +1772,12 @@ Cry_Aggron::
 	.incbin "sound/direct_sound_samples/cries/aggron.bin"
 
 	.align 2
-Cry_Relicanth::
-	.incbin "sound/direct_sound_samples/cries/relicanth.bin"
+Cry_Chillpanzee::
+	.incbin "sound/direct_sound_samples/cries/chillpanzee.bin"
 
 	.align 2
-Cry_Luvdisc::
-	.incbin "sound/direct_sound_samples/cries/luvdisc.bin"
+Cry_Rampape::
+	.incbin "sound/direct_sound_samples/cries/rampape.bin"
 
 	.align 2
 Cry_Groudon::

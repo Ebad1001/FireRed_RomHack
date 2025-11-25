@@ -614,7 +614,7 @@ static const u16 sEasyChatWordsByLetter_G[] = {
     EC_POKEMON(GOLEM),
     EC_WORD_GOOD,
     EC_WORD_GOOD_BYE,
-    EC_POKEMON2(GOREBYSS),
+    EC_POKEMON2(SNOWBRAWL),
     EC_WORD_GOT,
     EC_WORD_GOTCHA,
     EC_WORD_GOURMET,
@@ -935,7 +935,7 @@ static const u16 sEasyChatWordsByLetter_L[] = {
     EC_WORD_LUKEWARM,
     EC_POKEMON2(LUNATONE),
     EC_MOVE2(LUSTER_PURGE),
-    EC_POKEMON2(LUVDISC),
+    EC_POKEMON2(RAMPAPE),
 };
 
 static const u16 sEasyChatWordsByLetter_M[] = {
@@ -1320,7 +1320,7 @@ static const u16 sEasyChatWordsByLetter_R[] = {
     EC_POKEMON2(REGISTEEL),
     EC_WORD_REJECT,
     EC_WORD_RELEASE,
-    EC_POKEMON2(RELICANTH),
+    EC_POKEMON2(CHILLPANZEE),
     EC_POKEMON(REMORAID),
     EC_WORD_RENTAL,
     EC_MOVE2(REST),

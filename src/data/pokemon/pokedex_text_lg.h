@@ -2574,26 +2574,26 @@ const u8 gMelmetalPokedexText[] = _(
 
 const u8 gMelmetalPokedexTextUnused[] = _("");
 
-const u8 gGorebyssPokedexText[] = _(
+const u8 gSnowbrawlPokedexText[] = _(
     "Its swimming form is exquisitely elegant.\n"
     "With its thin mouth, it feeds on seaweed\n"
     "that grows between rocks.");
 
-const u8 gGorebyssPokedexTextUnused[] = _("");
+const u8 gSnowbrawlPokedexTextUnused[] = _("");
 
-const u8 gRelicanthPokedexText[] = _(
+const u8 gChillpanzeePokedexText[] = _(
     "It has remained unchanged for 100\n"
     "million years. It was discovered\n"
     "during a deep-sea exploration.");
 
-const u8 gRelicanthPokedexTextUnused[] = _("");
+const u8 gChillpanzeePokedexTextUnused[] = _("");
 
-const u8 gLuvdiscPokedexText[] = _(
+const u8 gRampapePokedexText[] = _(
     "During the spawning season, countless\n"
-    "LUVDISC congregate at coral reefs,\n"
+    "RAMPAPE congregate at coral reefs,\n"
     "turning the waters pink.");
 
-const u8 gLuvdiscPokedexTextUnused[] = _("");
+const u8 gRampapePokedexTextUnused[] = _("");
 
 const u8 gBagonPokedexText[] = _(
     "Its steel-hard head can shatter boulders.\n"

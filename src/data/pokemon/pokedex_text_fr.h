@@ -2574,26 +2574,26 @@ const u8 gMelmetalPokedexText[] = _(
 
 const u8 gMelmetalPokedexTextUnused[] = _("");
 
-const u8 gGorebyssPokedexText[] = _(
+const u8 gSnowbrawlPokedexText[] = _(
     "HP     -  55    Ph.Atk -  84\n"
     "Ph.Def - 105    Sp.Atk - 114\n"
     "Sp.Def -  75    Speed  -  52");
 
-const u8 gGorebyssPokedexTextUnused[] = _("");
+const u8 gSnowbrawlPokedexTextUnused[] = _("");
 
-const u8 gRelicanthPokedexText[] = _(
+const u8 gChillpanzeePokedexText[] = _(
     "HP     - 100    Ph.Atk -  90\n"
     "Ph.Def - 130    Sp.Atk -  45\n"
     "Sp.Def -  65    Speed  -  55");
 
-const u8 gRelicanthPokedexTextUnused[] = _("");
+const u8 gChillpanzeePokedexTextUnused[] = _("");
 
-const u8 gLuvdiscPokedexText[] = _(
+const u8 gRampapePokedexText[] = _(
     "HP     -  43    Ph.Atk -  30\n"
     "Ph.Def -  55    Sp.Atk -  40\n"
     "Sp.Def -  65    Speed  -  97");
 
-const u8 gLuvdiscPokedexTextUnused[] = _("");
+const u8 gRampapePokedexTextUnused[] = _("");
 
 const u8 gBagonPokedexText[] = _(
     "HP     -  45    Ph.Atk -  75\n"

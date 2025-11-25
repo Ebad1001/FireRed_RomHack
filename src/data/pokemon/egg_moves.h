@@ -1018,7 +1018,7 @@ const u16 gEggMoves[] = {
               MOVE_WHIRLPOOL,
               MOVE_SPARK),
 
-    egg_moves(LUVDISC,
+    egg_moves(RAMPAPE,
               MOVE_SPLASH,
               MOVE_CONFUSE_RAY,
               MOVE_SLAM),
@@ -1207,7 +1207,7 @@ const u16 gEggMoves[] = {
               MOVE_ROAR,
               MOVE_CURSE),
 
-    egg_moves(RELICANTH,
+    egg_moves(CHILLPANZEE,
               MOVE_MAGNITUDE,
               MOVE_SKULL_BASH,
               MOVE_SLAM,

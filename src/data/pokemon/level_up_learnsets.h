@@ -4287,7 +4287,7 @@ static const u16 sWhiscashLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sLuvdiscLevelUpLearnset[] = {
+static const u16 sRampapeLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(4, MOVE_CHARM),
     LEVEL_UP_MOVE(12, MOVE_WATER_GUN),
@@ -5059,7 +5059,7 @@ static const u16 sMelmetalLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sGorebyssLevelUpLearnset[] = {
+static const u16 sSnowbrawlLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_WHIRLPOOL),
     LEVEL_UP_MOVE(8, MOVE_CONFUSION),
     LEVEL_UP_MOVE(15, MOVE_AGILITY),
@@ -5146,7 +5146,7 @@ static const u16 sZangooseLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sRelicanthLevelUpLearnset[] = {
+static const u16 sChillpanzeeLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_HARDEN),
     LEVEL_UP_MOVE(8, MOVE_WATER_GUN),

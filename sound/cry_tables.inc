@@ -343,7 +343,7 @@ gCryTable::
 	cry Cry_Walrein
 	cry Cry_Meltan
 	cry Cry_Melmetal
-	cry Cry_Gorebyss
+	cry Cry_Snowbrawl
 	cry Cry_Lileep
 	cry Cry_Cradily
 	cry Cry_Anorith
@@ -367,8 +367,8 @@ gCryTable::
 	cry Cry_Aron
 	cry Cry_Lairon
 	cry Cry_Aggron
-	cry Cry_Relicanth
-	cry Cry_Luvdisc
+	cry Cry_Chillpanzee
+	cry Cry_Rampape
 	cry Cry_Groudon
 	cry Cry_Kyogre
 	cry Cry_Rayquaza
@@ -734,7 +734,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Walrein
 	cry_reverse Cry_Meltan
 	cry_reverse Cry_Melmetal
-	cry_reverse Cry_Gorebyss
+	cry_reverse Cry_Snowbrawl
 	cry_reverse Cry_Lileep
 	cry_reverse Cry_Cradily
 	cry_reverse Cry_Anorith
@@ -758,8 +758,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Aron
 	cry_reverse Cry_Lairon
 	cry_reverse Cry_Aggron
-	cry_reverse Cry_Relicanth
-	cry_reverse Cry_Luvdisc
+	cry_reverse Cry_Chillpanzee
+	cry_reverse Cry_Rampape
 	cry_reverse Cry_Groudon
 	cry_reverse Cry_Kyogre
 	cry_reverse Cry_Rayquaza

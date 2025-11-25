@@ -622,9 +622,9 @@ static const u16 sDexCategory_MountainPkmn_Page15[] = {
 };
 
 static const u16 sDexCategory_MountainPkmn_Page16[] = {
-    SPECIES_GOREBYSS,
-    SPECIES_RELICANTH,
-    SPECIES_LUVDISC,
+    SPECIES_SNOWBRAWL,
+    SPECIES_CHILLPANZEE,
+    SPECIES_RAMPAPE,
 };
 
 // static const u16 sDexCategory_MountainPkmn_Page17[] = {
