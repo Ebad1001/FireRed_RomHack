@@ -922,7 +922,7 @@ const u16 gEggMoves[] = {
               MOVE_FLAIL,
               MOVE_WATER_GUN),
 
-    egg_moves(SEEDOT,
+    egg_moves(APPLIN,
               MOVE_LEECH_SEED,
               MOVE_AMNESIA,
               MOVE_QUICK_ATTACK,

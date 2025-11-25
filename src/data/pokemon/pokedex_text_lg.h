@@ -1909,26 +1909,26 @@ const u8 gLudicoloPokedexText[] = _(
 
 const u8 gLudicoloPokedexTextUnused[] = _("");
 
-const u8 gSeedotPokedexText[] = _(
+const u8 gApplinPokedexText[] = _(
     "If it remains still, it becomes impossible\n"
     "to distinguish from real nuts. It delights\n"
     "in surprising foraging PIDGEY.");
 
-const u8 gSeedotPokedexTextUnused[] = _("");
+const u8 gApplinPokedexTextUnused[] = _("");
 
-const u8 gNuzleafPokedexText[] = _(
+const u8 gFlapplePokedexText[] = _(
     "They live in holes bored in large trees.\n"
-    "The sound of NUZLEAF's grass flute fills\n"
+    "The sound of FLAPPLE's grass flute fills\n"
     "listeners with dread.");
 
-const u8 gNuzleafPokedexTextUnused[] = _("");
+const u8 gFlapplePokedexTextUnused[] = _("");
 
-const u8 gShiftryPokedexText[] = _(
+const u8 gAppletunPokedexText[] = _(
     "A POKéMON that was feared as a forest\n"
     "guardian. It can read the foe's mind and\n"
     "take preemptive action.");
 
-const u8 gShiftryPokedexTextUnused[] = _("");
+const u8 gAppletunPokedexTextUnused[] = _("");
 
 const u8 gTaillowPokedexText[] = _(
     "It dislikes cold seasons. They migrate to\n"

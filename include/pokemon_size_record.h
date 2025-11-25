@@ -3,9 +3,9 @@
 
 #include "global.h"
 
-void InitSeedotSizeRecord(void);
-void GetSeedotSizeRecordInfo(void);
-void CompareSeedotSize(void);
+void InitApplinSizeRecord(void);
+void GetApplinSizeRecordInfo(void);
+void CompareApplinSize(void);
 
 void InitLotadSizeRecord(void);
 void GetLotadSizeRecordInfo(void);

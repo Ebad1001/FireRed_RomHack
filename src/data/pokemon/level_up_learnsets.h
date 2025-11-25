@@ -3895,7 +3895,7 @@ static const u16 sLudicoloLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSeedotLevelUpLearnset[] = {
+static const u16 sApplinLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_BIDE),
     LEVEL_UP_MOVE(3, MOVE_HARDEN),
     LEVEL_UP_MOVE(7, MOVE_GROWTH),
@@ -3906,7 +3906,7 @@ static const u16 sSeedotLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sNuzleafLevelUpLearnset[] = {
+static const u16 sFlappleLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SCRATCH),
     LEVEL_UP_MOVE(3, MOVE_HARDEN),
     LEVEL_UP_MOVE(7, MOVE_GROWTH),
@@ -3920,7 +3920,7 @@ static const u16 sNuzleafLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sShiftryLevelUpLearnset[] = {
+static const u16 sAppletunLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SCRATCH),
     LEVEL_UP_MOVE(1, MOVE_HARDEN),
     LEVEL_UP_MOVE(1, MOVE_GROWTH),

@@ -206,9 +206,9 @@ static const u16 sDexCategory_ForestPkmn_Page9[] = {
 };
 
 static const u16 sDexCategory_ForestPkmn_Page10[] = {
-    SPECIES_SEEDOT,
-    SPECIES_NUZLEAF,
-    SPECIES_SHIFTRY,
+    SPECIES_APPLIN,
+    SPECIES_FLAPPLE,
+    SPECIES_APPLETUN,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page11[] = {

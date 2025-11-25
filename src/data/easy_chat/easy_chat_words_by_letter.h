@@ -1126,7 +1126,7 @@ static const u16 sEasyChatWordsByLetter_N[] = {
     EC_WORD_NOTHING,
     EC_WORD_NOW,
     EC_POKEMON2(NUMEL),
-    EC_POKEMON2(NUZLEAF),
+    EC_POKEMON2(FLAPPLE),
 };
 
 static const u16 sEasyChatWordsByLetter_O[] = {
@@ -1408,7 +1408,7 @@ static const u16 sEasyChatWordsByLetter_S[] = {
     EC_MOVE2(SECRET_POWER),
     EC_WORD_SEE,
     EC_WORD_SEE_YA,
-    EC_POKEMON2(SEEDOT),
+    EC_POKEMON2(APPLIN),
     EC_WORD_SEEK,
     EC_POKEMON(SEEL),
     EC_WORD_SEEMS,
@@ -1441,7 +1441,7 @@ static const u16 sEasyChatWordsByLetter_S[] = {
     EC_WORD_SHELL_ARMOR,
     EC_POKEMON(SHELLDER),
     EC_WORD_SHIELD_DUST,
-    EC_POKEMON2(SHIFTRY),
+    EC_POKEMON2(APPLETUN),
     EC_WORD_SHINE,
     EC_MOVE2(SHOCK_WAVE),
     EC_WORD_SHOCKED,

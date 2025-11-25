@@ -1490,17 +1490,17 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 48),
         .y_offset = 10,
     },
-    [SPECIES_SEEDOT] =
+    [SPECIES_APPLIN] =
     {
         .size = MON_COORDS_SIZE(64, 48),
         .y_offset = 9,
     },
-    [SPECIES_NUZLEAF] =
+    [SPECIES_FLAPPLE] =
     {
         .size = MON_COORDS_SIZE(56, 48),
         .y_offset = 10,
     },
-    [SPECIES_SHIFTRY] =
+    [SPECIES_APPLETUN] =
     {
         .size = MON_COORDS_SIZE(64, 48),
         .y_offset = 8,

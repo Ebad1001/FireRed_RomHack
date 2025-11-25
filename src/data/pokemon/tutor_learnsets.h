@@ -1978,14 +1978,14 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_ICE_PUNCH)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SEEDOT] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_APPLIN] = TUTOR(MOVE_SWORDS_DANCE)
                      | TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_EXPLOSION)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_NUZLEAF] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_FLAPPLE] = TUTOR(MOVE_SWORDS_DANCE)
                       | TUTOR(MOVE_THUNDERPUNCH)
                       | TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1993,7 +1993,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_EXPLOSION)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SHIFTRY] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_APPLETUN] = TUTOR(MOVE_SWORDS_DANCE)
                       | TUTOR(MOVE_THUNDERPUNCH)
                       | TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)

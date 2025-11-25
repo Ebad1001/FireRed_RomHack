@@ -558,7 +558,7 @@ const u16 DecorGfx_LOTAD_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 
-const u16 DecorGfx_SEEDOT_DOLL[] = {
+const u16 DecorGfx_APPLIN_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 

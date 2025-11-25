@@ -7944,7 +7944,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_SEEDOT] = /* APPLIN */
+    [SPECIES_APPLIN] = /* APPLIN */
     {
         .baseHP = 40,
         .baseAttack = 40,
@@ -7973,7 +7973,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_NUZLEAF] = /* FLAPPLE */
+    [SPECIES_FLAPPLE] = /* FLAPPLE */
     {
         .baseHP = 70,
         .baseAttack = 70,
@@ -8002,7 +8002,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_SHIFTRY] = /* APPLETUN */
+    [SPECIES_APPLETUN] = /* APPLETUN */
     {
         .baseHP = 90,
         .baseAttack = 100,

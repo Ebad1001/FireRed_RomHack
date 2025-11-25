@@ -66,7 +66,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_LONELY,
 	},
 	{
-		.species = SPECIES_NUZLEAF,
+		.species = SPECIES_FLAPPLE,
 		.heldItem = BATTLE_TOWER_ITEM_WHITE_HERB,
 		.teamFlags = 0x01,
 		.moves = {
@@ -1275,7 +1275,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_QUIET,
 	},
 	{
-		.species = SPECIES_SHIFTRY,
+		.species = SPECIES_APPLETUN,
 		.heldItem = BATTLE_TOWER_ITEM_PERSIM_BERRY,
 		.teamFlags = 0x0C,
 		.moves = {
@@ -2341,7 +2341,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_QUIET,
 	},
 	{
-		.species = SPECIES_SHIFTRY,
+		.species = SPECIES_APPLETUN,
 		.heldItem = BATTLE_TOWER_ITEM_QUICK_CLAW,
 		.teamFlags = 0x20,
 		.moves = {

@@ -3549,39 +3549,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SEEDOT] =
+    [NATIONAL_DEX_APPLIN] =
     {
         .categoryName = _("APPLE"),
         .height = 2,
         .weight = 5,
-        .description = gSeedotPokedexText,
-        .unusedDescription = gSeedotPokedexTextUnused,
+        .description = gApplinPokedexText,
+        .unusedDescription = gApplinPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_NUZLEAF] =
+    [NATIONAL_DEX_FLAPPLE] =
     {
         .categoryName = _("APPLE"),
         .height = 3,
         .weight = 10,
-        .description = gNuzleafPokedexText,
-        .unusedDescription = gNuzleafPokedexTextUnused,
+        .description = gFlapplePokedexText,
+        .unusedDescription = gFlapplePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SHIFTRY] =
+    [NATIONAL_DEX_APPLETUN] =
     {
         .categoryName = _("APPLE"),
         .height = 4,
         .weight = 130,
-        .description = gShiftryPokedexText,
-        .unusedDescription = gShiftryPokedexTextUnused,
+        .description = gAppletunPokedexText,
+        .unusedDescription = gAppletunPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

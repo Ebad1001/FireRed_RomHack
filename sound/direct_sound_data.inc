@@ -1448,16 +1448,16 @@ Cry_Ludicolo::
 	.incbin "sound/direct_sound_samples/cries/ludicolo.bin"
 
 	.align 2
-Cry_Seedot::
-	.incbin "sound/direct_sound_samples/cries/seedot.bin"
+Cry_Applin::
+	.incbin "sound/direct_sound_samples/cries/applin.bin"
 
 	.align 2
-Cry_Nuzleaf::
-	.incbin "sound/direct_sound_samples/cries/nuzleaf.bin"
+Cry_Flapple::
+	.incbin "sound/direct_sound_samples/cries/flapple.bin"
 
 	.align 2
-Cry_Shiftry::
-	.incbin "sound/direct_sound_samples/cries/shiftry.bin"
+Cry_Appletun::
+	.incbin "sound/direct_sound_samples/cries/appletun.bin"
 
 	.align 2
 Cry_Carvanha::

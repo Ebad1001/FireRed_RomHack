@@ -286,9 +286,9 @@ gCryTable::
 	cry Cry_Lotad
 	cry Cry_Lombre
 	cry Cry_Ludicolo
-	cry Cry_Seedot
-	cry Cry_Nuzleaf
-	cry Cry_Shiftry
+	cry Cry_Applin
+	cry Cry_Flapple
+	cry Cry_Appletun
 	cry Cry_Carvanha
 	cry Cry_Spiraloone
 	cry Cry_Pansage
@@ -677,9 +677,9 @@ gCryTable_Reverse::
 	cry_reverse Cry_Lotad
 	cry_reverse Cry_Lombre
 	cry_reverse Cry_Ludicolo
-	cry_reverse Cry_Seedot
-	cry_reverse Cry_Nuzleaf
-	cry_reverse Cry_Shiftry
+	cry_reverse Cry_Applin
+	cry_reverse Cry_Flapple
+	cry_reverse Cry_Appletun
 	cry_reverse Cry_Carvanha
 	cry_reverse Cry_Spiraloone
 	cry_reverse Cry_Pansage

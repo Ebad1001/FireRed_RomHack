@@ -1909,26 +1909,26 @@ const u8 gLudicoloPokedexText[] = _(
 
 const u8 gLudicoloPokedexTextUnused[] = _("");
 
-const u8 gSeedotPokedexText[] = _(
+const u8 gApplinPokedexText[] = _(
     "HP     -  40    Ph.Atk -  40\n"
     "Ph.Def -  50    Sp.Atk -  30\n"
     "Sp.Def -  30    Speed  -  30");
 
-const u8 gSeedotPokedexTextUnused[] = _("");
+const u8 gApplinPokedexTextUnused[] = _("");
 
-const u8 gNuzleafPokedexText[] = _(
+const u8 gFlapplePokedexText[] = _(
     "HP     -  70    Ph.Atk -  70\n"
     "Ph.Def -  40    Sp.Atk -  60\n"
     "Sp.Def -  40    Speed  -  60");
 
-const u8 gNuzleafPokedexTextUnused[] = _("");
+const u8 gFlapplePokedexTextUnused[] = _("");
 
-const u8 gShiftryPokedexText[] = _(
+const u8 gAppletunPokedexText[] = _(
     "HP     -  90    Ph.Atk - 100\n"
     "Ph.Def -  60    Sp.Atk -  90\n"
     "Sp.Def -  60    Speed  -  80");
 
-const u8 gShiftryPokedexTextUnused[] = _("");
+const u8 gAppletunPokedexTextUnused[] = _("");
 
 const u8 gTaillowPokedexText[] = _(
     "HP     -  40    Ph.Atk -  55\n"

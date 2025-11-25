@@ -742,7 +742,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_HARDY,
 	},
 	{
-		.species = SPECIES_SHIFTRY,
+		.species = SPECIES_APPLETUN,
 		.heldItem = BATTLE_TOWER_ITEM_MENTAL_HERB,
 		.teamFlags = 0x07,
 		.moves = {
@@ -1366,7 +1366,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_HARDY,
 	},
 	{
-		.species = SPECIES_SHIFTRY,
+		.species = SPECIES_APPLETUN,
 		.heldItem = BATTLE_TOWER_ITEM_FOCUS_BAND,
 		.teamFlags = 0x05,
 		.moves = {
@@ -2211,7 +2211,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_HASTY,
 	},
 	{
-		.species = SPECIES_SHIFTRY,
+		.species = SPECIES_APPLETUN,
 		.heldItem = BATTLE_TOWER_ITEM_SCOPE_LENS,
 		.teamFlags = 0x03,
 		.moves = {
@@ -2679,7 +2679,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_HASTY,
 	},
 	{
-		.species = SPECIES_SHIFTRY,
+		.species = SPECIES_APPLETUN,
 		.heldItem = BATTLE_TOWER_ITEM_CHESTO_BERRY,
 		.teamFlags = 0x89,
 		.moves = {
