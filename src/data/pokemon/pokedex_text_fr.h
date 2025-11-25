@@ -1461,19 +1461,19 @@ const u8 gSteelixPokedexText[] = _(
 
 const u8 gSteelixPokedexTextUnused[] = _("");
 
-const u8 gSnubbullPokedexText[] = _(
+const u8 gElectoxPokedexText[] = _(
     "HP     -  60    Ph.Atk -  80\n"
     "Ph.Def -  50    Sp.Atk -  40\n"
     "Sp.Def -  40    Speed  -  30");
 
-const u8 gSnubbullPokedexTextUnused[] = _("");
+const u8 gElectoxPokedexTextUnused[] = _("");
 
-const u8 gGranbullPokedexText[] = _(
+const u8 gVamperePokedexText[] = _(
     "HP     -  90    Ph.Atk - 120\n"
     "Ph.Def -  75    Sp.Atk -  60\n"
     "Sp.Def -  60    Speed  -  45");
 
-const u8 gGranbullPokedexTextUnused[] = _("");
+const u8 gVamperePokedexTextUnused[] = _("");
 
 const u8 gQwilfishPokedexText[] = _(
     "HP     -  65    Ph.Atk -  95\n"

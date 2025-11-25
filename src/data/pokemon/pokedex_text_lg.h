@@ -1461,19 +1461,19 @@ const u8 gSteelixPokedexText[] = _(
 
 const u8 gSteelixPokedexTextUnused[] = _("");
 
-const u8 gSnubbullPokedexText[] = _(
+const u8 gElectoxPokedexText[] = _(
     "Although it looks frightening, it is\n"
     "actually kind and affectionate. It is very\n"
     "popular among women.");
 
-const u8 gSnubbullPokedexTextUnused[] = _("");
+const u8 gElectoxPokedexTextUnused[] = _("");
 
-const u8 gGranbullPokedexText[] = _(
+const u8 gVamperePokedexText[] = _(
     "It is actually timid and easily spooked.\n"
     "If attacked, it flails about to fend off\n"
     "its attacker.");
 
-const u8 gGranbullPokedexTextUnused[] = _("");
+const u8 gVamperePokedexTextUnused[] = _("");
 
 const u8 gQwilfishPokedexText[] = _(
     "To fire its poison spikes, it must inflate\n"

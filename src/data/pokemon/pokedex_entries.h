@@ -2717,26 +2717,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SNUBBULL] =
+    [NATIONAL_DEX_ELECTOX] =
     {
         .categoryName = _("EEL"),
         .height = 12,
         .weight = 220,
-        .description = gSnubbullPokedexText,
-        .unusedDescription = gSnubbullPokedexTextUnused,
+        .description = gElectoxPokedexText,
+        .unusedDescription = gElectoxPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_GRANBULL] =
+    [NATIONAL_DEX_VAMPERE] =
     {
         .categoryName = _("EEL"),
         .height = 21,
         .weight = 805,
-        .description = gGranbullPokedexText,
-        .unusedDescription = gGranbullPokedexTextUnused,
+        .description = gVamperePokedexText,
+        .unusedDescription = gVamperePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

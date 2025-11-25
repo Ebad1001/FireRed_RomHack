@@ -8725,7 +8725,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_LassJoana[] = {
     {
         .iv = 0,
         .lvl = 49,
-        .species = SPECIES_SNUBBULL,
+        .species = SPECIES_ELECTOX,
     },
 };
 

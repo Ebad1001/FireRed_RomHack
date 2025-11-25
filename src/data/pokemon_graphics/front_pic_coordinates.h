@@ -1045,12 +1045,12 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 0,
     },
-    [SPECIES_SNUBBULL] =
+    [SPECIES_ELECTOX] =
     {
         .size = MON_COORDS_SIZE(40, 40),
         .y_offset = 13,
     },
-    [SPECIES_GRANBULL] =
+    [SPECIES_VAMPERE] =
     {
         .size = MON_COORDS_SIZE(40, 56),
         .y_offset = 6,

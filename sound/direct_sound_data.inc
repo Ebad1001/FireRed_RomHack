@@ -1136,12 +1136,12 @@ Cry_Steelix::
 	.incbin "sound/direct_sound_samples/cries/steelix.bin"
 
 	.align 2
-Cry_Snubbull::
-	.incbin "sound/direct_sound_samples/cries/snubbull.bin"
+Cry_Electox::
+	.incbin "sound/direct_sound_samples/cries/electox.bin"
 
 	.align 2
-Cry_Granbull::
-	.incbin "sound/direct_sound_samples/cries/granbull.bin"
+Cry_Vampere::
+	.incbin "sound/direct_sound_samples/cries/vampere.bin"
 
 	.align 2
 Cry_Qwilfish::

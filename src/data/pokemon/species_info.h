@@ -6063,7 +6063,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_SNUBBULL] = /* ELECTOX */
+    [SPECIES_ELECTOX] = /* ELECTOX */
     {
         .baseHP = 60,
         .baseAttack = 80,
@@ -6092,7 +6092,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_GRANBULL] = /* VAMPERE */
+    [SPECIES_VAMPERE] = /* VAMPERE */
     {
         .baseHP = 90,
         .baseAttack = 120,

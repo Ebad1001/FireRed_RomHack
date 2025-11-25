@@ -208,8 +208,8 @@ gCryTable::
 	cry Cry_Dunsparce
 	cry Cry_Gligar
 	cry Cry_Steelix
-	cry Cry_Snubbull
-	cry Cry_Granbull
+	cry Cry_Electox
+	cry Cry_Vampere
 	cry Cry_Qwilfish
 	cry Cry_Scizor
 	cry Cry_Shuckle
@@ -599,8 +599,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Dunsparce
 	cry_reverse Cry_Gligar
 	cry_reverse Cry_Steelix
-	cry_reverse Cry_Snubbull
-	cry_reverse Cry_Granbull
+	cry_reverse Cry_Electox
+	cry_reverse Cry_Vampere
 	cry_reverse Cry_Qwilfish
 	cry_reverse Cry_Scizor
 	cry_reverse Cry_Shuckle

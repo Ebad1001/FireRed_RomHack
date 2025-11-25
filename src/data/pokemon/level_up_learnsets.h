@@ -2879,7 +2879,7 @@ static const u16 sSteelixLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSnubbullLevelUpLearnset[] = {
+static const u16 sElectoxLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_COTTON_SPORE),
     LEVEL_UP_MOVE(4, MOVE_TAIL_WHIP),
@@ -2893,7 +2893,7 @@ static const u16 sSnubbullLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sGranbullLevelUpLearnset[] = {
+static const u16 sVampereLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_COTTON_SPORE),
     LEVEL_UP_MOVE(4, MOVE_TAIL_WHIP),

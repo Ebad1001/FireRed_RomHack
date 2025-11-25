@@ -400,8 +400,8 @@ static const u16 sDexCategory_SeaPkmn_Page2[] = {
 static const u16 sDexCategory_SeaPkmn_Page3[] = {
     SPECIES_STARYU,
     SPECIES_STARMIE,
-    SPECIES_SNUBBULL,
-    SPECIES_GRANBULL,
+    SPECIES_ELECTOX,
+    SPECIES_VAMPERE,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page4[] = {

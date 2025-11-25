@@ -4971,7 +4971,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_SNUBBULL]    = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_ELECTOX]    = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM05_ROAR)
                                         | TMHM(TM06_TOXIC)
@@ -5005,7 +5005,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_GRANBULL]    = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_VAMPERE]    = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM05_ROAR)
                                         | TMHM(TM06_TOXIC)

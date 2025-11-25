@@ -2527,7 +2527,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_8 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_SNUBBULL,
+					.species = SPECIES_ELECTOX,
 					.heldItem = ITEM_LEFTOVERS,
 					.moves = {MOVE_CHARM, MOVE_LICK, MOVE_RETURN, MOVE_REST},
 					.hpEV = 255,
@@ -2545,7 +2545,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_8 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x0C, // FEMALE SERIOUS
-					.nickname = _("SNUBBULL"),
+					.nickname = _("ELECTOX"),
 					.friendship = 255
 				},
 			}
@@ -4916,7 +4916,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_1 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_GRANBULL,
+					.species = SPECIES_VAMPERE,
 					.heldItem = ITEM_LIECHI_BERRY,
 					.moves = {MOVE_CRUNCH, MOVE_EARTHQUAKE, MOVE_SHADOW_BALL, MOVE_SLUDGE_BOMB},
 					.hpEV = 0,
@@ -4934,7 +4934,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_1 = {
 					.spDefenseIV = 15,
 					.abilityNum = 0,
 					.personality = 0xCA, // MALE BRAVE
-					.nickname = _("GRANBULL"),
+					.nickname = _("VAMPERE"),
 					.friendship = 255
 				},
 			}
@@ -5742,7 +5742,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_Unused1 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_SNUBBULL,
+					.species = SPECIES_ELECTOX,
 					.heldItem = ITEM_PECHA_BERRY,
 					.moves = {MOVE_WATER_PULSE, MOVE_THUNDER_WAVE, MOVE_CRUNCH, MOVE_SHADOW_BALL},
 					.hpEV = 110,
@@ -5760,7 +5760,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_Unused1 = {
 					.spDefenseIV = 15,
 					.abilityNum = 0,
 					.personality = 0x00, // FEMALE HARDY
-					.nickname = _("SNUBBULL"),
+					.nickname = _("ELECTOX"),
 					.friendship = 255
 				},
 				{
@@ -8229,7 +8229,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
 			.speechAfter = {EC_WORD_ELECTRIC, EC_WORD_EXCL, EC_WORD_IT_S, EC_WORD_A, EC_WORD_TREASURE, EC_WORD_EXCL},
 			.mons = {
 				{
-					.species = SPECIES_GRANBULL,
+					.species = SPECIES_VAMPERE,
 					.heldItem = ITEM_CHOICE_BAND,
 					.moves = {MOVE_THUNDERBOLT, MOVE_CRUNCH, MOVE_EARTHQUAKE, MOVE_ROCK_TOMB},
 					.hpEV = 0,
@@ -8247,7 +8247,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x02, // FEMALE BRAVE
-					.nickname = _("GRANBULL"),
+					.nickname = _("VAMPERE"),
 					.friendship = 255
 				},
 				{
