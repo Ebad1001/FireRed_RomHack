@@ -2322,7 +2322,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_SLOWBRO] = /* FASTRAX */
+    [SPECIES_FASTRAX] = /* FASTRAX */
     {
         .baseHP = 95,
         .baseAttack = 75,

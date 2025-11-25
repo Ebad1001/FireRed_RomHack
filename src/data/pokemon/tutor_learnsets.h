@@ -596,7 +596,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_CHARGE_UP)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SLOWBRO] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_FASTRAX] = TUTOR(MOVE_FIRE_PUNCH)
                       | TUTOR(MOVE_THUNDERPUNCH)
                       | TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)

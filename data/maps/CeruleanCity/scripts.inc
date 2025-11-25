@@ -1,6 +1,6 @@
 .set LOCALID_POLICEMAN, 1
 .set LOCALID_GRUNT,     2
-.set LOCALID_SLOWBRO,   5
+.set LOCALID_FASTRAX,   5
 .set LOCALID_LASS,      6
 .set LOCALID_RIVAL,     8
 .set LOCALID_WOMAN,     11
@@ -16,7 +16,7 @@ CeruleanCity_OnTransition::
 
 CeruleanCity_EventScript_BlockExits::
 	setobjectxyperm LOCALID_POLICEMAN, 33, 12
-	setobjectxyperm LOCALID_SLOWBRO, 22, 31
+	setobjectxyperm LOCALID_FASTRAX, 22, 31
 	setobjectxyperm LOCALID_LASS, 23, 31
 	return
 
@@ -243,12 +243,12 @@ CeruleanCity_EventScript_Policeman::
 CeruleanCity_EventScript_LittleBoy::
 	lock
 	faceplayer
-	goto_if_set FLAG_GOT_SS_TICKET, CeruleanCity_EventScript_LittleBoySlowbroMoved
-	msgbox CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree
+	goto_if_set FLAG_GOT_SS_TICKET, CeruleanCity_EventScript_LittleBoyFastraxMoved
+	msgbox CeruleanCity_Text_IfFastraxWasntThereCouldCutTree
 	release
 	end
 
-CeruleanCity_EventScript_LittleBoySlowbroMoved::
+CeruleanCity_EventScript_LittleBoyFastraxMoved::
 	msgbox CeruleanCity_Text_YouCanCutDownSmallTrees
 	release
 	end
@@ -279,70 +279,70 @@ CeruleanCity_EventScript_Lass::
 	lock
 	random 3
 	copyvar VAR_0x8008, VAR_RESULT
-	call_if_eq VAR_0x8008, 0, CeruleanCity_EventScript_SlowbroCommand1
-	call_if_eq VAR_0x8008, 1, CeruleanCity_EventScript_SlowbroCommand2
-	call_if_eq VAR_0x8008, 2, CeruleanCity_EventScript_SlowbroCommand3
+	call_if_eq VAR_0x8008, 0, CeruleanCity_EventScript_FastraxCommand1
+	call_if_eq VAR_0x8008, 1, CeruleanCity_EventScript_FastraxCommand2
+	call_if_eq VAR_0x8008, 2, CeruleanCity_EventScript_FastraxCommand3
 	waitmessage
 	delay 40
 	playse SE_PIN
-	applymovement LOCALID_SLOWBRO, Common_Movement_QuestionMark
+	applymovement LOCALID_FASTRAX, Common_Movement_QuestionMark
 	waitmovement 0
 	delay 30
-	call_if_eq VAR_0x8008, 0, CeruleanCity_EventScript_SlowbroFailed1
-	call_if_eq VAR_0x8008, 1, CeruleanCity_EventScript_SlowbroFailed2
-	call_if_eq VAR_0x8008, 2, CeruleanCity_EventScript_SlowbroFailed3
+	call_if_eq VAR_0x8008, 0, CeruleanCity_EventScript_FastraxFailed1
+	call_if_eq VAR_0x8008, 1, CeruleanCity_EventScript_FastraxFailed2
+	call_if_eq VAR_0x8008, 2, CeruleanCity_EventScript_FastraxFailed3
 	release
 	end
 
-CeruleanCity_EventScript_SlowbroCommand1::
-	message CeruleanCity_Text_SlowbroUseSonicboom
+CeruleanCity_EventScript_FastraxCommand1::
+	message CeruleanCity_Text_FastraxUseSonicboom
 	return
 
-CeruleanCity_EventScript_SlowbroCommand2::
-	message CeruleanCity_Text_SlowbroPunch
+CeruleanCity_EventScript_FastraxCommand2::
+	message CeruleanCity_Text_FastraxPunch
 	return
 
-CeruleanCity_EventScript_SlowbroCommand3::
-	message CeruleanCity_Text_SlowbroWithdraw
+CeruleanCity_EventScript_FastraxCommand3::
+	message CeruleanCity_Text_FastraxWithdraw
 	return
 
-CeruleanCity_EventScript_SlowbroFailed1::
-	msgbox CeruleanCity_Text_SlowbroPayAttention
+CeruleanCity_EventScript_FastraxFailed1::
+	msgbox CeruleanCity_Text_FastraxPayAttention
 	return
 
-CeruleanCity_EventScript_SlowbroFailed2::
+CeruleanCity_EventScript_FastraxFailed2::
 	msgbox CeruleanCity_Text_NoYouBlewItAgain
 	return
 
-CeruleanCity_EventScript_SlowbroFailed3::
+CeruleanCity_EventScript_FastraxFailed3::
 	msgbox CeruleanCity_Text_HardToControlMonsObedience
 	return
 
-CeruleanCity_EventScript_Slowbro::
+CeruleanCity_EventScript_Fastrax::
 	lock
 	random 4
 	copyvar VAR_0x8008, VAR_RESULT
-	call_if_eq VAR_0x8008, 0, CeruleanCity_EventScript_SlowbroText1
-	call_if_eq VAR_0x8008, 1, CeruleanCity_EventScript_SlowbroText2
-	call_if_eq VAR_0x8008, 2, CeruleanCity_EventScript_SlowbroText3
-	call_if_eq VAR_0x8008, 3, CeruleanCity_EventScript_SlowbroText4
+	call_if_eq VAR_0x8008, 0, CeruleanCity_EventScript_FastraxText1
+	call_if_eq VAR_0x8008, 1, CeruleanCity_EventScript_FastraxText2
+	call_if_eq VAR_0x8008, 2, CeruleanCity_EventScript_FastraxText3
+	call_if_eq VAR_0x8008, 3, CeruleanCity_EventScript_FastraxText4
 	release
 	end
 
-CeruleanCity_EventScript_SlowbroText1::
-	msgbox CeruleanCity_Text_SlowbroTookSnooze
+CeruleanCity_EventScript_FastraxText1::
+	msgbox CeruleanCity_Text_FastraxTookSnooze
 	return
 
-CeruleanCity_EventScript_SlowbroText2::
-	msgbox CeruleanCity_Text_SlowbroLoafingAround
+CeruleanCity_EventScript_FastraxText2::
+	msgbox CeruleanCity_Text_FastraxLoafingAround
 	return
 
-CeruleanCity_EventScript_SlowbroText3::
-	msgbox CeruleanCity_Text_SlowbroTurnedAway
+CeruleanCity_EventScript_FastraxText3::
+	msgbox CeruleanCity_Text_FastraxTurnedAway
 	return
 
-CeruleanCity_EventScript_SlowbroText4::
-	msgbox CeruleanCity_Text_SlowbroIgnoredOrders
+CeruleanCity_EventScript_FastraxText4::
+	msgbox CeruleanCity_Text_FastraxIgnoredOrders
 	return
 
 CeruleanCity_EventScript_CitySign::

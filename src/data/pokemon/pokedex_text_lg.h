@@ -558,12 +558,12 @@ const u8 gSlowpokePokedexText[] = _(
 
 const u8 gSlowpokePokedexTextUnused[] = _("");
 
-const u8 gSlowbroPokedexText[] = _(
+const u8 gFastraxPokedexText[] = _(
     "The SHELLDER that latches onto\n"
     "SLOWPOKE's tail is said to feed on the\n"
     "host's leftover scraps.");
 
-const u8 gSlowbroPokedexTextUnused[] = _("");
+const u8 gFastraxPokedexTextUnused[] = _("");
 
 const u8 gMagnemitePokedexText[] = _(
     "Uses antigravity to stay suspended.\n"

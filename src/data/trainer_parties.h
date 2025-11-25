@@ -3014,7 +3014,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PsychicCameron[] = {
     {
         .iv = 50,
         .lvl = 33,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
     },
 };
 
@@ -3022,7 +3022,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PsychicPreston[] = {
     {
         .iv = 50,
         .lvl = 38,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
     },
 };
 
@@ -5467,7 +5467,7 @@ static const struct TrainerMonItemCustomMoves sParty_EliteFourLorelei[] = {
     {
         .iv = 250,
         .lvl = 52,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_ICE_BEAM, MOVE_SURF, MOVE_AMNESIA, MOVE_YAWN},
     },
@@ -7169,7 +7169,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_PsychicJaclyn[] = {
     {
         .iv = 100,
         .lvl = 48,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
         .moves = {MOVE_PSYCHIC, MOVE_HEADBUTT, MOVE_AMNESIA, MOVE_YAWN},
     },
     {
@@ -8422,7 +8422,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerLeroy[] = {
     {
         .iv = 100,
         .lvl = 48,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
         .moves = {MOVE_PSYCHIC, MOVE_HEADBUTT, MOVE_AMNESIA, MOVE_DISABLE},
     },
     {
@@ -9099,7 +9099,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PokemaniacHerman2[] = {
     {
         .iv = 90,
         .lvl = 29,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
     },
 };
 
@@ -9112,7 +9112,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PokemaniacHerman3[] = {
     {
         .iv = 150,
         .lvl = 54,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
     },
 };
 
@@ -10183,7 +10183,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_PsychicJaclyn2[] = {
     {
         .iv = 220,
         .lvl = 52,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
         .moves = {MOVE_PSYCHIC, MOVE_HEADBUTT, MOVE_AMNESIA, MOVE_YAWN},
     },
     {
@@ -10403,7 +10403,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerLeroy2[] = {
     {
         .iv = 220,
         .lvl = 54,
-        .species = SPECIES_SLOWBRO,
+        .species = SPECIES_FASTRAX,
         .moves = {MOVE_PSYCHIC, MOVE_HEADBUTT, MOVE_AMNESIA, MOVE_DISABLE},
     },
     {

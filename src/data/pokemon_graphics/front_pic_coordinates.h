@@ -400,7 +400,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(48, 40),
         .y_offset = 13,
     },
-    [SPECIES_SLOWBRO] =
+    [SPECIES_FASTRAX] =
     {
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 2,

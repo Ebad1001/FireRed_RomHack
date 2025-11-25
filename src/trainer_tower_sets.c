@@ -138,7 +138,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_4 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_SLOWBRO,
+					.species = SPECIES_FASTRAX,
 					.heldItem = ITEM_SITRUS_BERRY,
 					.moves = {MOVE_SUNNY_DAY, MOVE_YAWN, MOVE_FLAMETHROWER, MOVE_CONFUSION},
 					.hpEV = 100,
@@ -156,7 +156,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_4 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x11, // FEMALE QUIET
-					.nickname = _("SLOWBRO"),
+					.nickname = _("FASTRAX"),
 					.friendship = 255
 				},
 			}
@@ -2306,7 +2306,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_5 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_SLOWBRO,
+					.species = SPECIES_FASTRAX,
 					.heldItem = ITEM_MYSTIC_WATER,
 					.moves = {MOVE_AMNESIA, MOVE_PSYCHIC, MOVE_SURF, MOVE_ICE_BEAM},
 					.hpEV = 84,
@@ -2324,7 +2324,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_5 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x89, // MALE SERIOUS
-					.nickname = _("SLOWBRO"),
+					.nickname = _("FASTRAX"),
 					.friendship = 255
 				},
 				{
@@ -4518,7 +4518,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_6 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_SLOWBRO,
+					.species = SPECIES_FASTRAX,
 					.heldItem = ITEM_QUICK_CLAW,
 					.moves = {MOVE_SURF, MOVE_CONFUSION, MOVE_AMNESIA, MOVE_DISABLE},
 					.hpEV = 0,
@@ -4536,7 +4536,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_6 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x91, // MALE CALM
-					.nickname = _("SLOWBRO"),
+					.nickname = _("FASTRAX"),
 					.friendship = 255
 				},
 				{

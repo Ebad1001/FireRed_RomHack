@@ -220,7 +220,7 @@ const pokemon_names = [
 	"VIBRAVA",
 	"FLYGON",
 	"SLOWPOKE",
-	"SLOWBRO",
+	"FASTRAX",
 	"MAGNEMITE",
 	"MAGNETON",
 	"CACNEA",

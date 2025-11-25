@@ -382,7 +382,7 @@ $(OBJEVENTGFXDIR)/pokemon/psyduck.4bpp: %.4bpp: %.png
 $(OBJEVENTGFXDIR)/pokemon/seel.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -mwidth 2 -mheight 2
 
-$(OBJEVENTGFXDIR)/pokemon/slowbro.4bpp: %.4bpp: %.png
+$(OBJEVENTGFXDIR)/pokemon/fastrax.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -mwidth 2 -mheight 2
 
 $(OBJEVENTGFXDIR)/pokemon/slowpoke.4bpp: %.4bpp: %.png

@@ -327,7 +327,7 @@ static const u16 sDexCategory_WatersEdgePkmn_Page6[] = {
     SPECIES_PSYDUCK,
     SPECIES_GOLDUCK,
     SPECIES_SLOWPOKE,
-    SPECIES_SLOWBRO,
+    SPECIES_FASTRAX,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page7[] = {

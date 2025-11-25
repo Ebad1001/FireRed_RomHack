@@ -1841,7 +1841,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM05_FLASH)
                                         | TMHM(HM08_DIVE)),
 
-    [SPECIES_SLOWBRO]     = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_FASTRAX]     = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)

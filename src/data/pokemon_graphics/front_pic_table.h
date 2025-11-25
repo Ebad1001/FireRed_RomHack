@@ -80,7 +80,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[] =
     SPECIES_SPRITE(PONYTA, gMonFrontPic_Ponyta),
     SPECIES_SPRITE(RAPIDASH, gMonFrontPic_Rapidash),
     SPECIES_SPRITE(SLOWPOKE, gMonFrontPic_Slowpoke),
-    SPECIES_SPRITE(SLOWBRO, gMonFrontPic_Slowbro),
+    SPECIES_SPRITE(FASTRAX, gMonFrontPic_Fastrax),
     SPECIES_SPRITE(MAGNEMITE, gMonFrontPic_Magnemite),
     SPECIES_SPRITE(MAGNETON, gMonFrontPic_Magneton),
     SPECIES_SPRITE(FARFETCHD, gMonFrontPic_Farfetchd),

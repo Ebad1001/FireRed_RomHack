@@ -79,7 +79,7 @@ gCryTable::
 	cry Cry_Ponyta
 	cry Cry_Rapidash
 	cry Cry_Slowpoke
-	cry Cry_Slowbro
+	cry Cry_Fastrax
 	cry Cry_Magnemite
 	cry Cry_Magneton
 	cry Cry_Farfetchd
@@ -470,7 +470,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Ponyta
 	cry_reverse Cry_Rapidash
 	cry_reverse Cry_Slowpoke
-	cry_reverse Cry_Slowbro
+	cry_reverse Cry_Fastrax
 	cry_reverse Cry_Magnemite
 	cry_reverse Cry_Magneton
 	cry_reverse Cry_Farfetchd

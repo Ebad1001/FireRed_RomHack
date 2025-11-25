@@ -2297,7 +2297,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Slowpoke = {
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Slowbro = {
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Fastrax = {
     .tileTag = TAG_NONE,
     .paletteTag = OBJ_EVENT_PAL_TAG_NPC_PINK,
     .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
@@ -2312,7 +2312,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Slowbro = {
     .oam = &gObjectEventBaseOam_16x16,
     .subspriteTables = gObjectEventSpriteOamTables_16x16,
     .anims = sAnimTable_Standard,
-    .images = sPicTable_Slowbro,
+    .images = sPicTable_Fastrax,
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 

@@ -620,8 +620,8 @@ Cry_Slowpoke::
 	.incbin "sound/direct_sound_samples/cries/slowpoke.bin"
 
 	.align 2
-Cry_Slowbro::
-	.incbin "sound/direct_sound_samples/cries/slowbro.bin"
+Cry_Fastrax::
+	.incbin "sound/direct_sound_samples/cries/fastrax.bin"
 
 	.align 2
 Cry_Magnemite::

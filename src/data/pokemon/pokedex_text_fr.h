@@ -558,12 +558,12 @@ const u8 gSlowpokePokedexText[] = _(
 
 const u8 gSlowpokePokedexTextUnused[] = _("");
 
-const u8 gSlowbroPokedexText[] = _(
+const u8 gFastraxPokedexText[] = _(
     "HP     -  95    Ph.Atk -  75\n"
     "Ph.Def - 110    Sp.Atk - 100\n"
     "Sp.Def -  80    Speed  -  30");
 
-const u8 gSlowbroPokedexTextUnused[] = _("");
+const u8 gFastraxPokedexTextUnused[] = _("");
 
 const u8 gMagnemitePokedexText[] = _(
     "HP     -  25    Ph.Atk -  35\n"

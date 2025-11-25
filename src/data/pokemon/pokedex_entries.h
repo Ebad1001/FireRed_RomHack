@@ -1040,13 +1040,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SLOWBRO] =
+    [NATIONAL_DEX_FASTRAX] =
     {
         .categoryName = _("SWIMMER"),
         .height = 16,
         .weight = 485,
-        .description = gSlowbroPokedexText,
-        .unusedDescription = gSlowbroPokedexTextUnused,
+        .description = gFastraxPokedexText,
+        .unusedDescription = gFastraxPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

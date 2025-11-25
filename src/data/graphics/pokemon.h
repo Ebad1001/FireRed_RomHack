@@ -551,12 +551,12 @@ const u32 gMonShinyPalette_Slowpoke[] = INCBIN_U32("graphics/pokemon/slowpoke/sh
 const u8 gMonIcon_Slowpoke[] = INCBIN_U8("graphics/pokemon/slowpoke/icon.4bpp");
 const u8 gMonFootprint_Slowpoke[] = INCBIN_U8("graphics/pokemon/slowpoke/footprint.1bpp");
 
-const u32 gMonFrontPic_Slowbro[] = INCBIN_U32("graphics/pokemon/slowbro/front.4bpp.lz");
-const u32 gMonPalette_Slowbro[] = INCBIN_U32("graphics/pokemon/slowbro/normal.gbapal.lz");
-const u32 gMonBackPic_Slowbro[] = INCBIN_U32("graphics/pokemon/slowbro/back.4bpp.lz");
-const u32 gMonShinyPalette_Slowbro[] = INCBIN_U32("graphics/pokemon/slowbro/shiny.gbapal.lz");
-const u8 gMonIcon_Slowbro[] = INCBIN_U8("graphics/pokemon/slowbro/icon.4bpp");
-const u8 gMonFootprint_Slowbro[] = INCBIN_U8("graphics/pokemon/slowbro/footprint.1bpp");
+const u32 gMonFrontPic_Fastrax[] = INCBIN_U32("graphics/pokemon/fastrax/front.4bpp.lz");
+const u32 gMonPalette_Fastrax[] = INCBIN_U32("graphics/pokemon/fastrax/normal.gbapal.lz");
+const u32 gMonBackPic_Fastrax[] = INCBIN_U32("graphics/pokemon/fastrax/back.4bpp.lz");
+const u32 gMonShinyPalette_Fastrax[] = INCBIN_U32("graphics/pokemon/fastrax/shiny.gbapal.lz");
+const u8 gMonIcon_Fastrax[] = INCBIN_U8("graphics/pokemon/fastrax/icon.4bpp");
+const u8 gMonFootprint_Fastrax[] = INCBIN_U8("graphics/pokemon/fastrax/footprint.1bpp");
 
 const u32 gMonFrontPic_Magnemite[] = INCBIN_U32("graphics/pokemon/magnemite/front.4bpp.lz");
 const u32 gMonPalette_Magnemite[] = INCBIN_U32("graphics/pokemon/magnemite/normal.gbapal.lz");

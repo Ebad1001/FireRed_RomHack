@@ -88,8 +88,8 @@ CeruleanCity_Text_YouCanCutDownSmallTrees::
     .string "I think there's a way around it,\n"
     .string "though.$"
 
-CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
-    .string "If that SLOWBRO wasn't there, you\n"
+CeruleanCity_Text_IfFastraxWasntThereCouldCutTree::
+    .string "If that FASTRAX wasn't there, you\n"
     .string "could CUT down the small tree.\p"
     .string "That way, you could get to the\n"
     .string "other side.\p"
@@ -107,22 +107,22 @@ CeruleanCity_Text_PeopleHereWereRobbed::
     .string "Even our POLICE FORCE has\n"
     .string "trouble with the ROCKETS!$"
 
-CeruleanCity_Text_SlowbroUseSonicboom::
-    .string "Okay! SLOWBRO!\n"
+CeruleanCity_Text_FastraxUseSonicboom::
+    .string "Okay! FASTRAX!\n"
     .string "Use SONICBOOM!$"
 
-CeruleanCity_Text_SlowbroPayAttention::
-    .string "Come on, SLOWBRO, pay attention!$"
+CeruleanCity_Text_FastraxPayAttention::
+    .string "Come on, FASTRAX, pay attention!$"
 
-CeruleanCity_Text_SlowbroPunch::
-    .string "SLOWBRO, punch!$"
+CeruleanCity_Text_FastraxPunch::
+    .string "FASTRAX, punch!$"
 
 CeruleanCity_Text_NoYouBlewItAgain::
     .string "No!\n"
     .string "You blew it again!$"
 
-CeruleanCity_Text_SlowbroWithdraw::
-    .string "SLOWBRO, WITHDRAW!$"
+CeruleanCity_Text_FastraxWithdraw::
+    .string "FASTRAX, WITHDRAW!$"
 
 CeruleanCity_Text_HardToControlMonsObedience::
     .string "No! That's wrong!\n"
@@ -130,17 +130,17 @@ CeruleanCity_Text_HardToControlMonsObedience::
     .string "Your POKéMON's obedience depends\n"
     .string "on your abilities as a TRAINER.$"
 
-CeruleanCity_Text_SlowbroTookSnooze::
-    .string "SLOWBRO took a snooze…$"
+CeruleanCity_Text_FastraxTookSnooze::
+    .string "FASTRAX took a snooze…$"
 
-CeruleanCity_Text_SlowbroLoafingAround::
-    .string "SLOWBRO is loafing around…$"
+CeruleanCity_Text_FastraxLoafingAround::
+    .string "FASTRAX is loafing around…$"
 
-CeruleanCity_Text_SlowbroTurnedAway::
-    .string "SLOWBRO turned away…$"
+CeruleanCity_Text_FastraxTurnedAway::
+    .string "FASTRAX turned away…$"
 
-CeruleanCity_Text_SlowbroIgnoredOrders::
-    .string "SLOWBRO ignored orders…$"
+CeruleanCity_Text_FastraxIgnoredOrders::
+    .string "FASTRAX ignored orders…$"
 
 CeruleanCity_Text_WantBrightRedBicycle::
     .string "I want a bright red bicycle.\p"

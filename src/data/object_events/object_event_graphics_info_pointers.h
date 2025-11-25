@@ -127,7 +127,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Meowth;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Seel;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Voltorb;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Slowpoke;
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Slowbro;
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Fastrax;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Machop;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Wigglytuff;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Doduo;
@@ -282,7 +282,7 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_SEEL]                     = &gObjectEventGraphicsInfo_Seel,
     [OBJ_EVENT_GFX_VOLTORB]                  = &gObjectEventGraphicsInfo_Voltorb,
     [OBJ_EVENT_GFX_SLOWPOKE]                 = &gObjectEventGraphicsInfo_Slowpoke,
-    [OBJ_EVENT_GFX_SLOWBRO]                  = &gObjectEventGraphicsInfo_Slowbro,
+    [OBJ_EVENT_GFX_FASTRAX]                  = &gObjectEventGraphicsInfo_Fastrax,
     [OBJ_EVENT_GFX_MACHOP]                   = &gObjectEventGraphicsInfo_Machop,
     [OBJ_EVENT_GFX_WIGGLYTUFF]               = &gObjectEventGraphicsInfo_Wigglytuff,
     [OBJ_EVENT_GFX_DODUO]                    = &gObjectEventGraphicsInfo_Doduo,

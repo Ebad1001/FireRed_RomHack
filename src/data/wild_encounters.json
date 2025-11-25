@@ -4371,12 +4371,12 @@
               {
                 "min_level": 40,
                 "max_level": 50,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 45,
                 "max_level": 55,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 40,
@@ -4937,12 +4937,12 @@
               {
                 "min_level": 50,
                 "max_level": 60,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 55,
                 "max_level": 65,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 50,
@@ -5634,7 +5634,7 @@
               {
                 "min_level": 33,
                 "max_level": 33,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 26,
@@ -5644,7 +5644,7 @@
               {
                 "min_level": 35,
                 "max_level": 35,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 30,
@@ -5767,12 +5767,12 @@
               {
                 "min_level": 34,
                 "max_level": 34,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 28,
@@ -5782,7 +5782,7 @@
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 30,
@@ -5975,7 +5975,7 @@
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 24,
@@ -5990,7 +5990,7 @@
               {
                 "min_level": 34,
                 "max_level": 34,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 32,
@@ -6040,7 +6040,7 @@
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               }
             ]
           },
@@ -6283,7 +6283,7 @@
               {
                 "min_level": 32,
                 "max_level": 32,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 26,
@@ -6298,7 +6298,7 @@
               {
                 "min_level": 34,
                 "max_level": 34,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 36,
@@ -6348,7 +6348,7 @@
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               }
             ]
           },
@@ -9339,12 +9339,12 @@
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               }
             ]
           },
@@ -13245,7 +13245,7 @@
               {
                 "min_level": 37,
                 "max_level": 37,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 37,
@@ -13255,7 +13255,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 40,
@@ -13285,12 +13285,12 @@
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 35,
                 "max_level": 40,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               }
             ]
           },
@@ -23376,7 +23376,7 @@
               {
                 "min_level": 25,
                 "max_level": 35,
-                "species": "SPECIES_SLOWBRO"
+                "species": "SPECIES_FASTRAX"
               },
               {
                 "min_level": 25,
