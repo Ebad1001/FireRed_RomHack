@@ -2925,13 +2925,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_DELIBIRD] =
+    [NATIONAL_DEX_DELIBERD] =
     {
         .categoryName = _("DELIVERY"),
         .height = 9,
         .weight = 160,
-        .description = gDelibirdPokedexText,
-        .unusedDescription = gDelibirdPokedexTextUnused,
+        .description = gDeliberdPokedexText,
+        .unusedDescription = gDeliberdPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -3042,13 +3042,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_STANTLER] =
+    [NATIONAL_DEX_BERDEER] =
     {
         .categoryName = _("REINDEER"),
         .height = 14,
         .weight = 712,
-        .description = gStantlerPokedexText,
-        .unusedDescription = gStantlerPokedexTextUnused,
+        .description = gBerdeerPokedexText,
+        .unusedDescription = gBerdeerPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

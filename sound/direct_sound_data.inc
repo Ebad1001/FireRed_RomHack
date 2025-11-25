@@ -1200,8 +1200,8 @@ Cry_Octillery::
 	.incbin "sound/direct_sound_samples/cries/octillery.bin"
 
 	.align 2
-Cry_Delibird::
-	.incbin "sound/direct_sound_samples/cries/delibird.bin"
+Cry_Deliberd::
+	.incbin "sound/direct_sound_samples/cries/deliberd.bin"
 
 	.align 2
 Cry_Mantine::
@@ -1236,8 +1236,8 @@ Cry_Porygon2::
 	.incbin "sound/direct_sound_samples/cries/porygon2.bin"
 
 	.align 2
-Cry_Stantler::
-	.incbin "sound/direct_sound_samples/cries/stantler.bin"
+Cry_Berdeer::
+	.incbin "sound/direct_sound_samples/cries/berdeer.bin"
 
 	.align 2
 Cry_Smeargle::

@@ -1567,12 +1567,12 @@ const u32 gMonShinyPalette_Octillery[] = INCBIN_U32("graphics/pokemon/octillery/
 const u8 gMonIcon_Octillery[] = INCBIN_U8("graphics/pokemon/octillery/icon.4bpp");
 const u8 gMonFootprint_Octillery[] = INCBIN_U8("graphics/pokemon/octillery/footprint.1bpp");
 
-const u32 gMonFrontPic_Delibird[] = INCBIN_U32("graphics/pokemon/delibird/front.4bpp.lz");
-const u32 gMonPalette_Delibird[] = INCBIN_U32("graphics/pokemon/delibird/normal.gbapal.lz");
-const u32 gMonBackPic_Delibird[] = INCBIN_U32("graphics/pokemon/delibird/back.4bpp.lz");
-const u32 gMonShinyPalette_Delibird[] = INCBIN_U32("graphics/pokemon/delibird/shiny.gbapal.lz");
-const u8 gMonIcon_Delibird[] = INCBIN_U8("graphics/pokemon/delibird/icon.4bpp");
-const u8 gMonFootprint_Delibird[] = INCBIN_U8("graphics/pokemon/delibird/footprint.1bpp");
+const u32 gMonFrontPic_Deliberd[] = INCBIN_U32("graphics/pokemon/deliberd/front.4bpp.lz");
+const u32 gMonPalette_Deliberd[] = INCBIN_U32("graphics/pokemon/deliberd/normal.gbapal.lz");
+const u32 gMonBackPic_Deliberd[] = INCBIN_U32("graphics/pokemon/deliberd/back.4bpp.lz");
+const u32 gMonShinyPalette_Deliberd[] = INCBIN_U32("graphics/pokemon/deliberd/shiny.gbapal.lz");
+const u8 gMonIcon_Deliberd[] = INCBIN_U8("graphics/pokemon/deliberd/icon.4bpp");
+const u8 gMonFootprint_Deliberd[] = INCBIN_U8("graphics/pokemon/deliberd/footprint.1bpp");
 
 const u32 gMonFrontPic_Mantine[] = INCBIN_U32("graphics/pokemon/mantine/front.4bpp.lz");
 const u32 gMonPalette_Mantine[] = INCBIN_U32("graphics/pokemon/mantine/normal.gbapal.lz");
@@ -1630,12 +1630,12 @@ const u32 gMonShinyPalette_Porygon2[] = INCBIN_U32("graphics/pokemon/porygon2/sh
 const u8 gMonIcon_Porygon2[] = INCBIN_U8("graphics/pokemon/porygon2/icon.4bpp");
 const u8 gMonFootprint_Porygon2[] = INCBIN_U8("graphics/pokemon/porygon2/footprint.1bpp");
 
-const u32 gMonFrontPic_Stantler[] = INCBIN_U32("graphics/pokemon/stantler/front.4bpp.lz");
-const u32 gMonPalette_Stantler[] = INCBIN_U32("graphics/pokemon/stantler/normal.gbapal.lz");
-const u32 gMonBackPic_Stantler[] = INCBIN_U32("graphics/pokemon/stantler/back.4bpp.lz");
-const u32 gMonShinyPalette_Stantler[] = INCBIN_U32("graphics/pokemon/stantler/shiny.gbapal.lz");
-const u8 gMonIcon_Stantler[] = INCBIN_U8("graphics/pokemon/stantler/icon.4bpp");
-const u8 gMonFootprint_Stantler[] = INCBIN_U8("graphics/pokemon/stantler/footprint.1bpp");
+const u32 gMonFrontPic_Berdeer[] = INCBIN_U32("graphics/pokemon/berdeer/front.4bpp.lz");
+const u32 gMonPalette_Berdeer[] = INCBIN_U32("graphics/pokemon/berdeer/normal.gbapal.lz");
+const u32 gMonBackPic_Berdeer[] = INCBIN_U32("graphics/pokemon/berdeer/back.4bpp.lz");
+const u32 gMonShinyPalette_Berdeer[] = INCBIN_U32("graphics/pokemon/berdeer/shiny.gbapal.lz");
+const u8 gMonIcon_Berdeer[] = INCBIN_U8("graphics/pokemon/berdeer/icon.4bpp");
+const u8 gMonFootprint_Berdeer[] = INCBIN_U8("graphics/pokemon/berdeer/footprint.1bpp");
 
 const u32 gMonFrontPic_Smeargle[] = INCBIN_U32("graphics/pokemon/smeargle/front.4bpp.lz");
 const u32 gMonPalette_Smeargle[] = INCBIN_U32("graphics/pokemon/smeargle/normal.gbapal.lz");

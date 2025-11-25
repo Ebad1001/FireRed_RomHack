@@ -345,7 +345,7 @@ static const u16 sEasyChatWordsByLetter_D[] = {
     EC_WORD_DEFEATED,
     EC_MOVE2(DEFENSE_CURL),
     EC_POKEMON2(DELCATTY),
-    EC_POKEMON(DELIBIRD),
+    EC_POKEMON(DELIBERD),
     EC_POKEMON2(DEOXYS),
     EC_WORD_DEPT_STORE,
     EC_WORD_DESIGN,
@@ -1554,7 +1554,7 @@ static const u16 sEasyChatWordsByLetter_S[] = {
     EC_WORD_SPRING,
     EC_POKEMON(SQUIRTLE),
     EC_WORD_STAGE,
-    EC_POKEMON(STANTLER),
+    EC_POKEMON(BERDEER),
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(STARMIE),
     EC_POKEMON(STARMIE),

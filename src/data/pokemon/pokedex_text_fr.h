@@ -1573,12 +1573,12 @@ const u8 gOctilleryPokedexText[] = _(
 
 const u8 gOctilleryPokedexTextUnused[] = _("");
 
-const u8 gDelibirdPokedexText[] = _(
+const u8 gDeliberdPokedexText[] = _(
     "HP     -  45    Ph.Atk -  55\n"
     "Ph.Def -  45    Sp.Atk -  65\n"
     "Sp.Def -  45    Speed  -  75");
 
-const u8 gDelibirdPokedexTextUnused[] = _("");
+const u8 gDeliberdPokedexTextUnused[] = _("");
 
 const u8 gMantinePokedexText[] = _(
     "HP     -  65    Ph.Atk -  40\n"
@@ -1636,12 +1636,12 @@ const u8 gPorygon2PokedexText[] = _(
 
 const u8 gPorygon2PokedexTextUnused[] = _("");
 
-const u8 gStantlerPokedexText[] = _(
+const u8 gBerdeerPokedexText[] = _(
     "HP     -  73    Ph.Atk -  95\n"
     "Ph.Def -  62    Sp.Atk -  85\n"
     "Sp.Def -  65    Speed  -  85");
 
-const u8 gStantlerPokedexTextUnused[] = _("");
+const u8 gBerdeerPokedexTextUnused[] = _("");
 
 const u8 gSmearglePokedexText[] = _(
     "HP     -  55    Ph.Atk -  20\n"

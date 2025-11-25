@@ -6527,7 +6527,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_DELIBIRD] = /* DELIBERD */
+    [SPECIES_DELIBERD] = /* DELIBERD */
     {
         .baseHP = 45,
         .baseAttack = 55,
@@ -6788,7 +6788,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_STANTLER] = /* BERDEER */
+    [SPECIES_BERDEER] = /* BERDEER */
     {
         .baseHP = 73,
         .baseAttack = 95,

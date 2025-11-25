@@ -576,8 +576,8 @@ static const u16 sDexCategory_MountainPkmn_Page7[] = {
 static const u16 sDexCategory_MountainPkmn_Page8[] = {
     SPECIES_TEDDIURSA,
     SPECIES_URSARING,
-    SPECIES_DELIBIRD,
-    SPECIES_STANTLER,
+    SPECIES_DELIBERD,
+    SPECIES_BERDEER,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page9[] = {

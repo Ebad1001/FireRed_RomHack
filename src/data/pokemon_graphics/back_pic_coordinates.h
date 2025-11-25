@@ -1125,7 +1125,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 10,
     },
-    [SPECIES_DELIBIRD] =
+    [SPECIES_DELIBERD] =
     {
         .size = MON_COORDS_SIZE(48, 56),
         .y_offset = 6,
@@ -1170,7 +1170,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(56, 48),
         .y_offset = 10,
     },
-    [SPECIES_STANTLER] =
+    [SPECIES_BERDEER] =
     {
         .size = MON_COORDS_SIZE(56, 64),
         .y_offset = 3,

@@ -224,7 +224,7 @@ gCryTable::
 	cry Cry_Corsola
 	cry Cry_Remoraid
 	cry Cry_Octillery
-	cry Cry_Delibird
+	cry Cry_Deliberd
 	cry Cry_Mantine
 	cry Cry_Skarmory
 	cry Cry_Houndour
@@ -233,7 +233,7 @@ gCryTable::
 	cry Cry_Phanpy
 	cry Cry_Donphan
 	cry Cry_Porygon2
-	cry Cry_Stantler
+	cry Cry_Berdeer
 	cry Cry_Smeargle
 	cry Cry_Tyrogue
 	cry Cry_Annihilape
@@ -615,7 +615,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Corsola
 	cry_reverse Cry_Remoraid
 	cry_reverse Cry_Octillery
-	cry_reverse Cry_Delibird
+	cry_reverse Cry_Deliberd
 	cry_reverse Cry_Mantine
 	cry_reverse Cry_Skarmory
 	cry_reverse Cry_Houndour
@@ -624,7 +624,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Phanpy
 	cry_reverse Cry_Donphan
 	cry_reverse Cry_Porygon2
-	cry_reverse Cry_Stantler
+	cry_reverse Cry_Berdeer
 	cry_reverse Cry_Smeargle
 	cry_reverse Cry_Tyrogue
 	cry_reverse Cry_Annihilape

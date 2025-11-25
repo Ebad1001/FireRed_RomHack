@@ -1573,12 +1573,12 @@ const u8 gOctilleryPokedexText[] = _(
 
 const u8 gOctilleryPokedexTextUnused[] = _("");
 
-const u8 gDelibirdPokedexText[] = _(
+const u8 gDeliberdPokedexText[] = _(
     "It carries food all day long. There are\n"
     "tales about lost people who were saved\n"
     "by the food it had.");
 
-const u8 gDelibirdPokedexTextUnused[] = _("");
+const u8 gDeliberdPokedexTextUnused[] = _("");
 
 const u8 gMantinePokedexText[] = _(
     "As it majestically swims, it doesn't care\n"
@@ -1636,12 +1636,12 @@ const u8 gPorygon2PokedexText[] = _(
 
 const u8 gPorygon2PokedexTextUnused[] = _("");
 
-const u8 gStantlerPokedexText[] = _(
+const u8 gBerdeerPokedexText[] = _(
     "Its curved antlers subtly change the flow\n"
     "of air to create a strange space where\n"
     "reality is distorted.");
 
-const u8 gStantlerPokedexTextUnused[] = _("");
+const u8 gBerdeerPokedexTextUnused[] = _("");
 
 const u8 gSmearglePokedexText[] = _(
     "A special fluid oozes from the tip of its\n"

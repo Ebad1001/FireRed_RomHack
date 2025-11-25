@@ -9751,7 +9751,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_DELIBIRD"
+                "species": "SPECIES_DELIBERD"
               },
               {
                 "min_level": 31,
@@ -9889,7 +9889,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_DELIBIRD"
+                "species": "SPECIES_DELIBERD"
               },
               {
                 "min_level": 31,
@@ -24412,62 +24412,62 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 18,
                 "max_level": 18,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               }
             ]
           }
@@ -25033,62 +25033,62 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 18,
                 "max_level": 18,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_STANTLER"
+                "species": "SPECIES_BERDEER"
               }
             ]
           }

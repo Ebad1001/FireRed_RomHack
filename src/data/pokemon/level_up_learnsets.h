@@ -3101,7 +3101,7 @@ static const u16 sOctilleryLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sDelibirdLevelUpLearnset[] = {
+static const u16 sDeliberdLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_PRESENT),
     LEVEL_UP_END
 };
@@ -3217,7 +3217,7 @@ static const u16 sPorygon2LevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sStantlerLevelUpLearnset[] = {
+static const u16 sBerdeerLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(7, MOVE_LEER),
     LEVEL_UP_MOVE(11, MOVE_ASTONISH),
