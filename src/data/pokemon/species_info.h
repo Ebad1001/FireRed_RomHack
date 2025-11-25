@@ -6875,7 +6875,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
     },
-    [SPECIES_HITMONTOP] = /* ANNIHILAPE */
+    [SPECIES_ANNIHILAPE] = /* ANNIHILAPE */
     {
         .baseHP = 50,
         .baseAttack = 95,
@@ -6904,7 +6904,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_SMOOCHUM] = /* MAMOSWINE */
+    [SPECIES_MAMOSWINE] = /* MAMOSWINE */
     {
         .baseHP = 45,
         .baseAttack = 30,
@@ -6933,7 +6933,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_ELEKID] = /* ELECTIVIRE */
+    [SPECIES_ELECTIVIRE] = /* ELECTIVIRE */
     {
         .baseHP = 45,
         .baseAttack = 63,
@@ -6962,7 +6962,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = TRUE,
     },
-    [SPECIES_MAGBY] = /* MAGMORTAR */
+    [SPECIES_MAGMORTAR] = /* MAGMORTAR */
     {
         .baseHP = 45,
         .baseAttack = 75,

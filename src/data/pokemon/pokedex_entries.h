@@ -3081,52 +3081,52 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_HITMONTOP] =
+    [NATIONAL_DEX_ANNIHILAPE] =
     {
         .categoryName = _("PIG-MONKEY"),
         .height = 12,
         .weight = 560,
-        .description = gHitmontopPokedexText,
-        .unusedDescription = gHitmontopPokedexTextUnused,
+        .description = gAnnihilapePokedexText,
+        .unusedDescription = gAnnihilapePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SMOOCHUM] =
+    [NATIONAL_DEX_MAMOSWINE] =
     {
         .categoryName = _("SWINE"),
         .height = 25,
         .weight = 2910,
-        .description = gSmoochumPokedexText,
-        .unusedDescription = gSmoochumPokedexTextUnused,
+        .description = gMamoswinePokedexText,
+        .unusedDescription = gMamoswinePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_ELEKID] =
+    [NATIONAL_DEX_ELECTIVIRE] =
     {
         .categoryName = _("SHOCKER"),
         .height = 18,
         .weight = 1386,
-        .description = gElekidPokedexText,
-        .unusedDescription = gElekidPokedexTextUnused,
+        .description = gElectivirePokedexText,
+        .unusedDescription = gElectivirePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_MAGBY] =
+    [NATIONAL_DEX_MAGMORTAR] =
     {
         .categoryName = _("BURNER"),
         .height = 16,
         .weight = 680,
-        .description = gMagbyPokedexText,
-        .unusedDescription = gMagbyPokedexTextUnused,
+        .description = gMagmortarPokedexText,
+        .unusedDescription = gMagmortarPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

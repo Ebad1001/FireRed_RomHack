@@ -8292,7 +8292,7 @@ static const struct TrainerMonItemDefaultMoves sParty_CrushGirlCyndy[] = {
     {
         .iv = 50,
         .lvl = 48,
-        .species = SPECIES_HITMONTOP,
+        .species = SPECIES_ANNIHILAPE,
         .heldItem = ITEM_BLACK_BELT,
     },
     {
@@ -10334,7 +10334,7 @@ static const struct TrainerMonItemDefaultMoves sParty_CrushGirlCyndy2[] = {
     {
         .iv = 170,
         .lvl = 54,
-        .species = SPECIES_HITMONTOP,
+        .species = SPECIES_ANNIHILAPE,
         .heldItem = ITEM_BLACK_BELT,
     },
     {

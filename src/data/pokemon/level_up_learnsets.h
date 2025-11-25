@@ -3250,7 +3250,7 @@ static const u16 sTyrogueLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sHitmontopLevelUpLearnset[] = {
+static const u16 sAnnihilapeLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_REVENGE),
     LEVEL_UP_MOVE(1, MOVE_ROLLING_KICK),
     LEVEL_UP_MOVE(7, MOVE_FOCUS_ENERGY),
@@ -3265,7 +3265,7 @@ static const u16 sHitmontopLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSmoochumLevelUpLearnset[] = {
+static const u16 sMamoswineLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_LICK),
     LEVEL_UP_MOVE(9, MOVE_CONFUSE_RAY),
@@ -3280,7 +3280,7 @@ static const u16 sSmoochumLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sElekidLevelUpLearnset[] = {
+static const u16 sElectivireLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_QUICK_ATTACK),
     LEVEL_UP_MOVE(1, MOVE_LEER),
     LEVEL_UP_MOVE(9, MOVE_THUNDER_PUNCH),
@@ -3292,7 +3292,7 @@ static const u16 sElekidLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sMagbyLevelUpLearnset[] = {
+static const u16 sMagmortarLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_EMBER),
     LEVEL_UP_MOVE(7, MOVE_LEER),
     LEVEL_UP_MOVE(13, MOVE_SLUDGE),

@@ -1706,7 +1706,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_ROCK_SLIDE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_HITMONTOP] = TUTOR(MOVE_THUNDERPUNCH)
+    [SPECIES_ANNIHILAPE] = TUTOR(MOVE_THUNDERPUNCH)
                         | TUTOR(MOVE_BODY_SLAM)
                         | TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_KNOCK_OFF)
@@ -1715,7 +1715,7 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_ROCK_SLIDE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SMOOCHUM] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_MAMOSWINE] = TUTOR(MOVE_FIRE_PUNCH)
                        | TUTOR(MOVE_THUNDERPUNCH)
                        | TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1726,7 +1726,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_DREAM_EATER)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_ELEKID] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_ELECTIVIRE] = TUTOR(MOVE_FIRE_PUNCH)
                      | TUTOR(MOVE_THUNDERPUNCH)
                      | TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1736,7 +1736,7 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_CHARGE_UP)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_MAGBY] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_MAGMORTAR] = TUTOR(MOVE_FIRE_PUNCH)
                     | TUTOR(MOVE_THUNDERPUNCH)
                     | TUTOR(MOVE_BODY_SLAM)
                     | TUTOR(MOVE_DOUBLE_EDGE)

@@ -1248,20 +1248,20 @@ Cry_Tyrogue::
 	.incbin "sound/direct_sound_samples/cries/tyrogue.bin"
 
 	.align 2
-Cry_Hitmontop::
-	.incbin "sound/direct_sound_samples/cries/hitmontop.bin"
+Cry_Annihilape::
+	.incbin "sound/direct_sound_samples/cries/annihilape.bin"
 
 	.align 2
-Cry_Smoochum::
-	.incbin "sound/direct_sound_samples/cries/smoochum.bin"
+Cry_Mamoswine::
+	.incbin "sound/direct_sound_samples/cries/mamoswine.bin"
 
 	.align 2
-Cry_Elekid::
-	.incbin "sound/direct_sound_samples/cries/elekid.bin"
+Cry_Electivire::
+	.incbin "sound/direct_sound_samples/cries/electivire.bin"
 
 	.align 2
-Cry_Magby::
-	.incbin "sound/direct_sound_samples/cries/magby.bin"
+Cry_Magmortar::
+	.incbin "sound/direct_sound_samples/cries/magmortar.bin"
 
 	.align 2
 Cry_Miltank::

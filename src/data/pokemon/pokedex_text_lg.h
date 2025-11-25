@@ -1657,33 +1657,33 @@ const u8 gTyroguePokedexText[] = _(
 
 const u8 gTyroguePokedexTextUnused[] = _("");
 
-const u8 gHitmontopPokedexText[] = _(
+const u8 gAnnihilapePokedexText[] = _(
     "If you become enchanted by its smooth,\n"
     "elegant, dance-like kicks, you may get\n"
     "drilled hard.");
 
-const u8 gHitmontopPokedexTextUnused[] = _("");
+const u8 gAnnihilapePokedexTextUnused[] = _("");
 
-const u8 gSmoochumPokedexText[] = _(
+const u8 gMamoswinePokedexText[] = _(
     "Its lips are the most sensitive parts on\n"
     "its body. It always uses its lips first to\n"
     "examine things.");
 
-const u8 gSmoochumPokedexTextUnused[] = _("");
+const u8 gMamoswinePokedexTextUnused[] = _("");
 
-const u8 gElekidPokedexText[] = _(
+const u8 gElectivirePokedexText[] = _(
     "It rotates its arms to generate\n"
     "electricity, but it tires easily, so it\n"
     "charges up only a little bit.");
 
-const u8 gElekidPokedexTextUnused[] = _("");
+const u8 gElectivirePokedexTextUnused[] = _("");
 
-const u8 gMagbyPokedexText[] = _(
+const u8 gMagmortarPokedexText[] = _(
     "Each and every time it inhales and\n"
     "exhales, hot embers dribble out of its\n"
     "mouth and nostrils.");
 
-const u8 gMagbyPokedexTextUnused[] = _("");
+const u8 gMagmortarPokedexTextUnused[] = _("");
 
 const u8 gMiltankPokedexText[] = _(
     "Its milk is packed with nutrition, making\n"

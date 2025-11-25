@@ -1,5 +1,3 @@
-docs/output.txt
-.vscode
 *.1bpp
 *.4bpp
 *.8bpp
@@ -10,8 +8,6 @@ docs/output.txt
 *.dump
 *.elf
 *.exe
-*.out
-*.ipynb
 *.fwjpnfont
 *.gba
 !data/*.gba
@@ -64,7 +60,12 @@ porymap.*.cfg
 prefabs.json
 .vscode/*.*
 *.sym
+
+docs/output.txt
+.vscode
+*.out
+*.ipynb
+!analysis.ipynb
 *.js
 !poke_banner.js
 !new_pokedex.js
-!analysis.ipynb

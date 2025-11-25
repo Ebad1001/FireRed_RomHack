@@ -835,14 +835,14 @@ const u16 gEggMoves[] = {
               MOVE_MACH_PUNCH,
               MOVE_LOCK_ON),
 
-    egg_moves(SMOOCHUM,
+    egg_moves(MAMOSWINE,
               MOVE_SHARPEN,
               MOVE_PSYCH_UP,
               MOVE_FAKE_OUT,
               MOVE_WISH,
               MOVE_ICE_PUNCH),
 
-    egg_moves(ELEKID,
+    egg_moves(ELECTIVIRE,
               MOVE_KARATE_CHOP,
               MOVE_IRON_DEFENSE,
               MOVE_ROLLING_KICK,
@@ -851,7 +851,7 @@ const u16 gEggMoves[] = {
               MOVE_FIRE_PUNCH,
               MOVE_ICE_PUNCH),
 
-    egg_moves(MAGBY,
+    egg_moves(MAGMORTAR,
               MOVE_KARATE_CHOP,
               MOVE_MEGA_PUNCH,
               MOVE_IRON_DEFENSE,

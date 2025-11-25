@@ -236,10 +236,10 @@ gCryTable::
 	cry Cry_Stantler
 	cry Cry_Smeargle
 	cry Cry_Tyrogue
-	cry Cry_Hitmontop
-	cry Cry_Smoochum
-	cry Cry_Elekid
-	cry Cry_Magby
+	cry Cry_Annihilape
+	cry Cry_Mamoswine
+	cry Cry_Electivire
+	cry Cry_Magmortar
 	cry Cry_Miltank
 	cry Cry_Blissey
 	cry Cry_Raikou
@@ -627,10 +627,10 @@ gCryTable_Reverse::
 	cry_reverse Cry_Stantler
 	cry_reverse Cry_Smeargle
 	cry_reverse Cry_Tyrogue
-	cry_reverse Cry_Hitmontop
-	cry_reverse Cry_Smoochum
-	cry_reverse Cry_Elekid
-	cry_reverse Cry_Magby
+	cry_reverse Cry_Annihilape
+	cry_reverse Cry_Mamoswine
+	cry_reverse Cry_Electivire
+	cry_reverse Cry_Magmortar
 	cry_reverse Cry_Miltank
 	cry_reverse Cry_Blissey
 	cry_reverse Cry_Raikou

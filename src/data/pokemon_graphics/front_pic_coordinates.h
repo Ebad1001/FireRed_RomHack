@@ -1185,22 +1185,22 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(32, 48),
         .y_offset = 9,
     },
-    [SPECIES_HITMONTOP] =
+    [SPECIES_ANNIHILAPE] =
     {
         .size = MON_COORDS_SIZE(48, 56),
         .y_offset = 5,
     },
-    [SPECIES_SMOOCHUM] =
+    [SPECIES_MAMOSWINE] =
     {
         .size = MON_COORDS_SIZE(24, 40),
         .y_offset = 15,
     },
-    [SPECIES_ELEKID] =
+    [SPECIES_ELECTIVIRE] =
     {
         .size = MON_COORDS_SIZE(56, 48),
         .y_offset = 10,
     },
-    [SPECIES_MAGBY] =
+    [SPECIES_MAGMORTAR] =
     {
         .size = MON_COORDS_SIZE(32, 40),
         .y_offset = 13,

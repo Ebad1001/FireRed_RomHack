@@ -83,7 +83,7 @@ static const u16 sDexCategory_GrasslandPkmn_Page13[] = {
 
 static const u16 sDexCategory_GrasslandPkmn_Page14[] = {
     SPECIES_ELECTABUZZ,
-    SPECIES_ELEKID,
+    SPECIES_ELECTIVIRE,
     SPECIES_ELECTRIKE,
     SPECIES_MANECTRIC,
 };
@@ -497,7 +497,7 @@ static const u16 sDexCategory_CavePkmn_Page4[] = {
 static const u16 sDexCategory_CavePkmn_Page5[] = {
     SPECIES_SWINUB,
     SPECIES_PILOSWINE,
-    SPECIES_SMOOCHUM
+    SPECIES_MAMOSWINE
 };
 
 static const u16 sDexCategory_CavePkmn_Page6[] = {
@@ -536,7 +536,7 @@ static const u16 sDexCategory_MountainPkmn_Page1[] = {
 static const u16 sDexCategory_MountainPkmn_Page2[] = {
     SPECIES_MANKEY,
     SPECIES_PRIMEAPE,
-    SPECIES_HITMONTOP,
+    SPECIES_ANNIHILAPE,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page3[] = {
@@ -587,7 +587,7 @@ static const u16 sDexCategory_MountainPkmn_Page9[] = {
 
 static const u16 sDexCategory_MountainPkmn_Page10[] = {
     SPECIES_MAGMAR,
-    SPECIES_MAGBY,
+    SPECIES_MAGMORTAR,
     SPECIES_TORKOAL,
 };
 
