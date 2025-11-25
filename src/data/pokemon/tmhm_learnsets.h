@@ -8700,7 +8700,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM46_BUG_BUZZ)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_VOLBEAT]     = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_POCHITA]     = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
@@ -8726,7 +8726,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM46_BUG_BUZZ)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_ILLUMISE]    = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_WILDMUTT]    = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)

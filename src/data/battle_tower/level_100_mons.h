@@ -638,7 +638,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_NAUGHTY,
 	},
 	{
-		.species = SPECIES_VOLBEAT,
+		.species = SPECIES_POCHITA,
 		.heldItem = BATTLE_TOWER_ITEM_BRIGHT_POWDER,
 		.teamFlags = 0x09,
 		.moves = {
@@ -651,7 +651,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_HARDY,
 	},
 	{
-		.species = SPECIES_ILLUMISE,
+		.species = SPECIES_WILDMUTT,
 		.heldItem = BATTLE_TOWER_ITEM_SITRUS_BERRY,
 		.teamFlags = 0x09,
 		.moves = {
@@ -1470,7 +1470,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_CAREFUL,
 	},
 	{
-		.species = SPECIES_VOLBEAT,
+		.species = SPECIES_POCHITA,
 		.heldItem = BATTLE_TOWER_ITEM_SILVER_POWDER,
 		.teamFlags = 0x08,
 		.moves = {
@@ -1483,7 +1483,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_DOCILE,
 	},
 	{
-		.species = SPECIES_ILLUMISE,
+		.species = SPECIES_WILDMUTT,
 		.heldItem = BATTLE_TOWER_ITEM_SILVER_POWDER,
 		.teamFlags = 0x08,
 		.moves = {

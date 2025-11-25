@@ -1224,12 +1224,12 @@ const u16 gEggMoves[] = {
               MOVE_FUTURE_SIGHT,
               MOVE_PSYCH_UP),
 
-    egg_moves(VOLBEAT,
+    egg_moves(POCHITA,
               MOVE_BATON_PASS,
               MOVE_SILVER_WIND,
               MOVE_TRICK),
 
-    egg_moves(ILLUMISE,
+    egg_moves(WILDMUTT,
               MOVE_BATON_PASS,
               MOVE_SILVER_WIND,
               MOVE_GROWTH),

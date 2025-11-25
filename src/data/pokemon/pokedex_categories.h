@@ -230,8 +230,8 @@ static const u16 sDexCategory_ForestPkmn_Page13[] = {
 };
 
 static const u16 sDexCategory_ForestPkmn_Page14[] = {
-    SPECIES_VOLBEAT,
-    SPECIES_ILLUMISE,
+    SPECIES_POCHITA,
+    SPECIES_WILDMUTT,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page15[] = {

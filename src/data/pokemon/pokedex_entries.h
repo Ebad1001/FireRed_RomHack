@@ -4069,26 +4069,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_VOLBEAT] =
+    [NATIONAL_DEX_POCHITA] =
     {
         .categoryName = _("CHAINSAW"),
         .height = 6,
         .weight = 180,
-        .description = gVolbeatPokedexText,
-        .unusedDescription = gVolbeatPokedexTextUnused,
+        .description = gPochitaPokedexText,
+        .unusedDescription = gPochitaPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_ILLUMISE] =
+    [NATIONAL_DEX_WILDMUTT] =
     {
         .categoryName = _("CHAINSAW"),
         .height = 18,
         .weight = 1055,
-        .description = gIllumisePokedexText,
-        .unusedDescription = gIllumisePokedexTextUnused,
+        .description = gWildmuttPokedexText,
+        .unusedDescription = gWildmuttPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

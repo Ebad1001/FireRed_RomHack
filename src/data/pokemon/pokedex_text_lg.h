@@ -2189,19 +2189,19 @@ const u8 gDedtectoPokedexText[] = _(
 
 const u8 gDedtectoPokedexTextUnused[] = _("");
 
-const u8 gVolbeatPokedexText[] = _(
+const u8 gPochitaPokedexText[] = _(
     "It lives around clean ponds. At night,\n"
     "its rear lights up. It converses with\n"
     "others by flashing its light.");
 
-const u8 gVolbeatPokedexTextUnused[] = _("");
+const u8 gPochitaPokedexTextUnused[] = _("");
 
-const u8 gIllumisePokedexText[] = _(
-    "It guides VOLBEAT to draw signs in night\n"
+const u8 gWildmuttPokedexText[] = _(
+    "It guides POCHITA to draw signs in night\n"
     "skies. There are scientists that study the\n"
     "patterns it creates.");
 
-const u8 gIllumisePokedexTextUnused[] = _("");
+const u8 gWildmuttPokedexTextUnused[] = _("");
 
 const u8 gRoseliaPokedexText[] = _(
     "Its flowers give off a relaxing fragrance.\n"

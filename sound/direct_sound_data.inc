@@ -1732,12 +1732,12 @@ Cry_Castform::
 	.incbin "sound/direct_sound_samples/cries/castform.bin"
 
 	.align 2
-Cry_Volbeat::
-	.incbin "sound/direct_sound_samples/cries/volbeat.bin"
+Cry_Pochita::
+	.incbin "sound/direct_sound_samples/cries/pochita.bin"
 
 	.align 2
-Cry_Illumise::
-	.incbin "sound/direct_sound_samples/cries/illumise.bin"
+Cry_Wildmutt::
+	.incbin "sound/direct_sound_samples/cries/wildmutt.bin"
 
 	.align 2
 Cry_Poochyena::

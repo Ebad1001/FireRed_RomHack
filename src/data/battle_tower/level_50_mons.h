@@ -92,7 +92,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_IMPISH,
 	},
 	{
-		.species = SPECIES_ILLUMISE,
+		.species = SPECIES_WILDMUTT,
 		.heldItem = BATTLE_TOWER_ITEM_NONE,
 		.teamFlags = 0x41,
 		.moves = {

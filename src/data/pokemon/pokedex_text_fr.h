@@ -2189,19 +2189,19 @@ const u8 gDedtectoPokedexText[] = _(
 
 const u8 gDedtectoPokedexTextUnused[] = _("");
 
-const u8 gVolbeatPokedexText[] = _(
+const u8 gPochitaPokedexText[] = _(
     "HP     -  65    Ph.Atk -  73\n"
     "Ph.Def -  55    Sp.Atk -  47\n"
     "Sp.Def -  75    Speed  -  85");
 
-const u8 gVolbeatPokedexTextUnused[] = _("");
+const u8 gPochitaPokedexTextUnused[] = _("");
 
-const u8 gIllumisePokedexText[] = _(
+const u8 gWildmuttPokedexText[] = _(
     "HP     -  65    Ph.Atk -  47\n"
     "Ph.Def -  55    Sp.Atk -  73\n"
     "Sp.Def -  75    Speed  -  85");
 
-const u8 gIllumisePokedexTextUnused[] = _("");
+const u8 gWildmuttPokedexTextUnused[] = _("");
 
 const u8 gRoseliaPokedexText[] = _(
     "HP     -  50    Ph.Atk -  60\n"

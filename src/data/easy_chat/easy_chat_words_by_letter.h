@@ -778,7 +778,7 @@ static const u16 sEasyChatWordsByLetter_I[] = {
     EC_POKEMON(IGGLYBUFF),
     EC_WORD_IGNORANT,
     EC_WORD_ILLUMINATE,
-    EC_POKEMON2(ILLUMISE),
+    EC_POKEMON2(WILDMUTT),
     EC_WORD_IMMUNITY,
     EC_WORD_IMPORTANT,
     EC_WORD_IMPOSSIBLE,
@@ -1802,7 +1802,7 @@ static const u16 sEasyChatWordsByLetter_V[] = {
     EC_MOVE2(VINE_WHIP),
     EC_WORD_VITAL_SPIRIT,
     EC_MOVE(VITAL_THROW),
-    EC_POKEMON2(VOLBEAT),
+    EC_POKEMON2(POCHITA),
     EC_WORD_VOLT_ABSORB,
     EC_MOVE2(VOLT_TACKLE),
     -1, 2, // Doubled pokemon species name

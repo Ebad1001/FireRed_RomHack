@@ -2606,7 +2606,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_CHARGE_UP)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_VOLBEAT] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_POCHITA] = TUTOR(MOVE_FIRE_PUNCH)
                       | TUTOR(MOVE_THUNDERPUNCH)
                       | TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
@@ -2617,7 +2617,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_CHARGE_UP)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_ILLUMISE] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_WILDMUTT] = TUTOR(MOVE_FIRE_PUNCH)
                        | TUTOR(MOVE_THUNDERPUNCH)
                        | TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)

@@ -1930,12 +1930,12 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(24, 32),
         .y_offset = 17,
     },
-    [SPECIES_VOLBEAT] =
+    [SPECIES_POCHITA] =
     {
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 8,
     },
-    [SPECIES_ILLUMISE] =
+    [SPECIES_WILDMUTT] =
     {
         .size = MON_COORDS_SIZE(40, 48),
         .y_offset = 8,

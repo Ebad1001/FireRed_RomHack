@@ -2528,19 +2528,19 @@ const u32 gMonShinyPalette_Castform[] = INCBIN_U32("graphics/pokemon/castform/sh
 const u8 gMonIcon_Castform[] = INCBIN_U8("graphics/pokemon/castform/icon.4bpp");
 const u8 gMonFootprint_Castform[] = INCBIN_U8("graphics/pokemon/castform/footprint.1bpp");
 
-const u32 gMonFrontPic_Volbeat[] = INCBIN_U32("graphics/pokemon/volbeat/front.4bpp.lz");
-const u32 gMonPalette_Volbeat[] = INCBIN_U32("graphics/pokemon/volbeat/normal.gbapal.lz");
-const u32 gMonBackPic_Volbeat[] = INCBIN_U32("graphics/pokemon/volbeat/back.4bpp.lz");
-const u32 gMonShinyPalette_Volbeat[] = INCBIN_U32("graphics/pokemon/volbeat/shiny.gbapal.lz");
-const u8 gMonIcon_Volbeat[] = INCBIN_U8("graphics/pokemon/volbeat/icon.4bpp");
-const u8 gMonFootprint_Volbeat[] = INCBIN_U8("graphics/pokemon/volbeat/footprint.1bpp");
+const u32 gMonFrontPic_Pochita[] = INCBIN_U32("graphics/pokemon/pochita/front.4bpp.lz");
+const u32 gMonPalette_Pochita[] = INCBIN_U32("graphics/pokemon/pochita/normal.gbapal.lz");
+const u32 gMonBackPic_Pochita[] = INCBIN_U32("graphics/pokemon/pochita/back.4bpp.lz");
+const u32 gMonShinyPalette_Pochita[] = INCBIN_U32("graphics/pokemon/pochita/shiny.gbapal.lz");
+const u8 gMonIcon_Pochita[] = INCBIN_U8("graphics/pokemon/pochita/icon.4bpp");
+const u8 gMonFootprint_Pochita[] = INCBIN_U8("graphics/pokemon/pochita/footprint.1bpp");
 
-const u32 gMonFrontPic_Illumise[] = INCBIN_U32("graphics/pokemon/illumise/front.4bpp.lz");
-const u32 gMonPalette_Illumise[] = INCBIN_U32("graphics/pokemon/illumise/normal.gbapal.lz");
-const u32 gMonBackPic_Illumise[] = INCBIN_U32("graphics/pokemon/illumise/back.4bpp.lz");
-const u32 gMonShinyPalette_Illumise[] = INCBIN_U32("graphics/pokemon/illumise/shiny.gbapal.lz");
-const u8 gMonIcon_Illumise[] = INCBIN_U8("graphics/pokemon/illumise/icon.4bpp");
-const u8 gMonFootprint_Illumise[] = INCBIN_U8("graphics/pokemon/illumise/footprint.1bpp");
+const u32 gMonFrontPic_Wildmutt[] = INCBIN_U32("graphics/pokemon/wildmutt/front.4bpp.lz");
+const u32 gMonPalette_Wildmutt[] = INCBIN_U32("graphics/pokemon/wildmutt/normal.gbapal.lz");
+const u32 gMonBackPic_Wildmutt[] = INCBIN_U32("graphics/pokemon/wildmutt/back.4bpp.lz");
+const u32 gMonShinyPalette_Wildmutt[] = INCBIN_U32("graphics/pokemon/wildmutt/shiny.gbapal.lz");
+const u8 gMonIcon_Wildmutt[] = INCBIN_U8("graphics/pokemon/wildmutt/icon.4bpp");
+const u8 gMonFootprint_Wildmutt[] = INCBIN_U8("graphics/pokemon/wildmutt/footprint.1bpp");
 
 const u32 gMonFrontPic_Lileep[] = INCBIN_U32("graphics/pokemon/lileep/front.4bpp.lz");
 const u32 gMonPalette_Lileep[] = INCBIN_U32("graphics/pokemon/lileep/normal.gbapal.lz");

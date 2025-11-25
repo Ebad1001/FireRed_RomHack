@@ -1044,9 +1044,9 @@ static u16 DetermineEggSpeciesAndParentSlots(struct DayCare *daycare, u8 *parent
     {
         eggSpecies = SPECIES_NIDORAN_M;
     }
-    if (eggSpecies == SPECIES_ILLUMISE && daycare->offspringPersonality & EGG_GENDER_MALE)
+    if (eggSpecies == SPECIES_WILDMUTT && daycare->offspringPersonality & EGG_GENDER_MALE)
     {
-        eggSpecies = SPECIES_VOLBEAT;
+        eggSpecies = SPECIES_POCHITA;
     }
     if (eggSpecies == SPECIES_MILTANK && daycare->offspringPersonality & EGG_GENDER_MALE)
     {

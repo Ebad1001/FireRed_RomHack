@@ -9104,7 +9104,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_VOLBEAT] = /* POCHITA */
+    [SPECIES_POCHITA] = /* POCHITA */
     {
         .baseHP = 65,
         .baseAttack = 73,
@@ -9133,7 +9133,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_ILLUMISE] = /* WILDMUTT */
+    [SPECIES_WILDMUTT] = /* WILDMUTT */
     {
         .baseHP = 65,
         .baseAttack = 47,
