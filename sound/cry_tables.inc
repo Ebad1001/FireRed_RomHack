@@ -206,7 +206,7 @@ gCryTable::
 	cry Cry_Pineco
 	cry Cry_Forretress
 	cry Cry_Dunsparce
-	cry Cry_Gligar
+	cry Cry_Leviscor
 	cry Cry_Steelix
 	cry Cry_Electox
 	cry Cry_Vampere
@@ -214,7 +214,7 @@ gCryTable::
 	cry Cry_Scizor
 	cry Cry_Shuckle
 	cry Cry_Heracross
-	cry Cry_Sneasel
+	cry Cry_Sneezle
 	cry Cry_Teddiursa
 	cry Cry_Ursaring
 	cry Cry_Slugma
@@ -262,7 +262,7 @@ gCryTable::
 	cry Cry_Seviper
 	cry Cry_Sharpedo
 	cry Cry_Zangoose
-	cry Cry_Azurill
+	cry Cry_Sparkite
 	cry Cry_Swablu
 	cry Cry_Altaria
 	cry Cry_Unused265
@@ -597,7 +597,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Pineco
 	cry_reverse Cry_Forretress
 	cry_reverse Cry_Dunsparce
-	cry_reverse Cry_Gligar
+	cry_reverse Cry_Leviscor
 	cry_reverse Cry_Steelix
 	cry_reverse Cry_Electox
 	cry_reverse Cry_Vampere
@@ -605,7 +605,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Scizor
 	cry_reverse Cry_Shuckle
 	cry_reverse Cry_Heracross
-	cry_reverse Cry_Sneasel
+	cry_reverse Cry_Sneezle
 	cry_reverse Cry_Teddiursa
 	cry_reverse Cry_Ursaring
 	cry_reverse Cry_Slugma
@@ -653,7 +653,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Seviper
 	cry_reverse Cry_Sharpedo
 	cry_reverse Cry_Zangoose
-	cry_reverse Cry_Azurill
+	cry_reverse Cry_Sparkite
 	cry_reverse Cry_Swablu
 	cry_reverse Cry_Altaria
 	cry_reverse Cry_Unused265

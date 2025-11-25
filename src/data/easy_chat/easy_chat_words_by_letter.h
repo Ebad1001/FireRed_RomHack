@@ -117,7 +117,7 @@ static const u16 sEasyChatWordsByLetter_A[] = {
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(AZUMETAL),
     EC_POKEMON(AZUMETAL),
-    EC_POKEMON2(AZURILL),
+    EC_POKEMON2(SPARKITE),
 };
 
 static const u16 sEasyChatWordsByLetter_B[] = {
@@ -589,7 +589,7 @@ static const u16 sEasyChatWordsByLetter_G[] = {
     EC_WORD_GIVES,
     EC_POKEMON2(GLALIE),
     EC_MOVE2(GLARE),
-    EC_POKEMON(GLIGAR),
+    EC_POKEMON(LEVISCOR),
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(GLOOM),
     EC_POKEMON(GLOOM),
@@ -1509,7 +1509,7 @@ static const u16 sEasyChatWordsByLetter_S[] = {
     EC_POKEMON(MAMOSWINE),
     EC_WORD_SMOOTH,
     EC_MOVE2(SNATCH),
-    EC_POKEMON(SNEASEL),
+    EC_POKEMON(SNEEZLE),
     EC_MOVE(SNORE),
     EC_POKEMON(SNORLAX),
     EC_WORD_SNORT,

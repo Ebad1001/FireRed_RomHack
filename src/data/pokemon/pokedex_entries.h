@@ -2691,13 +2691,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_GLIGAR] =
+    [NATIONAL_DEX_LEVISCOR] =
     {
         .categoryName = _("FLYSCORPION"),
         .height = 11,
         .weight = 648,
-        .description = gGligarPokedexText,
-        .unusedDescription = gGligarPokedexTextUnused,
+        .description = gLeviscorPokedexText,
+        .unusedDescription = gLeviscorPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2795,13 +2795,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SNEASEL] =
+    [NATIONAL_DEX_SNEEZLE] =
     {
         .categoryName = _("SHARP-CLAW"),
         .height = 9,
         .weight = 280,
-        .description = gSneaselPokedexText,
-        .unusedDescription = gSneaselPokedexTextUnused,
+        .description = gSneezlePokedexText,
+        .unusedDescription = gSneezlePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -3874,13 +3874,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_AZURILL] =
+    [NATIONAL_DEX_SPARKITE] =
     {
         .categoryName = _("SPEED"),
         .height = 7,
         .weight = 160,
-        .description = gAzurillPokedexText,
-        .unusedDescription = gAzurillPokedexTextUnused,
+        .description = gSparkitePokedexText,
+        .unusedDescription = gSparkitePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

@@ -581,8 +581,8 @@ static const u16 sDexCategory_MountainPkmn_Page8[] = {
 };
 
 static const u16 sDexCategory_MountainPkmn_Page9[] = {
-    SPECIES_GLIGAR,
-    SPECIES_SNEASEL,
+    SPECIES_LEVISCOR,
+    SPECIES_SNEEZLE,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page10[] = {
@@ -599,7 +599,7 @@ static const u16 sDexCategory_MountainPkmn_Page11[] = {
 
 static const u16 sDexCategory_MountainPkmn_Page12[] = {
     SPECIES_ABSOL,
-    SPECIES_AZURILL,
+    SPECIES_SPARKITE,
     SPECIES_CORSOLA,
 };
 

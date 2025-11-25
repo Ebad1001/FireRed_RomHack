@@ -1087,7 +1087,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_2 = {
 			.speechAfter = {EC_WORD_ALL, EC_WORD_I, EC_WORD_DO, EC_WORD_IS, EC_WORD_LOSE, EC_WORD_ELLIPSIS},
 			.mons = {
 				{
-					.species = SPECIES_SNEASEL,
+					.species = SPECIES_SNEEZLE,
 					.heldItem = ITEM_SALAC_BERRY,
 					.moves = {MOVE_SHADOW_BALL, MOVE_SUNNY_DAY, MOVE_TAUNT, MOVE_AERIAL_ACE},
 					.hpEV = 200,
@@ -1105,7 +1105,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_2 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x0D, // FEMALE JOLLY
-					.nickname = _("SNEASEL"),
+					.nickname = _("SNEEZLE"),
 					.friendship = 255
 				},
 				{
@@ -3343,7 +3343,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_4 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_GLIGAR,
+					.species = SPECIES_LEVISCOR,
 					.heldItem = ITEM_SOFT_SAND,
 					.moves = {MOVE_EARTHQUAKE, MOVE_QUICK_ATTACK, MOVE_AERIAL_ACE, MOVE_IRON_TAIL},
 					.hpEV = 0,
@@ -3361,7 +3361,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_4 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x80, // MALE ADAMANT
-					.nickname = _("GLIGAR"),
+					.nickname = _("LEVISCOR"),
 					.friendship = 255
 				},
 				{
@@ -4961,7 +4961,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_5 = {
 			.speechAfter = {EC_WORD_OKAY, EC_WORD_MY, EC_WORD_AWESOME, EC_WORD_BROTHER, EC_WORD_FIGHT, EC_WORD_FIGHT},
 			.mons = {
 				{
-					.species = SPECIES_SNEASEL,
+					.species = SPECIES_SNEEZLE,
 					.heldItem = ITEM_RAWST_BERRY,
 					.moves = {MOVE_DIG, MOVE_TORMENT, MOVE_REFLECT, MOVE_TAUNT},
 					.hpEV = 0,
@@ -4979,7 +4979,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_5 = {
 					.spDefenseIV = 10,
 					.abilityNum = 1,
 					.personality = 0x0D, // FEMALE JOLLY
-					.nickname = _("SNEASEL"),
+					.nickname = _("SNEEZLE"),
 					.friendship = 255
 				},
 				{

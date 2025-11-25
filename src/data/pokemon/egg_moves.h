@@ -697,7 +697,7 @@ const u16 gEggMoves[] = {
               MOVE_ASTONISH,
               MOVE_CURSE),
 
-    egg_moves(GLIGAR,
+    egg_moves(LEVISCOR,
               MOVE_METAL_CLAW,
               MOVE_WING_ATTACK,
               MOVE_RAZOR_WIND,
@@ -729,7 +729,7 @@ const u16 gEggMoves[] = {
               MOVE_FLAIL,
               MOVE_FALSE_SWIPE),
 
-    egg_moves(SNEASEL,
+    egg_moves(SNEEZLE,
               MOVE_COUNTER,
               MOVE_SPITE,
               MOVE_ODOR_SLEUTH,
@@ -1089,7 +1089,7 @@ const u16 gEggMoves[] = {
               MOVE_MEAN_LOOK,
               MOVE_SPIKES),
 
-    egg_moves(AZURILL,
+    egg_moves(SPARKITE,
               MOVE_ENCORE,
               MOVE_SING,
               MOVE_REFRESH,

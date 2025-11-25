@@ -1447,12 +1447,12 @@ const u8 gDunsparcePokedexText[] = _(
 
 const u8 gDunsparcePokedexTextUnused[] = _("");
 
-const u8 gGligarPokedexText[] = _(
+const u8 gLeviscorPokedexText[] = _(
     "It flies straight at its target's face,\n"
     "then clamps down on the startled\n"
     "victim to inject poison.");
 
-const u8 gGligarPokedexTextUnused[] = _("");
+const u8 gLeviscorPokedexTextUnused[] = _("");
 
 const u8 gSteelixPokedexText[] = _(
     "Its body has been compressed deep under\n"
@@ -1503,12 +1503,12 @@ const u8 gHeracrossPokedexText[] = _(
 
 const u8 gHeracrossPokedexTextUnused[] = _("");
 
-const u8 gSneaselPokedexText[] = _(
+const u8 gSneezlePokedexText[] = _(
     "Its paws conceal sharp claws.\n"
     "If attacked, it suddenly extends the\n"
     "claws and startles its enemy.");
 
-const u8 gSneaselPokedexTextUnused[] = _("");
+const u8 gSneezlePokedexTextUnused[] = _("");
 
 const u8 gTeddiursaPokedexText[] = _(
     "If it finds honey, its crescent mark glows.\n"
@@ -2084,12 +2084,12 @@ const u8 gHariyamaPokedexText[] = _(
 
 const u8 gHariyamaPokedexTextUnused[] = _("");
 
-const u8 gAzurillPokedexText[] = _(
+const u8 gSparkitePokedexText[] = _(
     "It battles by flinging around its tail,\n"
     "which is bigger than its body. The\n"
     "tail is a flotation device in water.");
 
-const u8 gAzurillPokedexTextUnused[] = _("");
+const u8 gSparkitePokedexTextUnused[] = _("");
 
 const u8 gNosepassPokedexText[] = _(
     "Its magnetic nose consistently faces\n"

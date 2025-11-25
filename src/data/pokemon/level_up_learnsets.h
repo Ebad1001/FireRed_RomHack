@@ -2851,7 +2851,7 @@ static const u16 sDunsparceLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sGligarLevelUpLearnset[] = {
+static const u16 sLeviscorLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_POISON_STING),
     LEVEL_UP_MOVE(6, MOVE_SAND_ATTACK),
     LEVEL_UP_MOVE(13, MOVE_HARDEN),
@@ -2962,7 +2962,7 @@ static const u16 sHeracrossLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSneaselLevelUpLearnset[] = {
+static const u16 sSneezleLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SCRATCH),
     LEVEL_UP_MOVE(1, MOVE_LEER),
     LEVEL_UP_MOVE(1, MOVE_TAUNT),
@@ -4682,7 +4682,7 @@ static const u16 sSolrockLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sAzurillLevelUpLearnset[] = {
+static const u16 sSparkiteLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SPLASH),
     LEVEL_UP_MOVE(3, MOVE_CHARM),
     LEVEL_UP_MOVE(6, MOVE_TAIL_WHIP),

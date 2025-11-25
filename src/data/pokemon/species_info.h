@@ -6005,7 +6005,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_GLIGAR] = /* LEVISCOR */
+    [SPECIES_LEVISCOR] = /* LEVISCOR */
     {
         .baseHP = 65,
         .baseAttack = 75,
@@ -6237,7 +6237,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_SNEASEL] = /* SNEEZLE */
+    [SPECIES_SNEEZLE] = /* SNEEZLE */
     {
         .baseHP = 55,
         .baseAttack = 95,
@@ -8669,7 +8669,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_AZURILL] = /* VECTOR */
+    [SPECIES_SPARKITE] = /* SPARKITE */
     {
         .baseHP = 50,
         .baseAttack = 20,

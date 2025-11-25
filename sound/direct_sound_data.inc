@@ -1128,8 +1128,8 @@ Cry_Dunsparce::
 	.incbin "sound/direct_sound_samples/cries/dunsparce.bin"
 
 	.align 2
-Cry_Gligar::
-	.incbin "sound/direct_sound_samples/cries/gligar.bin"
+Cry_Leviscor::
+	.incbin "sound/direct_sound_samples/cries/leviscor.bin"
 
 	.align 2
 Cry_Steelix::
@@ -1160,8 +1160,8 @@ Cry_Heracross::
 	.incbin "sound/direct_sound_samples/cries/heracross.bin"
 
 	.align 2
-Cry_Sneasel::
-	.incbin "sound/direct_sound_samples/cries/sneasel.bin"
+Cry_Sneezle::
+	.incbin "sound/direct_sound_samples/cries/sneezle.bin"
 
 	.align 2
 Cry_Teddiursa::
@@ -1352,8 +1352,8 @@ Cry_Zangoose::
 	.incbin "sound/direct_sound_samples/cries/zangoose.bin"
 
 	.align 2
-Cry_Azurill::
-	.incbin "sound/direct_sound_samples/cries/azurill.bin"
+Cry_Sparkite::
+	.incbin "sound/direct_sound_samples/cries/sparkite.bin"
 
 	.align 2
 Cry_Swablu::

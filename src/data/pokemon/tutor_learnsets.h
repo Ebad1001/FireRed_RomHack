@@ -1493,7 +1493,7 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_ROCK_SLIDE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_GLIGAR] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_LEVISCOR] = TUTOR(MOVE_SWORDS_DANCE)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_KNOCK_OFF)
                      | TUTOR(MOVE_AVALANCHE)
@@ -1558,7 +1558,7 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_ROCK_SLIDE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SNEASEL] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_SNEEZLE] = TUTOR(MOVE_SWORDS_DANCE)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_KNOCK_OFF)
                       | TUTOR(MOVE_AVALANCHE)
@@ -2318,7 +2318,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_ROCK_SLIDE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_AZURILL] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_SPARKITE] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
