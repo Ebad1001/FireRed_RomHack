@@ -1,4 +1,4 @@
-@ The text here is a copy/paste from Hoenn's competitive brothers, the NPCs in Sootopolis who request to see big Barboach/Shroomish (Applin/Lotad in Emerald). It's all unused and untranslated
+@ The text here is a copy/paste from Hoenn's competitive brothers, the NPCs in Sootopolis who request to see big Tyrunt/Shroomish (Applin/Lotad in Emerald). It's all unused and untranslated
 
 SootopolisCity_Text_PleaseShowMeBigMon::
     .string "わしは　おおきな　{STR_VAR_1}に\n"

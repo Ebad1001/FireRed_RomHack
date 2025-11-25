@@ -1576,20 +1576,20 @@ Cry_Camerupt::
 	.incbin "sound/direct_sound_samples/cries/camerupt.bin"
 
 	.align 2
-Cry_Barboach::
-	.incbin "sound/direct_sound_samples/cries/barboach.bin"
+Cry_Tyrunt::
+	.incbin "sound/direct_sound_samples/cries/tyrunt.bin"
 
 	.align 2
-Cry_Whiscash::
-	.incbin "sound/direct_sound_samples/cries/whiscash.bin"
+Cry_Tyrantrum::
+	.incbin "sound/direct_sound_samples/cries/tyrantrum.bin"
 
 	.align 2
-Cry_Corphish::
-	.incbin "sound/direct_sound_samples/cries/corphish.bin"
+Cry_Amaura::
+	.incbin "sound/direct_sound_samples/cries/amaura.bin"
 
 	.align 2
-Cry_Crawdaunt::
-	.incbin "sound/direct_sound_samples/cries/crawdaunt.bin"
+Cry_Aurorus::
+	.incbin "sound/direct_sound_samples/cries/aurorus.bin"
 
 	.align 2
 Cry_Spoink::

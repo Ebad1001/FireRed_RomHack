@@ -402,7 +402,7 @@ $(PSSGFXDIR)/dusclops.4bpp: $(PSSGFXDIR)/friends_frame2.4bpp $(PSSGFXDIR)/dusclo
 $(PSSGFXDIR)/ludicolo.4bpp: $(PSSGFXDIR)/friends_frame2.4bpp $(PSSGFXDIR)/ludicolo_bg.4bpp
 	@cat $^ >$@
 
-$(PSSGFXDIR)/whiscash.4bpp: $(PSSGFXDIR)/friends_frame2.4bpp $(PSSGFXDIR)/whiscash_bg.4bpp
+$(PSSGFXDIR)/tyrantrum.4bpp: $(PSSGFXDIR)/friends_frame2.4bpp $(PSSGFXDIR)/tyrantrum_bg.4bpp
 	@cat $^ >$@
 
 $(FIELDEFFECTSGFXDIR)/pics/underwater_bubbles.4bpp: %.4bpp: %.png

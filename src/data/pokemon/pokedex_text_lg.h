@@ -2371,33 +2371,33 @@ const u8 gSolrockPokedexText[] = _(
 
 const u8 gSolrockPokedexTextUnused[] = _("");
 
-const u8 gBarboachPokedexText[] = _(
+const u8 gTyruntPokedexText[] = _(
     "It probes muddy riverbeds with its two\n"
     "long whiskers. A slimy film protects its\n"
     "body.");
 
-const u8 gBarboachPokedexTextUnused[] = _("");
+const u8 gTyruntPokedexTextUnused[] = _("");
 
-const u8 gWhiscashPokedexText[] = _(
+const u8 gTyrantrumPokedexText[] = _(
     "It makes its nest at the bottom of \n"
     "swamps. It will eat anything - if it is\n"
-    "alive, WHISCASH will eat it.");
+    "alive, TYRANTRUM will eat it.");
 
-const u8 gWhiscashPokedexTextUnused[] = _("");
+const u8 gTyrantrumPokedexTextUnused[] = _("");
 
-const u8 gCorphishPokedexText[] = _(
+const u8 gAmauraPokedexText[] = _(
     "It came from overseas. It is a very hardy\n"
     "creature that will quickly proliferate,\n"
     "even in polluted streams.");
 
-const u8 gCorphishPokedexTextUnused[] = _("");
+const u8 gAmauraPokedexTextUnused[] = _("");
 
-const u8 gCrawdauntPokedexText[] = _(
+const u8 gAurorusPokedexText[] = _(
     "A rough customer that wildly flails its\n"
     "giant claws. It is said to be extremely\n"
     "hard to raise.");
 
-const u8 gCrawdauntPokedexTextUnused[] = _("");
+const u8 gAurorusPokedexTextUnused[] = _("");
 
 const u8 gBaltoyPokedexText[] = _(
     "It was discovered in ancient ruins.\n"

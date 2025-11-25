@@ -306,10 +306,10 @@ static const u16 sDexCategory_WatersEdgePkmn_Page2[] = {
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page3[] = {
-    SPECIES_BARBOACH,
-    SPECIES_WHISCASH,
-    SPECIES_CORPHISH,
-    SPECIES_CRAWDAUNT,
+    SPECIES_TYRUNT,
+    SPECIES_TYRANTRUM,
+    SPECIES_AMAURA,
+    SPECIES_AURORUS,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page4[] = {

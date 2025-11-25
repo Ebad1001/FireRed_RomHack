@@ -2145,11 +2145,11 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_DREAM_EATER)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_BARBOACH] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_TYRUNT] = TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_WHISCASH] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_TYRANTRUM] = TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_ROCK_SLIDE)
                        | TUTOR(MOVE_SUBSTITUTE),
@@ -2158,14 +2158,14 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_CORPHISH] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_AMAURA] = TUTOR(MOVE_SWORDS_DANCE)
                        | TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_KNOCK_OFF)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_CRAWDAUNT] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_AURORUS] = TUTOR(MOVE_SWORDS_DANCE)
                         | TUTOR(MOVE_BODY_SLAM)
                         | TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_KNOCK_OFF)

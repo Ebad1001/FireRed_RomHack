@@ -4257,7 +4257,7 @@ static const u16 sSableyeLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sBarboachLevelUpLearnset[] = {
+static const u16 sTyruntLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_MUD_SLAP),
     LEVEL_UP_MOVE(6, MOVE_SLAM),
     LEVEL_UP_MOVE(11, MOVE_WATER_GUN),
@@ -4271,7 +4271,7 @@ static const u16 sBarboachLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sWhiscashLevelUpLearnset[] = {
+static const u16 sTyrantrumLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TICKLE),
     LEVEL_UP_MOVE(1, MOVE_MUD_SLAP),
     LEVEL_UP_MOVE(1, MOVE_SLAM),
@@ -4300,7 +4300,7 @@ static const u16 sRampapeLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sCorphishLevelUpLearnset[] = {
+static const u16 sAmauraLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_BUBBLE),
     LEVEL_UP_MOVE(7, MOVE_HARDEN),
     LEVEL_UP_MOVE(10, MOVE_VICE_GRIP),
@@ -4316,7 +4316,7 @@ static const u16 sCorphishLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sCrawdauntLevelUpLearnset[] = {
+static const u16 sAurorusLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_BUBBLE),
     LEVEL_UP_MOVE(1, MOVE_HARDEN),
     LEVEL_UP_MOVE(1, MOVE_VICE_GRIP),

@@ -4407,52 +4407,52 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_BARBOACH] =
+    [NATIONAL_DEX_TYRUNT] =
     {
         .categoryName = _("CRUEL"),
         .height = 8,
         .weight = 260,
-        .description = gBarboachPokedexText,
-        .unusedDescription = gBarboachPokedexTextUnused,
+        .description = gTyruntPokedexText,
+        .unusedDescription = gTyruntPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_WHISCASH] =
+    [NATIONAL_DEX_TYRANTRUM] =
     {
         .categoryName = _("CRUEL"),
         .height = 25,
         .weight = 2700,
-        .description = gWhiscashPokedexText,
-        .unusedDescription = gWhiscashPokedexTextUnused,
+        .description = gTyrantrumPokedexText,
+        .unusedDescription = gTyrantrumPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CORPHISH] =
+    [NATIONAL_DEX_AMAURA] =
     {
         .categoryName = _("MYSTIC"),
         .height = 13,
         .weight = 252,
-        .description = gCorphishPokedexText,
-        .unusedDescription = gCorphishPokedexTextUnused,
+        .description = gAmauraPokedexText,
+        .unusedDescription = gAmauraPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CRAWDAUNT] =
+    [NATIONAL_DEX_AURORUS] =
     {
         .categoryName = _("MYSTIC"),
         .height = 27,
         .weight = 2250,
-        .description = gCrawdauntPokedexText,
-        .unusedDescription = gCrawdauntPokedexTextUnused,
+        .description = gAurorusPokedexText,
+        .unusedDescription = gAurorusPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

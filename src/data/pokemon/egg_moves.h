@@ -1013,7 +1013,7 @@ const u16 gEggMoves[] = {
               MOVE_RECOVER,
               MOVE_MOONLIGHT),
 
-    egg_moves(BARBOACH,
+    egg_moves(TYRUNT,
               MOVE_THRASH,
               MOVE_WHIRLPOOL,
               MOVE_SPARK),
@@ -1023,7 +1023,7 @@ const u16 gEggMoves[] = {
               MOVE_CONFUSE_RAY,
               MOVE_SLAM),
 
-    egg_moves(CORPHISH,
+    egg_moves(AMAURA,
               MOVE_SLAM,
               MOVE_ENDEAVOR,
               MOVE_BODY_SLAM,

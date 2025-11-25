@@ -9858,7 +9858,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_BARBOACH] = /* TYRUNT */
+    [SPECIES_TYRUNT] = /* TYRUNT */
     {
         .baseHP = 50,
         .baseAttack = 48,
@@ -9887,7 +9887,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_WHISCASH] = /* TYRANTRUM */
+    [SPECIES_TYRANTRUM] = /* TYRANTRUM */
     {
         .baseHP = 110,
         .baseAttack = 78,
@@ -9916,7 +9916,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_CORPHISH] = /* AMAURA */
+    [SPECIES_AMAURA] = /* AMAURA */
     {
         .baseHP = 43,
         .baseAttack = 80,
@@ -9945,7 +9945,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_CRAWDAUNT] = /* AURORUS */
+    [SPECIES_AURORUS] = /* AURORUS */
     {
         .baseHP = 63,
         .baseAttack = 120,

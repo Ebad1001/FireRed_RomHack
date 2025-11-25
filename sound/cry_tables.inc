@@ -318,10 +318,10 @@ gCryTable::
 	cry Cry_Cetitan
 	cry Cry_Numel
 	cry Cry_Camerupt
-	cry Cry_Barboach
-	cry Cry_Whiscash
-	cry Cry_Corphish
-	cry Cry_Crawdaunt
+	cry Cry_Tyrunt
+	cry Cry_Tyrantrum
+	cry Cry_Amaura
+	cry Cry_Aurorus
 	cry Cry_Spoink
 	cry Cry_Grumpig
 	cry Cry_Trapinch
@@ -709,10 +709,10 @@ gCryTable_Reverse::
 	cry_reverse Cry_Cetitan
 	cry_reverse Cry_Numel
 	cry_reverse Cry_Camerupt
-	cry_reverse Cry_Barboach
-	cry_reverse Cry_Whiscash
-	cry_reverse Cry_Corphish
-	cry_reverse Cry_Crawdaunt
+	cry_reverse Cry_Tyrunt
+	cry_reverse Cry_Tyrantrum
+	cry_reverse Cry_Amaura
+	cry_reverse Cry_Aurorus
 	cry_reverse Cry_Spoink
 	cry_reverse Cry_Grumpig
 	cry_reverse Cry_Trapinch
