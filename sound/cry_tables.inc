@@ -308,8 +308,8 @@ gCryTable::
 	cry Cry_Hariyama
 	cry Cry_Nosepass
 	cry Cry_Glalie
-	cry Cry_Plusle
-	cry Cry_Minun
+	cry Cry_Suspecto
+	cry Cry_Dedtecto
 	cry Cry_Wimpod
 	cry Cry_Golisopod
 	cry Cry_Skitty
@@ -699,8 +699,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Hariyama
 	cry_reverse Cry_Nosepass
 	cry_reverse Cry_Glalie
-	cry_reverse Cry_Plusle
-	cry_reverse Cry_Minun
+	cry_reverse Cry_Suspecto
+	cry_reverse Cry_Dedtecto
 	cry_reverse Cry_Wimpod
 	cry_reverse Cry_Golisopod
 	cry_reverse Cry_Skitty

@@ -775,8 +775,8 @@ static const u16 sDexCategory_UrbanPkmn_Page12[] = {
 
 static const u16 sDexCategory_RarePkmn_Page1[] = {
     SPECIES_UNOWN,
-    SPECIES_PLUSLE,
-    SPECIES_MINUN,
+    SPECIES_SUSPECTO,
+    SPECIES_DEDTECTO,
 };
 
 static const u16 sDexCategory_RarePkmn_Page2[] = {

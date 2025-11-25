@@ -2175,19 +2175,19 @@ const u8 gManectricPokedexText[] = _(
 
 const u8 gManectricPokedexTextUnused[] = _("");
 
-const u8 gPluslePokedexText[] = _(
+const u8 gSuspectoPokedexText[] = _(
     "It cheers on partners while scattering\n"
     "sparks from its body. It climbs telephone\n"
     "poles to absorb electricity.");
 
-const u8 gPluslePokedexTextUnused[] = _("");
+const u8 gSuspectoPokedexTextUnused[] = _("");
 
-const u8 gMinunPokedexText[] = _(
+const u8 gDedtectoPokedexText[] = _(
     "Its dislike of water makes it take shelter\n"
     "under the eaves of houses in rain. It uses\n"
     "pom-poms made of sparks for cheering.");
 
-const u8 gMinunPokedexTextUnused[] = _("");
+const u8 gDedtectoPokedexTextUnused[] = _("");
 
 const u8 gVolbeatPokedexText[] = _(
     "It lives around clean ponds. At night,\n"

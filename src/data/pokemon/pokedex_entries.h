@@ -4043,26 +4043,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_PLUSLE] =
+    [NATIONAL_DEX_SUSPECTO] =
     {
         .categoryName = _("ALIVE"),
         .height = 6,
         .weight = 100,
-        .description = gPluslePokedexText,
-        .unusedDescription = gPluslePokedexTextUnused,
+        .description = gSuspectoPokedexText,
+        .unusedDescription = gSuspectoPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_MINUN] =
+    [NATIONAL_DEX_DEDTECTO] =
     {
         .categoryName = _("DEAD"),
         .height = 6,
         .weight = 10,
-        .description = gMinunPokedexText,
-        .unusedDescription = gMinunPokedexTextUnused,
+        .description = gDedtectoPokedexText,
+        .unusedDescription = gDedtectoPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

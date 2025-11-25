@@ -2339,7 +2339,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_DREAM_EATER)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_PLUSLE] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_SUSPECTO] = TUTOR(MOVE_FIRE_PUNCH)
                      | TUTOR(MOVE_THUNDERPUNCH)
                      | TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
@@ -2350,7 +2350,7 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_CHARGE_UP)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_MINUN] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_DEDTECTO] = TUTOR(MOVE_FIRE_PUNCH)
                     | TUTOR(MOVE_THUNDERPUNCH)
                     | TUTOR(MOVE_BODY_SLAM)
                     | TUTOR(MOVE_DOUBLE_EDGE)

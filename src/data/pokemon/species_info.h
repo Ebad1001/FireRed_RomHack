@@ -9046,7 +9046,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_PLUSLE] = /* SUS */
+    [SPECIES_SUSPECTO] = /* SUS */
     {
         .baseHP = 60,
         .baseAttack = 50,
@@ -9075,7 +9075,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_MINUN] = /* DED */
+    [SPECIES_DEDTECTO] = /* DED */
     {
         .baseHP = 60,
         .baseAttack = 40,

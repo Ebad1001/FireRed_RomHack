@@ -7860,7 +7860,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM49_HIDDEN_TYPE)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_PLUSLE]      = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_SUSPECTO]      = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM16_LIGHT_SCREEN)
                                         | TMHM(TM17_PROTECT)
@@ -7878,7 +7878,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM45_DRAGON_PULSE)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_MINUN]       = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_DEDTECTO]       = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM16_LIGHT_SCREEN)
                                         | TMHM(TM17_PROTECT)

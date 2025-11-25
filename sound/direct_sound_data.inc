@@ -1536,12 +1536,12 @@ Cry_Glalie::
 	.incbin "sound/direct_sound_samples/cries/glalie.bin"
 
 	.align 2
-Cry_Plusle::
-	.incbin "sound/direct_sound_samples/cries/plusle.bin"
+Cry_Suspecto::
+	.incbin "sound/direct_sound_samples/cries/suspecto.bin"
 
 	.align 2
-Cry_Minun::
-	.incbin "sound/direct_sound_samples/cries/minun.bin"
+Cry_Dedtecto::
+	.incbin "sound/direct_sound_samples/cries/dedtecto.bin"
 
 	.align 2
 Cry_Wimpod::

@@ -2175,19 +2175,19 @@ const u8 gManectricPokedexText[] = _(
 
 const u8 gManectricPokedexTextUnused[] = _("");
 
-const u8 gPluslePokedexText[] = _(
+const u8 gSuspectoPokedexText[] = _(
     "HP     -  60    Ph.Atk -  50\n"
     "Ph.Def -  40    Sp.Atk -  85\n"
     "Sp.Def -  75    Speed  -  95");
 
-const u8 gPluslePokedexTextUnused[] = _("");
+const u8 gSuspectoPokedexTextUnused[] = _("");
 
-const u8 gMinunPokedexText[] = _(
+const u8 gDedtectoPokedexText[] = _(
     "HP     -  60    Ph.Atk -  40\n"
     "Ph.Def -  50    Sp.Atk -  75\n"
     "Sp.Def -  85    Speed  -  95");
 
-const u8 gMinunPokedexTextUnused[] = _("");
+const u8 gDedtectoPokedexTextUnused[] = _("");
 
 const u8 gVolbeatPokedexText[] = _(
     "HP     -  65    Ph.Atk -  73\n"

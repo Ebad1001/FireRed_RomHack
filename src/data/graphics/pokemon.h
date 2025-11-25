@@ -2297,19 +2297,19 @@ const u32 gMonShinyPalette_Grumpig[] = INCBIN_U32("graphics/pokemon/grumpig/shin
 const u8 gMonIcon_Grumpig[] = INCBIN_U8("graphics/pokemon/grumpig/icon.4bpp");
 const u8 gMonFootprint_Grumpig[] = INCBIN_U8("graphics/pokemon/grumpig/footprint.1bpp");
 
-const u32 gMonFrontPic_Plusle[] = INCBIN_U32("graphics/pokemon/plusle/front.4bpp.lz");
-const u32 gMonPalette_Plusle[] = INCBIN_U32("graphics/pokemon/plusle/normal.gbapal.lz");
-const u32 gMonBackPic_Plusle[] = INCBIN_U32("graphics/pokemon/plusle/back.4bpp.lz");
-const u32 gMonShinyPalette_Plusle[] = INCBIN_U32("graphics/pokemon/plusle/shiny.gbapal.lz");
-const u8 gMonIcon_Plusle[] = INCBIN_U8("graphics/pokemon/plusle/icon.4bpp");
-const u8 gMonFootprint_Plusle[] = INCBIN_U8("graphics/pokemon/plusle/footprint.1bpp");
+const u32 gMonFrontPic_Suspecto[] = INCBIN_U32("graphics/pokemon/suspecto/front.4bpp.lz");
+const u32 gMonPalette_Suspecto[] = INCBIN_U32("graphics/pokemon/suspecto/normal.gbapal.lz");
+const u32 gMonBackPic_Suspecto[] = INCBIN_U32("graphics/pokemon/suspecto/back.4bpp.lz");
+const u32 gMonShinyPalette_Suspecto[] = INCBIN_U32("graphics/pokemon/suspecto/shiny.gbapal.lz");
+const u8 gMonIcon_Suspecto[] = INCBIN_U8("graphics/pokemon/suspecto/icon.4bpp");
+const u8 gMonFootprint_Suspecto[] = INCBIN_U8("graphics/pokemon/suspecto/footprint.1bpp");
 
-const u32 gMonFrontPic_Minun[] = INCBIN_U32("graphics/pokemon/minun/front.4bpp.lz");
-const u32 gMonPalette_Minun[] = INCBIN_U32("graphics/pokemon/minun/normal.gbapal.lz");
-const u32 gMonBackPic_Minun[] = INCBIN_U32("graphics/pokemon/minun/back.4bpp.lz");
-const u32 gMonShinyPalette_Minun[] = INCBIN_U32("graphics/pokemon/minun/shiny.gbapal.lz");
-const u8 gMonIcon_Minun[] = INCBIN_U8("graphics/pokemon/minun/icon.4bpp");
-const u8 gMonFootprint_Minun[] = INCBIN_U8("graphics/pokemon/minun/footprint.1bpp");
+const u32 gMonFrontPic_Dedtecto[] = INCBIN_U32("graphics/pokemon/dedtecto/front.4bpp.lz");
+const u32 gMonPalette_Dedtecto[] = INCBIN_U32("graphics/pokemon/dedtecto/normal.gbapal.lz");
+const u32 gMonBackPic_Dedtecto[] = INCBIN_U32("graphics/pokemon/dedtecto/back.4bpp.lz");
+const u32 gMonShinyPalette_Dedtecto[] = INCBIN_U32("graphics/pokemon/dedtecto/shiny.gbapal.lz");
+const u8 gMonIcon_Dedtecto[] = INCBIN_U8("graphics/pokemon/dedtecto/icon.4bpp");
+const u8 gMonFootprint_Dedtecto[] = INCBIN_U8("graphics/pokemon/dedtecto/footprint.1bpp");
 
 const u32 gMonFrontPic_Mawile[] = INCBIN_U32("graphics/pokemon/mawile/front.4bpp.lz");
 const u32 gMonPalette_Mawile[] = INCBIN_U32("graphics/pokemon/mawile/normal.gbapal.lz");

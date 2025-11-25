@@ -4723,7 +4723,7 @@ static const u16 sGrumpigLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sPlusleLevelUpLearnset[] = {
+static const u16 sSuspectoLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_GROWL),
     LEVEL_UP_MOVE(4, MOVE_THUNDER_WAVE),
     LEVEL_UP_MOVE(10, MOVE_QUICK_ATTACK),
@@ -4737,7 +4737,7 @@ static const u16 sPlusleLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sMinunLevelUpLearnset[] = {
+static const u16 sDedtectoLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_GROWL),
     LEVEL_UP_MOVE(4, MOVE_THUNDER_WAVE),
     LEVEL_UP_MOVE(10, MOVE_QUICK_ATTACK),

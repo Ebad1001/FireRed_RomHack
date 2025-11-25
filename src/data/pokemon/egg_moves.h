@@ -1102,11 +1102,11 @@ const u16 gEggMoves[] = {
               MOVE_SUBSTITUTE,
               MOVE_TRICK),
 
-    egg_moves(PLUSLE,
+    egg_moves(SUSPECTO,
               MOVE_SUBSTITUTE,
               MOVE_WISH),
 
-    egg_moves(MINUN,
+    egg_moves(DEDTECTO,
               MOVE_SUBSTITUTE,
               MOVE_WISH),
 
