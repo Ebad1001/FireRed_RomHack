@@ -202,7 +202,7 @@ gCryTable::
 	cry Cry_Krookodile
 	cry Cry_Unown
 	cry Cry_Wobbuffet
-	cry Cry_Girafarig
+	cry Cry_Boomer
 	cry Cry_Pineco
 	cry Cry_Forretress
 	cry Cry_Dunsparce
@@ -593,7 +593,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Krookodile
 	cry_reverse Cry_Unown
 	cry_reverse Cry_Wobbuffet
-	cry_reverse Cry_Girafarig
+	cry_reverse Cry_Boomer
 	cry_reverse Cry_Pineco
 	cry_reverse Cry_Forretress
 	cry_reverse Cry_Dunsparce

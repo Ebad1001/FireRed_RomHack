@@ -1153,7 +1153,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_2 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_GIRAFARIG,
+					.species = SPECIES_BOOMER,
 					.heldItem = ITEM_SALAC_BERRY,
 					.moves = {MOVE_LIGHT_SCREEN, MOVE_SUNNY_DAY, MOVE_SHADOW_BALL, MOVE_PSYBEAM},
 					.hpEV = 255,
@@ -1171,7 +1171,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_2 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x0A, // FEMALE TIMID
-					.nickname = _("GIRAFARIG"),
+					.nickname = _("BOOMER"),
 					.friendship = 255
 				},
 				{
@@ -5368,7 +5368,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_GIRAFARIG,
+					.species = SPECIES_BOOMER,
 					.heldItem = ITEM_LUM_BERRY,
 					.moves = {MOVE_LIGHT_SCREEN, MOVE_CRUNCH, MOVE_PSYCHIC, MOVE_REFLECT},
 					.hpEV = 210,
@@ -5386,7 +5386,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x8C, // MALE MODEST
-					.nickname = _("GIRAFARIG"),
+					.nickname = _("BOOMER"),
 					.friendship = 255
 				},
 			}
@@ -7128,7 +7128,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_2 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_GIRAFARIG,
+					.species = SPECIES_BOOMER,
 					.heldItem = ITEM_LUM_BERRY,
 					.moves = {MOVE_THUNDERBOLT, MOVE_CRUNCH, MOVE_BODY_SLAM, MOVE_REST},
 					.hpEV = 0,
@@ -7146,7 +7146,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_2 = {
 					.spDefenseIV = 15,
 					.abilityNum = 1,
 					.personality = 0x03, // FEMALE ADAMANT
-					.nickname = _("GIRAFARIG"),
+					.nickname = _("BOOMER"),
 					.friendship = 255
 				},
 				{

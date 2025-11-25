@@ -1112,8 +1112,8 @@ Cry_Wobbuffet::
 	.incbin "sound/direct_sound_samples/cries/wobbuffet.bin"
 
 	.align 2
-Cry_Girafarig::
-	.incbin "sound/direct_sound_samples/cries/girafarig.bin"
+Cry_Boomer::
+	.incbin "sound/direct_sound_samples/cries/boomer.bin"
 
 	.align 2
 Cry_Pineco::

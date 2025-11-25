@@ -129,7 +129,7 @@ const pokemon_names = [
 	"UNOWN/A",
 	"SPINDA",
 	"WOBBUFFET",
-	"GIRAFARIG",
+	"BOOMER",
 	"DUNSPARCE",
 	"MEOWTH",
 	"PERSIAN",

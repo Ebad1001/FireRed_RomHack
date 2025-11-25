@@ -580,8 +580,8 @@ static const u16 sEasyChatWordsByLetter_G[] = {
     EC_WORD_GIGGLE,
     EC_WORD_GIMME,
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(GIRAFARIG),
-    EC_POKEMON(GIRAFARIG),
+    EC_POKEMON2(BOOMER),
+    EC_POKEMON(BOOMER),
     EC_WORD_GIRL,
     EC_WORD_GIVE,
     EC_WORD_GIVE_ME,

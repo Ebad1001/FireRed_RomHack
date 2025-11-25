@@ -513,7 +513,7 @@ static const u16 sDexCategory_CavePkmn_Page7[] = {
 
 static const u16 sDexCategory_CavePkmn_Page8[] = {
     SPECIES_WOBBUFFET,
-    SPECIES_GIRAFARIG,
+    SPECIES_BOOMER,
 };
 
 static const u16 sDexCategory_CavePkmn_Page9[] = {

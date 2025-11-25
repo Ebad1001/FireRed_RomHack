@@ -1412,12 +1412,12 @@ const u32 gMonShinyPalette_Wobbuffet[] = INCBIN_U32("graphics/pokemon/wobbuffet/
 const u8 gMonIcon_Wobbuffet[] = INCBIN_U8("graphics/pokemon/wobbuffet/icon.4bpp");
 const u8 gMonFootprint_Wobbuffet[] = INCBIN_U8("graphics/pokemon/wobbuffet/footprint.1bpp");
 
-const u32 gMonFrontPic_Girafarig[] = INCBIN_U32("graphics/pokemon/girafarig/front.4bpp.lz");
-const u32 gMonPalette_Girafarig[] = INCBIN_U32("graphics/pokemon/girafarig/normal.gbapal.lz");
-const u32 gMonBackPic_Girafarig[] = INCBIN_U32("graphics/pokemon/girafarig/back.4bpp.lz");
-const u32 gMonShinyPalette_Girafarig[] = INCBIN_U32("graphics/pokemon/girafarig/shiny.gbapal.lz");
-const u8 gMonIcon_Girafarig[] = INCBIN_U8("graphics/pokemon/girafarig/icon.4bpp");
-const u8 gMonFootprint_Girafarig[] = INCBIN_U8("graphics/pokemon/girafarig/footprint.1bpp");
+const u32 gMonFrontPic_Boomer[] = INCBIN_U32("graphics/pokemon/boomer/front.4bpp.lz");
+const u32 gMonPalette_Boomer[] = INCBIN_U32("graphics/pokemon/boomer/normal.gbapal.lz");
+const u32 gMonBackPic_Boomer[] = INCBIN_U32("graphics/pokemon/boomer/back.4bpp.lz");
+const u32 gMonShinyPalette_Boomer[] = INCBIN_U32("graphics/pokemon/boomer/shiny.gbapal.lz");
+const u8 gMonIcon_Boomer[] = INCBIN_U8("graphics/pokemon/boomer/icon.4bpp");
+const u8 gMonFootprint_Boomer[] = INCBIN_U8("graphics/pokemon/boomer/footprint.1bpp");
 
 const u32 gMonFrontPic_Pineco[] = INCBIN_U32("graphics/pokemon/pineco/front.4bpp.lz");
 const u32 gMonPalette_Pineco[] = INCBIN_U32("graphics/pokemon/pineco/normal.gbapal.lz");

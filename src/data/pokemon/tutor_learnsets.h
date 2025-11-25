@@ -1461,7 +1461,7 @@ static const u16 sTutorLearnsets[] =
 
     [SPECIES_WOBBUFFET] = 0,
 
-    [SPECIES_GIRAFARIG] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_BOOMER] = TUTOR(MOVE_BODY_SLAM)
                         | TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_DREAM_EATER)

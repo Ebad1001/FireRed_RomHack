@@ -1419,12 +1419,12 @@ const u8 gWobbuffetPokedexText[] = _(
 
 const u8 gWobbuffetPokedexTextUnused[] = _("");
 
-const u8 gGirafarigPokedexText[] = _(
+const u8 gBoomerPokedexText[] = _(
     "HP     -  70    Ph.Atk -  80\n"
     "Ph.Def -  65    Sp.Atk -  90\n"
     "Sp.Def -  65    Speed  -  85");
 
-const u8 gGirafarigPokedexTextUnused[] = _("");
+const u8 gBoomerPokedexTextUnused[] = _("");
 
 const u8 gPinecoPokedexText[] = _(
     "HP     -  50    Ph.Atk -  65\n"

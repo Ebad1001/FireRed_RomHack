@@ -2639,13 +2639,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_GIRAFARIG] =
+    [NATIONAL_DEX_BOOMER] =
     {
         .categoryName = _("BLAST"),
         .height = 17,
         .weight = 313,
-        .description = gGirafarigPokedexText,
-        .unusedDescription = gGirafarigPokedexTextUnused,
+        .description = gBoomerPokedexText,
+        .unusedDescription = gBoomerPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

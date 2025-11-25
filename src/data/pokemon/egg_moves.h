@@ -671,7 +671,7 @@ const u16 gEggMoves[] = {
               MOVE_DESTINY_BOND,
               MOVE_PSYCH_UP),
 
-    egg_moves(GIRAFARIG,
+    egg_moves(BOOMER,
               MOVE_TAKE_DOWN,
               MOVE_AMNESIA,
               MOVE_ODOR_SLEUTH,

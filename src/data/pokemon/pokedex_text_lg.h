@@ -1419,12 +1419,12 @@ const u8 gWobbuffetPokedexText[] = _(
 
 const u8 gWobbuffetPokedexTextUnused[] = _("");
 
-const u8 gGirafarigPokedexText[] = _(
+const u8 gBoomerPokedexText[] = _(
     "Its tail has a small brain of its own.\n"
     "Beware! If you get close, it may react\n"
     "to your scent and bite.");
 
-const u8 gGirafarigPokedexTextUnused[] = _("");
+const u8 gBoomerPokedexTextUnused[] = _("");
 
 const u8 gPinecoPokedexText[] = _(
     "It likes to make its shell thicker by\n"

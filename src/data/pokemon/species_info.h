@@ -5889,7 +5889,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_GIRAFARIG] = /* BOOMER */
+    [SPECIES_BOOMER] = /* BOOMER */
     {
         .baseHP = 70,
         .baseAttack = 80,
