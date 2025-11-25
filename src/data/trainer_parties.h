@@ -7227,7 +7227,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PkmnBreederAlize[] = {
     {
         .iv = 30,
         .lvl = 48,
-        .species = SPECIES_MARILL,
+        .species = SPECIES_METALLOY,
     },
 };
 
@@ -8080,7 +8080,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_SwimmerFemaleNicole[] = 
     {
         .iv = 0,
         .lvl = 50,
-        .species = SPECIES_MARILL,
+        .species = SPECIES_METALLOY,
     },
 };
 
@@ -10096,7 +10096,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PkmnBreederAlize2[] = {
     {
         .iv = 150,
         .lvl = 53,
-        .species = SPECIES_MARILL,
+        .species = SPECIES_METALLOY,
     },
 };
 
@@ -10169,7 +10169,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_SwimmerFemaleNicole2[] =
     {
         .iv = 120,
         .lvl = 54,
-        .species = SPECIES_MARILL,
+        .species = SPECIES_METALLOY,
     },
 };
 

@@ -5309,7 +5309,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_MARILL] = /* METALLOY */
+    [SPECIES_METALLOY] = /* METALLOY */
     {
         .baseHP = 70,
         .baseAttack = 20,
@@ -5338,7 +5338,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_AZUMARILL] = /* AZUMETAL */
+    [SPECIES_AZUMETAL] = /* AZUMETAL */
     {
         .baseHP = 100,
         .baseAttack = 50,

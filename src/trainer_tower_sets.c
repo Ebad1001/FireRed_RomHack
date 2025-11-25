@@ -5126,7 +5126,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_5 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_AZUMARILL,
+					.species = SPECIES_AZUMETAL,
 					.heldItem = ITEM_WHITE_HERB,
 					.moves = {MOVE_DIVE, MOVE_LIGHT_SCREEN, MOVE_TAIL_WHIP, MOVE_DEFENSE_CURL},
 					.hpEV = 155,
@@ -5144,7 +5144,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Mixed_5 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x14, // FEMALE CALM
-					.nickname = _("AZUMARILL"),
+					.nickname = _("AZUMETAL"),
 					.friendship = 255
 				},
 				{
@@ -6687,7 +6687,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_4 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_AZUMARILL,
+					.species = SPECIES_AZUMETAL,
 					.heldItem = ITEM_QUICK_CLAW,
 					.moves = {MOVE_SURF, MOVE_ENCORE, MOVE_ATTRACT, MOVE_DIG},
 					.hpEV = 0,
@@ -6705,7 +6705,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_4 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x00, // FEMALE HARDY
-					.nickname = _("AZUMARILL"),
+					.nickname = _("AZUMETAL"),
 					.friendship = 255
 				},
 			}

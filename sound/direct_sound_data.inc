@@ -1032,12 +1032,12 @@ Cry_Sunbloom::
 	.incbin "sound/direct_sound_samples/cries/sunbloom.bin"
 
 	.align 2
-Cry_Marill::
-	.incbin "sound/direct_sound_samples/cries/marill.bin"
+Cry_Metalloy::
+	.incbin "sound/direct_sound_samples/cries/metalloy.bin"
 
 	.align 2
-Cry_Azumarill::
-	.incbin "sound/direct_sound_samples/cries/azumarill.bin"
+Cry_Azumetal::
+	.incbin "sound/direct_sound_samples/cries/azumetal.bin"
 
 	.align 2
 Cry_Gallade::

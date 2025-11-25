@@ -14,5 +14,6 @@ int main() {
     moves_info_main();
     printf("\nRunning movesets_main()\n");
     movesets_main();
+    printf("\nDone!\n");
     return 0;
 }

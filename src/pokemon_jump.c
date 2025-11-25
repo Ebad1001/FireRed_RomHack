@@ -807,7 +807,7 @@ static const struct PokemonJumpMons
     { .species = SPECIES_TOGEPI,     .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_MAREEP,     .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_SUNBLOOM,  .jumpType = JUMP_TYPE_SLOW },
-    { .species = SPECIES_MARILL,     .jumpType = JUMP_TYPE_SLOW },
+    { .species = SPECIES_METALLOY,     .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_SUNKERN,    .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_WOOPER,     .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_PINECO,     .jumpType = JUMP_TYPE_SLOW },

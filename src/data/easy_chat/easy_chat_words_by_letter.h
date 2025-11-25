@@ -115,8 +115,8 @@ static const u16 sEasyChatWordsByLetter_A[] = {
     EC_WORD_AWFULLY,
     EC_WORD_AWW,
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(AZUMARILL),
-    EC_POKEMON(AZUMARILL),
+    EC_POKEMON2(AZUMETAL),
+    EC_POKEMON(AZUMETAL),
     EC_POKEMON2(AZURILL),
 };
 
@@ -980,8 +980,8 @@ static const u16 sEasyChatWordsByLetter_M[] = {
     EC_POKEMON(MANTINE),
     EC_POKEMON(MAREEP),
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(MARILL),
-    EC_POKEMON(MARILL),
+    EC_POKEMON2(METALLOY),
+    EC_POKEMON(METALLOY),
     EC_POKEMON(MAROWAK),
     EC_POKEMON2(MARSHTOMP),
     EC_WORD_MYSTIC_SCALE,

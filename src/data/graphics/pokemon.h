@@ -1272,19 +1272,19 @@ const u32 gMonShinyPalette_Sunbloom[] = INCBIN_U32("graphics/pokemon/sunbloom/sh
 const u8 gMonIcon_Sunbloom[] = INCBIN_U8("graphics/pokemon/sunbloom/icon.4bpp");
 const u8 gMonFootprint_Sunbloom[] = INCBIN_U8("graphics/pokemon/sunbloom/footprint.1bpp");
 
-const u32 gMonFrontPic_Marill[] = INCBIN_U32("graphics/pokemon/marill/front.4bpp.lz");
-const u32 gMonPalette_Marill[] = INCBIN_U32("graphics/pokemon/marill/normal.gbapal.lz");
-const u32 gMonBackPic_Marill[] = INCBIN_U32("graphics/pokemon/marill/back.4bpp.lz");
-const u32 gMonShinyPalette_Marill[] = INCBIN_U32("graphics/pokemon/marill/shiny.gbapal.lz");
-const u8 gMonIcon_Marill[] = INCBIN_U8("graphics/pokemon/marill/icon.4bpp");
-const u8 gMonFootprint_Marill[] = INCBIN_U8("graphics/pokemon/marill/footprint.1bpp");
+const u32 gMonFrontPic_Metalloy[] = INCBIN_U32("graphics/pokemon/metalloy/front.4bpp.lz");
+const u32 gMonPalette_Metalloy[] = INCBIN_U32("graphics/pokemon/metalloy/normal.gbapal.lz");
+const u32 gMonBackPic_Metalloy[] = INCBIN_U32("graphics/pokemon/metalloy/back.4bpp.lz");
+const u32 gMonShinyPalette_Metalloy[] = INCBIN_U32("graphics/pokemon/metalloy/shiny.gbapal.lz");
+const u8 gMonIcon_Metalloy[] = INCBIN_U8("graphics/pokemon/metalloy/icon.4bpp");
+const u8 gMonFootprint_Metalloy[] = INCBIN_U8("graphics/pokemon/metalloy/footprint.1bpp");
 
-const u32 gMonFrontPic_Azumarill[] = INCBIN_U32("graphics/pokemon/azumarill/front.4bpp.lz");
-const u32 gMonPalette_Azumarill[] = INCBIN_U32("graphics/pokemon/azumarill/normal.gbapal.lz");
-const u32 gMonBackPic_Azumarill[] = INCBIN_U32("graphics/pokemon/azumarill/back.4bpp.lz");
-const u32 gMonShinyPalette_Azumarill[] = INCBIN_U32("graphics/pokemon/azumarill/shiny.gbapal.lz");
-const u8 gMonIcon_Azumarill[] = INCBIN_U8("graphics/pokemon/azumarill/icon.4bpp");
-const u8 gMonFootprint_Azumarill[] = INCBIN_U8("graphics/pokemon/azumarill/footprint.1bpp");
+const u32 gMonFrontPic_Azumetal[] = INCBIN_U32("graphics/pokemon/azumetal/front.4bpp.lz");
+const u32 gMonPalette_Azumetal[] = INCBIN_U32("graphics/pokemon/azumetal/normal.gbapal.lz");
+const u32 gMonBackPic_Azumetal[] = INCBIN_U32("graphics/pokemon/azumetal/back.4bpp.lz");
+const u32 gMonShinyPalette_Azumetal[] = INCBIN_U32("graphics/pokemon/azumetal/shiny.gbapal.lz");
+const u8 gMonIcon_Azumetal[] = INCBIN_U8("graphics/pokemon/azumetal/icon.4bpp");
+const u8 gMonFootprint_Azumetal[] = INCBIN_U8("graphics/pokemon/azumetal/footprint.1bpp");
 
 const u32 gMonFrontPic_Gallade[] = INCBIN_U32("graphics/pokemon/gallade/front.4bpp.lz");
 const u32 gMonPalette_Gallade[] = INCBIN_U32("graphics/pokemon/gallade/normal.gbapal.lz");

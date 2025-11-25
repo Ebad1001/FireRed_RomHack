@@ -182,8 +182,8 @@ gCryTable::
 	cry Cry_Flaaffy
 	cry Cry_Ampharos
 	cry Cry_Sunbloom
-	cry Cry_Marill
-	cry Cry_Azumarill
+	cry Cry_Metalloy
+	cry Cry_Azumetal
 	cry Cry_Gallade
 	cry Cry_Polispark
 	cry Cry_Shinx
@@ -573,8 +573,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Flaaffy
 	cry_reverse Cry_Ampharos
 	cry_reverse Cry_Sunbloom
-	cry_reverse Cry_Marill
-	cry_reverse Cry_Azumarill
+	cry_reverse Cry_Metalloy
+	cry_reverse Cry_Azumetal
 	cry_reverse Cry_Gallade
 	cry_reverse Cry_Polispark
 	cry_reverse Cry_Shinx

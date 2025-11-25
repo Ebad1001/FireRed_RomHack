@@ -313,7 +313,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_HARDY,
 	},
 	{
-		.species = SPECIES_AZUMARILL,
+		.species = SPECIES_AZUMETAL,
 		.heldItem = BATTLE_TOWER_ITEM_WHITE_HERB,
 		.teamFlags = 0x42,
 		.moves = {

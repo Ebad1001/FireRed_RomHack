@@ -470,7 +470,7 @@ const u16 DecorGfx_PIKACHU_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 
-const u16 DecorGfx_MARILL_DOLL[] = {
+const u16 DecorGfx_METALLOY_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 

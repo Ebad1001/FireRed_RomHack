@@ -1279,19 +1279,19 @@ const u8 gSunbloomPokedexText[] = _(
 
 const u8 gSunbloomPokedexTextUnused[] = _("");
 
-const u8 gMarillPokedexText[] = _(
+const u8 gMetalloyPokedexText[] = _(
     "The tip of its tail, which contains oil\n"
     "that is lighter than water, lets it swim\n"
     "without drowning.");
 
-const u8 gMarillPokedexTextUnused[] = _("");
+const u8 gMetalloyPokedexTextUnused[] = _("");
 
-const u8 gAzumarillPokedexText[] = _(
+const u8 gAzumetalPokedexText[] = _(
     "By keeping still and listening intently, it\n"
     "can even tell what is in wild, fast-moving\n"
     "rivers.");
 
-const u8 gAzumarillPokedexTextUnused[] = _("");
+const u8 gAzumetalPokedexTextUnused[] = _("");
 
 const u8 gGalladePokedexText[] = _(
     "Although it always pretends to be a tree,\n"

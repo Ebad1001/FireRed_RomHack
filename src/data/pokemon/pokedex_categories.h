@@ -338,8 +338,8 @@ static const u16 sDexCategory_WatersEdgePkmn_Page7[] = {
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page8[] = {
-    SPECIES_MARILL,
-    SPECIES_AZUMARILL,
+    SPECIES_METALLOY,
+    SPECIES_AZUMETAL,
 };
 
 static const u16 sDexCategory_WatersEdgePkmn_Page9[] = {

@@ -702,14 +702,14 @@ const struct Decoration gDecorations[] = {
         DecorDesc_PIKACHU_DOLL,
         DecorGfx_PIKACHU_DOLL
     }, {
-        DECOR_MARILL_DOLL,
-        _("MARILL DOLL"),
+        DECOR_METALLOY_DOLL,
+        _("METALLOY DOLL"),
         DECORPERM_SPRITE,
         DECORSHAPE_1x1,
         DECORCAT_DOLL,
         3000,
-        DecorDesc_MARILL_DOLL,
-        DecorGfx_MARILL_DOLL
+        DecorDesc_METALLOY_DOLL,
+        DecorGfx_METALLOY_DOLL
     }, {
         DECOR_TOGEPI_DOLL,
         _("TOGEPI DOLL"),

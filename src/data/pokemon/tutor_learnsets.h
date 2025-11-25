@@ -1329,7 +1329,7 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_MARILL] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_METALLOY] = TUTOR(MOVE_FIRE_PUNCH)
                      | TUTOR(MOVE_THUNDERPUNCH)
                      | TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1337,7 +1337,7 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_AZUMARILL] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_AZUMETAL] = TUTOR(MOVE_FIRE_PUNCH)
                         | TUTOR(MOVE_THUNDERPUNCH)
                         | TUTOR(MOVE_BODY_SLAM)
                         | TUTOR(MOVE_DOUBLE_EDGE)

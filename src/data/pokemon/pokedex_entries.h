@@ -2379,26 +2379,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_MARILL] =
+    [NATIONAL_DEX_METALLOY] =
     {
         .categoryName = _("METAL-BALL"),
         .height = 4,
         .weight = 850,
-        .description = gMarillPokedexText,
-        .unusedDescription = gMarillPokedexTextUnused,
+        .description = gMetalloyPokedexText,
+        .unusedDescription = gMetalloyPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_AZUMARILL] =
+    [NATIONAL_DEX_AZUMETAL] =
     {
         .categoryName = _("METAL-BALL"),
         .height = 8,
         .weight = 2850,
-        .description = gAzumarillPokedexText,
-        .unusedDescription = gAzumarillPokedexTextUnused,
+        .description = gAzumetalPokedexText,
+        .unusedDescription = gAzumetalPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

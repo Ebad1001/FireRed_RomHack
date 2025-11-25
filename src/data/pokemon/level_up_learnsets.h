@@ -2531,7 +2531,7 @@ static const u16 sSunbloomLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sMarillLevelUpLearnset[] = {
+static const u16 sMetalloyLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(3, MOVE_DEFENSE_CURL),
     LEVEL_UP_MOVE(6, MOVE_TAIL_WHIP),
@@ -2544,7 +2544,7 @@ static const u16 sMarillLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sAzumarillLevelUpLearnset[] = {
+static const u16 sAzumetalLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_DEFENSE_CURL),
     LEVEL_UP_MOVE(1, MOVE_TAIL_WHIP),
