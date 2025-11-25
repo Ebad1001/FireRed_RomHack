@@ -123,7 +123,7 @@ gCryTable::
 	cry Cry_Starmie
 	cry Cry_MrMime
 	cry Cry_Scyther
-	cry Cry_Jynx
+	cry Cry_Beartic
 	cry Cry_Electabuzz
 	cry Cry_Magmar
 	cry Cry_Pinsir
@@ -250,7 +250,7 @@ gCryTable::
 	cry Cry_Tyranitar
 	cry Cry_Lugia
 	cry Cry_HoOh
-	cry Cry_Celebi
+	cry Cry_Serelot
 	cry Cry_Kecleon
 	cry Cry_Corvidoc
 	cry Cry_Torkoal
@@ -385,7 +385,7 @@ gCryTable::
 	cry Cry_Whismur
 	cry Cry_Snorunt
 	cry Cry_Latios
-	cry Cry_Jirachi
+	cry Cry_Chaoross
 	cry Cry_Deoxys
 	cry Cry_Chimecho
 
@@ -514,7 +514,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Starmie
 	cry_reverse Cry_MrMime
 	cry_reverse Cry_Scyther
-	cry_reverse Cry_Jynx
+	cry_reverse Cry_Beartic
 	cry_reverse Cry_Electabuzz
 	cry_reverse Cry_Magmar
 	cry_reverse Cry_Pinsir
@@ -641,7 +641,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Tyranitar
 	cry_reverse Cry_Lugia
 	cry_reverse Cry_HoOh
-	cry_reverse Cry_Celebi
+	cry_reverse Cry_Serelot
 	cry_reverse Cry_Kecleon
 	cry_reverse Cry_Corvidoc
 	cry_reverse Cry_Torkoal
@@ -776,6 +776,6 @@ gCryTable_Reverse::
 	cry_reverse Cry_Whismur
 	cry_reverse Cry_Snorunt
 	cry_reverse Cry_Latios
-	cry_reverse Cry_Jirachi
+	cry_reverse Cry_Chaoross
 	cry_reverse Cry_Deoxys
 	cry_reverse Cry_Chimecho

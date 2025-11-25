@@ -866,12 +866,12 @@ const u8 gScytherPokedexText[] = _(
 
 const u8 gScytherPokedexTextUnused[] = _("");
 
-const u8 gJynxPokedexText[] = _(
+const u8 gBearticPokedexText[] = _(
     "It seductively wiggles its hips as it\n"
     "walks. It can cause people to dance in\n"
     "unison with it.");
 
-const u8 gJynxPokedexTextUnused[] = _("");
+const u8 gBearticPokedexTextUnused[] = _("");
 
 const u8 gElectabuzzPokedexText[] = _(
     "Normally found near power plants, they\n"
@@ -1755,12 +1755,12 @@ const u8 gHoOhPokedexText[] = _(
 
 const u8 gHoOhPokedexTextUnused[] = _("");
 
-const u8 gCelebiPokedexText[] = _(
+const u8 gSerelotPokedexText[] = _(
     "This POKéMON wanders across time.\n"
     "Grass and trees flourish in the forests in\n"
     "which it has appeared.");
 
-const u8 gCelebiPokedexTextUnused[] = _("");
+const u8 gSerelotPokedexTextUnused[] = _("");
 
 const u8 gTreeckoPokedexText[] = _(
     "It quickly scales even vertical walls.\n"
@@ -2693,12 +2693,12 @@ const u8 gRayquazaPokedexText[] = _(
 
 const u8 gRayquazaPokedexTextUnused[] = _("");
 
-const u8 gJirachiPokedexText[] = _(
+const u8 gChaorossPokedexText[] = _(
     "It is said to make any wish come true.\n"
     "It is awake for only seven days out of\n"
     "a thousand years.");
 
-const u8 gJirachiPokedexTextUnused[] = _("");
+const u8 gChaorossPokedexTextUnused[] = _("");
 
 const u8 gDeoxysPokedexText[] = _(
     "When it changes form, an aurora appears.\n"

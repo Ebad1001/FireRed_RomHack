@@ -15,10 +15,10 @@ static const struct InGameTrade sInGameTrades[] = {
         .sheen = 10,
         .requestedSpecies = SPECIES_ABRA
     }, 
-    [INGAME_TRADE_JYNX] = 
+    [INGAME_TRADE_BEARTIC] = 
     {
         .nickname = _("ZYNX"),
-        .species = SPECIES_JYNX,
+        .species = SPECIES_BEARTIC,
         .ivs = {18, 17, 18, 22, 25, 21},
         .abilityNum = 0,
         .otId = 36728,
@@ -186,7 +186,7 @@ static const u16 sInGameTradeMailMessages[][10] = {
         EC_WORD_THAT_S,
         EC_WORD_A,
         EC_WORD_HEALTHY,
-        EC_POKEMON(JYNX),
+        EC_POKEMON(BEARTIC),
         EC_WORD_EXCL,
         EC_WORD_BE,
         EC_WORD_KIND,

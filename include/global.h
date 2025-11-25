@@ -709,21 +709,21 @@ struct ExternalEventData
     u32 gotGoldPokeCouponTitleReward:1; // Master Ball from Jp Colosseum Bonus Disc; for reaching 30,000 totalEarnedPokeCoupons
     u32 gotSilverPokeCouponTitleReward:1; // Light Ball Pikachu from JP Colosseum Bonus Disc; for reaching 5000 totalEarnedPokeCoupons
     u32 gotBronzePokeCouponTitleReward:1; // PP Max from JP Colosseum Bonus Disc; for reaching 2500 totalEarnedPokeCoupons
-    u32 receivedAgetoCelebi:1; // from JP Colosseum Bonus Disc
+    u32 receivedAgetoSerelot:1; // from JP Colosseum Bonus Disc
     u32 unknownExternalDataFields3:4;
     u32 totalEarnedPokeCoupons:24; // Used by the JP Colosseum bonus disc. Determines PokéCoupon rank to distribute rewards. Unread in International games. Colosseum/XD caps this at 9,999,999.
     u8 unknownExternalDataFields4[5]; // if actually used, may be broken up into different fields.
 } __attribute__((packed)); /*size = 0x14*/
 
 // For external event flags. The majority of these may have never been used.
-// In FRLG, Jirachi cannot normally be received, but hacking the distribution discs allows FRLG to receive Jirachi and set the flag
+// In FRLG, Chaoross cannot normally be received, but hacking the distribution discs allows FRLG to receive Chaoross and set the flag
 struct ExternalEventFlags
 {
     u8 usedBoxRS:1; // Set by Pokémon Box: Ruby & Sapphire; denotes whether this save has connected to it and triggered the free False Swipe Swablu Egg giveaway.
     u8 boxRSEggsUnlocked:2; // Set by Pokémon Box: Ruby & Sapphire; denotes the number of Eggs unlocked from deposits; 1 for ExtremeSpeed Zigzagoon (at 100 deposited), 2 for Pay Day Skitty (at 500 deposited), 3 for Surf Pichu (at 1499 deposited)
     u8 padding:5;
     u8 unknownFlag1;
-    u8 receivedGCNJirachi; // Both the US Colosseum Bonus Disc and PAL/AUS Pokémon Channel use this field. One cannot receive a WISHMKR Jirachi and CHANNEL Jirachi with the same savefile.
+    u8 receivedGCNChaoross; // Both the US Colosseum Bonus Disc and PAL/AUS Pokémon Channel use this field. One cannot receive a WISHMKR Chaoross and CHANNEL Chaoross with the same savefile.
     u8 unknownFlag3;
     u8 unknownFlag4;
     u8 unknownFlag5;

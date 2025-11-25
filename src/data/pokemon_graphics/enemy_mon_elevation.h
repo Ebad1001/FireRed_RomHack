@@ -33,7 +33,7 @@ const u8 gEnemyMonElevation[NUM_SPECIES] =
     [SPECIES_LEVISCOR] = 6,
     [SPECIES_LUGIA] = 6,
     [SPECIES_HO_OH] = 6,
-    [SPECIES_CELEBI] = 15,
+    [SPECIES_SERELOT] = 15,
     [SPECIES_PANSEAR] = 8,
     [SPECIES_PANVOLT] = 10,
     [SPECIES_NINJASK] = 10,
@@ -57,7 +57,7 @@ const u8 gEnemyMonElevation[NUM_SPECIES] =
     [SPECIES_RAYQUAZA] = 6,
     [SPECIES_LATIAS] = 6,
     [SPECIES_LATIOS] = 6,
-    [SPECIES_JIRACHI] = 12,
+    [SPECIES_CHAOROSS] = 12,
     [SPECIES_DEOXYS] = 8,
     [SPECIES_CHIMECHO] = 12,
 };

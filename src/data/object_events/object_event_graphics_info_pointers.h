@@ -144,7 +144,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Suicune;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Raikou;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Lugia;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_HoOh;
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Celebi;
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Serelot;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Kabuto;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysD;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysA;
@@ -299,7 +299,7 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_RAIKOU]                   = &gObjectEventGraphicsInfo_Raikou,
     [OBJ_EVENT_GFX_LUGIA]                    = &gObjectEventGraphicsInfo_Lugia,
     [OBJ_EVENT_GFX_HO_OH]                    = &gObjectEventGraphicsInfo_HoOh,
-    [OBJ_EVENT_GFX_CELEBI]                   = &gObjectEventGraphicsInfo_Celebi,
+    [OBJ_EVENT_GFX_SERELOT]                   = &gObjectEventGraphicsInfo_Serelot,
     [OBJ_EVENT_GFX_KABUTO]                   = &gObjectEventGraphicsInfo_Kabuto,
     [OBJ_EVENT_GFX_DEOXYS_D]                 = &gObjectEventGraphicsInfo_DeoxysD,
     [OBJ_EVENT_GFX_DEOXYS_A]                 = &gObjectEventGraphicsInfo_DeoxysA,

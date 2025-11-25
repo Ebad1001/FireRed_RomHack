@@ -1723,7 +1723,7 @@ static const u16 sScytherLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sJynxLevelUpLearnset[] = {
+static const u16 sBearticLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_LICK),
     LEVEL_UP_MOVE(1, MOVE_SING),
@@ -3450,7 +3450,7 @@ static const u16 sHoOhLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sCelebiLevelUpLearnset[] = {
+static const u16 sSerelotLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_LEECH_SEED),
     LEVEL_UP_MOVE(1, MOVE_CONFUSION),
     LEVEL_UP_MOVE(1, MOVE_RECOVER),
@@ -5554,7 +5554,7 @@ static const u16 sLatiosLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sJirachiLevelUpLearnset[] = {
+static const u16 sChaorossLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_WISH),
     LEVEL_UP_MOVE(1, MOVE_CONFUSION),
     LEVEL_UP_MOVE(5, MOVE_REST),

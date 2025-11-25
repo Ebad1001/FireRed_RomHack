@@ -796,8 +796,8 @@ Cry_Scyther::
 	.incbin "sound/direct_sound_samples/cries/scyther.bin"
 
 	.align 2
-Cry_Jynx::
-	.incbin "sound/direct_sound_samples/cries/jynx.bin"
+Cry_Beartic::
+	.incbin "sound/direct_sound_samples/cries/beartic.bin"
 
 	.align 2
 Cry_Electabuzz::
@@ -1304,8 +1304,8 @@ Cry_HoOh::
 	.incbin "sound/direct_sound_samples/cries/ho_oh.bin"
 
 	.align 2
-Cry_Celebi::
-	.incbin "sound/direct_sound_samples/cries/celebi.bin"
+Cry_Serelot::
+	.incbin "sound/direct_sound_samples/cries/serelot.bin"
 
 	.align 2
 Cry_Kecleon::
@@ -1844,8 +1844,8 @@ Cry_Latios::
 	.incbin "sound/direct_sound_samples/cries/latios.bin"
 
 	.align 2
-Cry_Jirachi::
-	.incbin "sound/direct_sound_samples/cries/jirachi.bin"
+Cry_Chaoross::
+	.incbin "sound/direct_sound_samples/cries/chaoross.bin"
 
 	.align 2
 Cry_Deoxys::

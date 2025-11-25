@@ -2911,7 +2911,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM01_CUT)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_JYNX]        = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_BEARTIC]        = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)
@@ -6027,7 +6027,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM05_FLASH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_CELEBI]      = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_SERELOT]      = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
@@ -9296,7 +9296,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM07_WATERFALL)
                                         | TMHM(HM08_DIVE)),
 
-    [SPECIES_JIRACHI]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_CHAOROSS]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)

@@ -907,7 +907,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_JYNX] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_BEARTIC] = TUTOR(MOVE_FIRE_PUNCH)
                    | TUTOR(MOVE_THUNDERPUNCH)
                    | TUTOR(MOVE_BODY_SLAM)
                    | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1822,7 +1822,7 @@ static const u16 sTutorLearnsets[] =
                     | TUTOR(MOVE_CHARGE_UP)
                     | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_CELEBI] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_SERELOT] = TUTOR(MOVE_SWORDS_DANCE)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_ICE_PUNCH)
@@ -2786,7 +2786,7 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_CHARGE_UP)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_JIRACHI] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_CHAOROSS] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_ICE_PUNCH)

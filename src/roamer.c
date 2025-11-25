@@ -97,7 +97,7 @@ void ClearRoamerData(void)
 // })
 
 #define GetRoamerSpecies() ({\
-    SPECIES_JIRACHI;\
+    SPECIES_CHAOROSS;\
 })
 
 void CreateInitialRoamerMon(void)

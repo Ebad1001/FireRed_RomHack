@@ -1,4 +1,4 @@
-const POKEMON_COUNT = 384;
+const POKEMON_COUNT = 386;
 let showFront = true;
 let showNames = true;
 

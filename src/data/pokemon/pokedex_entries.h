@@ -1612,13 +1612,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_JYNX] =
+    [NATIONAL_DEX_BEARTIC] =
     {
         .categoryName = _("POLAR-BEAR"),
         .height = 26,
         .weight = 2600,
-        .description = gJynxPokedexText,
-        .unusedDescription = gJynxPokedexTextUnused,
+        .description = gBearticPokedexText,
+        .unusedDescription = gBearticPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -3263,13 +3263,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CELEBI] =
+    [NATIONAL_DEX_SERELOT] =
     {
         .categoryName = _("LOTUS"),
         .height = 6,
         .weight = 50,
-        .description = gCelebiPokedexText,
-        .unusedDescription = gCelebiPokedexTextUnused,
+        .description = gSerelotPokedexText,
+        .unusedDescription = gSerelotPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -5005,13 +5005,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_JIRACHI] =
+    [NATIONAL_DEX_CHAOROSS] =
     {
         .categoryName = _("ROSE"),
         .height = 9,
         .weight = 145,
-        .description = gJirachiPokedexText,
-        .unusedDescription = gJirachiPokedexTextUnused,
+        .description = gChaorossPokedexText,
+        .unusedDescription = gChaorossPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

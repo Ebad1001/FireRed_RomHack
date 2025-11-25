@@ -3598,7 +3598,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_JYNX] = /* BEARTIC */
+    [SPECIES_BEARTIC] = /* BEARTIC */
     {
         .baseHP = 65,
         .baseAttack = 50,
@@ -7281,7 +7281,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_CELEBI] = /* LOTUS */
+    [SPECIES_SERELOT] = /* LOTUS */
     {
         .baseHP = 100,
         .baseAttack = 100,
@@ -11192,7 +11192,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_JIRACHI] = /* ROSE */
+    [SPECIES_CHAOROSS] = /* ROSE */
     {
         .baseHP = 100,
         .baseAttack = 100,

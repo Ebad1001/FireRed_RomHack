@@ -5474,7 +5474,7 @@ static const struct TrainerMonItemCustomMoves sParty_EliteFourLorelei[] = {
     {
         .iv = 250,
         .lvl = 54,
-        .species = SPECIES_JYNX,
+        .species = SPECIES_BEARTIC,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_ICE_PUNCH, MOVE_DOUBLE_SLAP, MOVE_LOVELY_KISS, MOVE_ATTRACT},
     },
@@ -10592,7 +10592,7 @@ static const struct TrainerMonItemCustomMoves sParty_EliteFourLorelei2[] = {
     {
         .iv = 255,
         .lvl = 66,
-        .species = SPECIES_JYNX,
+        .species = SPECIES_BEARTIC,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_ICE_BEAM, MOVE_PSYCHIC, MOVE_LOVELY_KISS, MOVE_ATTRACT},
     },

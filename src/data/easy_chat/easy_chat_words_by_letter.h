@@ -231,7 +231,7 @@ static const u16 sEasyChatWordsByLetter_C[] = {
     EC_POKEMON2(CASTFORM),
     EC_POKEMON(CATERPIE),
     EC_WORD_CAUSE,
-    EC_POKEMON(CELEBI),
+    EC_POKEMON(SERELOT),
     EC_WORD_CENTER,
     EC_WORD_CHALLENGE,
     EC_WORD_CHANGE,
@@ -810,7 +810,7 @@ static const u16 sEasyChatWordsByLetter_J[] = {
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(JIGGLYPUFF),
     EC_POKEMON(JIGGLYPUFF),
-    EC_POKEMON2(JIRACHI),
+    EC_POKEMON2(CHAOROSS),
     EC_WORD_JOKING,
     EC_POKEMON(JOLTEON),
     EC_WORD_JOY,
@@ -818,7 +818,7 @@ static const u16 sEasyChatWordsByLetter_J[] = {
     EC_MOVE2(JUMP_KICK),
     EC_POKEMON(LUXRAY),
     EC_WORD_JUST,
-    EC_POKEMON(JYNX),
+    EC_POKEMON(BEARTIC),
 };
 
 static const u16 sEasyChatWordsByLetter_K[] = {

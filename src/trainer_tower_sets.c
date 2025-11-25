@@ -5346,7 +5346,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_JYNX,
+					.species = SPECIES_BEARTIC,
 					.heldItem = ITEM_BRIGHT_POWDER,
 					.moves = {MOVE_WATER_PULSE, MOVE_REFLECT, MOVE_LIGHT_SCREEN, MOVE_PSYCHIC},
 					.hpEV = 255,
@@ -5364,7 +5364,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x00, // FEMALE HARDY
-					.nickname = _("JYNX"),
+					.nickname = _("BEARTIC"),
 					.friendship = 255
 				},
 				{

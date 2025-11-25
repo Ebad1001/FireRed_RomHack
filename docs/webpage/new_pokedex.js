@@ -254,7 +254,7 @@ const pokemon_names = [
 	"CRAWDAUNT",
 	"BALTOY",
 	"CLAYDOL",
-	"JYNX",
+	"BEARTIC",
 	"ELECTABUZZ",
 	"ELECTIVIRE",
 	"MAGMAR",
@@ -382,7 +382,7 @@ const pokemon_names = [
 	"RAYQUAZA",
 	"MEWTWO",
 	"MEW",
-	"CELEBI",
-	"JIRACHI",
+	"SERELOT",
+	"CHAOROSS",
 	"DEOXYS",
 ];

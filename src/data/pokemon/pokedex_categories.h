@@ -659,7 +659,7 @@ static const u16 sDexCategory_RoughTerrainPkmn_Page4[] = {
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page5[] = {
-    SPECIES_JYNX,
+    SPECIES_BEARTIC,
     SPECIES_CETODDLE,
     SPECIES_CETITAN,
 };
@@ -805,8 +805,8 @@ static const u16 sDexCategory_RarePkmn_Page6[] = {
 
 static const u16 sDexCategory_RarePkmn_Page7[] = {
     SPECIES_MEW,
-    SPECIES_CELEBI,
-    SPECIES_JIRACHI,
+    SPECIES_SERELOT,
+    SPECIES_CHAOROSS,
 };
 
 static const u16 sDexCategory_RarePkmn_Page8[] = {
