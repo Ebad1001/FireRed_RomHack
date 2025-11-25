@@ -933,7 +933,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_6 = {
 			.speechAfter = {EC_WORD_WAIT, EC_WORD_ELLIPSIS, EC_WORD_WHO, EC_WORD_ARE, EC_WORD_YOU, EC_WORD_QUES},
 			.mons = {
 				{
-					.species = SPECIES_LICKITUNG,
+					.species = SPECIES_HITMONCENA,
 					.heldItem = ITEM_SHELL_BELL,
 					.moves = {MOVE_FLAMETHROWER, MOVE_EARTHQUAKE, MOVE_REST, MOVE_SLEEP_TALK},
 					.hpEV = 0,
@@ -951,7 +951,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_6 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x16, // FEMALE SASSY
-					.nickname = _("LICKITUNG"),
+					.nickname = _("HITMONCENA"),
 					.friendship = 255
 				},
 				{
@@ -8273,7 +8273,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_LICKITUNG,
+					.species = SPECIES_HITMONCENA,
 					.heldItem = ITEM_LEFTOVERS,
 					.moves = {MOVE_PROTECT, MOVE_SURF, MOVE_EARTHQUAKE, MOVE_SHADOW_BALL},
 					.hpEV = 200,
@@ -8291,7 +8291,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x02, // FEMALE BRAVE
-					.nickname = _("LICKITUNG"),
+					.nickname = _("HITMONCENA"),
 					.friendship = 255
 				},
 				{

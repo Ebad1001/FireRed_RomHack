@@ -754,12 +754,12 @@ const u8 gHitmonchanPokedexText[] = _(
 
 const u8 gHitmonchanPokedexTextUnused[] = _("");
 
-const u8 gLickitungPokedexText[] = _(
+const u8 gHitmoncenaPokedexText[] = _(
     "HP     -  90    Ph.Atk -  55\n"
     "Ph.Def -  75    Sp.Atk -  60\n"
     "Sp.Def -  75    Speed  -  30");
 
-const u8 gLickitungPokedexTextUnused[] = _("");
+const u8 gHitmoncenaPokedexTextUnused[] = _("");
 
 const u8 gKoffingPokedexText[] = _(
     "HP     -  40    Ph.Atk -  65\n"
@@ -2518,12 +2518,12 @@ const u8 gAbsolPokedexText[] = _(
 
 const u8 gAbsolPokedexTextUnused[] = _("");
 
-const u8 gWynautPokedexText[] = _(
+const u8 gForknightPokedexText[] = _(
     "HP     -  95    Ph.Atk -  23\n"
     "Ph.Def -  48    Sp.Atk -  23\n"
     "Sp.Def -  48    Speed  -  23");
 
-const u8 gWynautPokedexTextUnused[] = _("");
+const u8 gForknightPokedexTextUnused[] = _("");
 
 const u8 gSnoruntPokedexText[] = _(
     "HP     -  50    Ph.Atk -  50\n"

@@ -3134,7 +3134,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_LICKITUNG] = /* HITMONCENA */
+    [SPECIES_HITMONCENA] = /* HITMONCENA */
     {
         .baseHP = 90,
         .baseAttack = 55,
@@ -10467,7 +10467,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_WHITE,
         .noFlip = TRUE,
     },
-    [SPECIES_WYNAUT] = /* FORKNIGHT */
+    [SPECIES_FORKNIGHT] = /* FORKNIGHT */
     {
         .baseHP = 95,
         .baseAttack = 23,

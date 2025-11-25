@@ -1488,7 +1488,7 @@ static const u16 sHitmonchanLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sLickitungLevelUpLearnset[] = {
+static const u16 sHitmoncenaLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_LICK),
     LEVEL_UP_MOVE(7, MOVE_CONFUSE_RAY),
     LEVEL_UP_MOVE(12, MOVE_DEFENSE_CURL),
@@ -4836,7 +4836,7 @@ static const u16 sAltariaLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sWynautLevelUpLearnset[] = {
+static const u16 sForknightLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SPLASH),
     LEVEL_UP_MOVE(1, MOVE_CHARM),
     LEVEL_UP_MOVE(1, MOVE_ENCORE),

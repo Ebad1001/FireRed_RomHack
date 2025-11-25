@@ -1140,7 +1140,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PokemaniacMark[] = {
     {
         .iv = 30,
         .lvl = 29,
-        .species = SPECIES_LICKITUNG,
+        .species = SPECIES_HITMONCENA,
     },
 };
 
@@ -1210,7 +1210,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PokemaniacDawson[] = {
     {
         .iv = 30,
         .lvl = 40,
-        .species = SPECIES_LICKITUNG,
+        .species = SPECIES_HITMONCENA,
     },
 };
 
@@ -5042,7 +5042,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerGilbert[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_LICKITUNG,
+        .species = SPECIES_HITMONCENA,
         .moves = {MOVE_SLAM, MOVE_DISABLE, MOVE_WRAP, MOVE_SUPERSONIC},
     },
     {
@@ -8327,7 +8327,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_TamerEvan[] = {
     {
         .iv = 40,
         .lvl = 48,
-        .species = SPECIES_LICKITUNG,
+        .species = SPECIES_HITMONCENA,
     },
     {
         .iv = 40,
@@ -8345,7 +8345,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PokemaniacMark2[] = {
     {
         .iv = 90,
         .lvl = 33,
-        .species = SPECIES_LICKITUNG,
+        .species = SPECIES_HITMONCENA,
     },
 };
 
@@ -9086,7 +9086,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PokemaniacMark3[] = {
     {
         .iv = 150,
         .lvl = 54,
-        .species = SPECIES_LICKITUNG,
+        .species = SPECIES_HITMONCENA,
     },
 };
 
@@ -10354,7 +10354,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_TamerEvan2[] = {
     {
         .iv = 160,
         .lvl = 52,
-        .species = SPECIES_LICKITUNG,
+        .species = SPECIES_HITMONCENA,
     },
     {
         .iv = 160,

@@ -1404,13 +1404,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_LICKITUNG] =
+    [NATIONAL_DEX_HITMONCENA] =
     {
         .categoryName = _("GRAPPLING"),
         .height = 14,
         .weight = 510,
-        .description = gLickitungPokedexText,
-        .unusedDescription = gLickitungPokedexTextUnused,
+        .description = gHitmoncenaPokedexText,
+        .unusedDescription = gHitmoncenaPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -4680,13 +4680,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_WYNAUT] =
+    [NATIONAL_DEX_FORKNIGHT] =
     {
         .categoryName = _("KNIGHT"),
         .height = 10,
         .weight = 330,
-        .description = gWynautPokedexText,
-        .unusedDescription = gWynautPokedexTextUnused,
+        .description = gForknightPokedexText,
+        .unusedDescription = gForknightPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

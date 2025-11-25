@@ -107,7 +107,7 @@ gCryTable::
 	cry Cry_Marowak
 	cry Cry_Hitmonlee
 	cry Cry_Hitmonchan
-	cry Cry_Lickitung
+	cry Cry_Hitmoncena
 	cry Cry_Koffing
 	cry Cry_Weezing
 	cry Cry_Rhyhorn
@@ -258,7 +258,7 @@ gCryTable::
 	cry Cry_Manectric
 	cry Cry_Duskull
 	cry Cry_Latias
-	cry Cry_Wynaut
+	cry Cry_Forknight
 	cry Cry_Seviper
 	cry Cry_Sharpedo
 	cry Cry_Zangoose
@@ -498,7 +498,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Marowak
 	cry_reverse Cry_Hitmonlee
 	cry_reverse Cry_Hitmonchan
-	cry_reverse Cry_Lickitung
+	cry_reverse Cry_Hitmoncena
 	cry_reverse Cry_Koffing
 	cry_reverse Cry_Weezing
 	cry_reverse Cry_Rhyhorn
@@ -649,7 +649,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Manectric
 	cry_reverse Cry_Duskull
 	cry_reverse Cry_Latias
-	cry_reverse Cry_Wynaut
+	cry_reverse Cry_Forknight
 	cry_reverse Cry_Seviper
 	cry_reverse Cry_Sharpedo
 	cry_reverse Cry_Zangoose

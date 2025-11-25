@@ -861,7 +861,7 @@ static const struct PokemonJumpMons
     { .species = SPECIES_TRAPINCH,   .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_CACNEA,     .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_ANORITH,    .jumpType = JUMP_TYPE_FAST },
-    { .species = SPECIES_WYNAUT,     .jumpType = JUMP_TYPE_NORMAL },
+    { .species = SPECIES_FORKNIGHT,     .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_SNORUNT,    .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_MELTAN,   .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_BAGON,      .jumpType = JUMP_TYPE_FAST },

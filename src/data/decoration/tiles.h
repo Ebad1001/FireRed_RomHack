@@ -526,7 +526,7 @@ const u16 DecorGfx_DUSKULL_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 
-const u16 DecorGfx_WYNAUT_DOLL[] = {
+const u16 DecorGfx_FORKNIGHT_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 

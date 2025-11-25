@@ -111,10 +111,10 @@ static const struct InGameTrade sInGameTrades[] = {
         .requestedSpecies = SPECIES_NIDORINA
 #endif
     }, 
-    [INGAME_TRADE_LICKITUNG] = 
+    [INGAME_TRADE_HITMONCENA] = 
     {
         .nickname = _("MARC"),
-        .species = SPECIES_LICKITUNG,
+        .species = SPECIES_HITMONCENA,
         .ivs = {24, 19, 21, 15, 23, 21},
         .abilityNum = 0,
         .otId = 1239,

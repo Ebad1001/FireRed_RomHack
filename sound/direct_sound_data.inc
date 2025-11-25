@@ -732,8 +732,8 @@ Cry_Hitmonchan::
 	.incbin "sound/direct_sound_samples/cries/hitmonchan.bin"
 
 	.align 2
-Cry_Lickitung::
-	.incbin "sound/direct_sound_samples/cries/lickitung.bin"
+Cry_Hitmoncena::
+	.incbin "sound/direct_sound_samples/cries/hitmoncena.bin"
 
 	.align 2
 Cry_Koffing::
@@ -1336,8 +1336,8 @@ Cry_Latias::
 	.incbin "sound/direct_sound_samples/cries/latias.bin"
 
 	.align 2
-Cry_Wynaut::
-	.incbin "sound/direct_sound_samples/cries/wynaut.bin"
+Cry_Forknight::
+	.incbin "sound/direct_sound_samples/cries/forknight.bin"
 
 	.align 2
 Cry_Seviper::

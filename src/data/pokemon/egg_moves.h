@@ -332,7 +332,7 @@ const u16 gEggMoves[] = {
               MOVE_PERISH_SONG,
               MOVE_SWORDS_DANCE),
 
-    egg_moves(LICKITUNG,
+    egg_moves(HITMONCENA,
               MOVE_BELLY_DRUM,
               MOVE_MAGNITUDE,
               MOVE_BODY_SLAM,

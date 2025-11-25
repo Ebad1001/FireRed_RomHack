@@ -97,7 +97,7 @@ static const u16 sDexCategory_GrasslandPkmn_Page16[] = {
     SPECIES_QWILFISH,
     SPECIES_TANGELA,
     SPECIES_VICTREEBEL,
-    SPECIES_WYNAUT,
+    SPECIES_FORKNIGHT,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page17[] = {
@@ -740,7 +740,7 @@ static const u16 sDexCategory_UrbanPkmn_Page7[] = {
     SPECIES_TYROGUE,
     SPECIES_HITMONLEE,
     SPECIES_HITMONCHAN,
-    SPECIES_LICKITUNG,
+    SPECIES_HITMONCENA,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page8[] = {

@@ -754,12 +754,12 @@ const u8 gHitmonchanPokedexText[] = _(
 
 const u8 gHitmonchanPokedexTextUnused[] = _("");
 
-const u8 gLickitungPokedexText[] = _(
+const u8 gHitmoncenaPokedexText[] = _(
     "Its tongue can be extended like a\n"
     "chameleon's. It leaves a tingling\n"
     "sensation when it licks enemies.");
 
-const u8 gLickitungPokedexTextUnused[] = _("");
+const u8 gHitmoncenaPokedexTextUnused[] = _("");
 
 const u8 gKoffingPokedexText[] = _(
     "Because it stores several kinds of toxic\n"
@@ -2518,12 +2518,12 @@ const u8 gAbsolPokedexText[] = _(
 
 const u8 gAbsolPokedexTextUnused[] = _("");
 
-const u8 gWynautPokedexText[] = _(
+const u8 gForknightPokedexText[] = _(
     "It tends to move in a pack with others.\n"
     "They cluster in a tight group to sleep in\n"
     "a cave.");
 
-const u8 gWynautPokedexTextUnused[] = _("");
+const u8 gForknightPokedexTextUnused[] = _("");
 
 const u8 gSnoruntPokedexText[] = _(
     "It is said that a home visited by a\n"

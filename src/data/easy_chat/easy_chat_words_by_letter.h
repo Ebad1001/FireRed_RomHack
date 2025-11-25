@@ -892,7 +892,7 @@ static const u16 sEasyChatWordsByLetter_L[] = {
     EC_WORD_LEVEL,
     EC_WORD_LEVITATE,
     EC_MOVE(LICK),
-    EC_POKEMON(LICKITUNG),
+    EC_POKEMON(HITMONCENA),
     EC_WORD_LIE,
     EC_WORD_LIFE,
     EC_MOVE2(LIGHT_SCREEN),
@@ -1922,7 +1922,7 @@ static const u16 sEasyChatWordsByLetter_W[] = {
     EC_MOVE2(WRAP),
     EC_WORD_WROOOAAR_EXCL,
     EC_POKEMON2(SPIRALOONE),
-    EC_POKEMON2(WYNAUT),
+    EC_POKEMON2(FORKNIGHT),
 };
 
 static const u16 sEasyChatWordsByLetter_X[] = {

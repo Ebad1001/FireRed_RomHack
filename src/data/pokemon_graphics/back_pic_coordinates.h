@@ -540,7 +540,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(48, 40),
         .y_offset = 12,
     },
-    [SPECIES_LICKITUNG] =
+    [SPECIES_HITMONCENA] =
     {
         .size = MON_COORDS_SIZE(64, 40),
         .y_offset = 14,
@@ -1800,7 +1800,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 6,
     },
-    [SPECIES_WYNAUT] =
+    [SPECIES_FORKNIGHT] =
     {
         .size = MON_COORDS_SIZE(56, 56),
         .y_offset = 7,
