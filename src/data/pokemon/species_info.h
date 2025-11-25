@@ -2612,7 +2612,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
     },
-    [SPECIES_SHELLDER] = /* CLAMPERL */
+    [SPECIES_SHELLDER] = /* MELTAN */
     {
         .baseHP = 30,
         .baseAttack = 65,
@@ -10641,7 +10641,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_CLAMPERL] = /* MELTAN */
+    [SPECIES_MELTAN] = /* MELTAN */
     {
         .baseHP = 35,
         .baseAttack = 64,
@@ -10670,7 +10670,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_HUNTAIL] = /* MELMETAL */
+    [SPECIES_MELMETAL] = /* MELMETAL */
     {
         .baseHP = 55,
         .baseAttack = 104,

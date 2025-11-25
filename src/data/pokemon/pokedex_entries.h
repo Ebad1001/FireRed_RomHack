@@ -4758,26 +4758,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CLAMPERL] =
+    [NATIONAL_DEX_MELTAN] =
     {
         .categoryName = _("HEXNUT"),
         .height = 2,
         .weight = 80,
-        .description = gClamperlPokedexText,
-        .unusedDescription = gClamperlPokedexTextUnused,
+        .description = gMeltanPokedexText,
+        .unusedDescription = gMeltanPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_HUNTAIL] =
+    [NATIONAL_DEX_MELMETAL] =
     {
         .categoryName = _("HEXNUT"),
         .height = 25,
         .weight = 8000,
-        .description = gHuntailPokedexText,
-        .unusedDescription = gHuntailPokedexTextUnused,
+        .description = gMelmetalPokedexText,
+        .unusedDescription = gMelmetalPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

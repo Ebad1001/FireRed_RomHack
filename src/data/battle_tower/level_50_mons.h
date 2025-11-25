@@ -2081,7 +2081,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_JOLLY,
 	},
 	{
-		.species = SPECIES_HUNTAIL,
+		.species = SPECIES_MELMETAL,
 		.heldItem = BATTLE_TOWER_ITEM_MYSTIC_WATER,
 		.teamFlags = 0xA1,
 		.moves = {

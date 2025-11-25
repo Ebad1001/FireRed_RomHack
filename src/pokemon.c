@@ -474,8 +474,8 @@ static const u16 sSpeciesToHoennPokedexNum[NUM_SPECIES - 1] =
     SPECIES_TO_HOENN(WHISMUR),
     SPECIES_TO_HOENN(LOUDRED),
     SPECIES_TO_HOENN(EXPLOUD),
-    SPECIES_TO_HOENN(CLAMPERL),
-    SPECIES_TO_HOENN(HUNTAIL),
+    SPECIES_TO_HOENN(MELTAN),
+    SPECIES_TO_HOENN(MELMETAL),
     SPECIES_TO_HOENN(GOREBYSS),
     SPECIES_TO_HOENN(ABSOL),
     SPECIES_TO_HOENN(SHUPPET),
@@ -890,8 +890,8 @@ static const u16 sSpeciesToNationalPokedexNum[NUM_SPECIES - 1] =
     SPECIES_TO_NATIONAL(WHISMUR),
     SPECIES_TO_NATIONAL(LOUDRED),
     SPECIES_TO_NATIONAL(EXPLOUD),
-    SPECIES_TO_NATIONAL(CLAMPERL),
-    SPECIES_TO_NATIONAL(HUNTAIL),
+    SPECIES_TO_NATIONAL(MELTAN),
+    SPECIES_TO_NATIONAL(MELMETAL),
     SPECIES_TO_NATIONAL(GOREBYSS),
     SPECIES_TO_NATIONAL(ABSOL),
     SPECIES_TO_NATIONAL(SHUPPET),
@@ -1109,8 +1109,8 @@ static const u16 sHoennToNationalOrder[NUM_SPECIES - 1] =
     HOENN_TO_NATIONAL(SPHEAL),
     HOENN_TO_NATIONAL(SEALEO),
     HOENN_TO_NATIONAL(WALREIN),
-    HOENN_TO_NATIONAL(CLAMPERL),
-    HOENN_TO_NATIONAL(HUNTAIL),
+    HOENN_TO_NATIONAL(MELTAN),
+    HOENN_TO_NATIONAL(MELMETAL),
     HOENN_TO_NATIONAL(GOREBYSS),
     HOENN_TO_NATIONAL(RELICANTH),
     HOENN_TO_NATIONAL(CORSOLA),
@@ -2490,9 +2490,9 @@ s32 CalculateBaseDamage(struct BattlePokemon *attacker, struct BattlePokemon *de
     }
 
     // Apply boosts from hold items
-    // if (attackerHoldEffect == HOLD_EFFECT_DEEP_SEA_TOOTH && attacker->species == SPECIES_CLAMPERL)
+    // if (attackerHoldEffect == HOLD_EFFECT_DEEP_SEA_TOOTH && attacker->species == SPECIES_MELTAN)
     //     spAttack *= 2;
-    // if (defenderHoldEffect == HOLD_EFFECT_DEEP_SEA_SCALE && defender->species == SPECIES_CLAMPERL)
+    // if (defenderHoldEffect == HOLD_EFFECT_DEEP_SEA_SCALE && defender->species == SPECIES_MELTAN)
     //     spDefense *= 2;
     if (attackerHoldEffect == HOLD_EFFECT_CHOICE_BAND)
     {

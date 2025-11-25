@@ -417,8 +417,8 @@ static const u16 sDexCategory_SeaPkmn_Page5[] = {
 };
 
 static const u16 sDexCategory_SeaPkmn_Page6[] = {
-    SPECIES_CLAMPERL,
-    SPECIES_HUNTAIL,
+    SPECIES_MELTAN,
+    SPECIES_MELMETAL,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page7[] = {

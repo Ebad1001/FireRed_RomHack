@@ -1668,12 +1668,12 @@ Cry_Walrein::
 	.incbin "sound/direct_sound_samples/cries/walrein.bin"
 
 	.align 2
-Cry_Clamperl::
-	.incbin "sound/direct_sound_samples/cries/clamperl.bin"
+Cry_Meltan::
+	.incbin "sound/direct_sound_samples/cries/meltan.bin"
 
 	.align 2
-Cry_Huntail::
-	.incbin "sound/direct_sound_samples/cries/huntail.bin"
+Cry_Melmetal::
+	.incbin "sound/direct_sound_samples/cries/melmetal.bin"
 
 	.align 2
 Cry_Gorebyss::

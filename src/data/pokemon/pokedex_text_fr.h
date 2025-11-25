@@ -2560,19 +2560,19 @@ const u8 gWalreinPokedexText[] = _(
 
 const u8 gWalreinPokedexTextUnused[] = _("");
 
-const u8 gClamperlPokedexText[] = _(
+const u8 gMeltanPokedexText[] = _(
     "HP     -  35    Ph.Atk -  64\n"
     "Ph.Def -  85    Sp.Atk -  74\n"
     "Sp.Def -  55    Speed  -  32");
 
-const u8 gClamperlPokedexTextUnused[] = _("");
+const u8 gMeltanPokedexTextUnused[] = _("");
 
-const u8 gHuntailPokedexText[] = _(
+const u8 gMelmetalPokedexText[] = _(
     "HP     -  55    Ph.Atk - 104\n"
     "Ph.Def - 105    Sp.Atk -  94\n"
     "Sp.Def -  75    Speed  -  52");
 
-const u8 gHuntailPokedexTextUnused[] = _("");
+const u8 gMelmetalPokedexTextUnused[] = _("");
 
 const u8 gGorebyssPokedexText[] = _(
     "HP     -  55    Ph.Atk -  84\n"

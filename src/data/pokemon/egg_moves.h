@@ -1174,7 +1174,7 @@ const u16 gEggMoves[] = {
               MOVE_SWAGGER,
               MOVE_EXTRASENSORY),
 
-    egg_moves(CLAMPERL,
+    egg_moves(MELTAN,
               MOVE_REFRESH,
               MOVE_SLAM,
               MOVE_BODY_SLAM,

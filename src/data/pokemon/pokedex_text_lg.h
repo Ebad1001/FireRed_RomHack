@@ -2275,7 +2275,7 @@ const u8 gTorkoalPokedexTextUnused[] = _("");
 
 const u8 gSpoinkPokedexText[] = _(
     "It apparently dies if it stops bouncing\n"
-    "about. It carries a pearl from CLAMPERL\n"
+    "about. It carries a pearl from MELTAN\n"
     "on its head.");
 
 const u8 gSpoinkPokedexTextUnused[] = _("");
@@ -2560,19 +2560,19 @@ const u8 gWalreinPokedexText[] = _(
 
 const u8 gWalreinPokedexTextUnused[] = _("");
 
-const u8 gClamperlPokedexText[] = _(
+const u8 gMeltanPokedexText[] = _(
     "It is protected by a sturdy shell.\n"
     "Once in a lifetime, it makes a magnificent\n"
     "pearl.");
 
-const u8 gClamperlPokedexTextUnused[] = _("");
+const u8 gMeltanPokedexTextUnused[] = _("");
 
-const u8 gHuntailPokedexText[] = _(
+const u8 gMelmetalPokedexText[] = _(
     "It lives deep in the sea where no light\n"
     "ever filters down. It lights up its small\n"
     "fishlike tail to attract prey.");
 
-const u8 gHuntailPokedexTextUnused[] = _("");
+const u8 gMelmetalPokedexTextUnused[] = _("");
 
 const u8 gGorebyssPokedexText[] = _(
     "Its swimming form is exquisitely elegant.\n"

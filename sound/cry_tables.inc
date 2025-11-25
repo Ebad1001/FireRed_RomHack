@@ -341,8 +341,8 @@ gCryTable::
 	cry Cry_Spheal
 	cry Cry_Sealeo
 	cry Cry_Walrein
-	cry Cry_Clamperl
-	cry Cry_Huntail
+	cry Cry_Meltan
+	cry Cry_Melmetal
 	cry Cry_Gorebyss
 	cry Cry_Lileep
 	cry Cry_Cradily
@@ -732,8 +732,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Spheal
 	cry_reverse Cry_Sealeo
 	cry_reverse Cry_Walrein
-	cry_reverse Cry_Clamperl
-	cry_reverse Cry_Huntail
+	cry_reverse Cry_Meltan
+	cry_reverse Cry_Melmetal
 	cry_reverse Cry_Gorebyss
 	cry_reverse Cry_Lileep
 	cry_reverse Cry_Cradily
