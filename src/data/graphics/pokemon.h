@@ -2395,19 +2395,19 @@ const u32 gMonShinyPalette_Slaking[] = INCBIN_U32("graphics/pokemon/slaking/shin
 const u8 gMonIcon_Slaking[] = INCBIN_U8("graphics/pokemon/slaking/icon.4bpp");
 const u8 gMonFootprint_Slaking[] = INCBIN_U8("graphics/pokemon/slaking/footprint.1bpp");
 
-const u32 gMonFrontPic_Gulpin[] = INCBIN_U32("graphics/pokemon/gulpin/front.4bpp.lz");
-const u32 gMonPalette_Gulpin[] = INCBIN_U32("graphics/pokemon/gulpin/normal.gbapal.lz");
-const u32 gMonBackPic_Gulpin[] = INCBIN_U32("graphics/pokemon/gulpin/back.4bpp.lz");
-const u32 gMonShinyPalette_Gulpin[] = INCBIN_U32("graphics/pokemon/gulpin/shiny.gbapal.lz");
-const u8 gMonIcon_Gulpin[] = INCBIN_U8("graphics/pokemon/gulpin/icon.4bpp");
-const u8 gMonFootprint_Gulpin[] = INCBIN_U8("graphics/pokemon/gulpin/footprint.1bpp");
+const u32 gMonFrontPic_Cetoddle[] = INCBIN_U32("graphics/pokemon/cetoddle/front.4bpp.lz");
+const u32 gMonPalette_Cetoddle[] = INCBIN_U32("graphics/pokemon/cetoddle/normal.gbapal.lz");
+const u32 gMonBackPic_Cetoddle[] = INCBIN_U32("graphics/pokemon/cetoddle/back.4bpp.lz");
+const u32 gMonShinyPalette_Cetoddle[] = INCBIN_U32("graphics/pokemon/cetoddle/shiny.gbapal.lz");
+const u8 gMonIcon_Cetoddle[] = INCBIN_U8("graphics/pokemon/cetoddle/icon.4bpp");
+const u8 gMonFootprint_Cetoddle[] = INCBIN_U8("graphics/pokemon/cetoddle/footprint.1bpp");
 
-const u32 gMonFrontPic_Swalot[] = INCBIN_U32("graphics/pokemon/swalot/front.4bpp.lz");
-const u32 gMonPalette_Swalot[] = INCBIN_U32("graphics/pokemon/swalot/normal.gbapal.lz");
-const u32 gMonBackPic_Swalot[] = INCBIN_U32("graphics/pokemon/swalot/back.4bpp.lz");
-const u32 gMonShinyPalette_Swalot[] = INCBIN_U32("graphics/pokemon/swalot/shiny.gbapal.lz");
-const u8 gMonIcon_Swalot[] = INCBIN_U8("graphics/pokemon/swalot/icon.4bpp");
-const u8 gMonFootprint_Swalot[] = INCBIN_U8("graphics/pokemon/swalot/footprint.1bpp");
+const u32 gMonFrontPic_Cetitan[] = INCBIN_U32("graphics/pokemon/cetitan/front.4bpp.lz");
+const u32 gMonPalette_Cetitan[] = INCBIN_U32("graphics/pokemon/cetitan/normal.gbapal.lz");
+const u32 gMonBackPic_Cetitan[] = INCBIN_U32("graphics/pokemon/cetitan/back.4bpp.lz");
+const u32 gMonShinyPalette_Cetitan[] = INCBIN_U32("graphics/pokemon/cetitan/shiny.gbapal.lz");
+const u8 gMonIcon_Cetitan[] = INCBIN_U8("graphics/pokemon/cetitan/icon.4bpp");
+const u8 gMonFootprint_Cetitan[] = INCBIN_U8("graphics/pokemon/cetitan/footprint.1bpp");
 
 const u32 gMonFrontPic_Tropius[] = INCBIN_U32("graphics/pokemon/tropius/front.4bpp.lz");
 const u32 gMonPalette_Tropius[] = INCBIN_U32("graphics/pokemon/tropius/normal.gbapal.lz");

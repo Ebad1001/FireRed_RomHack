@@ -2463,7 +2463,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_ROCK_SLIDE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_GULPIN] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_CETODDLE] = TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_KNOCK_OFF)
                      | TUTOR(MOVE_AVALANCHE)
@@ -2471,7 +2471,7 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_EXPLOSION)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SWALOT] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_CETITAN] = TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_KNOCK_OFF)
                      | TUTOR(MOVE_AVALANCHE)

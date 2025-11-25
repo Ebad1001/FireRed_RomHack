@@ -4108,26 +4108,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_GULPIN] =
+    [NATIONAL_DEX_CETODDLE] =
     {
         .categoryName = _("BABY-WHALE"),
         .height = 12,
         .weight = 450,
-        .description = gGulpinPokedexText,
-        .unusedDescription = gGulpinPokedexTextUnused,
+        .description = gCetoddlePokedexText,
+        .unusedDescription = gCetoddlePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SWALOT] =
+    [NATIONAL_DEX_CETITAN] =
     {
         .categoryName = _("BIG-WHALE"),
         .height = 45,
         .weight = 7000,
-        .description = gSwalotPokedexText,
-        .unusedDescription = gSwalotPokedexTextUnused,
+        .description = gCetitanPokedexText,
+        .unusedDescription = gCetitanPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

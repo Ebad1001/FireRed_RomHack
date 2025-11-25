@@ -660,8 +660,8 @@ static const u16 sDexCategory_RoughTerrainPkmn_Page4[] = {
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page5[] = {
     SPECIES_JYNX,
-    SPECIES_GULPIN,
-    SPECIES_SWALOT,
+    SPECIES_CETODDLE,
+    SPECIES_CETITAN,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page6[] = {

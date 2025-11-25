@@ -314,8 +314,8 @@ gCryTable::
 	cry Cry_Golisopod
 	cry Cry_Skitty
 	cry Cry_Delcatty
-	cry Cry_Gulpin
-	cry Cry_Swalot
+	cry Cry_Cetoddle
+	cry Cry_Cetitan
 	cry Cry_Numel
 	cry Cry_Camerupt
 	cry Cry_Barboach
@@ -705,8 +705,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Golisopod
 	cry_reverse Cry_Skitty
 	cry_reverse Cry_Delcatty
-	cry_reverse Cry_Gulpin
-	cry_reverse Cry_Swalot
+	cry_reverse Cry_Cetoddle
+	cry_reverse Cry_Cetitan
 	cry_reverse Cry_Numel
 	cry_reverse Cry_Camerupt
 	cry_reverse Cry_Barboach

@@ -4944,7 +4944,7 @@ static const u16 sSlakingLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sGulpinLevelUpLearnset[] = {
+static const u16 sCetoddleLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(6, MOVE_YAWN),
     LEVEL_UP_MOVE(9, MOVE_TOXIC),
@@ -4956,7 +4956,7 @@ static const u16 sGulpinLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSwalotLevelUpLearnset[] = {
+static const u16 sCetitanLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_YAWN),
     LEVEL_UP_MOVE(1, MOVE_TOXIC),

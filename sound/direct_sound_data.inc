@@ -1560,12 +1560,12 @@ Cry_Delcatty::
 	.incbin "sound/direct_sound_samples/cries/delcatty.bin"
 
 	.align 2
-Cry_Gulpin::
-	.incbin "sound/direct_sound_samples/cries/gulpin.bin"
+Cry_Cetoddle::
+	.incbin "sound/direct_sound_samples/cries/cetoddle.bin"
 
 	.align 2
-Cry_Swalot::
-	.incbin "sound/direct_sound_samples/cries/swalot.bin"
+Cry_Cetitan::
+	.incbin "sound/direct_sound_samples/cries/cetitan.bin"
 
 	.align 2
 Cry_Numel::

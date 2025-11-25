@@ -1155,7 +1155,7 @@ const u16 gEggMoves[] = {
               MOVE_CURSE,
               MOVE_SLEEP_TALK),
 
-    egg_moves(GULPIN,
+    egg_moves(CETODDLE,
               MOVE_DREAM_EATER,
               MOVE_IRON_DEFENSE,
               MOVE_SLUDGE,

@@ -9191,7 +9191,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = TRUE,
     },
-    [SPECIES_GULPIN] = /* CETODDLE */
+    [SPECIES_CETODDLE] = /* CETODDLE */
     {
         .baseHP = 70,
         .baseAttack = 43,
@@ -9220,7 +9220,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_SWALOT] = /* CETITAN */
+    [SPECIES_CETITAN] = /* CETITAN */
     {
         .baseHP = 100,
         .baseAttack = 73,

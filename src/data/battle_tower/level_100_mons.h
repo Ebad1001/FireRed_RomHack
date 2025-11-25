@@ -1158,7 +1158,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_GENTLE,
 	},
 	{
-		.species = SPECIES_SWALOT,
+		.species = SPECIES_CETITAN,
 		.heldItem = BATTLE_TOWER_ITEM_SITRUS_BERRY,
 		.teamFlags = 0x86,
 		.moves = {
@@ -1561,7 +1561,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_CALM,
 	},
 	{
-		.species = SPECIES_SWALOT,
+		.species = SPECIES_CETITAN,
 		.heldItem = BATTLE_TOWER_ITEM_LEFTOVERS,
 		.teamFlags = 0x42,
 		.moves = {
@@ -2224,7 +2224,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_JOLLY,
 	},
 	{
-		.species = SPECIES_SWALOT,
+		.species = SPECIES_CETITAN,
 		.heldItem = BATTLE_TOWER_ITEM_LIECHI_BERRY,
 		.teamFlags = 0x03,
 		.moves = {

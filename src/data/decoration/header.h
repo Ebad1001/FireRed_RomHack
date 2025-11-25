@@ -882,14 +882,14 @@ const struct Decoration gDecorations[] = {
         DecorDesc_SWABLU_DOLL,
         DecorGfx_SWABLU_DOLL
     }, {
-        DECOR_GULPIN_DOLL,
-        _("GULPIN DOLL"),
+        DECOR_CETODDLE_DOLL,
+        _("CETODDLE DOLL"),
         DECORPERM_SPRITE,
         DECORSHAPE_1x1,
         DECORCAT_DOLL,
         3000,
-        DecorDesc_GULPIN_DOLL,
-        DecorGfx_GULPIN_DOLL
+        DecorDesc_CETODDLE_DOLL,
+        DecorGfx_CETODDLE_DOLL
     }, {
         DECOR_LOTAD_DOLL,
         _("LOTAD DOLL"),

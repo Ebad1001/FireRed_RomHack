@@ -2210,19 +2210,19 @@ const u8 gRoseliaPokedexText[] = _(
 
 const u8 gRoseliaPokedexTextUnused[] = _("");
 
-const u8 gGulpinPokedexText[] = _(
+const u8 gCetoddlePokedexText[] = _(
     "There is nothing its stomach can't digest.\n"
     "While it is digesting, vile, overpowering\n"
     "gases are expelled.");
 
-const u8 gGulpinPokedexTextUnused[] = _("");
+const u8 gCetoddlePokedexTextUnused[] = _("");
 
-const u8 gSwalotPokedexText[] = _(
+const u8 gCetitanPokedexText[] = _(
     "It can swallow a tire whole in one gulp.\n"
     "It secretes a horribly toxic fluid from\n"
     "the pores on its body.");
 
-const u8 gSwalotPokedexTextUnused[] = _("");
+const u8 gCetitanPokedexTextUnused[] = _("");
 
 const u8 gCarvanhaPokedexText[] = _(
     "It lives in massive rivers that course\n"
