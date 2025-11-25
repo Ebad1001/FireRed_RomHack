@@ -2061,7 +2061,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = FALSE,
     },
-    [SPECIES_VICTREEBEL] = /* BISHARP */
+    [SPECIES_CERULEDGE] = /* CERULEDGE */
     {
         .baseHP = 80,
         .baseAttack = 105,
@@ -3308,7 +3308,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_TANGELA] = /* ARMAROOK */
+    [SPECIES_ARMAROUGE] = /* ARMAROUGE */
     {
         .baseHP = 65,
         .baseAttack = 55,
@@ -6121,7 +6121,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
     },
-    [SPECIES_QWILFISH] = /* CHARCADET */
+    [SPECIES_CHARCADET] = /* CHARCADET */
     {
         .baseHP = 65,
         .baseAttack = 95,

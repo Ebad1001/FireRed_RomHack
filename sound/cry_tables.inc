@@ -70,7 +70,7 @@ gCryTable::
 	cry Cry_Machamp
 	cry Cry_Peashooter
 	cry Cry_Mudeater
-	cry Cry_Victreebel
+	cry Cry_Ceruledge
 	cry Cry_Tentacool
 	cry Cry_Tentacruel
 	cry Cry_Geodude
@@ -113,7 +113,7 @@ gCryTable::
 	cry Cry_Rhyhorn
 	cry Cry_Rhydon
 	cry Cry_Chansey
-	cry Cry_Tangela
+	cry Cry_Armarouge
 	cry Cry_Kangaskhan
 	cry Cry_Horsea
 	cry Cry_Seadra
@@ -210,7 +210,7 @@ gCryTable::
 	cry Cry_Steelix
 	cry Cry_Electox
 	cry Cry_Vampere
-	cry Cry_Qwilfish
+	cry Cry_Charcadet
 	cry Cry_Scizor
 	cry Cry_Shuckle
 	cry Cry_Heracross
@@ -461,7 +461,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Machamp
 	cry_reverse Cry_Peashooter
 	cry_reverse Cry_Mudeater
-	cry_reverse Cry_Victreebel
+	cry_reverse Cry_Ceruledge
 	cry_reverse Cry_Tentacool
 	cry_reverse Cry_Tentacruel
 	cry_reverse Cry_Geodude
@@ -504,7 +504,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Rhyhorn
 	cry_reverse Cry_Rhydon
 	cry_reverse Cry_Chansey
-	cry_reverse Cry_Tangela
+	cry_reverse Cry_Armarouge
 	cry_reverse Cry_Kangaskhan
 	cry_reverse Cry_Horsea
 	cry_reverse Cry_Seadra
@@ -601,7 +601,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Steelix
 	cry_reverse Cry_Electox
 	cry_reverse Cry_Vampere
-	cry_reverse Cry_Qwilfish
+	cry_reverse Cry_Charcadet
 	cry_reverse Cry_Scizor
 	cry_reverse Cry_Shuckle
 	cry_reverse Cry_Heracross

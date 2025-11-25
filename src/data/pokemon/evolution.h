@@ -56,8 +56,8 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
     [SPECIES_SEEL]       = {{EVO_LEVEL, 30, SPECIES_DEWGONG},
                             {EVO_LEVEL, 30, SPECIES_PHANPY},
                             {EVO_LEVEL, 30, SPECIES_DONPHAN}}, // 
-    [SPECIES_QWILFISH]   = {{EVO_LEVEL, 30, SPECIES_TANGELA},
-                            {EVO_LEVEL, 30, SPECIES_VICTREEBEL}}, // 
+    [SPECIES_CHARCADET]   = {{EVO_LEVEL, 30, SPECIES_ARMAROUGE},
+                            {EVO_LEVEL, 30, SPECIES_CERULEDGE}}, // 
     [SPECIES_GRIMER]     = {{EVO_LEVEL, 30, SPECIES_MUK}},
     [SPECIES_MUK]        = {{EVO_LEVEL_ITEM, ITEM_DEEP_SEA_TOOTH, SPECIES_CHIMECHO}},
     [SPECIES_KOFFING]    = {{EVO_LEVEL, 30, SPECIES_WEEZING}},

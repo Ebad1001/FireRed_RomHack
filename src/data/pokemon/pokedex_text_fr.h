@@ -495,12 +495,12 @@ const u8 gMudeaterPokedexText[] = _(
 
 const u8 gMudeaterPokedexTextUnused[] = _("");
 
-const u8 gVictreebelPokedexText[] = _(
+const u8 gCeruledgePokedexText[] = _(
     "HP     -  80    Ph.Atk - 105\n"
     "Ph.Def -  65    Sp.Atk - 100\n"
     "Sp.Def -  60    Speed  -  70");
 
-const u8 gVictreebelPokedexTextUnused[] = _("");
+const u8 gCeruledgePokedexTextUnused[] = _("");
 
 const u8 gTentacoolPokedexText[] = _(
     "HP     -  40    Ph.Atk -  40\n"
@@ -796,12 +796,12 @@ const u8 gChanseyPokedexText[] = _(
 
 const u8 gChanseyPokedexTextUnused[] = _("");
 
-const u8 gTangelaPokedexText[] = _(
+const u8 gArmarougePokedexText[] = _(
     "HP     -  65    Ph.Atk -  55\n"
     "Ph.Def - 115    Sp.Atk - 100\n"
     "Sp.Def -  40    Speed  -  60");
 
-const u8 gTangelaPokedexTextUnused[] = _("");
+const u8 gArmarougePokedexTextUnused[] = _("");
 
 const u8 gKangaskhanPokedexText[] = _(
     "HP     - 105    Ph.Atk -  95\n"
@@ -1475,12 +1475,12 @@ const u8 gVamperePokedexText[] = _(
 
 const u8 gVamperePokedexTextUnused[] = _("");
 
-const u8 gQwilfishPokedexText[] = _(
+const u8 gCharcadetPokedexText[] = _(
     "HP     -  65    Ph.Atk -  95\n"
     "Ph.Def -  75    Sp.Atk -  55\n"
     "Sp.Def -  55    Speed  -  85");
 
-const u8 gQwilfishPokedexTextUnused[] = _("");
+const u8 gCharcadetPokedexTextUnused[] = _("");
 
 const u8 gScizorPokedexText[] = _(
     "HP     -  70    Ph.Atk - 130\n"

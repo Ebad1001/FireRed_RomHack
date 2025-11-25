@@ -366,7 +366,7 @@ const u16 gEggMoves[] = {
               MOVE_HEAL_BELL,
               MOVE_SUBSTITUTE),
 
-    egg_moves(TANGELA,
+    egg_moves(ARMAROUGE,
               MOVE_FLAIL,
               MOVE_CONFUSION,
               MOVE_MEGA_DRAIN,
@@ -713,7 +713,7 @@ const u16 gEggMoves[] = {
               MOVE_HEAL_BELL,
               MOVE_SNORE),
 
-    egg_moves(QWILFISH,
+    egg_moves(CHARCADET,
               MOVE_FLAIL,
               MOVE_HAZE,
               MOVE_BUBBLE_BEAM,

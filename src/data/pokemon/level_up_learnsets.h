@@ -937,7 +937,7 @@ static const u16 sMudeaterLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sVictreebelLevelUpLearnset[] = {
+static const u16 sCeruledgeLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_VINE_WHIP),
     LEVEL_UP_MOVE(1, MOVE_SLEEP_POWDER),
     LEVEL_UP_MOVE(1, MOVE_SWEET_SCENT),
@@ -1578,7 +1578,7 @@ static const u16 sChanseyLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sTangelaLevelUpLearnset[] = {
+static const u16 sArmarougeLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_INGRAIN),
     LEVEL_UP_MOVE(1, MOVE_BIND),
     LEVEL_UP_MOVE(4, MOVE_SLEEP_POWDER),
@@ -2907,7 +2907,7 @@ static const u16 sVampereLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sQwilfishLevelUpLearnset[] = {
+static const u16 sCharcadetLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SPIKES),
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_POISON_STING),

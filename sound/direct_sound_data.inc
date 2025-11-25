@@ -584,8 +584,8 @@ Cry_Mudeater::
 	.incbin "sound/direct_sound_samples/cries/mudeater.bin"
 
 	.align 2
-Cry_Victreebel::
-	.incbin "sound/direct_sound_samples/cries/victreebel.bin"
+Cry_Ceruledge::
+	.incbin "sound/direct_sound_samples/cries/ceruledge.bin"
 
 	.align 2
 Cry_Tentacool::
@@ -756,8 +756,8 @@ Cry_Chansey::
 	.incbin "sound/direct_sound_samples/cries/chansey.bin"
 
 	.align 2
-Cry_Tangela::
-	.incbin "sound/direct_sound_samples/cries/tangela.bin"
+Cry_Armarouge::
+	.incbin "sound/direct_sound_samples/cries/armarouge.bin"
 
 	.align 2
 Cry_Kangaskhan::
@@ -1144,8 +1144,8 @@ Cry_Vampere::
 	.incbin "sound/direct_sound_samples/cries/vampere.bin"
 
 	.align 2
-Cry_Qwilfish::
-	.incbin "sound/direct_sound_samples/cries/qwilfish.bin"
+Cry_Charcadet::
+	.incbin "sound/direct_sound_samples/cries/charcadet.bin"
 
 	.align 2
 Cry_Scizor::

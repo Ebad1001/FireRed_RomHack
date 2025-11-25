@@ -3783,7 +3783,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_8 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_VICTREEBEL,
+					.species = SPECIES_CERULEDGE,
 					.heldItem = ITEM_SITRUS_BERRY,
 					.moves = {MOVE_GIGA_DRAIN, MOVE_SLUDGE_BOMB, MOVE_REFLECT, MOVE_ATTRACT},
 					.hpEV = 0,
@@ -3801,7 +3801,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_8 = {
 					.spDefenseIV = 31,
 					.abilityNum = 0,
 					.personality = 0x8E, // MALE QUIET
-					.nickname = _("VICTREEBEL"),
+					.nickname = _("CERULEDGE"),
 					.friendship = 255
 				},
 				{
@@ -4222,7 +4222,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_VICTREEBEL,
+					.species = SPECIES_CERULEDGE,
 					.heldItem = ITEM_MIRACLE_SEED,
 					.moves = {MOVE_SWEET_SCENT, MOVE_ATTRACT, MOVE_GIGA_DRAIN, MOVE_SLUDGE_BOMB},
 					.hpEV = 84,
@@ -4240,7 +4240,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 					.spDefenseIV = 20,
 					.abilityNum = 0,
 					.personality = 0x89, // MALE SERIOUS
-					.nickname = _("VICTREEBEL"),
+					.nickname = _("CERULEDGE"),
 					.friendship = 255
 				},
 				{
@@ -6017,7 +6017,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_QWILFISH,
+					.species = SPECIES_CHARCADET,
 					.heldItem = ITEM_PERSIM_BERRY,
 					.moves = {MOVE_SURF, MOVE_TOXIC, MOVE_REVENGE, MOVE_DOUBLE_TEAM},
 					.hpEV = 200,
@@ -6035,7 +6035,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x14, // FEMALE CALM
-					.nickname = _("QWILFISH"),
+					.nickname = _("CHARCADET"),
 					.friendship = 255
 				},
 				{
@@ -6105,7 +6105,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_QWILFISH,
+					.species = SPECIES_CHARCADET,
 					.heldItem = ITEM_QUICK_CLAW,
 					.moves = {MOVE_HYDRO_PUMP, MOVE_SLUDGE_BOMB, MOVE_SHADOW_BALL, MOVE_DESTINY_BOND},
 					.hpEV = 100,
@@ -6123,7 +6123,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_7 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x96, // MALE HARDY
-					.nickname = _("QWILFISH"),
+					.nickname = _("CHARCADET"),
 					.friendship = 255
 				},
 			}

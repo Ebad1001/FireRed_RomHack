@@ -923,13 +923,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_VICTREEBEL] =
+    [NATIONAL_DEX_CERULEDGE] =
     {
         .categoryName = _("TWIN-BLADE"),
         .height = 16,
         .weight = 620,
-        .description = gVictreebelPokedexText,
-        .unusedDescription = gVictreebelPokedexTextUnused,
+        .description = gCeruledgePokedexText,
+        .unusedDescription = gCeruledgePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -1482,13 +1482,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_TANGELA] =
+    [NATIONAL_DEX_ARMAROUGE] =
     {
         .categoryName = _("CANNON"),
         .height = 15,
         .weight = 850,
-        .description = gTangelaPokedexText,
-        .unusedDescription = gTangelaPokedexTextUnused,
+        .description = gArmarougePokedexText,
+        .unusedDescription = gArmarougePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2743,13 +2743,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_QWILFISH] =
+    [NATIONAL_DEX_CHARCADET] =
     {
         .categoryName = _("SOLDIER"),
         .height = 6,
         .weight = 105,
-        .description = gQwilfishPokedexText,
-        .unusedDescription = gQwilfishPokedexTextUnused,
+        .description = gCharcadetPokedexText,
+        .unusedDescription = gCharcadetPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

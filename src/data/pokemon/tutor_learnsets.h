@@ -529,7 +529,7 @@ static const u16 sTutorLearnsets[] =
                          | TUTOR(MOVE_AVALANCHE)
                          | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_VICTREEBEL] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_CERULEDGE] = TUTOR(MOVE_SWORDS_DANCE)
                          | TUTOR(MOVE_BODY_SLAM)
                          | TUTOR(MOVE_DOUBLE_EDGE)
                          | TUTOR(MOVE_AVALANCHE)
@@ -846,7 +846,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_CHARGE_UP)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_TANGELA] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_ARMAROUGE] = TUTOR(MOVE_SWORDS_DANCE)
                       | TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
@@ -1531,7 +1531,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_ROCK_SLIDE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_QWILFISH] = TUTOR(MOVE_SWORDS_DANCE)
+    [SPECIES_CHARCADET] = TUTOR(MOVE_SWORDS_DANCE)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_CHARGE_UP)

@@ -355,7 +355,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 9,
     },
-    [SPECIES_VICTREEBEL] =
+    [SPECIES_CERULEDGE] =
     {
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 6,
@@ -570,7 +570,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 40),
         .y_offset = 14,
     },
-    [SPECIES_TANGELA] =
+    [SPECIES_ARMAROUGE] =
     {
         .size = MON_COORDS_SIZE(64, 40),
         .y_offset = 14,
@@ -1055,7 +1055,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 5,
     },
-    [SPECIES_QWILFISH] =
+    [SPECIES_CHARCADET] =
     {
         .size = MON_COORDS_SIZE(56, 56),
         .y_offset = 7,

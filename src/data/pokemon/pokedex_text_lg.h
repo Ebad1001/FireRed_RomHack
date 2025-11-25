@@ -495,12 +495,12 @@ const u8 gMudeaterPokedexText[] = _(
 
 const u8 gMudeaterPokedexTextUnused[] = _("");
 
-const u8 gVictreebelPokedexText[] = _(
+const u8 gCeruledgePokedexText[] = _(
     "Said to live in huge colonies deep in\n"
     "jungles, although no one has ever\n"
     "returned from there.");
 
-const u8 gVictreebelPokedexTextUnused[] = _("");
+const u8 gCeruledgePokedexTextUnused[] = _("");
 
 const u8 gTentacoolPokedexText[] = _(
     "Drifts in shallow seas. Anglers who hook\n"
@@ -796,12 +796,12 @@ const u8 gChanseyPokedexText[] = _(
 
 const u8 gChanseyPokedexTextUnused[] = _("");
 
-const u8 gTangelaPokedexText[] = _(
+const u8 gArmarougePokedexText[] = _(
     "The whole body is swathed with wide vines\n"
     "that are similar to seaweed. The vines\n"
     "sway as it walks.");
 
-const u8 gTangelaPokedexTextUnused[] = _("");
+const u8 gArmarougePokedexTextUnused[] = _("");
 
 const u8 gKangaskhanPokedexText[] = _(
     "The infant rarely ventures out of its\n"
@@ -1475,12 +1475,12 @@ const u8 gVamperePokedexText[] = _(
 
 const u8 gVamperePokedexTextUnused[] = _("");
 
-const u8 gQwilfishPokedexText[] = _(
+const u8 gCharcadetPokedexText[] = _(
     "To fire its poison spikes, it must inflate\n"
     "its body by drinking over 2.6 gallons of \n"
     "water all at once.");
 
-const u8 gQwilfishPokedexTextUnused[] = _("");
+const u8 gCharcadetPokedexTextUnused[] = _("");
 
 const u8 gScizorPokedexText[] = _(
     "It swings its eye-patterned pincers up to\n"

@@ -1280,7 +1280,7 @@ static const u16 sEasyChatWordsByLetter_Q[] = {
     EC_MOVE2(QUICK_ATTACK),
     EC_POKEMON(RABOOT),
     EC_WORD_QUITE,
-    EC_POKEMON(QWILFISH),
+    EC_POKEMON(CHARCADET),
 };
 
 static const u16 sEasyChatWordsByLetter_R[] = {
@@ -1631,7 +1631,7 @@ static const u16 sEasyChatWordsByLetter_T[] = {
     EC_WORD_TALENT,
     EC_WORD_TALK,
     EC_WORD_TALKING,
-    EC_POKEMON(TANGELA),
+    EC_POKEMON(ARMAROUGE),
     EC_WORD_TASTY,
     EC_MOVE2(TAUNT),
     EC_POKEMON(TAUROS),
@@ -1793,7 +1793,7 @@ static const u16 sEasyChatWordsByLetter_V[] = {
     EC_POKEMON2(VIBRAVA),
     EC_MOVE2(VICE_GRIP),
     EC_WORD_VICTORY,
-    EC_POKEMON(VICTREEBEL),
+    EC_POKEMON(CERULEDGE),
     EC_WORD_VIEWING,
     EC_POKEMON2(VIGOROTH),
     -1, 2, // Doubled pokemon species name

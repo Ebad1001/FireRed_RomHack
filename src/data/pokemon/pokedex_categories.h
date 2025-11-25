@@ -94,9 +94,9 @@ static const u16 sDexCategory_GrasslandPkmn_Page15[] = {
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page16[] = {
-    SPECIES_QWILFISH,
-    SPECIES_TANGELA,
-    SPECIES_VICTREEBEL,
+    SPECIES_CHARCADET,
+    SPECIES_ARMAROUGE,
+    SPECIES_CERULEDGE,
     SPECIES_FORKNIGHT,
 };
 

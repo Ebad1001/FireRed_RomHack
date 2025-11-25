@@ -147,10 +147,10 @@ static const struct InGameTrade sInGameTrades[] = {
         .sheen = 10,
         .requestedSpecies = SPECIES_RAICHU
     }, 
-    [INGAME_TRADE_TANGELA] = 
+    [INGAME_TRADE_ARMAROUGE] = 
     {
         .nickname = _("TANGENY"),
-        .species = SPECIES_TANGELA,
+        .species = SPECIES_ARMAROUGE,
         .ivs = {22, 17, 25, 16, 23, 20},
         .abilityNum = 0,
         .otId = 60042,
