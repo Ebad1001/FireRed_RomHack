@@ -599,7 +599,7 @@
 #define FLAG_0x23E                                       0x23E
 #define FLAG_GOT_TM28_FROM_ROCKET                        0x23F
 #define FLAG_GOT_OLD_ROD                                 0x240
-#define FLAG_GOT_TOGEPI_EGG                              0x241
+#define FLAG_GOT_LARVESTAR_EGG                              0x241
 #define FLAG_0x242                                       0x242
 #define FLAG_GOT_COIN_CASE                               0x243
 #define FLAG_GOT_GOOD_ROD                                0x244
@@ -652,7 +652,7 @@
 #define FLAG_GOT_HELIX_FOSSIL                            0x273
 #define FLAG_DID_ESPHERE_TRADE                           0x274
 #define FLAG_DID_TANGENY_TRADE                           0x275
-#define FLAG_DID_SEELOR_TRADE                            0x276
+#define FLAG_DID_ROCKRUFFOR_TRADE                            0x276
 #define FLAG_0x277                                       0x277
 #define FLAG_GOT_HITMON_FROM_DOJO                        0x278
 #define FLAG_0x279                                       0x279

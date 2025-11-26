@@ -4,7 +4,7 @@ VermilionCity_PokemonFanClub_MapScripts::
 VermilionCity_PokemonFanClub_EventScript_Chairman::
 	lock
 	faceplayer
-	goto_if_set FLAG_GOT_TOGEPI_EGG, VermilionCity_PokemonFanClub_EventScript_AlreadyHeardStory
+	goto_if_set FLAG_GOT_LARVESTAR_EGG, VermilionCity_PokemonFanClub_EventScript_AlreadyHeardStory
 	msgbox VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, YES, VermilionCity_PokemonFanClub_EventScript_ChairmanStory
 	msgbox VermilionCity_PokemonFanClub_Text_ComeBackToHearStory
@@ -20,8 +20,8 @@ VermilionCity_PokemonFanClub_EventScript_ChairmanStory::
 	msgbox VermilionCity_PokemonFanClub_Text_ChairmansStory
 	getpartysize
 	goto_if_eq VAR_RESULT, PARTY_SIZE, VermilionCity_PokemonFanClub_EventScript_NoRoomForEgg
-	setflag FLAG_GOT_TOGEPI_EGG
-	giveegg SPECIES_TOGEPI
+	setflag FLAG_GOT_LARVESTAR_EGG
+	giveegg SPECIES_LARVESTAR
 	playfanfare MUS_LEVEL_UP
 	message VermilionCity_PokemonFanClub_Text_ReceivedEggFromChairman
 	waitfanfare

@@ -1118,26 +1118,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SEEL] =
+    [NATIONAL_DEX_ROCKRUFF] =
     {
         .categoryName = _("PUPPY"),
         .height = 5,
         .weight = 92,
-        .description = gSeelPokedexText,
-        .unusedDescription = gSeelPokedexTextUnused,
+        .description = gRockruffPokedexText,
+        .unusedDescription = gRockruffPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_DEWGONG] =
+    [NATIONAL_DEX_SKOLL] =
     {
         .categoryName = _("SUN-WOLF"),
         .height = 8,
         .weight = 250,
-        .description = gDewgongPokedexText,
-        .unusedDescription = gDewgongPokedexTextUnused,
+        .description = gSkollPokedexText,
+        .unusedDescription = gSkollPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -1781,13 +1781,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_PORYGON] =
+    [NATIONAL_DEX_BRONZONG] =
     {
         .categoryName = _("FURNACE"),
         .height = 30,
         .weight = 160,
-        .description = gPorygonPokedexText,
-        .unusedDescription = gPorygonPokedexTextUnused,
+        .description = gBronzongPokedexText,
+        .unusedDescription = gBronzongPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2275,26 +2275,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_TOGEPI] =
+    [NATIONAL_DEX_LARVESTAR] =
     {
         .categoryName = _("HAPPINESS"),
         .height = 3,
         .weight = 15,
-        .description = gTogepiPokedexText,
-        .unusedDescription = gTogepiPokedexTextUnused,
+        .description = gLarvestarPokedexText,
+        .unusedDescription = gLarvestarPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_TOGETIC] =
+    [NATIONAL_DEX_VOLCARONA] =
     {
         .categoryName = _("HAPPINESS"),
         .height = 6,
         .weight = 32,
-        .description = gTogeticPokedexText,
-        .unusedDescription = gTogeticPokedexTextUnused,
+        .description = gVolcaronaPokedexText,
+        .unusedDescription = gVolcaronaPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2652,26 +2652,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_PINECO] =
+    [NATIONAL_DEX_SNOWSHREW] =
     {
         .categoryName = _("BAGWORM"),
         .height = 6,
         .weight = 72,
-        .description = gPinecoPokedexText,
-        .unusedDescription = gPinecoPokedexTextUnused,
+        .description = gSnowshrewPokedexText,
+        .unusedDescription = gSnowshrewPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_FORRETRESS] =
+    [NATIONAL_DEX_SNOWSLASH] =
     {
         .categoryName = _("BAGWORM"),
         .height = 12,
         .weight = 1258,
-        .description = gForretressPokedexText,
-        .unusedDescription = gForretressPokedexTextUnused,
+        .description = gSnowslashPokedexText,
+        .unusedDescription = gSnowslashPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2938,13 +2938,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_MANTINE] =
+    [NATIONAL_DEX_FROSMOTH] =
     {
         .categoryName = _("KITE"),
         .height = 21,
         .weight = 2200,
-        .description = gMantinePokedexText,
-        .unusedDescription = gMantinePokedexTextUnused,
+        .description = gFrosmothPokedexText,
+        .unusedDescription = gFrosmothPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -3003,39 +3003,39 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_PHANPY] =
+    [NATIONAL_DEX_HYATI] =
     {
         .categoryName = _("MOON-WOLF"),
         .height = 8,
         .weight = 250,
-        .description = gPhanpyPokedexText,
-        .unusedDescription = gPhanpyPokedexTextUnused,
+        .description = gHyatiPokedexText,
+        .unusedDescription = gHyatiPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_DONPHAN] =
+    [NATIONAL_DEX_FENRIZ] =
     {
         .categoryName = _("BIG-WOLF"),
         .height = 11,
         .weight = 300,
-        .description = gDonphanPokedexText,
-        .unusedDescription = gDonphanPokedexTextUnused,
+        .description = gFenrizPokedexText,
+        .unusedDescription = gFenrizPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_PORYGON2] =
+    [NATIONAL_DEX_PORYHEDRON] =
     {
         .categoryName = _("CYBER"),
         .height = 6,
         .weight = 325,
-        .description = gPorygon2PokedexText,
-        .unusedDescription = gPorygon2PokedexTextUnused,
+        .description = gPoyhedronPokedexText,
+        .unusedDescription = gPoyhedronPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -3900,26 +3900,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SKITTY] =
+    [NATIONAL_DEX_FROSLASS] =
     {
         .categoryName = _("SUN"),
         .height = 16,
         .weight = 460,
-        .description = gSkittyPokedexText,
-        .unusedDescription = gSkittyPokedexTextUnused,
+        .description = gFroslassPokedexText,
+        .unusedDescription = gFroslassPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_DELCATTY] =
+    [NATIONAL_DEX_PROBOPASS] =
     {
         .categoryName = _("MOON"),
         .height = 11,
         .weight = 326,
-        .description = gDelcattyPokedexText,
-        .unusedDescription = gDelcattyPokedexTextUnused,
+        .description = gProbopassPokedexText,
+        .unusedDescription = gProbopassPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

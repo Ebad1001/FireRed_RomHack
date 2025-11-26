@@ -2,7 +2,7 @@ CeladonCity_GameCorner_PrizeRoom_MapScripts::
 	.byte 0
 
 CeladonCity_GameCorner_PrizeRoom_EventScript_BaldingMan::
-	msgbox CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon, MSGBOX_NPC
+	msgbox CeladonCity_GameCorner_PrizeRoom_Text_FancyThatBronzong, MSGBOX_NPC
 	end
 
 CeladonCity_GameCorner_PrizeRoom_EventScript_OldMan::
@@ -28,7 +28,7 @@ CeladonCity_GameCorner_PrizeRoom_EventScript_ChoosePrizeMon::
 	case 1, CeladonCity_GameCorner_PrizeRoom_EventScript_Clefairy
 	case 2, CeladonCity_GameCorner_PrizeRoom_EventScript_DratiniPinsir
 	case 3, CeladonCity_GameCorner_PrizeRoom_EventScript_ScytherDratini
-	case 4, CeladonCity_GameCorner_PrizeRoom_EventScript_Porygon
+	case 4, CeladonCity_GameCorner_PrizeRoom_EventScript_Bronzong
 	case 5, CeladonCity_GameCorner_PrizeRoom_EventScript_EndPrizeExchange
 	case 127, CeladonCity_GameCorner_PrizeRoom_EventScript_EndPrizeExchange
 	end
@@ -90,13 +90,13 @@ CeladonCity_GameCorner_PrizeRoom_EventScript_ScytherDratini::
 	goto CeladonCity_GameCorner_PrizeRoom_EventScript_ConfirmPrizeMon
 	end
 
-CeladonCity_GameCorner_PrizeRoom_EventScript_Porygon::
+CeladonCity_GameCorner_PrizeRoom_EventScript_Bronzong::
 	.ifdef FIRERED
-	setvar VAR_TEMP_1, SPECIES_PORYGON
+	setvar VAR_TEMP_1, SPECIES_BRONZONG
 	setvar VAR_TEMP_2, 9999
 	.else
 	.ifdef LEAFGREEN
-	setvar VAR_TEMP_1, SPECIES_PORYGON
+	setvar VAR_TEMP_1, SPECIES_BRONZONG
 	setvar VAR_TEMP_2, 6500
 	.endif
 	.endif
@@ -115,7 +115,7 @@ CeladonCity_GameCorner_PrizeRoom_EventScript_ConfirmPrizeMon::
 	case SPECIES_CLEFAIRY, CeladonCity_GameCorner_PrizeRoom_EventScript_GiveClefairy
 	case SPECIES_DRATINI,  CeladonCity_GameCorner_PrizeRoom_EventScript_GiveDratini
 	case SPECIES_SCYTHER,  CeladonCity_GameCorner_PrizeRoom_EventScript_GiveScyther
-	case SPECIES_PORYGON,  CeladonCity_GameCorner_PrizeRoom_EventScript_GivePorygon
+	case SPECIES_BRONZONG,  CeladonCity_GameCorner_PrizeRoom_EventScript_GiveBronzong
 	case SPECIES_PINSIR,   CeladonCity_GameCorner_PrizeRoom_EventScript_GivePinsir
 	end
 
@@ -157,7 +157,7 @@ CeladonCity_GameCorner_PrizeRoom_EventScript_GiveScyther::
 	goto CeladonCity_GameCorner_PrizeRoom_EventScript_CheckReceivedMon
 	end
 
-CeladonCity_GameCorner_PrizeRoom_EventScript_GivePorygon::
+CeladonCity_GameCorner_PrizeRoom_EventScript_GiveBronzong::
 	.ifdef FIRERED
 	givemon VAR_TEMP_1, 26
 	.else

@@ -474,7 +474,7 @@ const u16 DecorGfx_METALLOY_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 
-const u16 DecorGfx_TOGEPI_DOLL[] = {
+const u16 DecorGfx_LARVESTAR_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 
@@ -542,7 +542,7 @@ const u16 DecorGfx_SPARKITE_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 
-const u16 DecorGfx_SKITTY_DOLL[] = {
+const u16 DecorGfx_FROSLASS_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 

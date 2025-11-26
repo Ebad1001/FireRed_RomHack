@@ -170,7 +170,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_IMPISH,
 	},
 	{
-		.species = SPECIES_DELCATTY,
+		.species = SPECIES_PROBOPASS,
 		.heldItem = BATTLE_TOWER_ITEM_SITRUS_BERRY,
 		.teamFlags = 0x42,
 		.moves = {
@@ -1522,7 +1522,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_IMPISH,
 	},
 	{
-		.species = SPECIES_DELCATTY,
+		.species = SPECIES_PROBOPASS,
 		.heldItem = BATTLE_TOWER_ITEM_SITRUS_BERRY,
 		.teamFlags = 0x08,
 		.moves = {
@@ -1834,7 +1834,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_HARDY,
 	},
 	{
-		.species = SPECIES_DONPHAN,
+		.species = SPECIES_FENRIZ,
 		.heldItem = BATTLE_TOWER_ITEM_PERSIM_BERRY,
 		.teamFlags = 0x41,
 		.moves = {
@@ -2198,7 +2198,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel100Mons[] =
 		.nature = NATURE_QUIET,
 	},
 	{
-		.species = SPECIES_DELCATTY,
+		.species = SPECIES_PROBOPASS,
 		.heldItem = BATTLE_TOWER_ITEM_STARF_BERRY,
 		.teamFlags = 0x02,
 		.moves = {

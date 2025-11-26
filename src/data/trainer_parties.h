@@ -5090,7 +5090,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerBerke[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_SEEL,
+        .species = SPECIES_ROCKRUFF,
         .moves = {MOVE_TAKE_DOWN, MOVE_AURORA_BEAM, MOVE_ICY_WIND, MOVE_GROWL},
     },
     {
@@ -5273,7 +5273,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerAlexa[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_DEWGONG,
+        .species = SPECIES_SKOLL,
         .moves = {MOVE_SHEER_COLD, MOVE_TAKE_DOWN, MOVE_REST, MOVE_AURORA_BEAM},
     },
     {
@@ -5453,7 +5453,7 @@ static const struct TrainerMonItemCustomMoves sParty_EliteFourLorelei[] = {
     {
         .iv = 250,
         .lvl = 52,
-        .species = SPECIES_DEWGONG,
+        .species = SPECIES_SKOLL,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_ICE_BEAM, MOVE_SURF, MOVE_HAIL, MOVE_SAFEGUARD},
     },
@@ -6692,7 +6692,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PicnickerIrene[] = {
     {
         .iv = 0,
         .lvl = 30,
-        .species = SPECIES_SEEL,
+        .species = SPECIES_ROCKRUFF,
     },
 };
 
@@ -7619,7 +7619,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_ScientistGideon[] = {
     {
         .iv = 0,
         .lvl = 46,
-        .species = SPECIES_PORYGON,
+        .species = SPECIES_BRONZONG,
         .moves = {MOVE_TRI_ATTACK, MOVE_CONVERSION, MOVE_RECOVER, MOVE_PSYBEAM},
     },
 };
@@ -7628,17 +7628,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_SwimmerFemaleAmara[] = {
     {
         .iv = 0,
         .lvl = 36,
-        .species = SPECIES_SEEL,
+        .species = SPECIES_ROCKRUFF,
     },
     {
         .iv = 0,
         .lvl = 36,
-        .species = SPECIES_SEEL,
+        .species = SPECIES_ROCKRUFF,
     },
     {
         .iv = 0,
         .lvl = 36,
-        .species = SPECIES_DEWGONG,
+        .species = SPECIES_SKOLL,
     },
 };
 
@@ -8265,7 +8265,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_JugglerMason[] = {
     {
         .iv = 0,
         .lvl = 47,
-        .species = SPECIES_PINECO,
+        .species = SPECIES_SNOWSHREW,
         .moves = {MOVE_SPIKES, MOVE_BIDE, MOVE_RAPID_SPIN, MOVE_TAKE_DOWN},
     },
     {
@@ -8277,7 +8277,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_JugglerMason[] = {
     {
         .iv = 0,
         .lvl = 47,
-        .species = SPECIES_PINECO,
+        .species = SPECIES_SNOWSHREW,
         .moves = {MOVE_SPIKES, MOVE_BIDE, MOVE_RAPID_SPIN, MOVE_EXPLOSION},
     },
 };
@@ -8455,7 +8455,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerMichelle[] = {
     {
         .iv = 100,
         .lvl = 47,
-        .species = SPECIES_DEWGONG,
+        .species = SPECIES_SKOLL,
         .moves = {MOVE_ICE_BEAM, MOVE_TAKE_DOWN, MOVE_ICY_WIND, MOVE_GROWL},
     },
     {
@@ -10280,7 +10280,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_JugglerMason2[] = {
     {
         .iv = 120,
         .lvl = 52,
-        .species = SPECIES_PINECO,
+        .species = SPECIES_SNOWSHREW,
     },
     {
         .iv = 120,
@@ -10290,7 +10290,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_JugglerMason2[] = {
     {
         .iv = 120,
         .lvl = 52,
-        .species = SPECIES_PINECO,
+        .species = SPECIES_SNOWSHREW,
     },
 };
 
@@ -10436,7 +10436,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerMichelle2[] = 
     {
         .iv = 220,
         .lvl = 53,
-        .species = SPECIES_DEWGONG,
+        .species = SPECIES_SKOLL,
         .moves = {MOVE_ICE_BEAM, MOVE_TAKE_DOWN, MOVE_ICY_WIND, MOVE_SHEER_COLD},
     },
     {
@@ -10571,7 +10571,7 @@ static const struct TrainerMonItemCustomMoves sParty_EliteFourLorelei2[] = {
     {
         .iv = 255,
         .lvl = 64,
-        .species = SPECIES_DEWGONG,
+        .species = SPECIES_SKOLL,
         .heldItem = ITEM_NONE,
         .moves = {MOVE_ICE_BEAM, MOVE_SURF, MOVE_SIGNAL_BEAM, MOVE_DOUBLE_TEAM},
     },

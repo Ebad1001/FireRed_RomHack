@@ -213,9 +213,9 @@ void write_data_in_pokedex_text(vector<Pokemon> &pokedex)
         {
             camelCase = "Mrmime";
         }
-        else if (upperCase == "PORYGON2")
+        else if (upperCase == "PORYHEDRON")
         {
-            camelCase = "Porygon2";
+            camelCase = "Poyhedron";
         }
         else if (upperCase == "HO_OH")
         {

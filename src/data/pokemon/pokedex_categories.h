@@ -235,8 +235,8 @@ static const u16 sDexCategory_ForestPkmn_Page14[] = {
 };
 
 static const u16 sDexCategory_ForestPkmn_Page15[] = {
-    SPECIES_PINECO,
-    SPECIES_FORRETRESS,
+    SPECIES_SNOWSHREW,
+    SPECIES_SNOWSLASH,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page16[] = {
@@ -247,13 +247,13 @@ static const u16 sDexCategory_ForestPkmn_Page16[] = {
 
 static const u16 sDexCategory_ForestPkmn_Page17[] = {
     SPECIES_NOSEPASS,
-    SPECIES_SKITTY,
-    SPECIES_DELCATTY,
+    SPECIES_FROSLASS,
+    SPECIES_PROBOPASS,
 };
 
 static const u16 sDexCategory_ForestPkmn_Page18[] = {
-    SPECIES_TOGEPI,
-    SPECIES_TOGETIC,
+    SPECIES_LARVESTAR,
+    SPECIES_VOLCARONA,
     SPECIES_SPINDA,
 };
 
@@ -394,7 +394,7 @@ static const u16 sDexCategory_SeaPkmn_Page1[] = {
 static const u16 sDexCategory_SeaPkmn_Page2[] = {
     SPECIES_WINGULL,
     SPECIES_PELIPPER,
-    SPECIES_MANTINE,
+    SPECIES_FROSMOTH,
 };
 
 static const u16 sDexCategory_SeaPkmn_Page3[] = {
@@ -672,10 +672,10 @@ static const u16 sDexCategory_RoughTerrainPkmn_Page6[] = {
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page7[] = {
-    SPECIES_SEEL,
-    SPECIES_DEWGONG,
-    SPECIES_PHANPY,
-    SPECIES_DONPHAN,
+    SPECIES_ROCKRUFF,
+    SPECIES_SKOLL,
+    SPECIES_HYATI,
+    SPECIES_FENRIZ,
 };
 
 static const u16 sDexCategory_RoughTerrainPkmn_Page8[] = {
@@ -720,7 +720,7 @@ static const u16 sDexCategory_UrbanPkmn_Page3[] = {
 static const u16 sDexCategory_UrbanPkmn_Page4[] = {
     SPECIES_KOFFING,
     SPECIES_WEEZING,
-    SPECIES_PORYGON,
+    SPECIES_BRONZONG,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page5[] = {
@@ -751,7 +751,7 @@ static const u16 sDexCategory_UrbanPkmn_Page8[] = {
 static const u16 sDexCategory_UrbanPkmn_Page9[] = {
     SPECIES_VOLTORB,
     SPECIES_ELECTRODE,
-    SPECIES_PORYGON2,
+    SPECIES_PORYHEDRON,
 };
 
 static const u16 sDexCategory_UrbanPkmn_Page10[] = {

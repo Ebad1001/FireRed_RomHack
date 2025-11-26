@@ -18,7 +18,7 @@
 #define INGAME_TRADE_HITMONCENA 5
 #define INGAME_TRADE_ELECTRODE 6
 #define INGAME_TRADE_ARMAROUGE   7
-#define INGAME_TRADE_SEEL      8
+#define INGAME_TRADE_ROCKRUFF      8
 
 // Return values for CanTradeSelectedMon and CanSpinTradeMon
 #define CAN_TRADE_MON              0

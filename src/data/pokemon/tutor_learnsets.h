@@ -633,12 +633,12 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SEEL] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_ROCKRUFF] = TUTOR(MOVE_BODY_SLAM)
                    | TUTOR(MOVE_DOUBLE_EDGE)
                    | TUTOR(MOVE_AVALANCHE)
                    | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_DEWGONG] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_SKOLL] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
@@ -987,7 +987,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_PORYGON] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_BRONZONG] = TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_DREAM_EATER)
                       | TUTOR(MOVE_CHARGE_UP)
@@ -1260,7 +1260,7 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_CHARGE_UP)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_TOGEPI] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_LARVESTAR] = TUTOR(MOVE_FIRE_PUNCH)
                      | TUTOR(MOVE_THUNDERPUNCH)
                      | TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1273,7 +1273,7 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_CHARGE_UP)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_TOGETIC] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_VOLCARONA] = TUTOR(MOVE_FIRE_PUNCH)
                       | TUTOR(MOVE_THUNDERPUNCH)
                       | TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1468,7 +1468,7 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_CHARGE_UP)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_PINECO] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_SNOWSHREW] = TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_KNOCK_OFF)
                      | TUTOR(MOVE_AVALANCHE)
@@ -1476,7 +1476,7 @@ static const u16 sTutorLearnsets[] =
                      | TUTOR(MOVE_ROCK_SLIDE)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_FORRETRESS] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_SNOWSLASH] = TUTOR(MOVE_BODY_SLAM)
                          | TUTOR(MOVE_DOUBLE_EDGE)
                          | TUTOR(MOVE_KNOCK_OFF)
                          | TUTOR(MOVE_AVALANCHE)
@@ -1639,7 +1639,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_MANTINE] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_FROSMOTH] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
@@ -1669,20 +1669,20 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_PHANPY] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_HYATI] = TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_KNOCK_OFF)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_DONPHAN] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_FENRIZ] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_KNOCK_OFF)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_ROCK_SLIDE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_PORYGON2] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_PORYHEDRON] = TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_DREAM_EATER)
                        | TUTOR(MOVE_CHARGE_UP)
@@ -2079,14 +2079,14 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SKITTY] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_FROSLASS] = TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_DREAM_EATER)
                      | TUTOR(MOVE_CHARGE_UP)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_DELCATTY] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_PROBOPASS] = TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_DREAM_EATER)

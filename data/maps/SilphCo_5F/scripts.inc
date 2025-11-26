@@ -22,7 +22,7 @@ SilphCo_5F_EventScript_WorkerMRocketsGone::
 	end
 
 SilphCo_5F_EventScript_PokemonReport1::
-	msgbox SilphCo_5F_Text_PorygonFirstVRMon, MSGBOX_SIGN
+	msgbox SilphCo_5F_Text_BronzongFirstVRMon, MSGBOX_SIGN
 	end
 
 SilphCo_5F_EventScript_PokemonReport2::

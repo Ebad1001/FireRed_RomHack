@@ -2496,7 +2496,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_SEEL] = /* ROCKRUFF */
+    [SPECIES_ROCKRUFF] = /* ROCKRUFF */
     {
         .baseHP = 65,
         .baseAttack = 45,
@@ -2525,7 +2525,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_WHITE,
         .noFlip = FALSE,
     },
-    [SPECIES_DEWGONG] = /* SKOLL */
+    [SPECIES_SKOLL] = /* SKOLL */
     {
         .baseHP = 90,
         .baseAttack = 70,
@@ -3975,7 +3975,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_PORYGON] = /* BLAZING */
+    [SPECIES_BRONZONG] = /* BLAZING */
     {
         .baseHP = 65,
         .baseAttack = 60,
@@ -5077,7 +5077,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = TRUE,
     },
-    [SPECIES_TOGEPI] =
+    [SPECIES_LARVESTAR] =
     {
         .baseHP = 35,
         .baseAttack = 20,
@@ -5106,7 +5106,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_WHITE,
         .noFlip = FALSE,
     },
-    [SPECIES_TOGETIC] =
+    [SPECIES_VOLCARONA] =
     {
         .baseHP = 55,
         .baseAttack = 40,
@@ -5918,7 +5918,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_PINECO] =
+    [SPECIES_SNOWSHREW] =
     {
         .baseHP = 50,
         .baseAttack = 65,
@@ -5947,7 +5947,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_FORRETRESS] =
+    [SPECIES_SNOWSLASH] =
     {
         .baseHP = 75,
         .baseAttack = 90,
@@ -6556,7 +6556,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_MANTINE] =
+    [SPECIES_FROSMOTH] =
     {
         .baseHP = 65,
         .baseAttack = 40,
@@ -6701,7 +6701,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_PHANPY] = /* HYATI */
+    [SPECIES_HYATI] = /* HYATI */
     {
         .baseHP = 90,
         .baseAttack = 60,
@@ -6730,7 +6730,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_DONPHAN] = /* FENRIS */
+    [SPECIES_FENRIZ] = /* FENRIZ */
     {
         .baseHP = 90,
         .baseAttack = 120,
@@ -6759,7 +6759,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_PORYGON2] =
+    [SPECIES_PORYHEDRON] =
     {
         .baseHP = 85,
         .baseAttack = 80,
@@ -8727,7 +8727,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = FALSE,
     },
-    [SPECIES_SKITTY] = /* VOLCARONA */
+    [SPECIES_FROSLASS] = /* VOLCARONA */
     {
         .baseHP = 50,
         .baseAttack = 45,
@@ -8756,7 +8756,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_DELCATTY] = /* FROSMOTH */
+    [SPECIES_PROBOPASS] = /* FROSMOTH */
     {
         .baseHP = 70,
         .baseAttack = 65,

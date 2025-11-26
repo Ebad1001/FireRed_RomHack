@@ -2240,7 +2240,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Meowth = {
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Seel = {
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Rockruff = {
     .tileTag = TAG_NONE,
     .paletteTag = OBJ_EVENT_PAL_TAG_NPC_PINK,
     .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
@@ -2255,7 +2255,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Seel = {
     .oam = &gObjectEventBaseOam_16x16,
     .subspriteTables = gObjectEventSpriteOamTables_16x16,
     .anims = sAnimTable_Standard,
-    .images = sPicTable_Seel,
+    .images = sPicTable_Rockruff,
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 

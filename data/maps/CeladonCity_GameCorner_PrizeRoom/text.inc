@@ -1,5 +1,5 @@
-CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
-    .string "I sure do fancy that PORYGON!\n"
+CeladonCity_GameCorner_PrizeRoom_Text_FancyThatBronzong::
+    .string "I sure do fancy that BRONZONG!\n"
     .string "But, it's hard to win at slots!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::

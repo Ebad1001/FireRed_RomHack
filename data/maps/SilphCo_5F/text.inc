@@ -53,9 +53,9 @@ SilphCo_5F_Text_Grunt2PostBattle::
     .string "Which reminds me.\p"
     .string "KOFFING evolves into WEEZING!$"
 
-SilphCo_5F_Text_PorygonFirstVRMon::
+SilphCo_5F_Text_BronzongFirstVRMon::
     .string "It's a POKéMON REPORT!\p"
-    .string "POKéMON LAB created PORYGON,\n"
+    .string "POKéMON LAB created BRONZONG,\n"
     .string "the first virtual-reality POKéMON.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::

@@ -124,7 +124,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_NidoranF;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_NidoranM;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Nidorino;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Meowth;
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Seel;
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Rockruff;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Voltorb;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Slowpoke;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Fastrax;
@@ -279,7 +279,7 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_NIDORAN_M]                = &gObjectEventGraphicsInfo_NidoranM,
     [OBJ_EVENT_GFX_NIDORINO]                 = &gObjectEventGraphicsInfo_Nidorino,
     [OBJ_EVENT_GFX_MEOWTH]                   = &gObjectEventGraphicsInfo_Meowth,
-    [OBJ_EVENT_GFX_SEEL]                     = &gObjectEventGraphicsInfo_Seel,
+    [OBJ_EVENT_GFX_ROCKRUFF]                     = &gObjectEventGraphicsInfo_Rockruff,
     [OBJ_EVENT_GFX_VOLTORB]                  = &gObjectEventGraphicsInfo_Voltorb,
     [OBJ_EVENT_GFX_SLOWPOKE]                 = &gObjectEventGraphicsInfo_Slowpoke,
     [OBJ_EVENT_GFX_FASTRAX]                  = &gObjectEventGraphicsInfo_Fastrax,

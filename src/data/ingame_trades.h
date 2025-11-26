@@ -163,10 +163,10 @@ static const struct InGameTrade sInGameTrades[] = {
         .sheen = 10,
         .requestedSpecies = SPECIES_VENONAT
     },
-    [INGAME_TRADE_SEEL] = 
+    [INGAME_TRADE_ROCKRUFF] = 
     {
-        .nickname = _("SEELOR"),
-        .species = SPECIES_SEEL,
+        .nickname = _("ROCKRUFFOR"),
+        .species = SPECIES_ROCKRUFF,
         .ivs = {24, 15, 22, 16, 23, 22},
         .abilityNum = 0,
         .otId = 9853,

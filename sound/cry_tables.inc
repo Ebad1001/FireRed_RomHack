@@ -85,8 +85,8 @@ gCryTable::
 	cry Cry_Farfetchd
 	cry Cry_Doduo
 	cry Cry_Dodrio
-	cry Cry_Seel
-	cry Cry_Dewgong
+	cry Cry_Rockruff
+	cry Cry_Skoll
 	cry Cry_Grimer
 	cry Cry_Muk
 	cry Cry_Shellder
@@ -136,7 +136,7 @@ gCryTable::
 	cry Cry_Vaporeon
 	cry Cry_Jolteon
 	cry Cry_Flareon
-	cry Cry_Porygon
+	cry Cry_Bronzong
 	cry Cry_Omanyte
 	cry Cry_Omastar
 	cry Cry_Kabuto
@@ -174,8 +174,8 @@ gCryTable::
 	cry Cry_Pichu
 	cry Cry_Zorua
 	cry Cry_Zoroark
-	cry Cry_Togepi
-	cry Cry_Togetic
+	cry Cry_Larvestar
+	cry Cry_Volcarona
 	cry Cry_Pidove
 	cry Cry_Unfezant
 	cry Cry_Mareep
@@ -203,8 +203,8 @@ gCryTable::
 	cry Cry_Unown
 	cry Cry_Wobbuffet
 	cry Cry_Boomer
-	cry Cry_Pineco
-	cry Cry_Forretress
+	cry Cry_Snowshrew
+	cry Cry_Snowslash
 	cry Cry_Kleavor
 	cry Cry_Leviscor
 	cry Cry_Steelix
@@ -225,14 +225,14 @@ gCryTable::
 	cry Cry_Anchorage
 	cry Cry_Quartilery
 	cry Cry_Deliberd
-	cry Cry_Mantine
+	cry Cry_Frosmoth
 	cry Cry_Skarmory
 	cry Cry_Houndour
 	cry Cry_Houndoom
 	cry Cry_Kingdra
-	cry Cry_Phanpy
-	cry Cry_Donphan
-	cry Cry_Porygon2
+	cry Cry_Hyati
+	cry Cry_Fenriz
+	cry Cry_Poyhedron
 	cry Cry_Berdeer
 	cry Cry_Smeargle
 	cry Cry_Tyrogue
@@ -312,8 +312,8 @@ gCryTable::
 	cry Cry_Dedtecto
 	cry Cry_Wimpod
 	cry Cry_Golisopod
-	cry Cry_Skitty
-	cry Cry_Delcatty
+	cry Cry_Froslass
+	cry Cry_Probopass
 	cry Cry_Cetoddle
 	cry Cry_Cetitan
 	cry Cry_Numel
@@ -476,8 +476,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Farfetchd
 	cry_reverse Cry_Doduo
 	cry_reverse Cry_Dodrio
-	cry_reverse Cry_Seel
-	cry_reverse Cry_Dewgong
+	cry_reverse Cry_Rockruff
+	cry_reverse Cry_Skoll
 	cry_reverse Cry_Grimer
 	cry_reverse Cry_Muk
 	cry_reverse Cry_Shellder
@@ -527,7 +527,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Vaporeon
 	cry_reverse Cry_Jolteon
 	cry_reverse Cry_Flareon
-	cry_reverse Cry_Porygon
+	cry_reverse Cry_Bronzong
 	cry_reverse Cry_Omanyte
 	cry_reverse Cry_Omastar
 	cry_reverse Cry_Kabuto
@@ -565,8 +565,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Pichu
 	cry_reverse Cry_Zorua
 	cry_reverse Cry_Zoroark
-	cry_reverse Cry_Togepi
-	cry_reverse Cry_Togetic
+	cry_reverse Cry_Larvestar
+	cry_reverse Cry_Volcarona
 	cry_reverse Cry_Pidove
 	cry_reverse Cry_Unfezant
 	cry_reverse Cry_Mareep
@@ -594,8 +594,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Unown
 	cry_reverse Cry_Wobbuffet
 	cry_reverse Cry_Boomer
-	cry_reverse Cry_Pineco
-	cry_reverse Cry_Forretress
+	cry_reverse Cry_Snowshrew
+	cry_reverse Cry_Snowslash
 	cry_reverse Cry_Kleavor
 	cry_reverse Cry_Leviscor
 	cry_reverse Cry_Steelix
@@ -616,14 +616,14 @@ gCryTable_Reverse::
 	cry_reverse Cry_Anchorage
 	cry_reverse Cry_Quartilery
 	cry_reverse Cry_Deliberd
-	cry_reverse Cry_Mantine
+	cry_reverse Cry_Frosmoth
 	cry_reverse Cry_Skarmory
 	cry_reverse Cry_Houndour
 	cry_reverse Cry_Houndoom
 	cry_reverse Cry_Kingdra
-	cry_reverse Cry_Phanpy
-	cry_reverse Cry_Donphan
-	cry_reverse Cry_Porygon2
+	cry_reverse Cry_Hyati
+	cry_reverse Cry_Fenriz
+	cry_reverse Cry_Poyhedron
 	cry_reverse Cry_Berdeer
 	cry_reverse Cry_Smeargle
 	cry_reverse Cry_Tyrogue
@@ -703,8 +703,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Dedtecto
 	cry_reverse Cry_Wimpod
 	cry_reverse Cry_Golisopod
-	cry_reverse Cry_Skitty
-	cry_reverse Cry_Delcatty
+	cry_reverse Cry_Froslass
+	cry_reverse Cry_Probopass
 	cry_reverse Cry_Cetoddle
 	cry_reverse Cry_Cetitan
 	cry_reverse Cry_Numel

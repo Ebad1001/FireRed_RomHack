@@ -80,7 +80,7 @@
 #define DECOR_PICHU_DOLL       76
 #define DECOR_PIKACHU_DOLL     77
 #define DECOR_METALLOY_DOLL      78
-#define DECOR_TOGEPI_DOLL      79
+#define DECOR_LARVESTAR_DOLL      79
 #define DECOR_SCORBUNNY_DOLL   80
 #define DECOR_SNIVY_DOLL   81
 #define DECOR_TOTODILE_DOLL    82
@@ -97,7 +97,7 @@
 #define DECOR_BALTOY_DOLL      93
 #define DECOR_KECLEON_DOLL     94
 #define DECOR_SPARKITE_DOLL     95
-#define DECOR_SKITTY_DOLL      96
+#define DECOR_FROSLASS_DOLL      96
 #define DECOR_SWABLU_DOLL      97
 #define DECOR_CETODDLE_DOLL      98
 #define DECOR_LOTAD_DOLL       99

@@ -271,7 +271,7 @@
 #define EVO_LEVEL               1 // Pokémon reaches the specified level
 #define EVO_LEVEL_MALE          2 // Pokémon reaches the specified level being male                     // RALTS -> GALLADE
 #define EVO_LEVEL_FEMALE        3 // Pokémon reaches the specified level being female                   // RALTS -> GARDEVOIR
-#define EVO_TRADE               4 // Pokémon is traded                                                  // PORYGON -> PORYGON2
+#define EVO_TRADE               4 // Pokémon is traded                                                  // BRONZONG -> PORYHEDRON
 #define EVO_ITEM                5 // specified item is used on Pokémon
 #define EVO_FRIENDSHIP          6 // Pokémon levels up with friendship ≥ 220
 #define EVO_LEVEL_ITEM          7 // Pokémon levels up while holding the specified item
