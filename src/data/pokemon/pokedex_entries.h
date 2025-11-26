@@ -1313,13 +1313,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_ELECTRODE] =
+    [NATIONAL_DEX_GRIMBOLT] =
     {
         .categoryName = _("BALL"),
         .height = 12,
         .weight = 666,
-        .description = gElectrodePokedexText,
-        .unusedDescription = gElectrodePokedexTextUnused,
+        .description = gGrimboltPokedexText,
+        .unusedDescription = gGrimboltPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -3445,13 +3445,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SPIRALOONE] =
+    [NATIONAL_DEX_ULTERGEIST] =
     {
         .categoryName = _("RACCOON"),
         .height = 16,
         .weight = 460,
-        .description = gSpiraloonePokedexText,
-        .unusedDescription = gSpiraloonePokedexTextUnused,
+        .description = gUltergeistPokedexText,
+        .unusedDescription = gUltergeistPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -4797,13 +4797,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_CHILLPANZEE] =
+    [NATIONAL_DEX_CHILPANZEE] =
     {
         .categoryName = _("SNOWBALL"),
         .height = 17,
         .weight = 1200,
-        .description = gChillpanzeePokedexText,
-        .unusedDescription = gChillpanzeePokedexTextUnused,
+        .description = gChilpanzeePokedexText,
+        .unusedDescription = gChilpanzeePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

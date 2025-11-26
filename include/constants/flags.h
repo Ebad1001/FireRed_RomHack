@@ -146,8 +146,8 @@
 #define FLAG_HIDE_ARTICUNO                                 0x082
 #define FLAG_HIDE_TOWER_ROCKET_2                           0x083
 #define FLAG_HIDE_TOWER_ROCKET_3                           0x084
-#define FLAG_HIDE_POWER_PLANT_ELECTRODE_1                  0x085
-#define FLAG_HIDE_POWER_PLANT_ELECTRODE_2                  0x086
+#define FLAG_HIDE_POWER_PLANT_GRIMBOLT_1                  0x085
+#define FLAG_HIDE_POWER_PLANT_GRIMBOLT_2                  0x086
 #define FLAG_HIDE_SS_ANNE                                  0x087
 #define FLAG_HIDE_FIVE_ISLAND_ROCKETS                      0x088
 #define FLAG_HIDE_MT_EMBER_EXTERIOR_ROCKETS                0x089
@@ -744,8 +744,8 @@
 #define FLAG_TUTOR_AVALANCHE                                 0x2CD
 #define FLAG_TUTOR_BODY_SLAM                             0x2CE
 #define FLAG_VISITED_OAKS_LAB                            0x2CF
-#define FLAG_FOUGHT_POWER_PLANT_ELECTRODE_1              0x2D0
-#define FLAG_FOUGHT_POWER_PLANT_ELECTRODE_2              0x2D1
+#define FLAG_FOUGHT_POWER_PLANT_GRIMBOLT_1              0x2D0
+#define FLAG_FOUGHT_POWER_PLANT_GRIMBOLT_2              0x2D1
 #define FLAG_STOPPED_SEAFOAM_B3F_CURRENT                 0x2D2
 #define FLAG_STOPPED_SEAFOAM_B4F_CURRENT                 0x2D3
 #define FLAG_TALKED_TO_LORELEI_AFTER_WAREHOUSE           0x2D4

@@ -705,12 +705,12 @@ const u8 gVoltorbPokedexText[] = _(
 
 const u8 gVoltorbPokedexTextUnused[] = _("");
 
-const u8 gElectrodePokedexText[] = _(
+const u8 gGrimboltPokedexText[] = _(
     "It stores electric energy under very high\n"
     "pressure. It often explodes with little or\n"
     "no provocation.");
 
-const u8 gElectrodePokedexTextUnused[] = _("");
+const u8 gGrimboltPokedexTextUnused[] = _("");
 
 const u8 gAccuraseedPokedexText[] = _(
     "It is often mistaken for eggs. When\n"
@@ -1853,12 +1853,12 @@ const u8 gLinoonePokedexText[] = _(
 
 const u8 gLinoonePokedexTextUnused[] = _("");
 
-const u8 gSpiraloonePokedexText[] = _(
+const u8 gUltergeistPokedexText[] = _(
     "It lives amidst tall grass and in forests.\n"
     "When attacked, it resists by pointing its\n"
     "venomous spikes at the foe.");
 
-const u8 gSpiraloonePokedexTextUnused[] = _("");
+const u8 gUltergeistPokedexTextUnused[] = _("");
 
 const u8 gPansagePokedexText[] = _(
     "It conserves its energy by moving as\n"
@@ -2581,12 +2581,12 @@ const u8 gSnowbrawlPokedexText[] = _(
 
 const u8 gSnowbrawlPokedexTextUnused[] = _("");
 
-const u8 gChillpanzeePokedexText[] = _(
+const u8 gChilpanzeePokedexText[] = _(
     "It has remained unchanged for 100\n"
     "million years. It was discovered\n"
     "during a deep-sea exploration.");
 
-const u8 gChillpanzeePokedexTextUnused[] = _("");
+const u8 gChilpanzeePokedexTextUnused[] = _("");
 
 const u8 gRampapePokedexText[] = _(
     "During the spawning season, countless\n"

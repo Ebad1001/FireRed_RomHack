@@ -440,8 +440,8 @@ static const u16 sEasyChatWordsByLetter_E[] = {
     EC_WORD_ELECTRIC,
     EC_POKEMON2(ELECTRIKE),
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON2(ELECTRODE),
-    EC_POKEMON(ELECTRODE),
+    EC_POKEMON2(GRIMBOLT),
+    EC_POKEMON(GRIMBOLT),
     EC_POKEMON(ELECTIVIRE),
     EC_WORD_ELSE,
     EC_MOVE2(EMBER),
@@ -1320,7 +1320,7 @@ static const u16 sEasyChatWordsByLetter_R[] = {
     EC_POKEMON2(REGISTEEL),
     EC_WORD_REJECT,
     EC_WORD_RELEASE,
-    EC_POKEMON2(CHILLPANZEE),
+    EC_POKEMON2(CHILPANZEE),
     EC_POKEMON(ANCHORAGE),
     EC_WORD_RENTAL,
     EC_MOVE2(REST),
@@ -1921,7 +1921,7 @@ static const u16 sEasyChatWordsByLetter_W[] = {
     EC_WORD_WOWEE,
     EC_MOVE2(WRAP),
     EC_WORD_WROOOAAR_EXCL,
-    EC_POKEMON2(SPIRALOONE),
+    EC_POKEMON2(ULTERGEIST),
     EC_POKEMON2(FORKNIGHT),
 };
 

@@ -404,7 +404,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_BOLD,
 	},
 	{
-		.species = SPECIES_CHILLPANZEE,
+		.species = SPECIES_CHILPANZEE,
 		.heldItem = BATTLE_TOWER_ITEM_MYSTIC_WATER,
 		.teamFlags = 0x01,
 		.moves = {
@@ -950,7 +950,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_QUIRKY,
 	},
 	{
-		.species = SPECIES_ELECTRODE,
+		.species = SPECIES_GRIMBOLT,
 		.heldItem = BATTLE_TOWER_ITEM_ASPEAR_BERRY,
 		.teamFlags = 0x05,
 		.moves = {
@@ -1457,7 +1457,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_QUIET,
 	},
 	{
-		.species = SPECIES_CHILLPANZEE,
+		.species = SPECIES_CHILPANZEE,
 		.heldItem = BATTLE_TOWER_ITEM_LIECHI_BERRY,
 		.teamFlags = 0xC5,
 		.moves = {
@@ -1808,7 +1808,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_NAIVE,
 	},
 	{
-		.species = SPECIES_ELECTRODE,
+		.species = SPECIES_GRIMBOLT,
 		.heldItem = BATTLE_TOWER_ITEM_LUM_BERRY,
 		.teamFlags = 0x09,
 		.moves = {
@@ -2744,7 +2744,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_BRAVE,
 	},
 	{
-		.species = SPECIES_ELECTRODE,
+		.species = SPECIES_GRIMBOLT,
 		.heldItem = BATTLE_TOWER_ITEM_LUM_BERRY,
 		.teamFlags = 0x27,
 		.moves = {
@@ -3134,7 +3134,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_BRAVE,
 	},
 	{
-		.species = SPECIES_ELECTRODE,
+		.species = SPECIES_GRIMBOLT,
 		.heldItem = BATTLE_TOWER_ITEM_SALAC_BERRY,
 		.teamFlags = 0x07,
 		.moves = {
@@ -3524,7 +3524,7 @@ const struct BattleTowerPokemonTemplate gBattleTowerLevel50Mons[] =
 		.nature = NATURE_QUIET,
 	},
 	{
-		.species = SPECIES_ELECTRODE,
+		.species = SPECIES_GRIMBOLT,
 		.heldItem = BATTLE_TOWER_ITEM_LIECHI_BERRY,
 		.teamFlags = 0x64,
 		.moves = {

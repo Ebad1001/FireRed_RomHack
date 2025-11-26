@@ -3053,7 +3053,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_RockerLuca[] = {
     {
         .iv = 0,
         .lvl = 29,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
 };
 
@@ -3154,7 +3154,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_JugglerEdward[] = {
     {
         .iv = 0,
         .lvl = 47,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
         .moves = {MOVE_SWIFT, MOVE_SPARK, MOVE_SELF_DESTRUCT, MOVE_SONIC_BOOM},
     },
     {
@@ -3871,7 +3871,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_ScientistTed[] = {
     {
         .iv = 0,
         .lvl = 29,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
     {
         .iv = 0,
@@ -3929,7 +3929,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_ScientistJose[] = {
     {
         .iv = 0,
         .lvl = 29,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
         .moves = {MOVE_SPARK, MOVE_SONIC_BOOM, MOVE_SCREECH, MOVE_TACKLE},
     },
     {
@@ -3944,7 +3944,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_ScientistRodney[] = {
     {
         .iv = 0,
         .lvl = 33,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
 };
 
@@ -4012,7 +4012,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_ScientistJoshua[] = {
     {
         .iv = 0,
         .lvl = 29,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
     {
         .iv = 0,
@@ -4030,7 +4030,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_ScientistParker[] = {
     {
         .iv = 0,
         .lvl = 29,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
 };
 
@@ -4095,7 +4095,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_ScientistIvan[] = {
     {
         .iv = 0,
         .lvl = 34,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
 };
 
@@ -4910,7 +4910,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerGeorge[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
         .moves = {MOVE_SPARK, MOVE_SONIC_BOOM, MOVE_SCREECH, MOVE_LIGHT_SCREEN},
     },
     {
@@ -7601,7 +7601,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_ScientistGideon[] = {
     {
         .iv = 0,
         .lvl = 46,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
         .moves = {MOVE_SPARK, MOVE_SONIC_BOOM, MOVE_SCREECH, MOVE_CHARGE},
     },
     {
@@ -9256,12 +9256,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_RockerLuca2[] = {
     {
         .iv = 60,
         .lvl = 33,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
     {
         .iv = 60,
         .lvl = 33,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
 };
 
@@ -10275,7 +10275,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_JugglerMason2[] = {
     {
         .iv = 120,
         .lvl = 52,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
     {
         .iv = 120,
@@ -10285,7 +10285,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_JugglerMason2[] = {
     {
         .iv = 120,
         .lvl = 52,
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
     },
     {
         .iv = 120,

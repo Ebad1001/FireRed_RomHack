@@ -110,8 +110,8 @@
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "PowerPlant_EventScript_Electrode2",
-      "flag": "FLAG_HIDE_POWER_PLANT_ELECTRODE_2"
+      "script": "PowerPlant_EventScript_Grimbolt2",
+      "flag": "FLAG_HIDE_POWER_PLANT_GRIMBOLT_2"
     },
     {
       "type": "object",
@@ -124,8 +124,8 @@
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "PowerPlant_EventScript_Electrode1",
-      "flag": "FLAG_HIDE_POWER_PLANT_ELECTRODE_1"
+      "script": "PowerPlant_EventScript_Grimbolt1",
+      "flag": "FLAG_HIDE_POWER_PLANT_GRIMBOLT_1"
     }
   ],
   "warp_events": [

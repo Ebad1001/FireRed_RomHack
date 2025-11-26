@@ -18,7 +18,7 @@ ViridianCity_Text_OhOkayThen::
     .string "Oh, okay then!$"
 
 ViridianCity_Text_ExplainCaterpieWeedle::
-    .string "CATERPIE, WEEDLE, and SPIRALOONE\n"
+    .string "CATERPIE, WEEDLE, and ULTERGEIST\n"
     .string "are the three caterpillar POKéMON.\p"
     .string "They evolve at level 10 And then\n"
     .string "they further evolve at level 15.\p"

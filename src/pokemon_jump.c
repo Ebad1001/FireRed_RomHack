@@ -831,7 +831,7 @@ static const struct PokemonJumpMons
     { .species = SPECIES_POOCHYENA,  .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_ZIGZAGOON,  .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_LINOONE,    .jumpType = JUMP_TYPE_NORMAL },
-    { .species = SPECIES_SPIRALOONE,    .jumpType = JUMP_TYPE_FAST },
+    { .species = SPECIES_ULTERGEIST,    .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_PANSAGE,    .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_PANPOUR,    .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_LOTAD,      .jumpType = JUMP_TYPE_SLOW },

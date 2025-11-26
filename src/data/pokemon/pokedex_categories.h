@@ -8,7 +8,7 @@ static const u16 sDexCategory_GrasslandPkmn_Page1[] = {
 static const u16 sDexCategory_GrasslandPkmn_Page2[] = {
     SPECIES_ZIGZAGOON,
     SPECIES_LINOONE,
-    SPECIES_SPIRALOONE,
+    SPECIES_ULTERGEIST,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page3[] = {
@@ -623,7 +623,7 @@ static const u16 sDexCategory_MountainPkmn_Page15[] = {
 
 static const u16 sDexCategory_MountainPkmn_Page16[] = {
     SPECIES_SNOWBRAWL,
-    SPECIES_CHILLPANZEE,
+    SPECIES_CHILPANZEE,
     SPECIES_RAMPAPE,
 };
 
@@ -750,7 +750,7 @@ static const u16 sDexCategory_UrbanPkmn_Page8[] = {
 
 static const u16 sDexCategory_UrbanPkmn_Page9[] = {
     SPECIES_VOLTORB,
-    SPECIES_ELECTRODE,
+    SPECIES_GRIMBOLT,
     SPECIES_PORYHEDRON,
 };
 

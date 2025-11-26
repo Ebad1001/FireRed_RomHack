@@ -16,20 +16,20 @@ PowerPlant_EventScript_TryRemoveStaticMon::
 PowerPlant_OnTransition::
 	setworldmapflag FLAG_WORLD_MAP_POWER_PLANT
 	call_if_unset FLAG_FOUGHT_ZAPDOS, PowerPlant_EventScript_ShowZapdos
-	call_if_unset FLAG_FOUGHT_POWER_PLANT_ELECTRODE_1, PowerPlant_EventScript_ShowElectrode1
-	call_if_unset FLAG_FOUGHT_POWER_PLANT_ELECTRODE_2, PowerPlant_EventScript_ShowElectrode2
+	call_if_unset FLAG_FOUGHT_POWER_PLANT_GRIMBOLT_1, PowerPlant_EventScript_ShowGrimbolt1
+	call_if_unset FLAG_FOUGHT_POWER_PLANT_GRIMBOLT_2, PowerPlant_EventScript_ShowGrimbolt2
 	end
 
 PowerPlant_EventScript_ShowZapdos::
 	clearflag FLAG_HIDE_ZAPDOS
 	return
 
-PowerPlant_EventScript_ShowElectrode1::
-	clearflag FLAG_HIDE_POWER_PLANT_ELECTRODE_1
+PowerPlant_EventScript_ShowGrimbolt1::
+	clearflag FLAG_HIDE_POWER_PLANT_GRIMBOLT_1
 	return
 
-PowerPlant_EventScript_ShowElectrode2::
-	clearflag FLAG_HIDE_POWER_PLANT_ELECTRODE_2
+PowerPlant_EventScript_ShowGrimbolt2::
+	clearflag FLAG_HIDE_POWER_PLANT_GRIMBOLT_2
 	return
 
 PowerPlant_EventScript_Zapdos::
@@ -68,13 +68,13 @@ PowerPlant_EventScript_RanFromZapdos::
 	goto EventScript_MonFlewAway
 	end
 
-PowerPlant_EventScript_Electrode1::
+PowerPlant_EventScript_Grimbolt1::
 	goto_if_questlog EventScript_ReleaseEnd
 	lock
 	faceplayer
-	setwildbattle SPECIES_ELECTRODE, 34
+	setwildbattle SPECIES_GRIMBOLT, 34
 	waitse
-	playmoncry SPECIES_ELECTRODE, CRY_MODE_ENCOUNTER
+	playmoncry SPECIES_GRIMBOLT, CRY_MODE_ENCOUNTER
 	delay 40
 	waitmoncry
 	setflag FLAG_SYS_SPECIAL_WILD_BATTLE
@@ -82,25 +82,25 @@ PowerPlant_EventScript_Electrode1::
 	clearflag FLAG_SYS_SPECIAL_WILD_BATTLE
 	special QuestLog_CutRecording
 	specialvar VAR_RESULT, GetBattleOutcome
-	goto_if_eq VAR_RESULT, B_OUTCOME_WON, PowerPlant_EventScript_FoughtElectrode1
-	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, PowerPlant_EventScript_FoughtElectrode1
-	goto_if_eq VAR_RESULT, B_OUTCOME_PLAYER_TELEPORTED, PowerPlant_EventScript_FoughtElectrode1
-	setflag FLAG_FOUGHT_POWER_PLANT_ELECTRODE_1
+	goto_if_eq VAR_RESULT, B_OUTCOME_WON, PowerPlant_EventScript_FoughtGrimbolt1
+	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, PowerPlant_EventScript_FoughtGrimbolt1
+	goto_if_eq VAR_RESULT, B_OUTCOME_PLAYER_TELEPORTED, PowerPlant_EventScript_FoughtGrimbolt1
+	setflag FLAG_FOUGHT_POWER_PLANT_GRIMBOLT_1
 	release
 	end
 
-PowerPlant_EventScript_FoughtElectrode1::
-	setflag FLAG_FOUGHT_POWER_PLANT_ELECTRODE_1
+PowerPlant_EventScript_FoughtGrimbolt1::
+	setflag FLAG_FOUGHT_POWER_PLANT_GRIMBOLT_1
 	goto EventScript_RemoveStaticMon
 	end
 
-PowerPlant_EventScript_Electrode2::
+PowerPlant_EventScript_Grimbolt2::
 	goto_if_questlog EventScript_ReleaseEnd
 	lock
 	faceplayer
-	setwildbattle SPECIES_ELECTRODE, 34
+	setwildbattle SPECIES_GRIMBOLT, 34
 	waitse
-	playmoncry SPECIES_ELECTRODE, CRY_MODE_ENCOUNTER
+	playmoncry SPECIES_GRIMBOLT, CRY_MODE_ENCOUNTER
 	delay 40
 	waitmoncry
 	setflag FLAG_SYS_SPECIAL_WILD_BATTLE
@@ -108,14 +108,14 @@ PowerPlant_EventScript_Electrode2::
 	clearflag FLAG_SYS_SPECIAL_WILD_BATTLE
 	special QuestLog_CutRecording
 	specialvar VAR_RESULT, GetBattleOutcome
-	goto_if_eq VAR_RESULT, B_OUTCOME_WON, PowerPlant_EventScript_FoughtElectrode2
-	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, PowerPlant_EventScript_FoughtElectrode2
-	goto_if_eq VAR_RESULT, B_OUTCOME_PLAYER_TELEPORTED, PowerPlant_EventScript_FoughtElectrode2
-	setflag FLAG_FOUGHT_POWER_PLANT_ELECTRODE_2
+	goto_if_eq VAR_RESULT, B_OUTCOME_WON, PowerPlant_EventScript_FoughtGrimbolt2
+	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, PowerPlant_EventScript_FoughtGrimbolt2
+	goto_if_eq VAR_RESULT, B_OUTCOME_PLAYER_TELEPORTED, PowerPlant_EventScript_FoughtGrimbolt2
+	setflag FLAG_FOUGHT_POWER_PLANT_GRIMBOLT_2
 	release
 	end
 
-PowerPlant_EventScript_FoughtElectrode2::
-	setflag FLAG_FOUGHT_POWER_PLANT_ELECTRODE_2
+PowerPlant_EventScript_FoughtGrimbolt2::
+	setflag FLAG_FOUGHT_POWER_PLANT_GRIMBOLT_2
 	goto EventScript_RemoveStaticMon
 	end

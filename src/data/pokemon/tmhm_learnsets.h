@@ -2320,7 +2320,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM46_BUG_BUZZ)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_ELECTRODE]   = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_GRIMBOLT]   = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM12_YAWN)
                                         | TMHM(TM15_HYPER_BEAM)
@@ -6438,7 +6438,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_SPIRALOONE]     = TMHM_LEARNSET(0),
+    [SPECIES_ULTERGEIST]     = TMHM_LEARNSET(0),
 
     [SPECIES_PANSAGE]     = TMHM_LEARNSET(0),
 
@@ -8559,7 +8559,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_CHILLPANZEE]   = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_CHILPANZEE]   = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM07_HAIL)

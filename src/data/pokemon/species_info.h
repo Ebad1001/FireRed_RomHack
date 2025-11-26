@@ -2931,7 +2931,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_ELECTRODE] =
+    [SPECIES_GRIMBOLT] =
     {
         .baseHP = 60,
         .baseAttack = 50,
@@ -7712,7 +7712,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_WHITE,
         .noFlip = FALSE,
     },
-    [SPECIES_SPIRALOONE] = /* OBSTAGOON */
+    [SPECIES_ULTERGEIST] = /* OBSTAGOON */
     {
         .baseHP = 45,
         .baseAttack = 45,
@@ -10728,7 +10728,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_CHILLPANZEE] = /* CHIMPUNK */
+    [SPECIES_CHILPANZEE] = /* CHIMPUNK */
     {
         .baseHP = 100,
         .baseAttack = 90,

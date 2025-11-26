@@ -100,7 +100,7 @@ gCryTable::
 	cry Cry_Krabby
 	cry Cry_Kingler
 	cry Cry_Voltorb
-	cry Cry_Electrode
+	cry Cry_Grimbolt
 	cry Cry_Accuraseed
 	cry Cry_Treecision
 	cry Cry_Cubone
@@ -290,7 +290,7 @@ gCryTable::
 	cry Cry_Flapple
 	cry Cry_Appletun
 	cry Cry_Carvanha
-	cry Cry_Spiraloone
+	cry Cry_Ultergeist
 	cry Cry_Pansage
 	cry Cry_Pansear
 	cry Cry_Panpour
@@ -367,7 +367,7 @@ gCryTable::
 	cry Cry_Aron
 	cry Cry_Lairon
 	cry Cry_Aggron
-	cry Cry_Chillpanzee
+	cry Cry_Chilpanzee
 	cry Cry_Rampape
 	cry Cry_Groudon
 	cry Cry_Kyogre
@@ -491,7 +491,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Krabby
 	cry_reverse Cry_Kingler
 	cry_reverse Cry_Voltorb
-	cry_reverse Cry_Electrode
+	cry_reverse Cry_Grimbolt
 	cry_reverse Cry_Accuraseed
 	cry_reverse Cry_Treecision
 	cry_reverse Cry_Cubone
@@ -681,7 +681,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Flapple
 	cry_reverse Cry_Appletun
 	cry_reverse Cry_Carvanha
-	cry_reverse Cry_Spiraloone
+	cry_reverse Cry_Ultergeist
 	cry_reverse Cry_Pansage
 	cry_reverse Cry_Pansear
 	cry_reverse Cry_Panpour
@@ -758,7 +758,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Aron
 	cry_reverse Cry_Lairon
 	cry_reverse Cry_Aggron
-	cry_reverse Cry_Chillpanzee
+	cry_reverse Cry_Chilpanzee
 	cry_reverse Cry_Rampape
 	cry_reverse Cry_Groudon
 	cry_reverse Cry_Kyogre

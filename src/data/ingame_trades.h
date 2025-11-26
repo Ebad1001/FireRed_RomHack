@@ -131,10 +131,10 @@ static const struct InGameTrade sInGameTrades[] = {
         .requestedSpecies = SPECIES_FASTRAX
 #endif
     }, 
-    [INGAME_TRADE_ELECTRODE] = 
+    [INGAME_TRADE_GRIMBOLT] = 
     {
         .nickname = _("ESPHERE"),
-        .species = SPECIES_ELECTRODE,
+        .species = SPECIES_GRIMBOLT,
         .ivs = {19, 16, 18, 25, 25, 19},
         .abilityNum = 1,
         .otId = 50298,

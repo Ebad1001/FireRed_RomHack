@@ -6730,7 +6730,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_3 = {
 			.speechAfter = {EC_WORD_WANT, EC_WORD_TO, EC_WORD_PARTY, EC_WORD_SOME, EC_WORD_MORE, EC_WORD_QUES},
 			.mons = {
 				{
-					.species = SPECIES_ELECTRODE,
+					.species = SPECIES_GRIMBOLT,
 					.heldItem = ITEM_FOCUS_BAND,
 					.moves = {MOVE_EXPLOSION, MOVE_LIGHT_SCREEN, MOVE_SCREECH, MOVE_THUNDERBOLT},
 					.hpEV = 10,
@@ -6748,7 +6748,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_3 = {
 					.spDefenseIV = 10,
 					.abilityNum = 1,
 					.personality = 0x0D, // GENDERLESS JOLLY
-					.nickname = _("ELECTRODE"),
+					.nickname = _("GRIMBOLT"),
 					.friendship = 255
 				},
 				{
@@ -7283,7 +7283,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_Unused2 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_ELECTRODE,
+					.species = SPECIES_GRIMBOLT,
 					.heldItem = ITEM_LIECHI_BERRY,
 					.moves = {MOVE_THUNDERBOLT, MOVE_EXPLOSION, MOVE_MIRROR_COAT, MOVE_LIGHT_SCREEN},
 					.hpEV = 0,
@@ -7301,7 +7301,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_Unused2 = {
 					.spDefenseIV = 31,
 					.abilityNum = 0,
 					.personality = 0x14, // GENDERLESS CALM
-					.nickname = _("ELECTRODE"),
+					.nickname = _("GRIMBOLT"),
 					.friendship = 255
 				},
 				{
@@ -8086,7 +8086,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
 			.speechAfter = {EC_WORD_ELECTRIC, EC_WORD_EXCL, EC_WORD_IT_S, EC_WORD_A, EC_WORD_NATURAL, EC_WORD_POWER},
 			.mons = {
 				{
-					.species = SPECIES_ELECTRODE,
+					.species = SPECIES_GRIMBOLT,
 					.heldItem = ITEM_LIECHI_BERRY,
 					.moves = {MOVE_THUNDERBOLT, MOVE_MIRROR_COAT, MOVE_EXPLOSION, MOVE_THUNDER_WAVE},
 					.hpEV = 0,
@@ -8104,7 +8104,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_6 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x14, // GENDERLESS CALM
-					.nickname = _("ELECTRODE"),
+					.nickname = _("GRIMBOLT"),
 					.friendship = 255
 				},
 				{

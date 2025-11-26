@@ -1,4 +1,4 @@
-const POKEMON_COUNT = 386;
+const POKEMON_COUNT = 384;
 let showFront = true;
 let showNames = true;
 
@@ -22,8 +22,8 @@ function render_sprites() {
         if (showNames) {
             let pokemon_name = document.createElement("div");
             pokemon_name.className = "pokemon-name text-center font-bold";
-            pokemon_name.innerText = (i == 231)
-                ? "232_castform"
+            pokemon_name.innerText = (pokemon_names[i].toLowerCase() == "castform/normal")
+                ? (i + 1) + "_castform"
                 : (i + 1) + "_" + pokemon_names[i].toLowerCase();
             pokemon.appendChild(pokemon_name);
         }

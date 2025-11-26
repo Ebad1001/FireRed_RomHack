@@ -1382,7 +1382,7 @@ static const u16 sVoltorbLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sElectrodeLevelUpLearnset[] = {
+static const u16 sGrimboltLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_CHARGE),
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_SCREECH),
@@ -3815,7 +3815,7 @@ static const u16 sLinooneLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSpiralooneLevelUpLearnset[] = {
+static const u16 sUltergeistLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_STRING_SHOT),
     LEVEL_UP_MOVE(5, MOVE_POISON_STING),
@@ -5146,7 +5146,7 @@ static const u16 sZangooseLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sChillpanzeeLevelUpLearnset[] = {
+static const u16 sChilpanzeeLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(1, MOVE_HARDEN),
     LEVEL_UP_MOVE(8, MOVE_WATER_GUN),

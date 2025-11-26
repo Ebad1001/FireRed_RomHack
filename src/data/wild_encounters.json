@@ -4147,7 +4147,7 @@
               {
                 "min_level": 58,
                 "max_level": 58,
-                "species": "SPECIES_ELECTRODE"
+                "species": "SPECIES_GRIMBOLT"
               },
               {
                 "min_level": 58,
@@ -4331,7 +4331,7 @@
               {
                 "min_level": 58,
                 "max_level": 58,
-                "species": "SPECIES_ELECTRODE"
+                "species": "SPECIES_GRIMBOLT"
               },
               {
                 "min_level": 58,
@@ -4525,7 +4525,7 @@
               {
                 "min_level": 61,
                 "max_level": 61,
-                "species": "SPECIES_ELECTRODE"
+                "species": "SPECIES_GRIMBOLT"
               },
               {
                 "min_level": 61,
@@ -4624,7 +4624,7 @@
               {
                 "min_level": 61,
                 "max_level": 61,
-                "species": "SPECIES_ELECTRODE"
+                "species": "SPECIES_GRIMBOLT"
               },
               {
                 "min_level": 61,
@@ -4723,7 +4723,7 @@
               {
                 "min_level": 64,
                 "max_level": 64,
-                "species": "SPECIES_ELECTRODE"
+                "species": "SPECIES_GRIMBOLT"
               },
               {
                 "min_level": 64,
@@ -4907,7 +4907,7 @@
               {
                 "min_level": 64,
                 "max_level": 64,
-                "species": "SPECIES_ELECTRODE"
+                "species": "SPECIES_GRIMBOLT"
               },
               {
                 "min_level": 64,

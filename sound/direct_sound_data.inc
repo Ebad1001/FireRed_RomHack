@@ -704,8 +704,8 @@ Cry_Voltorb::
 	.incbin "sound/direct_sound_samples/cries/voltorb.bin"
 
 	.align 2
-Cry_Electrode::
-	.incbin "sound/direct_sound_samples/cries/electrode.bin"
+Cry_Grimbolt::
+	.incbin "sound/direct_sound_samples/cries/grimbolt.bin"
 
 	.align 2
 Cry_Accuraseed::
@@ -1464,8 +1464,8 @@ Cry_Carvanha::
 	.incbin "sound/direct_sound_samples/cries/carvanha.bin"
 
 	.align 2
-Cry_Spiraloone::
-	.incbin "sound/direct_sound_samples/cries/spiraloone.bin"
+Cry_Ultergeist::
+	.incbin "sound/direct_sound_samples/cries/ultergeist.bin"
 
 	.align 2
 Cry_Pansage::
@@ -1772,8 +1772,8 @@ Cry_Aggron::
 	.incbin "sound/direct_sound_samples/cries/aggron.bin"
 
 	.align 2
-Cry_Chillpanzee::
-	.incbin "sound/direct_sound_samples/cries/chillpanzee.bin"
+Cry_Chilpanzee::
+	.incbin "sound/direct_sound_samples/cries/chilpanzee.bin"
 
 	.align 2
 Cry_Rampape::

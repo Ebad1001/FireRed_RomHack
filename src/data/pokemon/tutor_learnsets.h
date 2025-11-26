@@ -733,7 +733,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_EXPLOSION)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_ELECTRODE] = TUTOR(MOVE_AVALANCHE)
+    [SPECIES_GRIMBOLT] = TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_CHARGE_UP)
                         | TUTOR(MOVE_EXPLOSION)
                         | TUTOR(MOVE_SUBSTITUTE),
@@ -1941,7 +1941,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_CHARGE_UP)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SPIRALOONE] = 0,
+    [SPECIES_ULTERGEIST] = 0,
 
     [SPECIES_PANSAGE] = 0,
 
@@ -2571,7 +2571,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_ROCK_SLIDE)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_CHILLPANZEE] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_CHILPANZEE] = TUTOR(MOVE_BODY_SLAM)
                         | TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_AVALANCHE)
                         | TUTOR(MOVE_ROCK_SLIDE)

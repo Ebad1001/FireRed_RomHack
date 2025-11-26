@@ -1207,7 +1207,7 @@ const u16 gEggMoves[] = {
               MOVE_ROAR,
               MOVE_CURSE),
 
-    egg_moves(CHILLPANZEE,
+    egg_moves(CHILPANZEE,
               MOVE_MAGNITUDE,
               MOVE_SKULL_BASH,
               MOVE_SLAM,
