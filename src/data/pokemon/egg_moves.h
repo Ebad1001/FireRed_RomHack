@@ -221,7 +221,7 @@ const u16 gEggMoves[] = {
               MOVE_ROCK_SLIDE,
               MOVE_MEAN_LOOK),
 
-    egg_moves(PONYTA,
+    egg_moves(NAZUMI,
               MOVE_FLAME_WHEEL,
               MOVE_THRASH,
               MOVE_DOUBLE_KICK,
@@ -781,7 +781,7 @@ const u16 gEggMoves[] = {
               MOVE_THUNDER_WAVE,
               MOVE_ROCK_BLAST),
 
-    egg_moves(DELIBERD,
+    egg_moves(MAGNEZONE,
               MOVE_AURORA_BEAM,
               MOVE_QUICK_ATTACK,
               MOVE_FUTURE_SIGHT,
@@ -821,7 +821,7 @@ const u16 gEggMoves[] = {
               MOVE_COUNTER,
               MOVE_FISSURE),
 
-    egg_moves(BERDEER,
+    egg_moves(DRUDDIGON,
               MOVE_SPITE,
               MOVE_DISABLE,
               MOVE_BITE,
@@ -1089,7 +1089,7 @@ const u16 gEggMoves[] = {
               MOVE_MEAN_LOOK,
               MOVE_SPIKES),
 
-    egg_moves(SPARKITE,
+    egg_moves(MUSHIN,
               MOVE_ENCORE,
               MOVE_SING,
               MOVE_REFRESH,

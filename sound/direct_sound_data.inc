@@ -608,12 +608,12 @@ Cry_Golem::
 	.incbin "sound/direct_sound_samples/cries/golem.bin"
 
 	.align 2
-Cry_Ponyta::
-	.incbin "sound/direct_sound_samples/cries/ponyta.bin"
+Cry_Nazumi::
+	.incbin "sound/direct_sound_samples/cries/nazumi.bin"
 
 	.align 2
-Cry_Rapidash::
-	.incbin "sound/direct_sound_samples/cries/rapidash.bin"
+Cry_Pyroku::
+	.incbin "sound/direct_sound_samples/cries/pyroku.bin"
 
 	.align 2
 Cry_Slowpoke::
@@ -1200,8 +1200,8 @@ Cry_Quartilery::
 	.incbin "sound/direct_sound_samples/cries/quartilery.bin"
 
 	.align 2
-Cry_Deliberd::
-	.incbin "sound/direct_sound_samples/cries/deliberd.bin"
+Cry_Magnezone::
+	.incbin "sound/direct_sound_samples/cries/magnezone.bin"
 
 	.align 2
 Cry_Frosmoth::
@@ -1236,8 +1236,8 @@ Cry_Poyhedron::
 	.incbin "sound/direct_sound_samples/cries/poryhedron.bin"
 
 	.align 2
-Cry_Berdeer::
-	.incbin "sound/direct_sound_samples/cries/berdeer.bin"
+Cry_Druddigon::
+	.incbin "sound/direct_sound_samples/cries/druddigon.bin"
 
 	.align 2
 Cry_Smeargle::
@@ -1352,8 +1352,8 @@ Cry_Zangoose::
 	.incbin "sound/direct_sound_samples/cries/zangoose.bin"
 
 	.align 2
-Cry_Sparkite::
-	.incbin "sound/direct_sound_samples/cries/sparkite.bin"
+Cry_Mushin::
+	.incbin "sound/direct_sound_samples/cries/mushin.bin"
 
 	.align 2
 Cry_Swablu::

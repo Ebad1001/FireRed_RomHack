@@ -7245,7 +7245,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 38,
@@ -7255,7 +7255,7 @@
               {
                 "min_level": 33,
                 "max_level": 33,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 32,
@@ -7275,7 +7275,7 @@
               {
                 "min_level": 36,
                 "max_level": 36,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 40,
@@ -7290,7 +7290,7 @@
               {
                 "min_level": 39,
                 "max_level": 39,
-                "species": "SPECIES_RAPIDASH"
+                "species": "SPECIES_PYROKU"
               },
               {
                 "min_level": 30,
@@ -7300,7 +7300,7 @@
               {
                 "min_level": 42,
                 "max_level": 42,
-                "species": "SPECIES_RAPIDASH"
+                "species": "SPECIES_PYROKU"
               }
             ]
           },
@@ -7344,7 +7344,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 38,
@@ -7354,7 +7354,7 @@
               {
                 "min_level": 33,
                 "max_level": 33,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 32,
@@ -7374,7 +7374,7 @@
               {
                 "min_level": 36,
                 "max_level": 36,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 40,
@@ -7389,7 +7389,7 @@
               {
                 "min_level": 39,
                 "max_level": 39,
-                "species": "SPECIES_RAPIDASH"
+                "species": "SPECIES_PYROKU"
               },
               {
                 "min_level": 40,
@@ -7399,7 +7399,7 @@
               {
                 "min_level": 42,
                 "max_level": 42,
-                "species": "SPECIES_RAPIDASH"
+                "species": "SPECIES_PYROKU"
               }
             ]
           },
@@ -9751,7 +9751,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_DELIBERD"
+                "species": "SPECIES_MAGNEZONE"
               },
               {
                 "min_level": 31,
@@ -9889,7 +9889,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_DELIBERD"
+                "species": "SPECIES_MAGNEZONE"
               },
               {
                 "min_level": 31,
@@ -12380,7 +12380,7 @@
               {
                 "min_level": 34,
                 "max_level": 34,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 36,
@@ -12390,7 +12390,7 @@
               {
                 "min_level": 31,
                 "max_level": 31,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 31,
@@ -12415,7 +12415,7 @@
               {
                 "min_level": 37,
                 "max_level": 37,
-                "species": "SPECIES_RAPIDASH"
+                "species": "SPECIES_PYROKU"
               },
               {
                 "min_level": 37,
@@ -12425,7 +12425,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_RAPIDASH"
+                "species": "SPECIES_PYROKU"
               },
               {
                 "min_level": 40,
@@ -12564,7 +12564,7 @@
               {
                 "min_level": 34,
                 "max_level": 34,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 36,
@@ -12574,7 +12574,7 @@
               {
                 "min_level": 31,
                 "max_level": 31,
-                "species": "SPECIES_PONYTA"
+                "species": "SPECIES_NAZUMI"
               },
               {
                 "min_level": 31,
@@ -12599,7 +12599,7 @@
               {
                 "min_level": 37,
                 "max_level": 37,
-                "species": "SPECIES_RAPIDASH"
+                "species": "SPECIES_PYROKU"
               },
               {
                 "min_level": 37,
@@ -12609,7 +12609,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_RAPIDASH"
+                "species": "SPECIES_PYROKU"
               },
               {
                 "min_level": 40,
@@ -24412,62 +24412,62 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 18,
                 "max_level": 18,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               }
             ]
           }
@@ -25033,62 +25033,62 @@
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 22,
                 "max_level": 22,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 24,
                 "max_level": 24,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 18,
                 "max_level": 18,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 20,
                 "max_level": 20,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               },
               {
                 "min_level": 26,
                 "max_level": 26,
-                "species": "SPECIES_BERDEER"
+                "species": "SPECIES_DRUDDIGON"
               }
             ]
           }

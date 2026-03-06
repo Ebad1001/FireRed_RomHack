@@ -77,8 +77,8 @@ static const u16 sDexCategory_GrasslandPkmn_Page12[] = {
 static const u16 sDexCategory_GrasslandPkmn_Page13[] = {
     SPECIES_VULPIX,
     SPECIES_NINETALES,
-    SPECIES_PONYTA,
-    SPECIES_RAPIDASH,
+    SPECIES_NAZUMI,
+    SPECIES_PYROKU,
 };
 
 static const u16 sDexCategory_GrasslandPkmn_Page14[] = {
@@ -576,8 +576,8 @@ static const u16 sDexCategory_MountainPkmn_Page7[] = {
 static const u16 sDexCategory_MountainPkmn_Page8[] = {
     SPECIES_TEDDIURSA,
     SPECIES_URSARING,
-    SPECIES_DELIBERD,
-    SPECIES_BERDEER,
+    SPECIES_MAGNEZONE,
+    SPECIES_DRUDDIGON,
 };
 
 static const u16 sDexCategory_MountainPkmn_Page9[] = {
@@ -599,7 +599,7 @@ static const u16 sDexCategory_MountainPkmn_Page11[] = {
 
 static const u16 sDexCategory_MountainPkmn_Page12[] = {
     SPECIES_ABSOL,
-    SPECIES_SPARKITE,
+    SPECIES_MUSHIN,
     SPECIES_DRACOON,
 };
 

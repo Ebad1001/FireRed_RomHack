@@ -1388,7 +1388,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_SuperNerdAvery[] = {
     {
         .iv = 0,
         .lvl = 34,
-        .species = SPECIES_PONYTA,
+        .species = SPECIES_NAZUMI,
     },
     {
         .iv = 0,
@@ -1411,7 +1411,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_SuperNerdDerek[] = {
     {
         .iv = 0,
         .lvl = 41,
-        .species = SPECIES_RAPIDASH,
+        .species = SPECIES_PYROKU,
     },
 };
 
@@ -1955,7 +1955,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Burglar3[] = {
     {
         .iv = 0,
         .lvl = 28,
-        .species = SPECIES_PONYTA,
+        .species = SPECIES_NAZUMI,
     },
 };
 
@@ -1981,7 +1981,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BurglarRamon[] = {
     {
         .iv = 0,
         .lvl = 41,
-        .species = SPECIES_PONYTA,
+        .species = SPECIES_NAZUMI,
     },
 };
 
@@ -2041,7 +2041,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_BurglarLewis[] = {
     {
         .iv = 0,
         .lvl = 34,
-        .species = SPECIES_PONYTA,
+        .species = SPECIES_NAZUMI,
     },
 };
 
@@ -5327,13 +5327,13 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerNaomi[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_PONYTA,
+        .species = SPECIES_NAZUMI,
         .moves = {MOVE_AGILITY, MOVE_TAKE_DOWN, MOVE_FIRE_SPIN, MOVE_STOMP},
     },
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_RAPIDASH,
+        .species = SPECIES_PYROKU,
         .moves = {MOVE_FURY_ATTACK, MOVE_FIRE_SPIN, MOVE_STOMP, MOVE_GROWL},
     },
     {
@@ -5432,7 +5432,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerJulie[] = {
     {
         .iv = 100,
         .lvl = 42,
-        .species = SPECIES_RAPIDASH,
+        .species = SPECIES_PYROKU,
         .moves = {MOVE_FURY_ATTACK, MOVE_FIRE_SPIN, MOVE_TAKE_DOWN, MOVE_AGILITY},
     },
     {
@@ -5716,13 +5716,13 @@ static const struct TrainerMonNoItemCustomMoves sParty_LeaderBlaine[] = {
     {
         .iv = 0,
         .lvl = 40,
-        .species = SPECIES_PONYTA,
+        .species = SPECIES_NAZUMI,
         .moves = {MOVE_STOMP, MOVE_BOUNCE, MOVE_FIRE_SPIN, MOVE_FIRE_BLAST},
     },
     {
         .iv = 0,
         .lvl = 42,
-        .species = SPECIES_RAPIDASH,
+        .species = SPECIES_PYROKU,
         .moves = {MOVE_STOMP, MOVE_BOUNCE, MOVE_FIRE_SPIN, MOVE_FIRE_BLAST},
     },
     {
@@ -5811,7 +5811,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GentlemanWalter[] = {
     {
         .iv = 0,
         .lvl = 17,
-        .species = SPECIES_PONYTA,
+        .species = SPECIES_NAZUMI,
     },
 };
 
@@ -6837,7 +6837,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GentlemanLamar[] = {
     {
         .iv = 0,
         .lvl = 17,
-        .species = SPECIES_PONYTA,
+        .species = SPECIES_NAZUMI,
     },
 };
 
@@ -6914,7 +6914,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_YoungCoupleLeaJed[] = {
     {
         .iv = 0,
         .lvl = 29,
-        .species = SPECIES_RAPIDASH,
+        .species = SPECIES_PYROKU,
     },
     {
         .iv = 0,
@@ -8467,7 +8467,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerMichelle[] = {
     {
         .iv = 100,
         .lvl = 48,
-        .species = SPECIES_RAPIDASH,
+        .species = SPECIES_PYROKU,
         .moves = {MOVE_BOUNCE, MOVE_AGILITY, MOVE_FIRE_SPIN, MOVE_TAKE_DOWN},
     },
     {
@@ -10448,7 +10448,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_CooltrainerMichelle2[] = 
     {
         .iv = 220,
         .lvl = 54,
-        .species = SPECIES_RAPIDASH,
+        .species = SPECIES_PYROKU,
         .moves = {MOVE_BOUNCE, MOVE_AGILITY, MOVE_FIRE_SPIN, MOVE_TAKE_DOWN},
     },
     {

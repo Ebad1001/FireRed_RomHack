@@ -1001,26 +1001,26 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_PONYTA] =
+    [NATIONAL_DEX_NAZUMI] =
     {
         .categoryName = _("FIRE-HORSE"),
         .height = 10,
         .weight = 300,
-        .description = gPonytaPokedexText,
-        .unusedDescription = gPonytaPokedexTextUnused,
+        .description = gNazumiPokedexText,
+        .unusedDescription = gNazumiPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_RAPIDASH] =
+    [NATIONAL_DEX_PYROKU] =
     {
         .categoryName = _("FIRE-HORSE"),
         .height = 17,
         .weight = 950,
-        .description = gRapidashPokedexText,
-        .unusedDescription = gRapidashPokedexTextUnused,
+        .description = gPyrokuPokedexText,
+        .unusedDescription = gPyrokuPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -2925,13 +2925,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_DELIBERD] =
+    [NATIONAL_DEX_MAGNEZONE] =
     {
         .categoryName = _("DELIVERY"),
         .height = 9,
         .weight = 160,
-        .description = gDeliberdPokedexText,
-        .unusedDescription = gDeliberdPokedexTextUnused,
+        .description = gMagnezonePokedexText,
+        .unusedDescription = gMagnezonePokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -3042,13 +3042,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_BERDEER] =
+    [NATIONAL_DEX_DRUDDIGON] =
     {
         .categoryName = _("REINDEER"),
         .height = 14,
         .weight = 712,
-        .description = gBerdeerPokedexText,
-        .unusedDescription = gBerdeerPokedexTextUnused,
+        .description = gDruddigonPokedexText,
+        .unusedDescription = gDruddigonPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -3874,13 +3874,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_SPARKITE] =
+    [NATIONAL_DEX_MUSHIN] =
     {
         .categoryName = _("SPEED"),
         .height = 7,
         .weight = 160,
-        .description = gSparkitePokedexText,
-        .unusedDescription = gSparkitePokedexTextUnused,
+        .description = gMushinPokedexText,
+        .unusedDescription = gMushinPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

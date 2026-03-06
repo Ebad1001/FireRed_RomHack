@@ -579,12 +579,12 @@ static const u16 sTutorLearnsets[] =
                     | TUTOR(MOVE_ROCK_SLIDE)
                     | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_PONYTA] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_NAZUMI] = TUTOR(MOVE_BODY_SLAM)
                      | TUTOR(MOVE_DOUBLE_EDGE)
                      | TUTOR(MOVE_AVALANCHE)
                      | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_RAPIDASH] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_PYROKU] = TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_SUBSTITUTE),
@@ -1630,7 +1630,7 @@ static const u16 sTutorLearnsets[] =
                         | TUTOR(MOVE_CHARGE_UP)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_DELIBERD] = TUTOR(MOVE_FIRE_PUNCH)
+    [SPECIES_MAGNEZONE] = TUTOR(MOVE_FIRE_PUNCH)
                        | TUTOR(MOVE_THUNDERPUNCH)
                        | TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
@@ -1688,7 +1688,7 @@ static const u16 sTutorLearnsets[] =
                        | TUTOR(MOVE_CHARGE_UP)
                        | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_BERDEER] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_DRUDDIGON] = TUTOR(MOVE_BODY_SLAM)
                        | TUTOR(MOVE_DOUBLE_EDGE)
                        | TUTOR(MOVE_AVALANCHE)
                        | TUTOR(MOVE_DREAM_EATER)
@@ -2318,7 +2318,7 @@ static const u16 sTutorLearnsets[] =
                       | TUTOR(MOVE_ROCK_SLIDE)
                       | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_SPARKITE] = TUTOR(MOVE_BODY_SLAM)
+    [SPECIES_MUSHIN] = TUTOR(MOVE_BODY_SLAM)
                       | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_AVALANCHE)
                       | TUTOR(MOVE_SUBSTITUTE),

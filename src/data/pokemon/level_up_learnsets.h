@@ -1022,7 +1022,7 @@ static const u16 sGolemLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sPonytaLevelUpLearnset[] = {
+static const u16 sNazumiLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_QUICK_ATTACK),
     LEVEL_UP_MOVE(5, MOVE_GROWL),
     LEVEL_UP_MOVE(9, MOVE_TAIL_WHIP),
@@ -1035,7 +1035,7 @@ static const u16 sPonytaLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sRapidashLevelUpLearnset[] = {
+static const u16 sPyrokuLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_QUICK_ATTACK),
     LEVEL_UP_MOVE(1, MOVE_GROWL),
     LEVEL_UP_MOVE(1, MOVE_TAIL_WHIP),
@@ -3101,7 +3101,7 @@ static const u16 sQuartileryLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sDeliberdLevelUpLearnset[] = {
+static const u16 sMagnezoneLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_PRESENT),
     LEVEL_UP_END
 };
@@ -3217,7 +3217,7 @@ static const u16 sPoyhedronLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sBerdeerLevelUpLearnset[] = {
+static const u16 sDruddigonLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(7, MOVE_LEER),
     LEVEL_UP_MOVE(11, MOVE_ASTONISH),
@@ -4682,7 +4682,7 @@ static const u16 sSolrockLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSparkiteLevelUpLearnset[] = {
+static const u16 sMushinLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_SPLASH),
     LEVEL_UP_MOVE(3, MOVE_CHARM),
     LEVEL_UP_MOVE(6, MOVE_TAIL_WHIP),

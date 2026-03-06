@@ -493,7 +493,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_5 = {
 			.speechAfter = {EC_WORD_I_AM, EC_WORD_DISAPPOINTED, EC_WORD_BUT, EC_WORD_YOU, EC_WORD_WIN, EC_WORD_ELLIPSIS},
 			.mons = {
 				{
-					.species = SPECIES_RAPIDASH,
+					.species = SPECIES_PYROKU,
 					.heldItem = ITEM_WHITE_HERB,
 					.moves = {MOVE_BOUNCE, MOVE_OVERHEAT, MOVE_HYPNOSIS, MOVE_RETURN},
 					.hpEV = 100,
@@ -511,7 +511,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_5 = {
 					.spDefenseIV = 31,
 					.abilityNum = 1,
 					.personality = 0x10, // FEMALE MILD
-					.nickname = _("RAPIDASH"),
+					.nickname = _("PYROKU"),
 					.friendship = 255
 				},
 				{
@@ -2010,7 +2010,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_2 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_RAPIDASH,
+					.species = SPECIES_PYROKU,
 					.heldItem = ITEM_SILK_SCARF,
 					.moves = {MOVE_BOUNCE, MOVE_IRON_TAIL, MOVE_THRASH, MOVE_DOUBLE_EDGE},
 					.hpEV = 110,
@@ -2028,7 +2028,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_2 = {
 					.spDefenseIV = 15,
 					.abilityNum = 1,
 					.personality = 0x94, // MALE CAREFUL
-					.nickname = _("RAPIDASH"),
+					.nickname = _("PYROKU"),
 					.friendship = 255
 				},
 				{
@@ -2372,7 +2372,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_5 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_RAPIDASH,
+					.species = SPECIES_PYROKU,
 					.heldItem = ITEM_CHARCOAL,
 					.moves = {MOVE_FLAMETHROWER, MOVE_BOUNCE, MOVE_QUICK_ATTACK, MOVE_DOUBLE_KICK},
 					.hpEV = 84,
@@ -2390,7 +2390,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_5 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x89, // MALE SERIOUS
-					.nickname = _("RAPIDASH"),
+					.nickname = _("PYROKU"),
 					.friendship = 255
 				},
 			}
@@ -4079,7 +4079,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 					.friendship = 255
 				},
 				{
-					.species = SPECIES_RAPIDASH,
+					.species = SPECIES_PYROKU,
 					.heldItem = ITEM_CHARCOAL,
 					.moves = {MOVE_BOUNCE, MOVE_FLAMETHROWER, MOVE_QUICK_ATTACK, MOVE_DOUBLE_KICK},
 					.hpEV = 84,
@@ -4097,7 +4097,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_3 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x0C, // FEMALE SERIOUS
-					.nickname = _("RAPIDASH"),
+					.nickname = _("PYROKU"),
 					.friendship = 255
 				},
 				{

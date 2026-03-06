@@ -108,7 +108,7 @@ CinnabarIsland_Gym_Text_DustyDefeat::
     .string "Too hot!$"
 
 CinnabarIsland_Gym_Text_DustyPostBattle::
-    .string "PONYTA, NINETALES…\n"
+    .string "HOUNDOOM, NINETALES…\n"
     .string "Those are popular FIRE POKéMON.$"
 
 CinnabarIsland_Gym_Text_ZacIntro::

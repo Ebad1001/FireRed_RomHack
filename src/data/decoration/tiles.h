@@ -538,7 +538,7 @@ const u16 DecorGfx_KECLEON_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 
-const u16 DecorGfx_SPARKITE_DOLL[] = {
+const u16 DecorGfx_MUSHIN_DOLL[] = {
     OBJ_EVENT_GFX_ITEM_BALL
 };
 

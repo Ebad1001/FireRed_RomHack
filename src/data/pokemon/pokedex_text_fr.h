@@ -537,19 +537,19 @@ const u8 gGolemPokedexText[] = _(
 
 const u8 gGolemPokedexTextUnused[] = _("");
 
-const u8 gPonytaPokedexText[] = _(
+const u8 gNazumiPokedexText[] = _(
     "HP     -  50    Ph.Atk -  85\n"
     "Ph.Def -  55    Sp.Atk -  65\n"
     "Sp.Def -  65    Speed  -  90");
 
-const u8 gPonytaPokedexTextUnused[] = _("");
+const u8 gNazumiPokedexTextUnused[] = _("");
 
-const u8 gRapidashPokedexText[] = _(
+const u8 gPyrokuPokedexText[] = _(
     "HP     -  65    Ph.Atk - 100\n"
     "Ph.Def -  70    Sp.Atk -  80\n"
     "Sp.Def -  80    Speed  - 105");
 
-const u8 gRapidashPokedexTextUnused[] = _("");
+const u8 gPyrokuPokedexTextUnused[] = _("");
 
 const u8 gSlowpokePokedexText[] = _(
     "HP     -  90    Ph.Atk -  65\n"
@@ -1573,12 +1573,12 @@ const u8 gQuartileryPokedexText[] = _(
 
 const u8 gQuartileryPokedexTextUnused[] = _("");
 
-const u8 gDeliberdPokedexText[] = _(
+const u8 gMagnezonePokedexText[] = _(
     "HP     -  45    Ph.Atk -  55\n"
     "Ph.Def -  45    Sp.Atk -  65\n"
     "Sp.Def -  45    Speed  -  75");
 
-const u8 gDeliberdPokedexTextUnused[] = _("");
+const u8 gMagnezonePokedexTextUnused[] = _("");
 
 const u8 gFrosmothPokedexText[] = _(
     "HP     -  65    Ph.Atk -  40\n"
@@ -1636,12 +1636,12 @@ const u8 gPoyhedronPokedexText[] = _(
 
 const u8 gPoyhedronPokedexTextUnused[] = _("");
 
-const u8 gBerdeerPokedexText[] = _(
+const u8 gDruddigonPokedexText[] = _(
     "HP     -  73    Ph.Atk -  95\n"
     "Ph.Def -  62    Sp.Atk -  85\n"
     "Sp.Def -  65    Speed  -  85");
 
-const u8 gBerdeerPokedexTextUnused[] = _("");
+const u8 gDruddigonPokedexTextUnused[] = _("");
 
 const u8 gSmearglePokedexText[] = _(
     "HP     -  55    Ph.Atk -  20\n"
@@ -2084,12 +2084,12 @@ const u8 gHariyamaPokedexText[] = _(
 
 const u8 gHariyamaPokedexTextUnused[] = _("");
 
-const u8 gSparkitePokedexText[] = _(
+const u8 gMushinPokedexText[] = _(
     "HP     -  50    Ph.Atk -  20\n"
     "Ph.Def -  40    Sp.Atk -  20\n"
     "Sp.Def -  40    Speed  -  20");
 
-const u8 gSparkitePokedexTextUnused[] = _("");
+const u8 gMushinPokedexTextUnused[] = _("");
 
 const u8 gNosepassPokedexText[] = _(
     "HP     -  30    Ph.Atk -  45\n"

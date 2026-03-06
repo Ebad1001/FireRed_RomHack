@@ -385,12 +385,12 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 7,
     },
-    [SPECIES_PONYTA] =
+    [SPECIES_NAZUMI] =
     {
         .size = MON_COORDS_SIZE(48, 56),
         .y_offset = 7,
     },
-    [SPECIES_RAPIDASH] =
+    [SPECIES_PYROKU] =
     {
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 0,
@@ -1125,7 +1125,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(48, 48),
         .y_offset = 10,
     },
-    [SPECIES_DELIBERD] =
+    [SPECIES_MAGNEZONE] =
     {
         .size = MON_COORDS_SIZE(40, 48),
         .y_offset = 8,
@@ -1170,7 +1170,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(40, 40),
         .y_offset = 15,
     },
-    [SPECIES_BERDEER] =
+    [SPECIES_DRUDDIGON] =
     {
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 0,
@@ -1750,7 +1750,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = MON_COORDS_SIZE(64, 64),
         .y_offset = 1,
     },
-    [SPECIES_SPARKITE] =
+    [SPECIES_MUSHIN] =
     {
         .size = MON_COORDS_SIZE(40, 40),
         .y_offset = 15,

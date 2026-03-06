@@ -76,8 +76,8 @@ gCryTable::
 	cry Cry_Geodude
 	cry Cry_Graveler
 	cry Cry_Golem
-	cry Cry_Ponyta
-	cry Cry_Rapidash
+	cry Cry_Nazumi
+	cry Cry_Pyroku
 	cry Cry_Slowpoke
 	cry Cry_Fastrax
 	cry Cry_Magnemite
@@ -224,7 +224,7 @@ gCryTable::
 	cry Cry_Dracoon
 	cry Cry_Anchorage
 	cry Cry_Quartilery
-	cry Cry_Deliberd
+	cry Cry_Magnezone
 	cry Cry_Frosmoth
 	cry Cry_Skarmory
 	cry Cry_Houndour
@@ -233,7 +233,7 @@ gCryTable::
 	cry Cry_Hyati
 	cry Cry_Fenriz
 	cry Cry_Poyhedron
-	cry Cry_Berdeer
+	cry Cry_Druddigon
 	cry Cry_Smeargle
 	cry Cry_Tyrogue
 	cry Cry_Annihilape
@@ -262,7 +262,7 @@ gCryTable::
 	cry Cry_Seviper
 	cry Cry_Sharpedo
 	cry Cry_Zangoose
-	cry Cry_Sparkite
+	cry Cry_Mushin
 	cry Cry_Swablu
 	cry Cry_Altaria
 	cry Cry_Unused265
@@ -467,8 +467,8 @@ gCryTable_Reverse::
 	cry_reverse Cry_Geodude
 	cry_reverse Cry_Graveler
 	cry_reverse Cry_Golem
-	cry_reverse Cry_Ponyta
-	cry_reverse Cry_Rapidash
+	cry_reverse Cry_Nazumi
+	cry_reverse Cry_Pyroku
 	cry_reverse Cry_Slowpoke
 	cry_reverse Cry_Fastrax
 	cry_reverse Cry_Magnemite
@@ -615,7 +615,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Dracoon
 	cry_reverse Cry_Anchorage
 	cry_reverse Cry_Quartilery
-	cry_reverse Cry_Deliberd
+	cry_reverse Cry_Magnezone
 	cry_reverse Cry_Frosmoth
 	cry_reverse Cry_Skarmory
 	cry_reverse Cry_Houndour
@@ -624,7 +624,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Hyati
 	cry_reverse Cry_Fenriz
 	cry_reverse Cry_Poyhedron
-	cry_reverse Cry_Berdeer
+	cry_reverse Cry_Druddigon
 	cry_reverse Cry_Smeargle
 	cry_reverse Cry_Tyrogue
 	cry_reverse Cry_Annihilape
@@ -653,7 +653,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Seviper
 	cry_reverse Cry_Sharpedo
 	cry_reverse Cry_Zangoose
-	cry_reverse Cry_Sparkite
+	cry_reverse Cry_Mushin
 	cry_reverse Cry_Swablu
 	cry_reverse Cry_Altaria
 	cry_reverse Cry_Unused265

@@ -177,7 +177,7 @@ static const struct InGameTrade sInGameTrades[] = {
         .otName = _("GARETT"),
         .otGender = MALE,
         .sheen = 10,
-        .requestedSpecies = SPECIES_PONYTA
+        .requestedSpecies = SPECIES_NAZUMI
     }
 };
 

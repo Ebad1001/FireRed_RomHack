@@ -117,7 +117,7 @@ static const u16 sEasyChatWordsByLetter_A[] = {
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(AZUMETAL),
     EC_POKEMON(AZUMETAL),
-    EC_POKEMON2(SPARKITE),
+    EC_POKEMON2(MUSHIN),
 };
 
 static const u16 sEasyChatWordsByLetter_B[] = {
@@ -345,7 +345,7 @@ static const u16 sEasyChatWordsByLetter_D[] = {
     EC_WORD_DEFEATED,
     EC_MOVE2(DEFENSE_CURL),
     EC_POKEMON2(PROBOPASS),
-    EC_POKEMON(DELIBERD),
+    EC_POKEMON(MAGNEZONE),
     EC_POKEMON2(DEOXYS),
     EC_WORD_DEPT_STORE,
     EC_WORD_DESIGN,
@@ -1094,6 +1094,7 @@ static const u16 sEasyChatWordsByLetter_N[] = {
     EC_WORD_NEW,
     EC_WORD_NEWS,
     EC_WORD_NEXT,
+    EC_POKEMON(NAZUMI),
     EC_WORD_NICE,
     EC_POKEMON(NIDOKING),
     EC_POKEMON(NIDOQUEEN),
@@ -1240,7 +1241,6 @@ static const u16 sEasyChatWordsByLetter_P[] = {
     EC_POKEMON(POLIWAG),
     EC_POKEMON(POLIWHIRL),
     EC_POKEMON(POLIWRATH),
-    EC_POKEMON(PONYTA),
     EC_POKEMON2(POOCHYENA),
     EC_WORD_POPULAR,
     EC_POKEMON(BRONZONG),
@@ -1272,6 +1272,7 @@ static const u16 sEasyChatWordsByLetter_P[] = {
     EC_WORD_PURE_POWER,
     EC_MOVE(PURSUIT),
     EC_WORD_PUSHOVER,
+    EC_POKEMON(PYROKU), 
 };
 
 static const u16 sEasyChatWordsByLetter_Q[] = {
@@ -1295,7 +1296,6 @@ static const u16 sEasyChatWordsByLetter_R[] = {
     EC_POKEMON2(RALTS),
     EC_WORD_RANK,
     EC_MOVE(RAPID_SPIN),
-    EC_POKEMON(RAPIDASH),
     EC_WORD_RARE,
     EC_WORD_RATHER,
     EC_POKEMON(RATICATE),
@@ -1554,7 +1554,7 @@ static const u16 sEasyChatWordsByLetter_S[] = {
     EC_WORD_SPRING,
     EC_POKEMON(SQUIRTLE),
     EC_WORD_STAGE,
-    EC_POKEMON(BERDEER),
+    EC_POKEMON(DRUDDIGON),
     -1, 2, // Doubled pokemon species name
     EC_POKEMON2(STARMIE),
     EC_POKEMON(STARMIE),

@@ -2235,7 +2235,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_PONYTA] =
+    [SPECIES_NAZUMI] =
     {
         .baseHP = 50,
         .baseAttack = 85,
@@ -2264,7 +2264,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_RAPIDASH] =
+    [SPECIES_PYROKU] =
     {
         .baseHP = 65,
         .baseAttack = 100,
@@ -6527,7 +6527,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_DELIBERD] = /* DELIBERD */
+    [SPECIES_MAGNEZONE] = /* MAGNEZONE */
     {
         .baseHP = 45,
         .baseAttack = 55,
@@ -6788,7 +6788,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_RED,
         .noFlip = FALSE,
     },
-    [SPECIES_BERDEER] = /* BERDEER */
+    [SPECIES_DRUDDIGON] = /* DRUDDIGON */
     {
         .baseHP = 73,
         .baseAttack = 95,
@@ -8669,7 +8669,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = FALSE,
     },
-    [SPECIES_SPARKITE] = /* SPARKITE */
+    [SPECIES_MUSHIN] = /* MUSHIN */
     {
         .baseHP = 50,
         .baseAttack = 20,

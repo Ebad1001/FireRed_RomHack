@@ -537,19 +537,19 @@ const u8 gGolemPokedexText[] = _(
 
 const u8 gGolemPokedexTextUnused[] = _("");
 
-const u8 gPonytaPokedexText[] = _(
+const u8 gNazumiPokedexText[] = _(
     "Its hooves are ten times harder than\n"
     "diamond. It can trample anything\n"
     "completely flat in little time.");
 
-const u8 gPonytaPokedexTextUnused[] = _("");
+const u8 gNazumiPokedexTextUnused[] = _("");
 
-const u8 gRapidashPokedexText[] = _(
+const u8 gPyrokuPokedexText[] = _(
     "Very competitive, this POKéMON will chase\n"
     "anything that moves fast in the hopes of\n"
     "racing it.");
 
-const u8 gRapidashPokedexTextUnused[] = _("");
+const u8 gPyrokuPokedexTextUnused[] = _("");
 
 const u8 gSlowpokePokedexText[] = _(
     "Incredibly slow and dopey. It takes five\n"
@@ -1573,12 +1573,12 @@ const u8 gQuartileryPokedexText[] = _(
 
 const u8 gQuartileryPokedexTextUnused[] = _("");
 
-const u8 gDeliberdPokedexText[] = _(
+const u8 gMagnezonePokedexText[] = _(
     "It carries food all day long. There are\n"
     "tales about lost people who were saved\n"
     "by the food it had.");
 
-const u8 gDeliberdPokedexTextUnused[] = _("");
+const u8 gMagnezonePokedexTextUnused[] = _("");
 
 const u8 gFrosmothPokedexText[] = _(
     "As it majestically swims, it doesn't care\n"
@@ -1636,12 +1636,12 @@ const u8 gPoyhedronPokedexText[] = _(
 
 const u8 gPoyhedronPokedexTextUnused[] = _("");
 
-const u8 gBerdeerPokedexText[] = _(
+const u8 gDruddigonPokedexText[] = _(
     "Its curved antlers subtly change the flow\n"
     "of air to create a strange space where\n"
     "reality is distorted.");
 
-const u8 gBerdeerPokedexTextUnused[] = _("");
+const u8 gDruddigonPokedexTextUnused[] = _("");
 
 const u8 gSmearglePokedexText[] = _(
     "A special fluid oozes from the tip of its\n"
@@ -2084,12 +2084,12 @@ const u8 gHariyamaPokedexText[] = _(
 
 const u8 gHariyamaPokedexTextUnused[] = _("");
 
-const u8 gSparkitePokedexText[] = _(
+const u8 gMushinPokedexText[] = _(
     "It battles by flinging around its tail,\n"
     "which is bigger than its body. The\n"
     "tail is a flotation device in water.");
 
-const u8 gSparkitePokedexTextUnused[] = _("");
+const u8 gMushinPokedexTextUnused[] = _("");
 
 const u8 gNosepassPokedexText[] = _(
     "Its magnetic nose consistently faces\n"

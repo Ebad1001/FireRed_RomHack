@@ -842,7 +842,7 @@ static const struct PokemonJumpMons
     { .species = SPECIES_SHROOMISH,  .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_NINCADA,    .jumpType = JUMP_TYPE_FAST },
     { .species = SPECIES_WHISMUR,    .jumpType = JUMP_TYPE_NORMAL },
-    { .species = SPECIES_SPARKITE,    .jumpType = JUMP_TYPE_SLOW },
+    { .species = SPECIES_MUSHIN,    .jumpType = JUMP_TYPE_SLOW },
     { .species = SPECIES_FROSLASS,     .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_SABLEYE,    .jumpType = JUMP_TYPE_NORMAL },
     { .species = SPECIES_MAWILE,     .jumpType = JUMP_TYPE_NORMAL },

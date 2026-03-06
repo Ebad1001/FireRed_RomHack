@@ -324,7 +324,7 @@ const u8 DecorDesc_BLUE_POSTER[] = _(
 
 const u8 DecorDesc_CUTE_POSTER[] = _(
     "A small poster with\n"
-        "an SPARKITE print.");
+        "an MUSHIN print.");
 
 const u8 DecorDesc_PIKA_POSTER[] = _(
     "A large poster with\n"
@@ -442,8 +442,8 @@ const u8 DecorDesc_KECLEON_DOLL[] = _(
         "Place it on a mat\n"
         "or a desk.");
 
-const u8 DecorDesc_SPARKITE_DOLL[] = _(
-    "An SPARKITE doll.\n"
+const u8 DecorDesc_MUSHIN_DOLL[] = _(
+    "An MUSHIN doll.\n"
         "Place it on a mat\n"
         "or a desk.");
 

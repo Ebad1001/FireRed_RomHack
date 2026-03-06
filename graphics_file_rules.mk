@@ -241,7 +241,7 @@ $(ROULETTEGFXDIR)/roulette_tilt.4bpp: $(ROULETTEGFXDIR)/shroomish.4bpp \
 	@cat $^ >$@
 
 $(ROULETTEGFXDIR)/poke_icons2.4bpp: $(ROULETTEGFXDIR)/forknight.4bpp \
-									$(ROULETTEGFXDIR)/sparkite.4bpp \
+									$(ROULETTEGFXDIR)/mushin.4bpp \
 									$(ROULETTEGFXDIR)/froslass.4bpp \
 									$(ROULETTEGFXDIR)/makuhita.4bpp
 	@cat $^ >$@

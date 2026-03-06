@@ -1773,7 +1773,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_PONYTA]      = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_NAZUMI]      = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
                                         | TMHM(TM17_PROTECT)
@@ -1791,7 +1791,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM50_WILL_O_WISP)
                                         | TMHM(HM04_STRENGTH)),
 
-    [SPECIES_RAPIDASH]    = TMHM_LEARNSET(TMHM(TM06_TOXIC)
+    [SPECIES_PYROKU]    = TMHM_LEARNSET(TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
                                         | TMHM(TM11_SUNNY_DAY)
                                         | TMHM(TM15_HYPER_BEAM)
@@ -5385,7 +5385,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM07_WATERFALL)
                                         | TMHM(HM08_DIVE)),
 
-    [SPECIES_DELIBERD]    = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_MAGNEZONE]    = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM07_HAIL)
@@ -5584,7 +5584,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM46_BUG_BUZZ)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_BERDEER]    = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
+    [SPECIES_DRUDDIGON]    = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
                                         | TMHM(TM05_ROAR)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM10_HIDDEN_POWER)
@@ -7787,7 +7787,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM50_WILL_O_WISP)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_SPARKITE]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
+    [SPECIES_MUSHIN]     = TMHM_LEARNSET(TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM06_TOXIC)
                                         | TMHM(TM07_HAIL)
                                         | TMHM(TM10_HIDDEN_POWER)
