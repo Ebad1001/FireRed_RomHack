@@ -78,10 +78,10 @@ static const u16 sFieldMoveStreaksIndoors_Gfx[] = INCBIN_U16("graphics/field_eff
 static const u16 sFieldMoveStreaksIndoors_Pal[] = INCBIN_U16("graphics/field_effects/pics/field_move_streaks_indoors.gbapal");
 static const u16 sFieldMoveStreaksIndoors_Tilemap[] = INCBIN_U16("graphics/field_effects/pics/field_move_streaks_indoors.bin");
 
-static const u16 sRockFragment_TopLeft[] = INCBIN_U16("graphics/field_effects/pics/deoxys_rock_fragment_top_left.4bpp");
-static const u16 sRockFragment_TopRight[] = INCBIN_U16("graphics/field_effects/pics/deoxys_rock_fragment_top_right.4bpp");
-static const u16 sRockFragment_BottomLeft[] = INCBIN_U16("graphics/field_effects/pics/deoxys_rock_fragment_bottom_left.4bpp");
-static const u16 sRockFragment_BottomRight[] = INCBIN_U16("graphics/field_effects/pics/deoxys_rock_fragment_bottom_right.4bpp");
+static const u16 sRockFragment_TopLeft[] = INCBIN_U16("graphics/field_effects/pics/missingno_rock_fragment_top_left.4bpp");
+static const u16 sRockFragment_TopRight[] = INCBIN_U16("graphics/field_effects/pics/missingno_rock_fragment_top_right.4bpp");
+static const u16 sRockFragment_BottomLeft[] = INCBIN_U16("graphics/field_effects/pics/missingno_rock_fragment_bottom_left.4bpp");
+static const u16 sRockFragment_BottomRight[] = INCBIN_U16("graphics/field_effects/pics/missingno_rock_fragment_bottom_right.4bpp");
 
 static bool8 (*const sFldEffScrcmdTable[])(const u8 **script, u32 *result) = {
     FieldEffectCmd_loadtiles,
@@ -607,7 +607,7 @@ static u8 AddNewGameBirchObject(s16 x, s16 y, u8 subpriority)
 
 u8 CreateMonSprite_PicBox(u16 species, s16 x, s16 y, u8 subpriority)
 {
-    u16 spriteId = CreateMonPicSprite_HandleDeoxys(species, 0, 0x8000, TRUE, x, y, 0, gMonPaletteTable[species].tag);
+    u16 spriteId = CreateMonPicSprite_HandleMissingno(species, 0, 0x8000, TRUE, x, y, 0, gMonPaletteTable[species].tag);
     PreservePaletteInWeather(IndexOfSpritePaletteTag(gMonPaletteTable[species].tag) + 0x10);
     if (spriteId == 0xFFFF)
         return MAX_SPRITES;
@@ -618,7 +618,7 @@ u8 CreateMonSprite_PicBox(u16 species, s16 x, s16 y, u8 subpriority)
 static u8 CreateMonSprite_FieldMove(u16 species, u32 otId, u32 personality, s16 x, s16 y, u8 subpriority)
 {
     const struct CompressedSpritePalette * spritePalette = GetMonSpritePalStructFromOtIdPersonality(species, otId, personality);
-    u16 spriteId = CreateMonPicSprite_HandleDeoxys(species, otId, personality, 1, x, y, 0, spritePalette->tag);
+    u16 spriteId = CreateMonPicSprite_HandleMissingno(species, otId, personality, 1, x, y, 0, spritePalette->tag);
     PreservePaletteInWeather(IndexOfSpritePaletteTag(spritePalette->tag) + 0x10);
     if (spriteId == 0xFFFF)
         return MAX_SPRITES;
@@ -3717,9 +3717,9 @@ static void TryChangeBirdSprite(struct Sprite *sprite)
     }
 }
 
-static void Task_MoveDeoxysRock_Step(u8 taskId);
+static void Task_MoveMissingnoRock_Step(u8 taskId);
 
-u32 FldEff_MoveDeoxysRock(void)
+u32 FldEff_MoveMissingnoRock(void)
 {
     u8 taskId;
     u8 objectEventIdBuffer;
@@ -3734,7 +3734,7 @@ u32 FldEff_MoveDeoxysRock(void)
         x = (gFieldEffectArguments[3] - x) * 16;
         y = (gFieldEffectArguments[4] - y) * 16;
         ShiftObjectEventCoords(objectEvent, gFieldEffectArguments[3] + 7, gFieldEffectArguments[4] + 7);
-        taskId = CreateTask(Task_MoveDeoxysRock_Step, 0x50);
+        taskId = CreateTask(Task_MoveMissingnoRock_Step, 0x50);
         gTasks[taskId].data[1] = objectEvent->spriteId;
         gTasks[taskId].data[2] = gSprites[objectEvent->spriteId].x + x;
         gTasks[taskId].data[3] = gSprites[objectEvent->spriteId].y + y;
@@ -3744,7 +3744,7 @@ u32 FldEff_MoveDeoxysRock(void)
     return FALSE;
 }
 
-static void Task_MoveDeoxysRock_Step(u8 taskId)
+static void Task_MoveMissingnoRock_Step(u8 taskId)
 {
     s16 *data = gTasks[taskId].data;
     struct Sprite *sprite = &gSprites[data[1]];
@@ -3776,28 +3776,28 @@ static void Task_MoveDeoxysRock_Step(u8 taskId)
             sprite->y = data[3];
             ShiftStillObjectEventCoords(objectEvent);
             objectEvent->triggerGroundEffectsOnStop = TRUE;
-            FieldEffectActiveListRemove(FLDEFF_MOVE_DEOXYS_ROCK);
+            FieldEffectActiveListRemove(FLDEFF_MOVE_MISSINGNO_ROCK);
             DestroyTask(taskId);
         }
         break;
     }
 }
 
-static void Task_DestroyDeoxysRock(u8 taskId);
-static void DestroyDeoxysRockEffect_CameraShake(s16 *data, u8 taskId);
-static void DestroyDeoxysRockEffect_RockFragments(s16 *data, u8 taskId);
-static void DestroyDeoxysRockEffect_WaitAndEnd(s16 *data, u8 taskId);
-static void CreateDeoxysRockFragments(struct Sprite *sprite);
-static void SpriteCB_DeoxysRockFragment(struct Sprite *sprite);
+static void Task_DestroyMissingnoRock(u8 taskId);
+static void DestroyMissingnoRockEffect_CameraShake(s16 *data, u8 taskId);
+static void DestroyMissingnoRockEffect_RockFragments(s16 *data, u8 taskId);
+static void DestroyMissingnoRockEffect_WaitAndEnd(s16 *data, u8 taskId);
+static void CreateMissingnoRockFragments(struct Sprite *sprite);
+static void SpriteCB_MissingnoRockFragment(struct Sprite *sprite);
 
-static void (*const sDestroyDeoxysRockEffectFuncs[])(s16 *data, u8 taskId) =
+static void (*const sDestroyMissingnoRockEffectFuncs[])(s16 *data, u8 taskId) =
 {
-    DestroyDeoxysRockEffect_CameraShake,
-    DestroyDeoxysRockEffect_RockFragments,
-    DestroyDeoxysRockEffect_WaitAndEnd
+    DestroyMissingnoRockEffect_CameraShake,
+    DestroyMissingnoRockEffect_RockFragments,
+    DestroyMissingnoRockEffect_WaitAndEnd
 };
 
-static const struct SpriteFrameImage sImages_DeoxysRockFragment[] =
+static const struct SpriteFrameImage sImages_MissingnoRockFragment[] =
 {
     {sRockFragment_TopLeft, 0x20},
     {sRockFragment_TopRight, 0x20},
@@ -3829,7 +3829,7 @@ static const union AnimCmd sAnim_RockFragment_BottomRight[] =
     ANIMCMD_END
 };
 
-static const union AnimCmd *const sAnims_DeoxysRockFragment[] =
+static const union AnimCmd *const sAnims_MissingnoRockFragment[] =
 {
     sAnim_RockFragment_TopLeft,
     sAnim_RockFragment_TopRight,
@@ -3837,18 +3837,18 @@ static const union AnimCmd *const sAnims_DeoxysRockFragment[] =
     sAnim_RockFragment_BottomRight
 };
 
-static const struct SpriteTemplate sSpriteTemplate_DeoxysRockFragment =
+static const struct SpriteTemplate sSpriteTemplate_MissingnoRockFragment =
 {
     .tileTag = TAG_NONE,
     .paletteTag = 4371,
     .oam = &sOamData_8x8,
-    .anims = sAnims_DeoxysRockFragment,
-    .images = sImages_DeoxysRockFragment,
+    .anims = sAnims_MissingnoRockFragment,
+    .images = sImages_MissingnoRockFragment,
     .affineAnims = gDummySpriteAffineAnimTable,
-    .callback = SpriteCB_DeoxysRockFragment
+    .callback = SpriteCB_MissingnoRockFragment
 };
 
-// Task data for Task_DestroyDeoxysRock
+// Task data for Task_DestroyMissingnoRock
 #define tState         data[1]
 #define tObjectEventId data[2]
 #define tTimer         data[3]
@@ -3857,32 +3857,32 @@ static const struct SpriteTemplate sSpriteTemplate_DeoxysRockFragment =
 #define tMapNum        data[7]
 #define tMapGroup      data[8]
 
-u32 FldEff_DestroyDeoxysRock(void)
+u32 FldEff_DestroyMissingnoRock(void)
 {
     u8 taskId;
     u8 objectEventId;
     if (!TryGetObjectEventIdByLocalIdAndMap(gFieldEffectArguments[0], gFieldEffectArguments[1], gFieldEffectArguments[2], &objectEventId))
     {
-        taskId = CreateTask(Task_DestroyDeoxysRock, 80);
+        taskId = CreateTask(Task_DestroyMissingnoRock, 80);
         gTasks[taskId].data[2] = objectEventId;
         gTasks[taskId].tLocalId = gFieldEffectArguments[0];
         gTasks[taskId].tMapNum = gFieldEffectArguments[1];
         gTasks[taskId].tMapGroup = gFieldEffectArguments[2];
     }
     else
-        FieldEffectActiveListRemove(FLDEFF_DESTROY_DEOXYS_ROCK);
+        FieldEffectActiveListRemove(FLDEFF_DESTROY_MISSINGNO_ROCK);
 
     return FALSE;
 }
 
-// Task data for Task_DeoxysRockCameraShake
+// Task data for Task_MissingnoRockCameraShake
 #define tShakeDelay data[0]
 #define tShakeUp    data[1]
 #define tShake      data[5]
 #define tEndDelay   data[6]
 #define tEnding     data[7]
 
-static void Task_DeoxysRockCameraShake(u8 taskId)
+static void Task_MissingnoRockCameraShake(u8 taskId)
 {
     s16 *data = gTasks[taskId].data;
     if (data[7] != 0)
@@ -3910,7 +3910,7 @@ static void Task_DeoxysRockCameraShake(u8 taskId)
         DestroyTask(taskId);
 }
 
-static void StartEndingDeoxysRockCameraShake(u8 taskId)
+static void StartEndingMissingnoRockCameraShake(u8 taskId)
 {
     gTasks[taskId].data[7] = 1;
 }
@@ -3921,23 +3921,23 @@ static void StartEndingDeoxysRockCameraShake(u8 taskId)
 #undef tEndDelay
 #undef tEnding
 
-static void Task_DestroyDeoxysRock(u8 taskId)
+static void Task_DestroyMissingnoRock(u8 taskId)
 {
     s16 *data = gTasks[taskId].data;
     InstallCameraPanAheadCallback();
     SetCameraPanningCallback(NULL);
-    sDestroyDeoxysRockEffectFuncs[tState](data, taskId);
+    sDestroyMissingnoRockEffectFuncs[tState](data, taskId);
 }
 
-static void DestroyDeoxysRockEffect_CameraShake(s16 *data, u8 taskId)
+static void DestroyMissingnoRockEffect_CameraShake(s16 *data, u8 taskId)
 {
-    u8 newTaskId = CreateTask(Task_DeoxysRockCameraShake, 90);
+    u8 newTaskId = CreateTask(Task_MissingnoRockCameraShake, 90);
     PlaySE(SE_THUNDER2);
     tCameraTaskId = newTaskId;
     tState++;
 }
 
-static void DestroyDeoxysRockEffect_RockFragments(s16 *data, u8 taskId)
+static void DestroyMissingnoRockEffect_RockFragments(s16 *data, u8 taskId)
 {
     if (++tTimer > 120)
     {
@@ -3945,21 +3945,21 @@ static void DestroyDeoxysRockEffect_RockFragments(s16 *data, u8 taskId)
         gObjectEvents[tObjectEventId].invisible = TRUE;
         BlendPalettes(PALETTES_BG, 0x10, RGB_WHITE);
         BeginNormalPaletteFade(PALETTES_BG, 0, 0x10, 0, RGB_WHITE);
-        CreateDeoxysRockFragments(sprite);
+        CreateMissingnoRockFragments(sprite);
         PlaySE(SE_THUNDER);
-        StartEndingDeoxysRockCameraShake(tCameraTaskId);
+        StartEndingMissingnoRockCameraShake(tCameraTaskId);
         tTimer = 0;
         tState++;
     }
 }
 
-static void DestroyDeoxysRockEffect_WaitAndEnd(s16 *data, u8 taskId)
+static void DestroyMissingnoRockEffect_WaitAndEnd(s16 *data, u8 taskId)
 {
-    if (!gPaletteFade.active && !FuncIsActiveTask(Task_DeoxysRockCameraShake))
+    if (!gPaletteFade.active && !FuncIsActiveTask(Task_MissingnoRockCameraShake))
     {
         InstallCameraPanAheadCallback();
         RemoveObjectEventByLocalIdAndMap(tLocalId, tMapNum, tMapGroup);
-        FieldEffectActiveListRemove(FLDEFF_DESTROY_DEOXYS_ROCK);
+        FieldEffectActiveListRemove(FLDEFF_DESTROY_MISSINGNO_ROCK);
         DestroyTask(taskId);
     }
 }
@@ -3972,7 +3972,7 @@ static void DestroyDeoxysRockEffect_WaitAndEnd(s16 *data, u8 taskId)
 #undef tMapNum
 #undef tMapGroup
 
-static void CreateDeoxysRockFragments(struct Sprite *sprite)
+static void CreateMissingnoRockFragments(struct Sprite *sprite)
 {
     int i;
     int xPos = (s16)gTotalCameraPixelOffsetX + sprite->x + sprite->x2;
@@ -3980,7 +3980,7 @@ static void CreateDeoxysRockFragments(struct Sprite *sprite)
 
     for (i = 0; i < 4; i++)
     {
-        u8 spriteId = CreateSprite(&sSpriteTemplate_DeoxysRockFragment, xPos, yPos, 0);
+        u8 spriteId = CreateSprite(&sSpriteTemplate_MissingnoRockFragment, xPos, yPos, 0);
         if (spriteId != MAX_SPRITES)
         {
             StartSpriteAnim(&gSprites[spriteId], i);
@@ -3990,7 +3990,7 @@ static void CreateDeoxysRockFragments(struct Sprite *sprite)
     }
 }
 
-static void SpriteCB_DeoxysRockFragment(struct Sprite *sprite)
+static void SpriteCB_MissingnoRockFragment(struct Sprite *sprite)
 {
     switch (sprite->data[0])
     {

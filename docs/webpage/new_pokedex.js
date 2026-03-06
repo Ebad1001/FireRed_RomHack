@@ -384,5 +384,5 @@ const pokemon_names = [
 	"MEW",
 	"SERELOT",
 	"CHAOROSS",
-	"DEOXYS",
+	"MISSINGNO",
 ];

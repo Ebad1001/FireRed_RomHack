@@ -9852,7 +9852,7 @@ static void Cmd_displaydexinfo(void)
     case 4:
         if (!IsDma3ManagerBusyWithBgCopy())
         {
-            CreateMonPicSprite_HandleDeoxys(species,
+            CreateMonPicSprite_HandleMissingno(species,
                                             gBattleMons[B_POSITION_OPPONENT_LEFT].otId,
                                             gBattleMons[B_POSITION_OPPONENT_LEFT].personality,
                                             TRUE,

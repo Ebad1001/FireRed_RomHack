@@ -69,8 +69,8 @@ gFieldEffectScriptPointers::
 	.4byte gFldEffScript_SmileyFaceIcon          @ FLDEFF_SMILEY_FACE_ICON
 	.4byte gFldEffScript_UseVsSeeker             @ FLDEFF_USE_VS_SEEKER
 	.4byte gFldEffScript_DoubleExclMarkIcon      @ FLDEFF_DOUBLE_EXCL_MARK_ICON
-	.4byte gFldEffScript_MoveDeoxysRock          @ FLDEFF_MOVE_DEOXYS_ROCK
-	.4byte gFldEffScript_DestroyDeoxysRock       @ FLDEFF_DESTROY_DEOXYS_ROCK
+	.4byte gFldEffScript_MoveMissingnoRock       @ FLDEFF_MOVE_MISSINGNO_ROCK
+	.4byte gFldEffScript_DestroyMissingnoRock    @ FLDEFF_DESTROY_MISSINGNO_ROCK
 	.4byte gFldEffScript_PhotoFlash              @ FLDEFF_PHOTO_FLASH
 
 gFldEffScript_ExclamationMarkIcon::
@@ -333,12 +333,12 @@ gFldEffScript_DoubleExclMarkIcon::
 	callnative FldEff_DoubleExclMarkIcon
 	end 
 
-gFldEffScript_MoveDeoxysRock::
-	callnative FldEff_MoveDeoxysRock
+gFldEffScript_MoveMissingnoRock::
+	callnative FldEff_MoveMissingnoRock
 	end 
 
-gFldEffScript_DestroyDeoxysRock::
-	callnative FldEff_DestroyDeoxysRock
+gFldEffScript_DestroyMissingnoRock::
+	callnative FldEff_DestroyMissingnoRock
 	end 
 
 gFldEffScript_PhotoFlash::

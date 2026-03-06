@@ -77,7 +77,7 @@ struct PokemonSubstruct3
 
  // The functionality of this bit changed in FRLG:
  // In RS, this bit does nothing, is never set, & is accidentally unset when hatching Eggs.
- // In FRLG & Emerald, this controls Mew & Deoxys obedience and whether they can be traded.
+ // In FRLG & Emerald, this controls Mew & Missingno obedience and whether they can be traded.
  // If set, a Pokémon is a fateful encounter in FRLG's summary screen if hatched & for all Pokémon in Gen 4+ summary screens.
  // Set for in-game event island legendaries, events distributed after a certain date, & Pokémon from XD: Gale of Darkness.
  // Not to be confused with METLOC_FATEFUL_ENCOUNTER.
@@ -414,8 +414,8 @@ bool8 IsMonShiny(struct Pokemon *mon);
 u8 *GetTrainerPartnerName(void);
 u8 GetPlayerPartyHighestLevel(void);
 u16 FacilityClassToPicIndex(u16 facilityClass);
-bool8 ShouldIgnoreDeoxysForm(u8 caseId, u8 battlerId);
-void SetDeoxysStats(void);
+bool8 ShouldIgnoreMissingnoForm(u8 caseId, u8 battlerId);
+void SetMissingnoStats(void);
 u16 GetUnionRoomTrainerPic(void);
 u16 GetUnionRoomTrainerClass(void);
 void CreateEnemyEventMon(void);

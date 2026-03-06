@@ -9323,7 +9323,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM48_HIDDEN_SKILL)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_DEOXYS]      = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
+    [SPECIES_MISSINGNO]      = TMHM_LEARNSET(TMHM(TM01_MACH_PUNCH)
                                         | TMHM(TM03_HYDRO_PUMP)
                                         | TMHM(TM04_CALM_MIND)
                                         | TMHM(TM06_TOXIC)

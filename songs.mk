@@ -27,7 +27,7 @@ $(MID_SUBDIR)/mus_intro_fight.s: %.s: %.mid
 $(MID_SUBDIR)/mus_hall_of_fame.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G145 -V079
 
-$(MID_SUBDIR)/mus_encounter_deoxys.s: %.s: %.mid
+$(MID_SUBDIR)/mus_encounter_missingno.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G184 -V079
 
 $(MID_SUBDIR)/mus_dummy.s: %.s: %.mid
@@ -252,7 +252,7 @@ $(MID_SUBDIR)/mus_union_room.s: %.s: %.mid
 $(MID_SUBDIR)/mus_vs_legend.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G157 -V090
 
-$(MID_SUBDIR)/mus_vs_deoxys.s: %.s: %.mid
+$(MID_SUBDIR)/mus_vs_missingno.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G185 -V080
 
 $(MID_SUBDIR)/mus_vs_gym_leader.s: %.s: %.mid

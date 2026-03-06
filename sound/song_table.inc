@@ -252,7 +252,7 @@ gSongTable::
 	song se_help_open, 1, 1
 	song se_help_close, 1, 1
 	song se_help_error, 1, 1
-	song se_deoxys_move, 1, 1
+	song se_missingno_move, 1, 1
 	song se_poke_jump_success, 1, 1
 	song se_poke_jump_failure, 1, 1
 	song mus_heal, 2, 2
@@ -338,11 +338,11 @@ gSongTable::
 	song mus_sevii_45, 0, 0
 	song mus_sevii_67, 0, 0
 	song mus_poke_flute, 2, 2
-	song mus_vs_deoxys, 0, 0
+	song mus_vs_missingno, 0, 0
 	song mus_vs_mewtwo, 0, 0
 	song mus_vs_legend, 0, 0
 	song mus_encounter_gym_leader, 0, 0
-	song mus_encounter_deoxys, 0, 0
+	song mus_encounter_missingno, 0, 0
 	song mus_trainer_tower, 0, 0
 	song mus_slow_pallet, 0, 0
 	song mus_teachy_tv_menu, 0, 0

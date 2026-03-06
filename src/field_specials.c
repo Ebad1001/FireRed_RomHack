@@ -76,9 +76,9 @@ static void ChangeBoxPokemonNickname_CB(void);
 static void ChangePokemonNickname_CB(void);
 static void Task_RunPokemonLeagueLightingEffect(u8 taskId);
 static void Task_CancelPokemonLeagueLightingEffect(u8 taskId);
-static void Task_DoDeoxysTriangleInteraction(u8 taskId);
-static void MoveDeoxysObject(u8 num);
-static void Task_WaitDeoxysFieldEffect(u8 taskId);
+static void Task_DoMissingnoTriangleInteraction(u8 taskId);
+static void MoveMissingnoObject(u8 num);
+static void Task_WaitMissingnoFieldEffect(u8 taskId);
 static void Task_WingFlapSound(u8 taskId);
 
 static u8 *const sStringVarPtrs[] = {
@@ -2316,21 +2316,21 @@ void CutMoveOpenDottedHoleDoor(void)
     UnlockPlayerFieldControls();
 }
 
-static const u16 sDeoxysObjectPals[][16] = {
-    INCBIN_U16("graphics/field_specials/deoxys_rock_0.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_1.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_2.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_3.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_4.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_5.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_6.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_7.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_8.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_9.gbapal"),
-    INCBIN_U16("graphics/field_specials/deoxys_rock_10.gbapal")
+static const u16 sMissingnoObjectPals[][16] = {
+    INCBIN_U16("graphics/field_specials/missingno_rock_0.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_1.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_2.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_3.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_4.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_5.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_6.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_7.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_8.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_9.gbapal"),
+    INCBIN_U16("graphics/field_specials/missingno_rock_10.gbapal")
 };
 
-static const u8 sDeoxysCoords[][2] = {
+static const u8 sMissingnoCoords[][2] = {
     {15, 12},
     {11, 14},
     {15,  8},
@@ -2344,7 +2344,7 @@ static const u8 sDeoxysCoords[][2] = {
     {15, 10}
 };
 
-static const u8 sDeoxysStepCaps[] = {
+static const u8 sMissingnoStepCaps[] = {
     4,
     8,
     8,
@@ -2357,16 +2357,16 @@ static const u8 sDeoxysStepCaps[] = {
     3
 };
 
-void DoDeoxysTriangleInteraction(void)
+void DoMissingnoTriangleInteraction(void)
 {
-    CreateTask(Task_DoDeoxysTriangleInteraction, 8);
+    CreateTask(Task_DoMissingnoTriangleInteraction, 8);
 }
 
-static void Task_DoDeoxysTriangleInteraction(u8 taskId)
+static void Task_DoMissingnoTriangleInteraction(u8 taskId)
 {
     u16 r5;
     u16 r6;
-    if (FlagGet(FLAG_SYS_DEOXYS_AWAKENED) == TRUE)
+    if (FlagGet(FLAG_SYS_MISSINGNO_AWAKENED) == TRUE)
     {
         gSpecialVar_Result = 3;
         ScriptContext_Enable();
@@ -2374,19 +2374,19 @@ static void Task_DoDeoxysTriangleInteraction(u8 taskId)
     }
     else
     {
-        r5 = VarGet(VAR_DEOXYS_INTERACTION_NUM);
-        r6 = VarGet(VAR_DEOXYS_INTERACTION_STEP_COUNTER);
-        VarSet(VAR_DEOXYS_INTERACTION_STEP_COUNTER, 0);
-        if (r5 != 0 && sDeoxysStepCaps[r5 - 1] < r6)
+        r5 = VarGet(VAR_MISSINGNO_INTERACTION_NUM);
+        r6 = VarGet(VAR_MISSINGNO_INTERACTION_STEP_COUNTER);
+        VarSet(VAR_MISSINGNO_INTERACTION_STEP_COUNTER, 0);
+        if (r5 != 0 && sMissingnoStepCaps[r5 - 1] < r6)
         {
-            MoveDeoxysObject(0);
-            VarSet(VAR_DEOXYS_INTERACTION_NUM, 0);
+            MoveMissingnoObject(0);
+            VarSet(VAR_MISSINGNO_INTERACTION_NUM, 0);
             gSpecialVar_Result = 0;
             DestroyTask(taskId);
         }
         else if (r5 == 10)
         {
-            FlagSet(FLAG_SYS_DEOXYS_AWAKENED);
+            FlagSet(FLAG_SYS_MISSINGNO_AWAKENED);
             gSpecialVar_Result = 2;
             ScriptContext_Enable();
             DestroyTask(taskId);
@@ -2394,41 +2394,41 @@ static void Task_DoDeoxysTriangleInteraction(u8 taskId)
         else
         {
             r5++;
-            MoveDeoxysObject(r5);
-            VarSet(VAR_DEOXYS_INTERACTION_NUM, r5);
+            MoveMissingnoObject(r5);
+            VarSet(VAR_MISSINGNO_INTERACTION_NUM, r5);
             gSpecialVar_Result = 1;
             DestroyTask(taskId);
         }
     }
 }
 
-static void MoveDeoxysObject(u8 num)
+static void MoveMissingnoObject(u8 num)
 {
     u8 mapObjId;
-    LoadPalette(sDeoxysObjectPals[num], OBJ_PLTT_ID(10), PLTT_SIZEOF(4));
+    LoadPalette(sMissingnoObjectPals[num], OBJ_PLTT_ID(10), PLTT_SIZEOF(4));
     ApplyGlobalFieldPaletteTint(10);
     TryGetObjectEventIdByLocalIdAndMap(1, gSaveBlock1Ptr->location.mapNum, gSaveBlock1Ptr->location.mapGroup, &mapObjId);
     if (num == 0)
         PlaySE(SE_M_CONFUSE_RAY);
     else
-        PlaySE(SE_DEOXYS_MOVE);
-    CreateTask(Task_WaitDeoxysFieldEffect, 8);
+        PlaySE(SE_MISSINGNO_MOVE);
+    CreateTask(Task_WaitMissingnoFieldEffect, 8);
     gFieldEffectArguments[0] = 1;
     gFieldEffectArguments[1] = 56;
     gFieldEffectArguments[2] = 2;
-    gFieldEffectArguments[3] = sDeoxysCoords[num][0];
-    gFieldEffectArguments[4] = sDeoxysCoords[num][1];
+    gFieldEffectArguments[3] = sMissingnoCoords[num][0];
+    gFieldEffectArguments[4] = sMissingnoCoords[num][1];
     if (num == 0)
         gFieldEffectArguments[5] = 60;
     else
         gFieldEffectArguments[5] = 5;
-    FieldEffectStart(FLDEFF_MOVE_DEOXYS_ROCK);
-    SetObjEventTemplateCoords(1, sDeoxysCoords[num][0], sDeoxysCoords[num][1]);
+    FieldEffectStart(FLDEFF_MOVE_MISSINGNO_ROCK);
+    SetObjEventTemplateCoords(1, sMissingnoCoords[num][0], sMissingnoCoords[num][1]);
 }
 
-static void Task_WaitDeoxysFieldEffect(u8 taskId)
+static void Task_WaitMissingnoFieldEffect(u8 taskId)
 {
-    if (!FieldEffectActiveListContains(FLDEFF_MOVE_DEOXYS_ROCK))
+    if (!FieldEffectActiveListContains(FLDEFF_MOVE_MISSINGNO_ROCK))
     {
         ScriptContext_Enable();
         DestroyTask(taskId);
@@ -2437,21 +2437,21 @@ static void Task_WaitDeoxysFieldEffect(u8 taskId)
 
 void IncrementBirthIslandRockStepCount(void)
 {
-    u16 count = VarGet(VAR_DEOXYS_INTERACTION_STEP_COUNTER);
+    u16 count = VarGet(VAR_MISSINGNO_INTERACTION_STEP_COUNTER);
     if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(BIRTH_ISLAND_EXTERIOR) && gSaveBlock1Ptr->location.mapNum == MAP_NUM(BIRTH_ISLAND_EXTERIOR))
     {
         count++;
         if (count > 99)
-            VarSet(VAR_DEOXYS_INTERACTION_STEP_COUNTER, 0);
+            VarSet(VAR_MISSINGNO_INTERACTION_STEP_COUNTER, 0);
         else
-            VarSet(VAR_DEOXYS_INTERACTION_STEP_COUNTER, count);
+            VarSet(VAR_MISSINGNO_INTERACTION_STEP_COUNTER, count);
     }
 }
 
-void SetDeoxysTrianglePalette(void)
+void SetMissingnoTrianglePalette(void)
 {
-    u8 num = VarGet(VAR_DEOXYS_INTERACTION_NUM);
-    LoadPalette(sDeoxysObjectPals[num], OBJ_PLTT_ID(10), PLTT_SIZEOF(4));
+    u8 num = VarGet(VAR_MISSINGNO_INTERACTION_NUM);
+    LoadPalette(sMissingnoObjectPals[num], OBJ_PLTT_ID(10), PLTT_SIZEOF(4));
     ApplyGlobalFieldPaletteTint(10);
 }
 

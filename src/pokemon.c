@@ -64,7 +64,7 @@ EWRAM_DATA struct SpriteTemplate gMultiuseSpriteTemplate = {0};
 static EWRAM_DATA struct MonSpritesGfxManager *sMonSpritesGfxManager = NULL;
 
 static union PokemonSubstruct *GetSubstruct(struct BoxPokemon *boxMon, u32 personality, u8 substructType);
-static u16 GetDeoxysStat(struct Pokemon *mon, s32 statId);
+static u16 GetMissingnoStat(struct Pokemon *mon, s32 statId);
 static bool8 IsShinyOtIdPersonality(u32 otId, u32 personality);
 static u16 ModifyStatByNature(u8 nature, u16 n, u8 statIndex);
 static u8 GetNatureFromPersonality(u32 personality);
@@ -511,7 +511,7 @@ static const u16 sSpeciesToHoennPokedexNum[NUM_SPECIES - 1] =
     SPECIES_TO_HOENN(LATIAS),
     SPECIES_TO_HOENN(LATIOS),
     SPECIES_TO_HOENN(CHAOROSS),
-    SPECIES_TO_HOENN(DEOXYS),
+    SPECIES_TO_HOENN(MISSINGNO),
     SPECIES_TO_HOENN(CHIMECHO),
 };
 
@@ -927,7 +927,7 @@ static const u16 sSpeciesToNationalPokedexNum[NUM_SPECIES - 1] =
     SPECIES_TO_NATIONAL(LATIAS),
     SPECIES_TO_NATIONAL(LATIOS),
     SPECIES_TO_NATIONAL(CHAOROSS),
-    SPECIES_TO_NATIONAL(DEOXYS),
+    SPECIES_TO_NATIONAL(MISSINGNO),
     SPECIES_TO_NATIONAL(CHIMECHO),
 };
 
@@ -1135,7 +1135,7 @@ static const u16 sHoennToNationalOrder[NUM_SPECIES - 1] =
     HOENN_TO_NATIONAL(GROUDON),
     HOENN_TO_NATIONAL(RAYQUAZA),
     HOENN_TO_NATIONAL(CHAOROSS),
-    HOENN_TO_NATIONAL(DEOXYS),
+    HOENN_TO_NATIONAL(MISSINGNO),
     HOENN_TO_NATIONAL(BULBASAUR), // Pokémon from here onwards are UNSEEN in the HoennDex.
     HOENN_TO_NATIONAL(IVYSAUR),
     HOENN_TO_NATIONAL(VENUSAUR),
@@ -1639,7 +1639,7 @@ static const u16 sHMMoves[] =
 
 #if defined(FIRERED)
 // Attack forme
-static const u16 sDeoxysBaseStats[] = 
+static const u16 sMissingnoBaseStats[] = 
 {
     [STAT_HP]    = 50,
     [STAT_ATK]   = 180,
@@ -1650,7 +1650,7 @@ static const u16 sDeoxysBaseStats[] =
 };
 #elif defined(LEAFGREEN)
 // Defense forme
-static const u16 sDeoxysBaseStats[] =
+static const u16 sMissingnoBaseStats[] =
 {
     [STAT_HP]    = 50,
     [STAT_ATK]   = 70,
@@ -2990,27 +2990,27 @@ u32 GetMonData(struct Pokemon *mon, s32 field, u8 *data)
         ret = mon->maxHP;
         break;
     case MON_DATA_ATK:
-        ret = GetDeoxysStat(mon, STAT_ATK);
+        ret = GetMissingnoStat(mon, STAT_ATK);
         if (!ret)
             ret = mon->attack;
         break;
     case MON_DATA_DEF:
-        ret = GetDeoxysStat(mon, STAT_DEF);
+        ret = GetMissingnoStat(mon, STAT_DEF);
         if (!ret)
             ret = mon->defense;
         break;
     case MON_DATA_SPEED:
-        ret = GetDeoxysStat(mon, STAT_SPEED);
+        ret = GetMissingnoStat(mon, STAT_SPEED);
         if (!ret)
             ret = mon->speed;
         break;
     case MON_DATA_SPATK:
-        ret = GetDeoxysStat(mon, STAT_SPATK);
+        ret = GetMissingnoStat(mon, STAT_SPATK);
         if (!ret)
             ret = mon->spAttack;
         break;
     case MON_DATA_SPDEF:
-        ret = GetDeoxysStat(mon, STAT_SPDEF);
+        ret = GetMissingnoStat(mon, STAT_SPDEF);
         if (!ret)
             ret = mon->spDefense;
         break;
@@ -6160,15 +6160,15 @@ u16 FacilityClassToPicIndex(u16 facilityClass)
     return gFacilityClassToPicIndex[facilityClass];
 }
 
-// If FALSE, should load this game's Deoxys form. If TRUE, should load normal Deoxys form
-bool8 ShouldIgnoreDeoxysForm(u8 caseId, u8 battlerId)
+// If FALSE, should load this game's Missingno form. If TRUE, should load normal Missingno form
+bool8 ShouldIgnoreMissingnoForm(u8 caseId, u8 battlerId)
 {
     switch (caseId)
     {
     case 0:
     default:
         return FALSE;
-    case DEOXYS_CHECK_BATTLE_SPRITE:
+    case MISSINGNO_CHECK_BATTLE_SPRITE:
         if (!(gBattleTypeFlags & BATTLE_TYPE_MULTI))
             return FALSE;
         if (!gMain.inBattle)
@@ -6178,7 +6178,7 @@ bool8 ShouldIgnoreDeoxysForm(u8 caseId, u8 battlerId)
         break;
     case 2:
         break;
-    case DEOXYS_CHECK_TRADE_MAIN:
+    case MISSINGNO_CHECK_TRADE_MAIN:
         if (!(gBattleTypeFlags & BATTLE_TYPE_MULTI))
             return FALSE;
         if (!gMain.inBattle)
@@ -6188,7 +6188,7 @@ bool8 ShouldIgnoreDeoxysForm(u8 caseId, u8 battlerId)
         return FALSE;
     case 4:
         break;
-    case DEOXYS_CHECK_BATTLE_ANIM:
+    case MISSINGNO_CHECK_BATTLE_ANIM:
         if (gBattleTypeFlags & BATTLE_TYPE_LINK)
         {
             if (!gMain.inBattle)
@@ -6217,24 +6217,24 @@ bool8 ShouldIgnoreDeoxysForm(u8 caseId, u8 battlerId)
     return TRUE;
 }
 
-static u16 GetDeoxysStat(struct Pokemon *mon, s32 statId)
+static u16 GetMissingnoStat(struct Pokemon *mon, s32 statId)
 {
     s32 ivVal, evVal;
     u16 statValue = 0;
     u8 nature;
 
-    if (gBattleTypeFlags & BATTLE_TYPE_LINK_IN_BATTLE || GetMonData(mon, MON_DATA_SPECIES, NULL) != SPECIES_DEOXYS)
+    if (gBattleTypeFlags & BATTLE_TYPE_LINK_IN_BATTLE || GetMonData(mon, MON_DATA_SPECIES, NULL) != SPECIES_MISSINGNO)
         return 0;
 
     ivVal = GetMonData(mon, MON_DATA_HP_IV + statId, NULL);
     evVal = GetMonData(mon, MON_DATA_HP_EV + statId, NULL);
-    statValue = ((sDeoxysBaseStats[statId] * 2 + ivVal + evVal / 4) * mon->level) / 100 + 5;
+    statValue = ((sMissingnoBaseStats[statId] * 2 + ivVal + evVal / 4) * mon->level) / 100 + 5;
     nature = GetNature(mon);
     statValue = ModifyStatByNature(nature, statValue, (u8)statId);
     return statValue;
 }
 
-void SetDeoxysStats(void)
+void SetMissingnoStats(void)
 {
     s32 i, value;
 
@@ -6242,7 +6242,7 @@ void SetDeoxysStats(void)
     {
         struct Pokemon *mon = &gPlayerParty[i];
 
-        if (GetMonData(mon, MON_DATA_SPECIES, NULL) != SPECIES_DEOXYS)
+        if (GetMonData(mon, MON_DATA_SPECIES, NULL) != SPECIES_MISSINGNO)
             continue;
         value = GetMonData(mon, MON_DATA_ATK, NULL);
         SetMonData(mon, MON_DATA_ATK, &value);

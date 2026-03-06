@@ -232,7 +232,7 @@ gCryTable::
 	cry Cry_Kingdra
 	cry Cry_Hyati
 	cry Cry_Fenriz
-	cry Cry_Poyhedron
+	cry Cry_Poryhedron
 	cry Cry_Druddigon
 	cry Cry_Smeargle
 	cry Cry_Tyrogue
@@ -386,7 +386,7 @@ gCryTable::
 	cry Cry_Snorunt
 	cry Cry_Latios
 	cry Cry_Chaoross
-	cry Cry_Deoxys
+	cry Cry_Missingno
 	cry Cry_Chimecho
 
 	.align 2
@@ -623,7 +623,7 @@ gCryTable_Reverse::
 	cry_reverse Cry_Kingdra
 	cry_reverse Cry_Hyati
 	cry_reverse Cry_Fenriz
-	cry_reverse Cry_Poyhedron
+	cry_reverse Cry_Poryhedron
 	cry_reverse Cry_Druddigon
 	cry_reverse Cry_Smeargle
 	cry_reverse Cry_Tyrogue
@@ -777,5 +777,5 @@ gCryTable_Reverse::
 	cry_reverse Cry_Snorunt
 	cry_reverse Cry_Latios
 	cry_reverse Cry_Chaoross
-	cry_reverse Cry_Deoxys
+	cry_reverse Cry_Missingno
 	cry_reverse Cry_Chimecho

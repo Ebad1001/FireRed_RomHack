@@ -1623,12 +1623,12 @@ const u32 gMonShinyPalette_Fenriz[] = INCBIN_U32("graphics/pokemon/fenriz/shiny.
 const u8 gMonIcon_Fenriz[] = INCBIN_U8("graphics/pokemon/fenriz/icon.4bpp");
 const u8 gMonFootprint_Fenriz[] = INCBIN_U8("graphics/pokemon/fenriz/footprint.1bpp");
 
-const u32 gMonFrontPic_Poyhedron[] = INCBIN_U32("graphics/pokemon/poryhedron/front.4bpp.lz");
-const u32 gMonPalette_Poyhedron[] = INCBIN_U32("graphics/pokemon/poryhedron/normal.gbapal.lz");
-const u32 gMonBackPic_Poyhedron[] = INCBIN_U32("graphics/pokemon/poryhedron/back.4bpp.lz");
-const u32 gMonShinyPalette_Poyhedron[] = INCBIN_U32("graphics/pokemon/poryhedron/shiny.gbapal.lz");
-const u8 gMonIcon_Poyhedron[] = INCBIN_U8("graphics/pokemon/poryhedron/icon.4bpp");
-const u8 gMonFootprint_Poyhedron[] = INCBIN_U8("graphics/pokemon/poryhedron/footprint.1bpp");
+const u32 gMonFrontPic_Poryhedron[] = INCBIN_U32("graphics/pokemon/poryhedron/front.4bpp.lz");
+const u32 gMonPalette_Poryhedron[] = INCBIN_U32("graphics/pokemon/poryhedron/normal.gbapal.lz");
+const u32 gMonBackPic_Poryhedron[] = INCBIN_U32("graphics/pokemon/poryhedron/back.4bpp.lz");
+const u32 gMonShinyPalette_Poryhedron[] = INCBIN_U32("graphics/pokemon/poryhedron/shiny.gbapal.lz");
+const u8 gMonIcon_Poryhedron[] = INCBIN_U8("graphics/pokemon/poryhedron/icon.4bpp");
+const u8 gMonFootprint_Poryhedron[] = INCBIN_U8("graphics/pokemon/poryhedron/footprint.1bpp");
 
 const u32 gMonFrontPic_Druddigon[] = INCBIN_U32("graphics/pokemon/druddigon/front.4bpp.lz");
 const u32 gMonPalette_Druddigon[] = INCBIN_U32("graphics/pokemon/druddigon/normal.gbapal.lz");
@@ -2697,21 +2697,21 @@ const u8 gMonIcon_Chaoross[] = INCBIN_U8("graphics/pokemon/chaoross/icon.4bpp");
 const u8 gMonFootprint_Chaoross[] = INCBIN_U8("graphics/pokemon/chaoross/footprint.1bpp");
 
 #ifdef FIRERED
-const u32 gMonFrontPic_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/front.4bpp.lz");
-const u32 gMonPalette_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/normal.gbapal.lz");
-const u32 gMonBackPic_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/back.4bpp.lz");
-const u32 gMonShinyPalette_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/shiny.gbapal.lz");
-const u8 gMonIcon_Deoxys[] = INCBIN_U8("graphics/pokemon/deoxys/icon.4bpp", "graphics/pokemon/deoxys/icon_attack.4bpp");
-const u8 gMonFootprint_Deoxys[] = INCBIN_U8("graphics/pokemon/deoxys/footprint.1bpp");
+const u32 gMonFrontPic_Missingno[] = INCBIN_U32("graphics/pokemon/missingno/front.4bpp.lz");
+const u32 gMonPalette_Missingno[] = INCBIN_U32("graphics/pokemon/missingno/normal.gbapal.lz");
+const u32 gMonBackPic_Missingno[] = INCBIN_U32("graphics/pokemon/missingno/back.4bpp.lz");
+const u32 gMonShinyPalette_Missingno[] = INCBIN_U32("graphics/pokemon/missingno/shiny.gbapal.lz");
+const u8 gMonIcon_Missingno[] = INCBIN_U8("graphics/pokemon/missingno/icon.4bpp", "graphics/pokemon/missingno/icon_attack.4bpp");
+const u8 gMonFootprint_Missingno[] = INCBIN_U8("graphics/pokemon/missingno/footprint.1bpp");
 #endif
 
 #ifdef LEAFGREEN
-const u32 gMonFrontPic_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/front_def.4bpp.lz");
-const u32 gMonPalette_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/normal.gbapal.lz");
-const u32 gMonBackPic_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/back_def.4bpp.lz");
-const u32 gMonShinyPalette_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/shiny.gbapal.lz");
-const u8 gMonIcon_Deoxys[] = INCBIN_U8("graphics/pokemon/deoxys/icon.4bpp", "graphics/pokemon/deoxys/icon_defense.4bpp");
-const u8 gMonFootprint_Deoxys[] = INCBIN_U8("graphics/pokemon/deoxys/footprint.1bpp");
+const u32 gMonFrontPic_Missingno[] = INCBIN_U32("graphics/pokemon/missingno/front_def.4bpp.lz");
+const u32 gMonPalette_Missingno[] = INCBIN_U32("graphics/pokemon/missingno/normal.gbapal.lz");
+const u32 gMonBackPic_Missingno[] = INCBIN_U32("graphics/pokemon/missingno/back_def.4bpp.lz");
+const u32 gMonShinyPalette_Missingno[] = INCBIN_U32("graphics/pokemon/missingno/shiny.gbapal.lz");
+const u8 gMonIcon_Missingno[] = INCBIN_U8("graphics/pokemon/missingno/icon.4bpp", "graphics/pokemon/missingno/icon_defense.4bpp");
+const u8 gMonFootprint_Missingno[] = INCBIN_U8("graphics/pokemon/missingno/footprint.1bpp");
 #endif
 
 const u32 gMonFrontPic_Chimecho[] = INCBIN_U32("graphics/pokemon/chimecho/front.4bpp.lz");

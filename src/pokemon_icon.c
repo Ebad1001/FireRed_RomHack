@@ -259,7 +259,7 @@ const u8 *const gMonIconTable[] = {
     [SPECIES_KINGDRA]     = gMonIcon_Kingdra,
     [SPECIES_HYATI]      = gMonIcon_Hyati,
     [SPECIES_FENRIZ]     = gMonIcon_Fenriz,
-    [SPECIES_PORYHEDRON]    = gMonIcon_Poyhedron,
+    [SPECIES_PORYHEDRON]    = gMonIcon_Poryhedron,
     [SPECIES_DRUDDIGON]    = gMonIcon_Druddigon,
     [SPECIES_SMEARGLE]    = gMonIcon_Smeargle,
     [SPECIES_TYROGUE]     = gMonIcon_Tyrogue,
@@ -436,7 +436,7 @@ const u8 *const gMonIconTable[] = {
     [SPECIES_LATIAS]      = gMonIcon_Latias,
     [SPECIES_LATIOS]      = gMonIcon_Latios,
     [SPECIES_CHAOROSS]     = gMonIcon_Chaoross,
-    [SPECIES_DEOXYS]      = gMonIcon_Deoxys,
+    [SPECIES_MISSINGNO]      = gMonIcon_Missingno,
     [SPECIES_CHIMECHO]    = gMonIcon_Chimecho,
     [SPECIES_EGG]         = gMonIcon_Egg,
     [SPECIES_UNOWN_B]     = gMonIcon_UnownB,
@@ -879,7 +879,7 @@ const u8 gMonIconPaletteIndices[] = {
     [SPECIES_LATIAS]      = 0,
     [SPECIES_LATIOS]      = 2,
     [SPECIES_CHAOROSS]     = 0,
-    [SPECIES_DEOXYS]      = 0,
+    [SPECIES_MISSINGNO]      = 0,
     [SPECIES_CHIMECHO]    = 0,
     [SPECIES_EGG]         = 1,
     [SPECIES_UNOWN_B]     = 0,
@@ -1032,7 +1032,7 @@ u8 CreateMonIcon(u16 species, SpriteCallback callback, s16 x, s16 y, u8 subprior
     return spriteId;
 }
 
-u8 CreateMonIcon_HandleDeoxys(u16 species, SpriteCallback callback, s16 x, s16 y, u8 subpriority, bool32 extra)
+u8 CreateMonIcon_HandleMissingno(u16 species, SpriteCallback callback, s16 x, s16 y, u8 subpriority, bool32 extra)
 {
     u8 spriteId;
     struct MonIconSpriteTemplate iconTemplate =
@@ -1108,7 +1108,7 @@ u16 MailSpeciesToIconSpecies(u16 species)
 const u8 *GetMonIconTiles(u16 species, bool32 extra)
 {
     const u8 *iconSprite = gMonIconTable[species];
-    if (species == SPECIES_DEOXYS && extra == TRUE)
+    if (species == SPECIES_MISSINGNO && extra == TRUE)
         iconSprite += 0x400;
     return iconSprite;
 }

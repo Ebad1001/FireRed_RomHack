@@ -1232,7 +1232,7 @@ Cry_Fenriz::
 	.incbin "sound/direct_sound_samples/cries/fenriz.bin"
 
 	.align 2
-Cry_Poyhedron::
+Cry_Poryhedron::
 	.incbin "sound/direct_sound_samples/cries/poryhedron.bin"
 
 	.align 2
@@ -1848,8 +1848,8 @@ Cry_Chaoross::
 	.incbin "sound/direct_sound_samples/cries/chaoross.bin"
 
 	.align 2
-Cry_Deoxys::
-	.incbin "sound/direct_sound_samples/cries/deoxys.bin"
+Cry_Missingno::
+	.incbin "sound/direct_sound_samples/cries/missingno.bin"
 
 	.align 2
 Cry_Chimecho::

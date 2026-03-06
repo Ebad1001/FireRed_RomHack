@@ -1629,12 +1629,12 @@ const u8 gFenrizPokedexText[] = _(
 
 const u8 gFenrizPokedexTextUnused[] = _("");
 
-const u8 gPoyhedronPokedexText[] = _(
+const u8 gPoryhedronPokedexText[] = _(
     "This upgraded version of BRONZONG is\n"
     "designed for space exploration. However,\n"
     "it can't even fly.");
 
-const u8 gPoyhedronPokedexTextUnused[] = _("");
+const u8 gPoryhedronPokedexTextUnused[] = _("");
 
 const u8 gDruddigonPokedexText[] = _(
     "Its curved antlers subtly change the flow\n"
@@ -2700,9 +2700,9 @@ const u8 gChaorossPokedexText[] = _(
 
 const u8 gChaorossPokedexTextUnused[] = _("");
 
-const u8 gDeoxysPokedexText[] = _(
+const u8 gMissingnoPokedexText[] = _(
     "When it changes form, an aurora appears.\n"
     "It absorbs attacks by altering its\n"
     "cellular structure.");
 
-const u8 gDeoxysPokedexTextUnused[] = _("");
+const u8 gMissingnoPokedexTextUnused[] = _("");

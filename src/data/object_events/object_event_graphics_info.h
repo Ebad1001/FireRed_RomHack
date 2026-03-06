@@ -2468,7 +2468,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Articuno = {
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysD = {
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_MissingnoD = {
     .tileTag = TAG_NONE,
     .paletteTag = OBJ_EVENT_PAL_TAG_NPC_BLUE,
     .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
@@ -2483,11 +2483,11 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysD = {
     .oam = &gObjectEventBaseOam_32x32,
     .subspriteTables = gObjectEventSpriteOamTables_32x32,
     .anims = sAnimTable_Standard,
-    .images = sPicTable_DeoxysD,
+    .images = sPicTable_MissingnoD,
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysA = {
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_MissingnoA = {
     .tileTag = TAG_NONE,
     .paletteTag = OBJ_EVENT_PAL_TAG_NPC_BLUE,
     .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
@@ -2502,11 +2502,11 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysA = {
     .oam = &gObjectEventBaseOam_32x32,
     .subspriteTables = gObjectEventSpriteOamTables_32x32,
     .anims = sAnimTable_Standard,
-    .images = sPicTable_DeoxysA,
+    .images = sPicTable_MissingnoA,
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysN = {
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_MissingnoN = {
     .tileTag = TAG_NONE,
     .paletteTag = OBJ_EVENT_PAL_TAG_NPC_BLUE,
     .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
@@ -2521,7 +2521,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysN = {
     .oam = &gObjectEventBaseOam_32x32,
     .subspriteTables = gObjectEventSpriteOamTables_32x32,
     .anims = sAnimTable_Standard,
-    .images = sPicTable_DeoxysN,
+    .images = sPicTable_MissingnoN,
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 

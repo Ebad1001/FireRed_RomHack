@@ -3034,8 +3034,8 @@ const struct PokedexEntry gPokedexEntries[] =
         .categoryName = _("CYBER"),
         .height = 6,
         .weight = 325,
-        .description = gPoyhedronPokedexText,
-        .unusedDescription = gPoyhedronPokedexTextUnused,
+        .description = gPoryhedronPokedexText,
+        .unusedDescription = gPoryhedronPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -5018,13 +5018,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
 
-    [NATIONAL_DEX_DEOXYS] =
+    [NATIONAL_DEX_MISSINGNO] =
     {
         .categoryName = _("GLITCH"),
         .height = 10,
         .weight = 100,
-        .description = gDeoxysPokedexText,
-        .unusedDescription = gDeoxysPokedexTextUnused,
+        .description = gMissingnoPokedexText,
+        .unusedDescription = gMissingnoPokedexTextUnused,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

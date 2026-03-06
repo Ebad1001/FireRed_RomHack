@@ -291,12 +291,12 @@
 
 // Most pokemon have 1 frame. There are 2 exceptions:
 // - Castform has 4 frames, 1 for each form
-// - Deoxys has 2 frames, 1 for each form
+// - Missingno has 2 frames, 1 for each form
 #define MAX_MON_PIC_FRAMES 4
 
-// used by ShouldIgnoreDeoxysForm
-#define DEOXYS_CHECK_BATTLE_SPRITE      1
-#define DEOXYS_CHECK_TRADE_MAIN         3
-#define DEOXYS_CHECK_BATTLE_ANIM        5
+// used by ShouldIgnoreMissingnoForm
+#define MISSINGNO_CHECK_BATTLE_SPRITE      1
+#define MISSINGNO_CHECK_TRADE_MAIN         3
+#define MISSINGNO_CHECK_BATTLE_ANIM        5
 
 #endif // GUARD_CONSTANTS_POKEMON_H

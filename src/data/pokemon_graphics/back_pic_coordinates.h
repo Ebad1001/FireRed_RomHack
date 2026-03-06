@@ -2050,7 +2050,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 5,
     },
-    [SPECIES_DEOXYS] =
+    [SPECIES_MISSINGNO] =
     {
         .size = MON_COORDS_SIZE(64, 56),
         .y_offset = 7,

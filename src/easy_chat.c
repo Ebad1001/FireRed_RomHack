@@ -32,7 +32,7 @@ static void PopulateAlphabeticalGroups(void);
 static u16 GetUnlockedWordsInECGroup(u16);
 static u16 GetUnlockedWordsInAlphabeticalGroup(u16);
 static bool8 UnlockedECMonOrMove(u16, u8);
-static bool32 EC_IsDeoxys(u16 species);
+static bool32 EC_IsMissingno(u16 species);
 static bool8 IsWordUnlocked(u16 word);
 
 #include "data/easy_chat/easy_chat_groups.h"
@@ -79,8 +79,8 @@ static const u16 sDefaultBattleStartWords[] = {
     EC_WORD_EXCL,
 };
 
-static const u16 sDeoxysValue[] = {
-    SPECIES_DEOXYS,
+static const u16 sMissingnoValue[] = {
+    SPECIES_MISSINGNO,
 };
 
 static bool8 IsECGroupUnlocked(u8 groupId)
@@ -696,7 +696,7 @@ static bool8 UnlockedECMonOrMove(u16 wordIndex, u8 groupId)
     case EC_GROUP_POKEMON:
         return GetSetPokedexFlag(SpeciesToNationalPokedexNum(wordIndex), FLAG_GET_SEEN);
     case EC_GROUP_POKEMON_2:
-        if (EC_IsDeoxys(wordIndex))
+        if (EC_IsMissingno(wordIndex))
             return GetSetPokedexFlag(SpeciesToNationalPokedexNum(wordIndex), FLAG_GET_SEEN);
         return TRUE;
     case EC_GROUP_MOVE_1:
@@ -707,12 +707,12 @@ static bool8 UnlockedECMonOrMove(u16 wordIndex, u8 groupId)
     }
 }
 
-static bool32 EC_IsDeoxys(u16 species)
+static bool32 EC_IsMissingno(u16 species)
 {
     u32 i;
-    for (i = 0; i < NELEMS(sDeoxysValue); i++)
+    for (i = 0; i < NELEMS(sMissingnoValue); i++)
     {
-        if (sDeoxysValue[i] == species)
+        if (sMissingnoValue[i] == species)
             return TRUE;
     }
 

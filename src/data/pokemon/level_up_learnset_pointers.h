@@ -233,7 +233,7 @@ const u16 *const gLevelUpLearnsets[NUM_SPECIES] =
     [SPECIES_KINGDRA] = sKingdraLevelUpLearnset,
     [SPECIES_HYATI] = sHyatiLevelUpLearnset,
     [SPECIES_FENRIZ] = sFenrizLevelUpLearnset,
-    [SPECIES_PORYHEDRON] = sPoyhedronLevelUpLearnset,
+    [SPECIES_PORYHEDRON] = sPoryhedronLevelUpLearnset,
     [SPECIES_DRUDDIGON] = sDruddigonLevelUpLearnset,
     [SPECIES_SMEARGLE] = sSmeargleLevelUpLearnset,
     [SPECIES_TYROGUE] = sTyrogueLevelUpLearnset,
@@ -410,6 +410,6 @@ const u16 *const gLevelUpLearnsets[NUM_SPECIES] =
     [SPECIES_LATIAS] = sLatiasLevelUpLearnset,
     [SPECIES_LATIOS] = sLatiosLevelUpLearnset,
     [SPECIES_CHAOROSS] = sChaorossLevelUpLearnset,
-    [SPECIES_DEOXYS] = sDeoxysLevelUpLearnset,
+    [SPECIES_MISSINGNO] = sMissingnoLevelUpLearnset,
     [SPECIES_CHIMECHO] = sChimechoLevelUpLearnset,
 };

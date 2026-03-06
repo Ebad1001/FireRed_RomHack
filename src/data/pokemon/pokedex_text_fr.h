@@ -1629,12 +1629,12 @@ const u8 gFenrizPokedexText[] = _(
 
 const u8 gFenrizPokedexTextUnused[] = _("");
 
-const u8 gPoyhedronPokedexText[] = _(
+const u8 gPoryhedronPokedexText[] = _(
     "HP     -  85    Ph.Atk -  80\n"
     "Ph.Def -  90    Sp.Atk - 105\n"
     "Sp.Def -  95    Speed  -  60");
 
-const u8 gPoyhedronPokedexTextUnused[] = _("");
+const u8 gPoryhedronPokedexTextUnused[] = _("");
 
 const u8 gDruddigonPokedexText[] = _(
     "HP     -  73    Ph.Atk -  95\n"

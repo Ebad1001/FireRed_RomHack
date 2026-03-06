@@ -136,7 +136,7 @@ enum
     CRY_SNORUNT = 383,
     CRY_LATIOS = 384,
     CRY_CHAOROSS = 385,
-    CRY_DEOXYS = 386,
+    CRY_MISSINGNO = 386,
     CRY_CHIMECHO = 387,
 };
 

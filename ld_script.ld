@@ -866,7 +866,7 @@ SECTIONS {
         sound/songs/se_help_open.o(.rodata);
         sound/songs/se_help_close.o(.rodata);
         sound/songs/se_help_error.o(.rodata);
-        sound/songs/se_deoxys_move.o(.rodata);
+        sound/songs/se_missingno_move.o(.rodata);
         sound/songs/se_poke_jump_success.o(.rodata);
         sound/songs/se_poke_jump_failure.o(.rodata);
         sound/songs/midi/mus_heal.o(.rodata);
@@ -952,11 +952,11 @@ SECTIONS {
         sound/songs/midi/mus_sevii_45.o(.rodata);
         sound/songs/midi/mus_sevii_67.o(.rodata);
         sound/songs/midi/mus_poke_flute.o(.rodata);
-        sound/songs/midi/mus_vs_deoxys.o(.rodata);
+        sound/songs/midi/mus_vs_missingno.o(.rodata);
         sound/songs/midi/mus_vs_mewtwo.o(.rodata);
         sound/songs/midi/mus_vs_legend.o(.rodata);
         sound/songs/midi/mus_encounter_gym_leader.o(.rodata);
-        sound/songs/midi/mus_encounter_deoxys.o(.rodata);
+        sound/songs/midi/mus_encounter_missingno.o(.rodata);
         sound/songs/midi/mus_trainer_tower.o(.rodata);
         sound/songs/midi/mus_slow_pallet.o(.rodata);
         sound/songs/midi/mus_teachy_tv_menu.o(.rodata);

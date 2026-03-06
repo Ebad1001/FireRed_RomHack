@@ -1842,7 +1842,7 @@ static bool8 IsSpeciesFromSpecialEncounter(u16 species)
     case SPECIES_MEWTWO:
     case SPECIES_LUGIA:
     case SPECIES_HO_OH:
-    case SPECIES_DEOXYS:
+    case SPECIES_MISSINGNO:
         return TRUE;
     }
     return FALSE;

@@ -233,7 +233,7 @@ const u8 *const gMonFootprintTable[] =
     [SPECIES_KINGDRA] = gMonFootprint_Kingdra,
     [SPECIES_HYATI] = gMonFootprint_Hyati,
     [SPECIES_FENRIZ] = gMonFootprint_Fenriz,
-    [SPECIES_PORYHEDRON] = gMonFootprint_Poyhedron,
+    [SPECIES_PORYHEDRON] = gMonFootprint_Poryhedron,
     [SPECIES_DRUDDIGON] = gMonFootprint_Druddigon,
     [SPECIES_SMEARGLE] = gMonFootprint_Smeargle,
     [SPECIES_TYROGUE] = gMonFootprint_Tyrogue,
@@ -410,7 +410,7 @@ const u8 *const gMonFootprintTable[] =
     [SPECIES_LATIAS] = gMonFootprint_Latias,
     [SPECIES_LATIOS] = gMonFootprint_Latios,
     [SPECIES_CHAOROSS] = gMonFootprint_Chaoross,
-    [SPECIES_DEOXYS] = gMonFootprint_Deoxys,
+    [SPECIES_MISSINGNO] = gMonFootprint_Missingno,
     [SPECIES_CHIMECHO] = gMonFootprint_Chimecho,
     [SPECIES_EGG] = gMonFootprint_Bulbasaur,
 };

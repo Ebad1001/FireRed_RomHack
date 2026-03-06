@@ -1,12 +1,12 @@
 	.include "MPlayDef.s"
 	.section .rodata
-	.global se_deoxys_move
+	.global se_missingno_move
 	.align 2
-	.equ se_deoxys_move_grp, voicegroup129
-	.equ se_deoxys_move_pri, 5
-	.equ se_deoxys_move_rev, reverb_set+50
+	.equ se_missingno_move_grp, voicegroup129
+	.equ se_missingno_move_pri, 5
+	.equ se_missingno_move_rev, reverb_set+50
 
-se_deoxys_move_1: @ 86BCA34
+se_missingno_move_1: @ 86BCA34
 	.byte KEYSH, 0x00
 	.byte TEMPO, 0x83
 	.byte VOICE, 0x7B
@@ -33,7 +33,7 @@ se_deoxys_move_1: @ 86BCA34
 	.byte W24
 	.byte FINE
 
-se_deoxys_move_2: @ 86BCA54
+se_missingno_move_2: @ 86BCA54
 	.byte KEYSH, 0x00
 	.byte VOICE, 0x1F
 	.byte LFOS, 0x2C
@@ -109,7 +109,7 @@ se_deoxys_move_2: @ 86BCA54
 	.byte EOT
 	.byte FINE
 
-se_deoxys_move_3: @ 86BCAA7
+se_missingno_move_3: @ 86BCAA7
 	.byte KEYSH, 0x00
 	.byte VOICE, 0x32
 	.byte VOL, 0x45
@@ -195,13 +195,13 @@ se_deoxys_move_3: @ 86BCAA7
 
 @ ***************************************
 	.align 2
-se_deoxys_move: @ 86BCB08
+se_missingno_move: @ 86BCB08
 	.byte 3
 	.byte 0
-	.byte se_deoxys_move_pri
-	.byte se_deoxys_move_rev
-	.word se_deoxys_move_grp
+	.byte se_missingno_move_pri
+	.byte se_missingno_move_rev
+	.word se_missingno_move_grp
 
-	.word se_deoxys_move_1
-	.word se_deoxys_move_2
-	.word se_deoxys_move_3
+	.word se_missingno_move_1
+	.word se_missingno_move_2
+	.word se_missingno_move_3

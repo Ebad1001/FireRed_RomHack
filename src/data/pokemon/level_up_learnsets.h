@@ -3203,7 +3203,7 @@ static const u16 sFenrizLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sPoyhedronLevelUpLearnset[] = {
+static const u16 sPoryhedronLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_CONVERSION_2),
     LEVEL_UP_MOVE(1, MOVE_TACKLE),
     LEVEL_UP_MOVE(9, MOVE_AGILITY),
@@ -5569,7 +5569,7 @@ static const u16 sChaorossLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sDeoxysLevelUpLearnset[] = {
+static const u16 sMissingnoLevelUpLearnset[] = {
     LEVEL_UP_MOVE(1, MOVE_LEER),
     LEVEL_UP_MOVE(1, MOVE_BIND),
     LEVEL_UP_MOVE(5, MOVE_NIGHT_SHADE),
