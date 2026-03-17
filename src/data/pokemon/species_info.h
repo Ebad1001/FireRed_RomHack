@@ -11221,7 +11221,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_YELLOW,
         .noFlip = FALSE,
     },
-    [SPECIES_DEOXYS] =
+    [SPECIES_MISSINGNO] =
     {
         .baseHP = 50,
         .baseAttack = 150,

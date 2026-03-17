@@ -2700,9 +2700,9 @@ const u8 gChaorossPokedexText[] = _(
 
 const u8 gChaorossPokedexTextUnused[] = _("");
 
-const u8 gDeoxysPokedexText[] = _(
+const u8 gMissingnoPokedexText[] = _(
     "HP     -  50    Ph.Atk - 150\n"
     "Ph.Def -  50    Sp.Atk - 150\n"
     "Sp.Def -  50    Speed  - 150");
 
-const u8 gDeoxysPokedexTextUnused[] = _("");
+const u8 gMissingnoPokedexTextUnused[] = _("");

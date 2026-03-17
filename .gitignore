@@ -65,7 +65,7 @@ docs/output.txt
 .vscode
 *.out
 *.ipynb
-!analysis.ipynb
 *.js
+!scripts.ipynb
 !poke_banner.js
 !new_pokedex.js
